@@ -2,7 +2,7 @@
   "format": "stackjet-app-data",
   "version": 1,
   "updated": "2026-11-03",
-  "note": "No changes yet. Every section is optional; an empty or missing section leaves that table as built into the app.",
+  "note": "Every section is optional; an empty or missing section leaves that table as built into the app. statusTiers: WestJet, plus Porter, British Airways, Iberia, Aer Lingus and Cathay tiers (2026-11-03).",
   "transferPartners": {},
   "storeChains": [],
   "princeOfTravelSources": {},
@@ -19,6 +19,36 @@
       "WestJet Silver",
       "WestJet Gold",
       "WestJet Platinum"
+    ],
+    "porter": [
+      "VIPorter Passport",
+      "VIPorter Venture",
+      "VIPorter Ascent",
+      "VIPorter First"
+    ],
+    "ba-avios": [
+      "British Airways Bronze",
+      "British Airways Silver",
+      "British Airways Gold",
+      "British Airways Gold Guest List"
+    ],
+    "iberia-avios": [
+      "Iberia Plata",
+      "Iberia Oro",
+      "Iberia Platino",
+      "Iberia Platino Prime",
+      "Iberia Infinita",
+      "Iberia Infinita Prime"
+    ],
+    "aerclub-avios": [
+      "AerClub Silver",
+      "AerClub Platinum",
+      "AerClub Concierge"
+    ],
+    "cathay": [
+      "Cathay Silver",
+      "Cathay Gold",
+      "Cathay Diamond"
     ]
   },
   "retiredCards": {},
