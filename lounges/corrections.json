@@ -1,0 +1,10 @@
+{
+  "format": "stackjet-lounge-corrections",
+  "version": 1,
+  "updated": "2026-11-02",
+  "note": "No corrections yet. StackJet applies this file on top of the lounges built into the app.",
+  "remove": [],
+  "change": [],
+  "add": [],
+  "replaceAirports": {}
+}
