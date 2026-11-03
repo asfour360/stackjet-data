@@ -16,18 +16,35 @@
           "benefits": [
             "7 miles per dollar on Delta flights",
             "Complimentary upgrades to Delta Comfort and First Class from 24 hours before departure",
-            "Preferred seats and no checked bag fees",
-            "Zone 5 boarding and a priority phone line",
+            "Preferred seats",
+            "No checked bag fees",
+            "Zone 5 boarding",
+            "Priority phone line",
             "SkyTeam Elite",
-            "Hertz Five Star and 15% off Delta Stays"
+            "Hertz Five Star",
+            "15% off Delta Stays"
           ],
           "benefitsFR": [
             "7 milles par dollar sur les vols Delta",
             "Surclassements gratuits en Delta Comfort et en Première à partir de 24 heures avant le départ",
-            "Sièges privilégiés et bagages enregistrés sans frais",
-            "Embarquement en zone 5 et ligne téléphonique prioritaire",
+            "Sièges privilégiés",
+            "Bagages enregistrés sans frais",
+            "Embarquement en zone 5",
+            "Ligne téléphonique prioritaire",
             "SkyTeam Elite",
-            "Hertz Five Star et 15 % de rabais sur Delta Stays"
+            "Hertz Five Star",
+            "15 % de rabais sur Delta Stays"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "seats.choice",
+            "bags",
+            "seats.boarding",
+            "other.phone",
+            "partners.alliance",
+            "partners.hertz",
+            "other.stays"
           ]
         },
         {
@@ -37,18 +54,35 @@
           "benefits": [
             "8 miles per dollar on Delta flights",
             "Complimentary upgrades from 72 hours before departure",
-            "Sky Priority check-in, priority security and expedited bags",
-            "Zone 4 boarding; same-day confirmed changes free",
-            "SkyTeam Elite Plus: SkyTeam lounges on international flights",
-            "4 drink vouchers a year; Hertz Five Star"
+            "Sky Priority check-in and priority security",
+            "Expedited bags",
+            "Zone 4 boarding",
+            "Same-day confirmed changes free",
+            "SkyTeam Elite Plus",
+            "SkyTeam lounges on international flights",
+            "4 drink vouchers a year"
           ],
           "benefitsFR": [
             "8 milles par dollar sur les vols Delta",
             "Surclassements gratuits à partir de 72 heures avant le départ",
-            "Enregistrement Sky Priority, contrôle de sécurité prioritaire et bagages prioritaires",
-            "Embarquement en zone 4; changements confirmés le jour même sans frais",
-            "SkyTeam Elite Plus : salons SkyTeam sur les vols internationaux",
-            "4 bons de boisson par année; Hertz Five Star"
+            "Enregistrement Sky Priority et contrôle de sécurité prioritaire",
+            "Bagages prioritaires",
+            "Embarquement en zone 4",
+            "Changements confirmés le jour même sans frais",
+            "SkyTeam Elite Plus",
+            "Salons SkyTeam sur les vols internationaux",
+            "4 bons de boisson par année"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "seats.priority",
+            "bags.priority",
+            "seats.boarding",
+            "other.sameday",
+            "partners.alliance",
+            "lounge.alliance",
+            "lounge.drinks"
           ]
         },
         {
@@ -59,17 +93,31 @@
             "9 miles per dollar on Delta flights",
             "Upgrades to First and Premium Select from 120 hours; Delta Comfort right after booking",
             "1 Choice Benefit a year",
-            "Zone 4 boarding and a higher-priority phone line",
+            "Zone 4 boarding",
+            "Higher-priority phone line",
             "SkyTeam Elite Plus",
-            "Hertz President's Circle and 20% off Delta Stays"
+            "Hertz President's Circle",
+            "20% off Delta Stays"
           ],
           "benefitsFR": [
             "9 milles par dollar sur les vols Delta",
             "Surclassements en Première et Premium Select à partir de 120 heures; Delta Comfort dès la réservation",
             "1 avantage au choix (Choice Benefit) par année",
-            "Embarquement en zone 4 et ligne téléphonique plus prioritaire",
+            "Embarquement en zone 4",
+            "Ligne téléphonique plus prioritaire",
             "SkyTeam Elite Plus",
-            "Hertz President's Circle et 20 % de rabais sur Delta Stays"
+            "Hertz President's Circle",
+            "20 % de rabais sur Delta Stays"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "other.choice",
+            "seats.boarding",
+            "other.phone",
+            "partners.alliance",
+            "partners.hertz",
+            "other.stays"
           ]
         },
         {
@@ -80,17 +128,31 @@
             "11 miles per dollar on Delta flights",
             "Top upgrade priority, from 120 hours before departure",
             "3 Choice Benefits a year (a Sky Club membership uses 2, or all 3 for Executive)",
-            "Zone 2 boarding and the Diamond VIP phone line",
+            "Zone 2 boarding",
+            "Diamond VIP phone line",
             "SkyTeam Elite Plus",
-            "Hertz President's Circle and $90 off CLEAR+"
+            "Hertz President's Circle",
+            "$90 off CLEAR+"
           ],
           "benefitsFR": [
             "11 milles par dollar sur les vols Delta",
             "Priorité de surclassement la plus élevée, à partir de 120 heures avant le départ",
             "3 avantages au choix par année (une adhésion Sky Club en utilise 2, ou les 3 pour Executive)",
-            "Embarquement en zone 2 et ligne VIP Diamond",
+            "Embarquement en zone 2",
+            "Ligne VIP Diamond",
             "SkyTeam Elite Plus",
-            "Hertz President's Circle et 90 $ de rabais sur CLEAR+"
+            "Hertz President's Circle",
+            "90 $ de rabais sur CLEAR+"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "other.choice",
+            "seats.boarding",
+            "other.phone",
+            "partners.alliance",
+            "partners.hertz",
+            "other.clear"
           ]
         }
       ],
@@ -119,6 +181,13 @@
             "Economy Plus à l'enregistrement pour vous et un compagnon",
             "1 bagage enregistré gratuit",
             "Star Alliance Argent"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "seats.choice",
+            "bags",
+            "partners.alliance"
           ]
         },
         {
@@ -130,14 +199,24 @@
             "Complimentary upgrades from 48 hours before departure",
             "Economy Plus at booking for you and one companion",
             "2 free checked bags",
-            "Star Alliance Gold: lounges on international trips"
+            "Star Alliance Gold",
+            "Star Alliance lounges on international trips"
           ],
           "benefitsFR": [
             "Plus de milles bonis sur les vols United",
             "Surclassements gratuits à partir de 48 heures avant le départ",
             "Economy Plus dès la réservation pour vous et un compagnon",
             "2 bagages enregistrés gratuits",
-            "Star Alliance Or : salons lors des voyages internationaux"
+            "Star Alliance Or",
+            "Salons Star Alliance lors des voyages internationaux"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "seats.choice",
+            "bags",
+            "partners.alliance",
+            "lounge.alliance"
           ]
         },
         {
@@ -157,6 +236,13 @@
             "Economy Plus dès la réservation pour vous et jusqu'à 8 compagnons",
             "3 bagages enregistrés gratuits",
             "Star Alliance Or"
+          ],
+          "keys": [
+            "upgrades.window",
+            "upgrades.credits",
+            "seats.choice",
+            "bags",
+            "partners.alliance"
           ]
         },
         {
@@ -165,17 +251,24 @@
           "qualifyFR": "60 vols + 22 000 PQP, ou 28 000 PQP",
           "benefits": [
             "Complimentary upgrades from 96 hours before departure",
-            "280 more PlusPoints (320 in all)",
+            "320 PlusPoints a year for upgrades",
             "Boards before all other groups",
             "3 free checked bags",
             "Star Alliance Gold"
           ],
           "benefitsFR": [
             "Surclassements gratuits à partir de 96 heures avant le départ",
-            "280 PlusPoints de plus (320 au total)",
+            "320 PlusPoints par année pour des surclassements",
             "Embarquement avant tous les autres groupes",
             "3 bagages enregistrés gratuits",
             "Star Alliance Or"
+          ],
+          "keys": [
+            "upgrades.window",
+            "upgrades.credits",
+            "seats.boarding",
+            "bags",
+            "partners.alliance"
           ]
         }
       ],
@@ -206,6 +299,14 @@
             "Sièges Main Cabin Extra et privilégiés à l'enregistrement",
             "Embarquement groupe 4",
             "oneworld Ruby"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "bags",
+            "seats.choice",
+            "seats.boarding",
+            "partners.alliance"
           ]
         },
         {
@@ -218,7 +319,8 @@
             "2 free checked bags with priority handling",
             "Main Cabin Extra and Preferred seats at booking",
             "Group 3 boarding",
-            "oneworld Sapphire: business class lounges on international trips"
+            "oneworld Sapphire",
+            "Business class lounges on international trips"
           ],
           "benefitsFR": [
             "60 % de milles de plus sur les vols American",
@@ -226,7 +328,17 @@
             "2 bagages enregistrés gratuits, traités en priorité",
             "Sièges Main Cabin Extra et privilégiés dès la réservation",
             "Embarquement groupe 3",
-            "oneworld Sapphire : salons affaires lors des voyages internationaux"
+            "oneworld Sapphire",
+            "Salons affaires lors des voyages internationaux"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "bags",
+            "seats.choice",
+            "seats.boarding",
+            "partners.alliance",
+            "lounge.alliance"
           ]
         },
         {
@@ -238,14 +350,24 @@
             "Complimentary upgrades from 72 hours before departure",
             "3 free checked bags",
             "Group 2 boarding",
-            "oneworld Emerald: first class lounges on international trips"
+            "oneworld Emerald",
+            "First class lounges on international trips"
           ],
           "benefitsFR": [
             "80 % de milles de plus sur les vols American",
             "Surclassements gratuits à partir de 72 heures avant le départ",
             "3 bagages enregistrés gratuits",
             "Embarquement groupe 2",
-            "oneworld Emerald : salons première classe lors des voyages internationaux"
+            "oneworld Emerald",
+            "Salons première classe lors des voyages internationaux"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "bags",
+            "seats.boarding",
+            "partners.alliance",
+            "lounge.alliance"
           ]
         },
         {
@@ -257,14 +379,21 @@
             "Complimentary upgrades from 100 hours before departure",
             "3 free checked bags",
             "Group 1 boarding",
-            "oneworld Emerald, including Flagship Lounges"
+            "Flagship Lounges"
           ],
           "benefitsFR": [
             "120 % de milles de plus sur les vols American",
             "Surclassements gratuits à partir de 100 heures avant le départ",
             "3 bagages enregistrés gratuits",
             "Embarquement groupe 1",
-            "oneworld Emerald, y compris les salons Flagship"
+            "Salons Flagship"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.window",
+            "bags",
+            "seats.boarding",
+            "lounge.flagship"
           ]
         }
       ],
@@ -286,7 +415,8 @@
             "1 extra checked bag (23 kg)",
             "Priority check-in with Air Canada",
             "Preferred seats at check-in",
-            "Star Alliance Silver; Hertz Five Star; Avis Preferred Plus"
+            "Star Alliance Silver",
+            "Hertz Five Star and Avis Preferred Plus"
           ],
           "benefitsFR": [
             "Points élites 2X sur les vols Air Canada",
@@ -294,7 +424,17 @@
             "1 bagage enregistré de plus (23 kg)",
             "Enregistrement prioritaire avec Air Canada",
             "Sièges privilégiés à l'enregistrement",
-            "Star Alliance Argent; Hertz Five Star; Avis Preferred Plus"
+            "Star Alliance Argent",
+            "Hertz Five Star et Avis Preferred Plus"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.credits",
+            "bags",
+            "seats.priority",
+            "seats.choice",
+            "partners.alliance",
+            "partners.hertz"
           ]
         },
         {
@@ -305,15 +445,25 @@
             "3X elite points on Air Canada flights",
             "10 eUpgrade credits",
             "3 checked bags (32 kg each)",
-            "Priority security and priority baggage",
+            "Priority security",
+            "Priority baggage",
             "Star Alliance Silver"
           ],
           "benefitsFR": [
             "Points élites 3X sur les vols Air Canada",
             "10 crédits eSurclassement",
             "3 bagages enregistrés (32 kg chacun)",
-            "Contrôle de sécurité et bagages prioritaires",
+            "Contrôle de sécurité prioritaire",
+            "Bagages prioritaires",
             "Star Alliance Argent"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.credits",
+            "bags",
+            "seats.security",
+            "bags.priority",
+            "partners.alliance"
           ]
         },
         {
@@ -324,7 +474,8 @@
             "4X elite points on Air Canada flights",
             "15 eUpgrade credits",
             "Maple Leaf Lounges and Air Canada Cafés",
-            "Star Alliance Gold: lounges and priority across the alliance",
+            "Star Alliance Gold",
+            "Star Alliance Gold lounges",
             "Free standard seats; preferred seats at booking in Canada and the U.S.",
             "Can get Marriott Bonvoy Gold Elite"
           ],
@@ -332,9 +483,19 @@
             "Points élites 4X sur les vols Air Canada",
             "15 crédits eSurclassement",
             "Salons Feuille d'érable et Cafés Air Canada",
-            "Star Alliance Or : salons et services prioritaires dans toute l'alliance",
+            "Star Alliance Or",
+            "Salons Star Alliance Or",
             "Sièges standards gratuits; sièges privilégiés à la réservation au Canada et aux États-Unis",
             "Admissible au statut Gold Elite Marriott Bonvoy"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.credits",
+            "lounge.airline",
+            "partners.alliance",
+            "lounge.alliance",
+            "seats.choice",
+            "partners.marriott"
           ]
         },
         {
@@ -354,6 +515,13 @@
             "Sièges privilégiés dès la réservation",
             "Star Alliance Or",
             "Hertz President's Circle"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.credits",
+            "seats.choice",
+            "partners.alliance",
+            "partners.hertz"
           ]
         },
         {
@@ -366,7 +534,7 @@
             "Concierge service",
             "2 Status Passes",
             "Free changes and cancellations on flight rewards",
-            "Avis President's Club; Hertz President's Circle"
+            "Avis President's Club and Hertz President's Circle"
           ],
           "benefitsFR": [
             "Points élites 6X sur les vols Air Canada",
@@ -374,7 +542,15 @@
             "Service de concierge",
             "2 laissez-passer de statut",
             "Modifications et annulations gratuites des primes-voyages",
-            "Avis President's Club; Hertz President's Circle"
+            "Avis President's Club et Hertz President's Circle"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.credits",
+            "other.concierge",
+            "other.passes",
+            "other.changes",
+            "partners.hertz"
           ]
         }
       ],
@@ -403,6 +579,13 @@
             "Enregistrement, dépôt de bagages et embarquement prioritaires",
             "Sièges standards gratuits; sièges à espace accru gratuits 24 heures avant le départ",
             "SkyTeam Elite"
+          ],
+          "keys": [
+            "earn",
+            "bags",
+            "seats.priority",
+            "seats.choice",
+            "partners.alliance"
           ]
         },
         {
@@ -424,6 +607,14 @@
             "SkyPriority dans tout l'aéroport",
             "Sièges à espace accru gratuits 72 heures avant le départ",
             "SkyTeam Elite Plus"
+          ],
+          "keys": [
+            "earn",
+            "bags",
+            "lounge.alliance",
+            "seats.priority",
+            "seats.choice",
+            "partners.alliance"
           ]
         },
         {
@@ -445,6 +636,14 @@
             "Sièges à espace accru gratuits dès la réservation",
             "Découvert de 50 000 Miles pour les primes et surclassements",
             "Ligne de service Platinum"
+          ],
+          "keys": [
+            "earn",
+            "bags",
+            "lounge.alliance",
+            "seats.choice",
+            "other.overdraft",
+            "other.phone"
           ]
         },
         {
@@ -456,7 +655,8 @@
             "Air France and KLM lounges for you and up to 8 guests",
             "4 upgrade vouchers a year",
             "A Platinum card for one companion",
-            "100,000-Mile overdraft and free onboard Wi-Fi",
+            "100,000-Mile overdraft",
+            "Free onboard Wi-Fi",
             "Dedicated advisor"
           ],
           "benefitsFR": [
@@ -464,8 +664,18 @@
             "Salons Air France et KLM pour vous et jusqu'à 8 invités",
             "4 bons de surclassement par année",
             "Une carte Platinum pour un compagnon",
-            "Découvert de 100 000 Miles et Wi-Fi gratuit à bord",
+            "Découvert de 100 000 Miles",
+            "Wi-Fi gratuit à bord",
             "Conseiller dédié"
+          ],
+          "keys": [
+            "earn",
+            "lounge.alliance",
+            "upgrades.credits",
+            "other.companion",
+            "other.overdraft",
+            "other.wifi",
+            "other.phone"
           ]
         }
       ],
@@ -487,7 +697,8 @@
             "Group 1 boarding",
             "1 free checked bag",
             "Same-day standby",
-            "Priority and Express Lanes, priority phone support"
+            "Priority and Express Lanes",
+            "Priority phone support"
           ],
           "benefitsFR": [
             "Boni de 25 % sur les points",
@@ -495,7 +706,17 @@
             "Embarquement groupe 1",
             "1 bagage enregistré gratuit",
             "Attente le jour même",
-            "Voies Priority et Express, soutien téléphonique prioritaire"
+            "Voies Priority et Express",
+            "Soutien téléphonique prioritaire"
+          ],
+          "keys": [
+            "earn",
+            "seats.choice",
+            "seats.boarding",
+            "bags",
+            "seats.standby",
+            "seats.priority",
+            "other.phone"
           ]
         },
         {
@@ -507,16 +728,21 @@
             "Extra Legroom, Preferred or Standard seat at booking",
             "Boards before Group 1",
             "2 free checked bags",
-            "Up to 2 premium drinks per flight (251+ miles)",
-            "Same-day standby and priority lanes"
+            "Up to 2 premium drinks per flight (251+ miles)"
           ],
           "benefitsFR": [
             "Boni de 100 % sur les points",
             "Siège Extra Legroom, privilégié ou standard dès la réservation",
             "Embarquement avant le groupe 1",
             "2 bagages enregistrés gratuits",
-            "Jusqu'à 2 boissons haut de gamme par vol (251 milles et plus)",
-            "Attente le jour même et voies prioritaires"
+            "Jusqu'à 2 boissons haut de gamme par vol (251 milles et plus)"
+          ],
+          "keys": [
+            "earn",
+            "seats.choice",
+            "seats.boarding",
+            "bags",
+            "lounge.drinks"
           ]
         }
       ],
@@ -535,16 +761,29 @@
           "benefits": [
             "25% bonus points on fares",
             "First checked bag free for you and companions on the booking",
-            "Group A boarding; Mint upgrades at the gate when available",
+            "Group A boarding",
+            "Mint upgrades at the gate when available",
             "Free same-day changes and standby",
-            "Drink coupons and a Perks You Pick choice"
+            "Drink coupons",
+            "A Perks You Pick choice"
           ],
           "benefitsFR": [
             "25 % de points de plus sur les tarifs",
             "Premier bagage enregistré gratuit pour vous et vos compagnons de réservation",
-            "Embarquement groupe A; surclassements Mint à la porte selon la disponibilité",
+            "Embarquement groupe A",
+            "Surclassements Mint à la porte selon la disponibilité",
             "Changements le jour même et attente gratuits",
-            "Bons de boisson et un avantage au choix (Perks You Pick)"
+            "Bons de boisson",
+            "Un avantage au choix (Perks You Pick)"
+          ],
+          "keys": [
+            "earn",
+            "bags",
+            "seats.boarding",
+            "upgrades.window",
+            "seats.standby",
+            "lounge.drinks",
+            "other.perks"
           ]
         },
         {
@@ -562,6 +801,12 @@
             "Sièges Even More Space à la réservation pour vous et 2 compagnons",
             "Priorité plus élevée pour les surclassements Mint",
             "Animal en cabine gratuit sur les vols JetBlue"
+          ],
+          "keys": [
+            "earn",
+            "seats.choice",
+            "upgrades.window",
+            "other.pet"
           ]
         },
         {
@@ -579,6 +824,12 @@
             "Even More Space à la réservation pour vous et 5 compagnons",
             "2 certificats de surclassement Move to Mosaic par année (routes Mint admissibles)",
             "Priorité d'embarquement et de surclassement plus élevée"
+          ],
+          "keys": [
+            "earn",
+            "seats.choice",
+            "upgrades.credits",
+            "upgrades.window"
           ]
         },
         {
@@ -596,6 +847,12 @@
             "Even More Space confirmé à la réservation pour vous et 8 compagnons",
             "4 certificats Move to Mosaic par année",
             "Ligne téléphonique Mosaic dédiée"
+          ],
+          "keys": [
+            "earn",
+            "seats.choice",
+            "upgrades.credits",
+            "other.phone"
           ]
         }
       ],
@@ -618,6 +875,10 @@
           "benefitsFR": [
             "Surclassements en UpFront Plus ou première classe, selon la disponibilité, 4 heures avant le départ",
             "Sièges privilégiés gratuits"
+          ],
+          "keys": [
+            "upgrades.window",
+            "seats.choice"
           ]
         },
         {
@@ -631,6 +892,10 @@
           "benefitsFR": [
             "Surclassements, selon la disponibilité, 8 heures avant le départ",
             "Sièges premium gratuits"
+          ],
+          "keys": [
+            "upgrades.window",
+            "seats.choice"
           ]
         },
         {
@@ -648,6 +913,12 @@
             "Sièges premium gratuits pour tous sur la réservation",
             "Bagage de 50 lb par voyageur",
             "2 certificats de voyage pour compagnon"
+          ],
+          "keys": [
+            "upgrades.window",
+            "seats.choice",
+            "bags",
+            "other.companion"
           ]
         },
         {
@@ -663,6 +934,11 @@
             "Surclassements, selon la disponibilité, 24 heures avant le départ",
             "2 bagages enregistrés gratuits par voyageur (50 lb chacun)",
             "Meilleur taux de milles par dollar"
+          ],
+          "keys": [
+            "upgrades.window",
+            "bags",
+            "earn"
           ]
         }
       ],
@@ -687,6 +963,11 @@
             "20 % de points bonis",
             "5e nuit gratuite sur les primes en chambre standard",
             "2 bouteilles d'eau à l'arrivée (hôtels participants)"
+          ],
+          "keys": [
+            "earn",
+            "other.fifth",
+            "lounge.water"
           ]
         },
         {
@@ -704,6 +985,12 @@
             "Surclassements selon la disponibilité",
             "Crédit quotidien de restauration (É.-U.) ou petit-déjeuner continental (ailleurs)",
             "Primes d'étape"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.room",
+            "lounge.breakfast",
+            "other.milestone"
           ]
         },
         {
@@ -723,6 +1010,13 @@
             "Garantie de chambre de 48 heures",
             "Wi-Fi premium",
             "Statut à offrir et prolongation Diamond"
+          ],
+          "keys": [
+            "earn",
+            "lounge.access",
+            "stay.guarantee",
+            "other.wifi",
+            "other.gifting"
           ]
         },
         {
@@ -742,6 +1036,13 @@
             "Prime de surclassement confirmable",
             "Accès aux clubs premium dans certains hôtels",
             "Service à la clientèle supérieur"
+          ],
+          "keys": [
+            "earn",
+            "stay.checkout",
+            "upgrades.confirmable",
+            "lounge.premium",
+            "other.phone"
           ]
         }
       ]
@@ -764,6 +1065,11 @@
             "10 % de points bonis",
             "Départ tardif prioritaire",
             "Garantie de réservation ultime"
+          ],
+          "keys": [
+            "earn",
+            "stay.checkout",
+            "stay.guarantee"
           ]
         },
         {
@@ -781,6 +1087,12 @@
             "Départ tardif jusqu'à 14 h selon la disponibilité",
             "Surclassement amélioré à l'arrivée",
             "Cadeau de bienvenue de 250 ou 500 points"
+          ],
+          "keys": [
+            "earn",
+            "stay.checkout",
+            "upgrades.room",
+            "lounge.welcome"
           ]
         },
         {
@@ -802,6 +1114,14 @@
             "Accès aux salons et petit-déjeuner dans les marques participantes",
             "Cadeau de bienvenue : points, petit-déjeuner ou commodité",
             "Avantage annuel au choix"
+          ],
+          "keys": [
+            "earn",
+            "stay.checkout",
+            "upgrades.room",
+            "lounge.access",
+            "lounge.welcome",
+            "other.choice"
           ]
         },
         {
@@ -810,17 +1130,21 @@
           "qualifyFR": "75 nuits par année",
           "benefits": [
             "75% bonus points",
-            "All Platinum benefits",
             "48-hour booking guarantee",
             "A second Annual Choice Benefit",
             "United MileagePlus Premier Silver"
           ],
           "benefitsFR": [
             "75 % de points bonis",
-            "Tous les avantages Platinum",
             "Garantie de réservation de 48 heures",
             "Un deuxième avantage annuel au choix",
             "United MileagePlus Premier Silver"
+          ],
+          "keys": [
+            "earn",
+            "stay.guarantee",
+            "other.choice",
+            "partners.airline"
           ]
         },
         {
@@ -838,6 +1162,12 @@
             "Your24 : choisissez l'heure d'arrivée et gardez la chambre 24 heures",
             "Service Ambassador personnel",
             "Départ tardif garanti à 16 h (sauf centres de villégiature et de congrès)"
+          ],
+          "keys": [
+            "earn",
+            "stay.your24",
+            "other.phone",
+            "stay.checkout"
           ]
         }
       ]
@@ -855,13 +1185,22 @@
             "10% bonus points",
             "Preferred room in the same category",
             "2 p.m. late checkout",
-            "Premium Wi-Fi and daily bottled water"
+            "Premium Wi-Fi",
+            "Daily bottled water"
           ],
           "benefitsFR": [
             "10 % de points bonis",
             "Chambre préférée dans la même catégorie",
             "Départ tardif à 14 h",
-            "Wi-Fi premium et bouteilles d'eau quotidiennes"
+            "Wi-Fi premium",
+            "Bouteilles d'eau quotidiennes"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.room",
+            "stay.checkout",
+            "other.wifi",
+            "lounge.water"
           ]
         },
         {
@@ -877,6 +1216,11 @@
             "20 % de points bonis",
             "Surclassements de catégorie selon la disponibilité",
             "Disponibilité des primes garantie 72 heures avant l'arrivée"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.room",
+            "stay.guarantee"
           ]
         },
         {
@@ -889,7 +1233,8 @@
             "Club lounge access, or free breakfast where there's no lounge",
             "4 p.m. late checkout",
             "Resort fees waived on paid stays; free parking on award stays",
-            "Guest of Honor; award availability guaranteed 48 hours before arrival"
+            "Guest of Honor",
+            "Award availability guaranteed 48 hours before arrival"
           ],
           "benefitsFR": [
             "30 % de points bonis",
@@ -897,7 +1242,17 @@
             "Accès au salon Club, ou petit-déjeuner gratuit s'il n'y a pas de salon",
             "Départ tardif à 16 h",
             "Frais de villégiature annulés sur les séjours payés; stationnement gratuit sur les séjours-primes",
-            "Guest of Honor; disponibilité des primes garantie 48 heures avant l'arrivée"
+            "Guest of Honor",
+            "Disponibilité des primes garantie 48 heures avant l'arrivée"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.room",
+            "lounge.access",
+            "stay.checkout",
+            "stay.fees",
+            "other.goh",
+            "stay.guarantee"
           ]
         }
       ]
@@ -920,6 +1275,11 @@
             "20 % de points bonis",
             "Les points n'expirent pas",
             "Départ tardif à 14 h selon la disponibilité"
+          ],
+          "keys": [
+            "earn",
+            "other.expiry",
+            "stay.checkout"
           ]
         },
         {
@@ -937,6 +1297,12 @@
             "Primes d'étape dès 20 nuits",
             "Nuits reportées pour le statut de l'année suivante",
             "Hertz Five Star"
+          ],
+          "keys": [
+            "earn",
+            "other.milestone",
+            "other.rollover",
+            "partners.hertz"
           ]
         },
         {
@@ -947,13 +1313,22 @@
             "60% bonus points",
             "Room upgrades when available",
             "Welcome amenity: points or a drink or snack",
-            "Room guaranteed when booked 72 hours ahead; early check-in when available"
+            "Room guaranteed when booked 72 hours ahead",
+            "Early check-in when available"
           ],
           "benefitsFR": [
             "60 % de points bonis",
             "Surclassements selon la disponibilité",
             "Commodité de bienvenue : points ou boisson ou collation",
-            "Chambre garantie si réservée 72 heures à l'avance; arrivée hâtive selon la disponibilité"
+            "Chambre garantie si réservée 72 heures à l'avance",
+            "Arrivée hâtive selon la disponibilité"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.room",
+            "lounge.welcome",
+            "stay.guarantee",
+            "stay.checkin"
           ]
         },
         {
@@ -971,6 +1346,12 @@
             "La commodité de bienvenue peut être un petit-déjeuner gratuit pour deux",
             "Ligne de soutien Diamond dédiée",
             "Hertz President's Circle"
+          ],
+          "keys": [
+            "earn",
+            "lounge.welcome",
+            "other.phone",
+            "partners.hertz"
           ]
         }
       ]
@@ -993,6 +1374,11 @@
             "10 % de points bonis",
             "Départ tardif et arrivée hâtive selon la disponibilité",
             "Cadeau de bienvenue dans les hôtels participants"
+          ],
+          "keys": [
+            "earn",
+            "stay.checkout",
+            "lounge.welcome"
           ]
         },
         {
@@ -1008,6 +1394,11 @@
             "25 % de points bonis",
             "Surclassements dans certaines marques selon la disponibilité",
             "Stationnement réservé aux élites selon la disponibilité"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.room",
+            "stay.parking"
           ]
         },
         {
@@ -1023,6 +1414,11 @@
             "50 % de points bonis",
             "Ligne des membres élites 7 jours sur 7",
             "Les points n'expirent pas tant que vous êtes élite"
+          ],
+          "keys": [
+            "earn",
+            "other.phone",
+            "other.expiry"
           ]
         },
         {
@@ -1031,13 +1427,15 @@
           "qualifyFR": "55 nuits ou 110 000 crédits par année",
           "benefits": [
             "50% bonus points",
-            "A yearly coupon for 50% off a reward stay (up to 7 nights)",
-            "All Diamond benefits"
+            "A yearly coupon for 50% off a reward stay (up to 7 nights)"
           ],
           "benefitsFR": [
             "50 % de points bonis",
-            "Un coupon annuel de 50 % sur un séjour-prime (jusqu'à 7 nuits)",
-            "Tous les avantages Diamond"
+            "Un coupon annuel de 50 % sur un séjour-prime (jusqu'à 7 nuits)"
+          ],
+          "keys": [
+            "earn",
+            "other.coupon"
           ]
         }
       ]
@@ -1062,6 +1460,12 @@
             "Départ tardif",
             "Choix de chambre préféré",
             "Service aux membres dédié"
+          ],
+          "keys": [
+            "earn",
+            "stay.checkout",
+            "upgrades.room",
+            "other.phone"
           ]
         },
         {
@@ -1079,6 +1483,12 @@
             "Arrivée hâtive",
             "Surclassements de location avec Enterprise, Alamo et National (É.-U. et Canada)",
             "Statut équivalent Caesars Rewards"
+          ],
+          "keys": [
+            "earn",
+            "stay.checkin",
+            "partners.cars",
+            "partners.caesars"
           ]
         },
         {
@@ -1096,6 +1506,12 @@
             "Surclassement en suite à chaque séjour selon la disponibilité",
             "Collation ou boisson de bienvenue dans certains hôtels",
             "Offrir le statut Gold une fois par année"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.room",
+            "lounge.welcome",
+            "other.gifting"
           ]
         }
       ]
@@ -1118,6 +1534,11 @@
             "25 % de points de plus sur les locations payées",
             "Surclassements à l'occasion (non garantis)",
             "Plus grand choix de voitures que Gold"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.car",
+            "other.choice"
           ]
         },
         {
@@ -1135,6 +1556,12 @@
             "Surclassement d'une catégorie garanti aux comptoirs participants",
             "Ultimate Choice dans plus de 50 aéroports (réservation intermédiaire ou plus)",
             "Conducteur additionnel gratuit pour le conjoint ou partenaire"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.car",
+            "other.choice",
+            "other.driver"
           ]
         }
       ]
@@ -1157,6 +1584,11 @@
             "1,25 point par dollar sur les locations",
             "Surclassement d'une catégorie selon la disponibilité",
             "Offres exclusives et ligne téléphonique dédiée"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.car",
+            "other.phone"
           ]
         },
         {
@@ -1172,6 +1604,11 @@
             "1,5 point par dollar sur les locations",
             "Double surclassement selon la disponibilité",
             "Disponibilité de véhicule garantie"
+          ],
+          "keys": [
+            "earn",
+            "upgrades.car",
+            "stay.guarantee"
           ]
         }
       ]
@@ -1194,6 +1631,11 @@
             "Choisissez toute voiture pleine grandeur ou plus dans la zone Executive au tarif intermédiaire",
             "Surclassement gratuit en réservant de pleine grandeur à luxe (É.-U. et Canada)",
             "Une journée gratuite après 6 crédits de location"
+          ],
+          "keys": [
+            "other.choice",
+            "upgrades.car",
+            "other.freeday"
           ]
         },
         {
@@ -1209,6 +1651,11 @@
             "Voiture garantie jusqu'à pleine grandeur avec 24 heures de préavis, au tarif intermédiaire",
             "Une journée gratuite après 5 crédits, toute catégorie, sans dates d'interdiction",
             "Livraison aux aéroports privés (É.-U. et Canada)"
+          ],
+          "keys": [
+            "stay.guarantee",
+            "other.freeday",
+            "other.delivery"
           ]
         }
       ]

@@ -67,6 +67,6 @@ What each status tier gives, shown when someone taps a status on StackJet's Stat
 |---|---|
 | `format`, `version`, `updated` | `"stackjet-status-benefits"`, `1`, and the date of the last change. Bump `updated` with every change. |
 | `programs` | `{ "<program id>": { "sourceName", "sourceURL" (HTTPS), "checked", "note"?, "noteFR"?, "tiers": [ … ] } }`, keyed by the app's program id (`delta`, `hilton`…). |
-| `tiers` | Lowest first: `{ "name", "nameFR"?, "qualify"?, "qualifyFR"?, "benefits": [ … ], "benefitsFR": [ … ] }`. Use the app's tier names (e.g. `Hilton Honors Gold`) so the person's tier is marked. `benefitsFR` must have one line per English line. |
+| `tiers` | Lowest first: `{ "name", "nameFR"?, "qualify"?, "qualifyFR"?, "benefits": [ … ], "benefitsFR": [ … ], "keys": [ … ] }`. `keys` has one key per benefit, `topic.name`: topic is `earn`, `upgrades`, `seats`, `bags`, `lounge`, `stay`, `partners` or `other` (its row on the Compare screen). A higher tier's benefit with the same key replaces the lower one (e.g. `earn`: 50% replaces 25%); different keys add up. Use the app's tier names (e.g. `Hilton Honors Gold`) so the person's tier is marked. `benefitsFR` must have one line per English line. |
 
 The data here is public lounge and card information (lounge names, locations and hours; card fees, benefits and earn rates) from the networks' and issuers' own sites. No app code, user data or keys are kept in this repository.
