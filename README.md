@@ -49,6 +49,8 @@ Right now this file is empty: nothing is changed. Fixes for StackJet's smaller t
 | `pointsGuySources`, `frequentMilerSources`, `partnerNames` | Names The Points Guy and Frequent Miler use -> the app's programs and partners, checked first. |
 | `statusMatchRules` | When present, the whole list of status match offers (`source`, `minRank`, `destProgram`, `destRank`, `dest`, `instant`, `detail`, `countries`?). |
 | `statusMatchCards` | `[ { "name", "aliases"?, "grants": [ { "program", "rank", "tier", "note"? } ], "mqd"?, "country"?, "note"? } ]`: a card on the Status matches page and the statuses it gives. Replaces the built-in card with the same name, or adds it. |
+| `statusProgramNames` | `{ "<status match program id>": "<name>" }`: the name shown on the Status matches page (e.g. `"bw": "WorldHotels Rewards"` after a merger). |
+| `pointValueNames` | `[ { "name": "<name on the point values page>", "ids": ["<program id>"] } ]`: extra names to read, for a program renamed on that page. |
 | `statusTiers` | `{ "<program id>": ["<lowest tier>", …] }`: the tier names for each program listed. |
 | `retiredCards` | `{ "<closed card id>": "<replacement card id>" }`. Used only when the replacement card is in the app's card list. |
 | `homeCities` | Points deals departure cities `{ "city", "airports" }`: replaces the city with the same name, or adds it. |
