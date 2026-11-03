@@ -48,9 +48,13 @@ Right now this file is empty: nothing is changed. Fixes for StackJet's smaller t
 | `princeOfTravelSources`, `princeOfTravelPartners` | Prince of Travel's program codes -> the app's programs and transfer partners, added to the built-in names. |
 | `pointsGuySources`, `frequentMilerSources`, `partnerNames` | Names The Points Guy and Frequent Miler use -> the app's programs and partners, checked first. |
 | `statusMatchRules` | When present, the whole list of status match offers (`source`, `minRank`, `destProgram`, `destRank`, `dest`, `instant`, `detail`, `countries`?). |
+| `statusMatchCards` | `[ { "name", "aliases"?, "grants": [ { "program", "rank", "tier", "note"? } ], "mqd"?, "country"?, "note"? } ]`: a card on the Status matches page and the statuses it gives. Replaces the built-in card with the same name, or adds it. |
 | `statusTiers` | `{ "<program id>": ["<lowest tier>", …] }`: the tier names for each program listed. |
 | `retiredCards` | `{ "<closed card id>": "<replacement card id>" }`. Used only when the replacement card is in the app's card list. |
 | `homeCities` | Points deals departure cities `{ "city", "airports" }`: replaces the city with the same name, or adds it. |
 | `nearbyCities` | `{ "<city>": ["<nearby city>", …] }` for each city listed. |
+| `bestUses` | When present, the whole "Best uses of your points" list (same fields as the app's built-in list: `id`, `programID`, `partnerID`?, `programName`, `kind` `flight`/`hotel`, `cabin` for flights, `points` **or** `rule`+`ruleFR`, `title`/`titleFR`, `unit`/`unitFR`, `why`/`whyFR`, `tip`/`tipFR`, `sourceName`, `sourceURL`, `checked`). One bad entry and the built-in list is used. |
+| `sources` | Websites the app reads, by key: `princeOfTravel`, `pointsGuyBonuses`, `frequentMiler`, `flytrippers`, `flyingBluePromos`, `pointValues`. `{ "enabled": false }` stops reading one (its old results go away; point values keep the last ones); `{ "url": "https://…" }` reads it at a new address (same page layout). |
+| `liveLounges` | `{ "<network>": false }` (e.g. `"Priority Pass"`): stop reading that network's own website and show the app's built-in list for it, plus the lounge fixes. |
 
 The data here is public lounge and card information (lounge names, locations and hours; card fees, benefits and earn rates) from the networks' and issuers' own sites. No app code, user data or keys are kept in this repository.

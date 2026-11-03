@@ -11,8 +11,12 @@
   "frequentMilerSources": [],
   "partnerNames": [],
   "statusMatchRules": [],
+  "statusMatchCards": [],
   "statusTiers": {},
   "retiredCards": {},
   "homeCities": [],
-  "nearbyCities": {}
+  "nearbyCities": {},
+  "bestUses": [],
+  "sources": {},
+  "liveLounges": {}
 }
