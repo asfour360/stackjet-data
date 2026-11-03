@@ -3,9 +3,557 @@
   "version": 1,
   "updated": "2026-11-03",
   "catalogVersion": "1.7.71",
-  "note": "No card fixes yet. StackJet applies this file on top of the card list built into the app.",
-  "cards": [],
+  "note": "WestJet RBC World Elite cards: Status Lift details with the 2027 changes; the Business card's first-year WestJet Silver status; Status Lift progress on the personal card.",
+  "cards": [
+    {
+      "id": "rbc-westjet-world-elite-mastercard-can",
+      "name": "RBC WestJet World Elite Mastercard CAN",
+      "issuer": "RBC",
+      "market": "CAN",
+      "annualFeeMinor": 13900,
+      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "colorHex": "266BC1",
+      "secondaryHex": "132D5F",
+      "artworkAsset": "Card-rbc-westjet-world-elite-mastercard-can",
+      "programIDs": [
+        "westjet"
+      ],
+      "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-world-elite-mastercard.html",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "benefits": [
+        {
+          "id": "issuer-get-a-status-lift",
+          "title": "Get a Status Lift",
+          "detail": "Earn C$200 in WestJet Tier Qualifying Spend for every C$5,000 in eligible purchases (primary cardholder), up to 50 Status Lifts a year. From January 1, 2027: up to 75 a year, and the first 10 earn C$300 each.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/upcoming-changes-to-westjet-rewards-tier-qualifying-status-thresholds-in-2027/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-access-airport-lounges",
+          "title": "Access Airport Lounges",
+          "detail": "Included card benefit; eligibility, enrollment where required and issuer terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-annual-world-elite-companion-voucher",
+          "title": "Annual World Elite Companion Voucher",
+          "detail": "A yearly companion voucher ($119–$499 base fare by region), or swap it for 30% off a flight, a $200 WestJet Vacations credit or 2 lounge passes.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "priority": 50
+        },
+        {
+          "id": "pot-free-first-checked-bag",
+          "title": "Free first checked bag",
+          "detail": "Your first checked bag is free for you and up to 8 guests on the same WestJet booking.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "priority": 51
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "First 15 consecutive days if under 65; first 3 days if 65 or older.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Up to $1,500 per person per trip (max $5,000).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Up to $5,000 per person per trip (max $25,000).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Up to $250 per day per person, $500 per occurrence; starts after a 4-hour delay.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Baggage delay up to $500 per person, $2,500 per occurrence; starts 4 hours after arrival.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to $2,500 per occurrence.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Rental cars with an MSRP up to $65,000, rentals up to 48 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Up to $500,000 for accidental death or dismemberment.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to $1,500.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers accidental loss or damage for 90 days from purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Doubles the manufacturer’s warranty, up to 1 extra year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [
+        {
+          "id": "westjet-status-lift-progress",
+          "programID": "westjet",
+          "tier": "WestJet Status Lift progress",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "This card earns Tier Qualifying Spend through Status Lift, but holding it doesn't give WestJet status on its own. Choose the tier you've earned below.",
+          "automatic": false,
+          "sourceURL": "https://princeoftravel.com/news/upcoming-changes-to-westjet-rewards-tier-qualifying-status-thresholds-in-2027/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "westjet",
+          "label": "WestJet points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-world-elite-mastercard.html"
+        },
+        {
+          "id": "westjet",
+          "categories": [
+            "westJet"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "westjet",
+          "label": "WestJet points",
+          "detail": "Eligible WestJet flights, WestJet Vacations and Sunwing purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-world-elite-mastercard.html"
+        },
+        {
+          "id": "everyday",
+          "categories": [
+            "groceries",
+            "gas",
+            "evCharging",
+            "transit"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "westjet",
+          "label": "WestJet points",
+          "detail": "Eligible groceries, gas/EV charging and transit/rideshare.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-world-elite-mastercard.html"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+      "artworkSearchTerms": "RBC WestJet World Elite Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2024/05/RBC-WestJet.png",
+      "benefitSourceURLs": [
+        "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-world-elite-mastercard.html",
+        "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/"
+      ],
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
+    },
+    {
+      "id": "rbc-westjet-world-elite-mastercard-for-business-can",
+      "name": "RBC WestJet World Elite Mastercard for Business CAN",
+      "issuer": "RBC",
+      "market": "CAN",
+      "annualFeeMinor": 17500,
+      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "colorHex": "266BC1",
+      "secondaryHex": "132D5F",
+      "artworkAsset": "Card-rbc-westjet-world-elite-mastercard-for-business-can",
+      "programIDs": [
+        "westjet"
+      ],
+      "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility. Status-dependent airline earning above the guaranteed rate is not automatically ranked because airline status is separate user state.",
+      "benefits": [
+        {
+          "id": "issuer-instant-silver-status",
+          "title": "Instant Silver Status",
+          "detail": "WestJet Silver status for the first year of card membership. Keep it in later years with C$30,000 in eligible card spending each calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-1st-year-silver-status",
+          "title": "1st year Silver Status",
+          "detail": "WestJet Silver status for the first year of card membership. Keep it in later years with C$30,000 in eligible card spending each calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-lounge-passes",
+          "title": "Lounge Passes",
+          "detail": "Included card benefit; eligibility, enrollment where required and issuer terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-priority-check-in-and-boarding",
+          "title": "Priority check-in and boarding",
+          "detail": "Included card benefit; eligibility, enrollment where required and issuer terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-two-free-checked-bags",
+          "title": "Two free Checked Bags",
+          "detail": "Included card benefit; eligibility, enrollment where required and issuer terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-reach-higher-with-status-lift",
+          "title": "Reach Higher with Status Lift",
+          "detail": "Earn C$200 in WestJet Tier Qualifying Spend for every C$5,000 in eligible purchases (primary cardholder), up to 50 Status Lifts a year. From January 1, 2027: up to 75 a year, and the first 10 earn C$300 each.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/upcoming-changes-to-westjet-rewards-tier-qualifying-status-thresholds-in-2027/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-westjet-biz-program",
+          "title": "WestJet Biz Program",
+          "detail": "Automatic WestJet Biz Program Tier 1 enrolment for business fare discounts.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "priority": 50
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "First 15 consecutive days if under 65; first 3 days if 65 or older.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Should you need to cancel your trip, you could be reimbursed for any non-refundable prepaid travel arrangements when you pay for your trip using your WestJet RBC World Elite Mastercard for Business and/or WestJet points.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "rbc-westjet-world-elite-mastercard-for-business-can-trip-interruption-insurance",
+          "title": "Trip interruption insurance",
+          "detail": "Up to $5,000 per person per trip (max $25,000).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Up to $250 per day per person, $500 per occurrence; starts after a 4-hour delay.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Baggage delay up to $500 per person, $2,500 per occurrence; starts 4 hours after arrival.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to $2,500 per occurrence.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Rental cars with an MSRP up to $65,000, rentals up to 48 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Up to $500,000 for accidental death or dismemberment.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to $2,000.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers purchases for 90 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Doubles the manufacturer’s warranty, up to 1 extra year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [
+        {
+          "id": "westjet-silver-first-year",
+          "programID": "westjet",
+          "tier": "WestJet Silver",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "First year of card membership; after that, C$30,000 in eligible card spending each calendar year keeps it.",
+          "automatic": true,
+          "sourceURL": "https://princeoftravel.com/news/upcoming-changes-to-westjet-rewards-tier-qualifying-status-thresholds-in-2027/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "westjet",
+          "label": "WestJet points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html"
+        },
+        {
+          "id": "westjet",
+          "categories": [
+            "westJet"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "westjet",
+          "label": "WestJet points",
+          "detail": "Guaranteed eligible WestJet travel rate before any status-linked uplift.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html"
+        },
+        {
+          "id": "business",
+          "categories": [
+            "telecommunications",
+            "shipping",
+            "onlineShopping"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "westjet",
+          "label": "WestJet points",
+          "detail": "Eligible telecommunications, shipping and electronics/business purchase categories defined by RBC.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html"
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
+      "artworkSearchTerms": "RBC WestJet World Elite Mastercard for Business",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2025/09/RBC-WestJet-Business.png",
+      "benefitSourceURLs": [
+        "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+        "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/"
+      ],
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
+    }
+  ],
   "removeCards": [],
   "programs": [],
-  "french": {}
+  "french": {
+    "Earn C$200 in WestJet Tier Qualifying Spend for every C$5,000 in eligible purchases (primary cardholder), up to 50 Status Lifts a year. From January 1, 2027: up to 75 a year, and the first 10 earn C$300 each.": "Obtenez 200 $ de dépenses admissibles au palier WestJet pour chaque tranche de 5 000 $ d'achats admissibles (titulaire principal), jusqu'à 50 hausses de statut par année. À partir du 1er janvier 2027 : jusqu'à 75 par année, et les 10 premières valent 300 $ chacune.",
+    "WestJet Silver status for the first year of card membership. Keep it in later years with C$30,000 in eligible card spending each calendar year.": "Statut WestJet Silver pour la première année d'adhésion à la carte. Conservez-le les années suivantes avec 30 000 $ d'achats admissibles par année civile.",
+    "First year of card membership; after that, C$30,000 in eligible card spending each calendar year keeps it.": "Première année d'adhésion à la carte; ensuite, 30 000 $ d'achats admissibles par année civile pour le conserver.",
+    "This card earns Tier Qualifying Spend through Status Lift, but holding it doesn't give WestJet status on its own. Choose the tier you've earned below.": "Cette carte rapporte des dépenses admissibles au palier grâce aux hausses de statut, mais la détenir ne donne pas à elle seule de statut WestJet. Choisissez ci-dessous le palier que vous avez obtenu.",
+    "WestJet Status Lift progress": "Progression des hausses de statut WestJet"
+  }
 }

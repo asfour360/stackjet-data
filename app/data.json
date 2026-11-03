@@ -14,7 +14,13 @@
   "statusMatchCards": [],
   "statusProgramNames": {},
   "pointValueNames": [],
-  "statusTiers": {},
+  "statusTiers": {
+    "westjet": [
+      "WestJet Silver",
+      "WestJet Gold",
+      "WestJet Platinum"
+    ]
+  },
   "retiredCards": {},
   "homeCities": [],
   "nearbyCities": {},

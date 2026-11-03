@@ -1659,6 +1659,99 @@
           ]
         }
       ]
+    },
+    "westjet": {
+      "sourceName": "WestJet",
+      "sourceURL": "https://www.westjet.com/en-us/rewards/tiers",
+      "checked": "2026-11-03",
+      "note": "Tier Qualifying Spend thresholds rise on January 1, 2027 (Silver $5,000, Gold $8,000, Platinum $15,000); the benefits stay the same. Flights booked by the end of 2026 for travel from January to March 2027 earn 50% more TQS once you register.",
+      "noteFR": "Les seuils de dépenses admissibles au palier augmentent le 1er janvier 2027 (Silver 5 000 $, Gold 8 000 $, Platinum 15 000 $); les avantages restent les mêmes. Les vols réservés d'ici la fin de 2026 pour voyager de janvier à mars 2027 rapportent 50 % de plus en dépenses admissibles une fois inscrit.",
+      "tiers": [
+        {
+          "name": "WestJet Silver",
+          "qualify": "$4,000 Tier Qualifying Spend a year ($5,000 from 2027)",
+          "qualifyFR": "4 000 $ de dépenses admissibles au palier par année (5 000 $ dès 2027)",
+          "benefits": [
+            "2 free checked bags",
+            "4 seat selection vouchers (Standard and Preferred)",
+            "6 lounge vouchers",
+            "Zone 2 boarding",
+            "Complimentary upgrades before check-in and at the gate",
+            "Priority check-in, baggage and security",
+            "No fee for same-day flight changes",
+            "Free onboard streaming Wi-Fi",
+            "Priority support number"
+          ],
+          "benefitsFR": [
+            "2 bagages enregistrés gratuits",
+            "4 bons de sélection de siège (Standard et Préféré)",
+            "6 bons de salon",
+            "Embarquement en zone 2",
+            "Surclassements gratuits avant l'enregistrement et à la porte",
+            "Enregistrement, bagages et contrôle de sécurité prioritaires",
+            "Aucuns frais pour les changements de vol le jour même",
+            "Wi-Fi de diffusion gratuit à bord",
+            "Numéro de soutien prioritaire"
+          ],
+          "keys": [
+            "bags",
+            "seats.choice",
+            "lounge.access",
+            "seats.boarding",
+            "upgrades.window",
+            "seats.priority",
+            "other.sameday",
+            "other.wifi",
+            "other.phone"
+          ]
+        },
+        {
+          "name": "WestJet Gold",
+          "qualify": "$6,000 Tier Qualifying Spend a year ($8,000 from 2027)",
+          "qualifyFR": "6 000 $ de dépenses admissibles au palier par année (8 000 $ dès 2027)",
+          "benefits": [
+            "6 seat selection vouchers, including Extended Comfort",
+            "Unlimited lounge access with family privileges, plus 2 guest vouchers",
+            "Complimentary upgrades with high priority",
+            "Two companion vouchers on one trip, booked through priority support"
+          ],
+          "benefitsFR": [
+            "6 bons de sélection de siège, y compris Confort Plus",
+            "Accès illimité aux salons avec privilèges familiaux, plus 2 bons pour invités",
+            "Surclassements gratuits avec priorité élevée",
+            "Deux bons compagnon sur un même voyage, réservés par le soutien prioritaire"
+          ],
+          "keys": [
+            "seats.choice",
+            "lounge.access",
+            "upgrades.window",
+            "other.companion"
+          ]
+        },
+        {
+          "name": "WestJet Platinum",
+          "qualify": "$10,000 Tier Qualifying Spend a year ($15,000 from 2027)",
+          "qualifyFR": "10 000 $ de dépenses admissibles au palier par année (15 000 $ dès 2027)",
+          "benefits": [
+            "3 free checked bags",
+            "Unlimited seat selection plus 6 guest vouchers, including Extended Comfort",
+            "Zone 1 boarding",
+            "Complimentary upgrades with the highest priority"
+          ],
+          "benefitsFR": [
+            "3 bagages enregistrés gratuits",
+            "Sélection de siège illimitée plus 6 bons pour invités, y compris Confort Plus",
+            "Embarquement en zone 1",
+            "Surclassements gratuits avec la priorité la plus élevée"
+          ],
+          "keys": [
+            "bags",
+            "seats.choice",
+            "seats.boarding",
+            "upgrades.window"
+          ]
+        }
+      ]
     }
   }
 }
