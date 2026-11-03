@@ -5161,7 +5161,18 @@
           "priority": 210
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "issuer-complimentary-upgrade-to-avis-preferred-plus",
+          "programID": "avis",
+          "tier": "Preferred Plus",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Register for Avis Preferred and link it to the card's offer; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.cibc.com/en/business/credit-cards/aeroplan-visa-business.html"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -5468,7 +5479,18 @@
           "priority": 210
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "issuer-complimentary-upgrade-to-avis-preferred-plus",
+          "programID": "avis",
+          "tier": "Preferred Plus",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Register for Avis Preferred and link it to the card's offer; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-card.html"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -6045,7 +6067,28 @@
           "priority": 210
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "issuer-complimentary-hyatt-discoverist-status",
+          "programID": "hyatt",
+          "tier": "Discoverist",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Primary cardholder; link your Aeroplan and World of Hyatt accounts. Keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html"
+        },
+        {
+          "id": "issuer-complimentary-upgrade-to-avis-president-s-club",
+          "programID": "avis",
+          "tier": "President's Club",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Register for Avis Preferred and link it to the card's offer; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -6310,7 +6353,7 @@
         {
           "id": "issuer-discounts-at-hertz-thrifty-and-dollar",
           "title": "Discounts at Hertz, Thrifty and Dollar",
-          "detail": "Up to 25% off Hertz base rates in Canada (hertz.ca/desjardinsprestige), with no young or additional driver fee and Hertz Five Star status; up to 10% off at Thrifty and Dollar.",
+          "detail": "Up to 25% off Hertz base rates at participating locations in Canada (hertz.ca/desjardinsprestige), no young or additional driver fee, and automatic eligibility for Hertz Five Star status in Gold Plus Rewards; up to 10% off at Thrifty and Dollar.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6396,7 +6439,18 @@
           "priority": 100
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "issuer-discounts-at-hertz-thrifty-and-dollar",
+          "programID": "hertz",
+          "tier": "Five Star",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Desjardins gives automatic eligibility for Five Star with Hertz Gold Plus Rewards; book through Desjardins' Hertz link.",
+          "automatic": true,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -6539,7 +6593,7 @@
         {
           "id": "issuer-discounts-at-hertz-thrifty-and-dollar",
           "title": "Discounts at Hertz, Thrifty and Dollar",
-          "detail": "Up to 25% off Hertz base rates in Canada (hertz.ca/desjardinsprestige), with no young or additional driver fee and Hertz Five Star status; up to 10% off at Thrifty and Dollar.",
+          "detail": "Up to 25% off Hertz base rates at participating locations in Canada (hertz.ca/desjardinsprestige), no young or additional driver fee, and automatic eligibility for Hertz Five Star status in Gold Plus Rewards; up to 10% off at Thrifty and Dollar.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6625,7 +6679,18 @@
           "priority": 100
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "issuer-discounts-at-hertz-thrifty-and-dollar",
+          "programID": "hertz",
+          "tier": "Five Star",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Desjardins gives automatic eligibility for Five Star with Hertz Gold Plus Rewards; book through Desjardins' Hertz link.",
+          "automatic": true,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -6743,19 +6808,19 @@
       "benefits": [
         {
           "id": "issuer-lounge-access-at-montr-al-trudeau-international-airport",
-          "title": "Lounge access at Montréal-Trudeau International Airport",
-          "detail": "Access to the Desjardins Odyssey Lounges at Montréal-Trudeau (YUL) under Desjardins' current terms for this card; Desjardins' published lounge rules don't list a pass count for it, so check before you go.",
+          "title": "Mastercard Travel Pass lounge access",
+          "detail": "Mastercard Travel Pass by DragonPass for 1,300+ airport lounges in 140+ countries. Visits are paid at Travel Pass rates.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.desjardins.com/en/credit-cards/desjardins-odyssey-lounges.html",
+          "sourceURL": "https://desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
           "kind": "benefit",
           "priority": 100
         },
         {
           "id": "issuer-discounts-at-hertz-thrifty-and-dollar",
           "title": "Discounts at Hertz, Thrifty and Dollar",
-          "detail": "Up to 25% off Hertz base rates in Canada (hertz.ca/desjardinsprestige), with no young or additional driver fee and Hertz Five Star status; up to 10% off at Thrifty and Dollar.",
+          "detail": "Up to 25% off Hertz base rates at participating locations in Canada (hertz.ca/desjardinsprestige), no young or additional driver fee, and automatic eligibility for Hertz Five Star status in Gold Plus Rewards; up to 10% off at Thrifty and Dollar.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6830,7 +6895,18 @@
           "priority": 100
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "issuer-discounts-at-hertz-thrifty-and-dollar",
+          "programID": "hertz",
+          "tier": "Five Star",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Desjardins gives automatic eligibility for Five Star with Hertz Gold Plus Rewards; book through Desjardins' Hertz link.",
+          "automatic": true,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -9441,7 +9517,18 @@
           "priority": 210
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "pot-avis-president-s-club",
+          "programID": "avis",
+          "tier": "President's Club",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Register for Avis Preferred and link it to the card's offer; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-privilege-card/"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -10499,6 +10586,1258 @@
       ],
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
+    },
+    {
+      "id": "chase-united-club-us",
+      "name": "Chase United Club US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 69500,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "2587B7",
+      "secondaryHex": "122A52",
+      "artworkAsset": "Card-chase-united-club-us",
+      "programIDs": [
+        "united"
+      ],
+      "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-free-first-and-second-checked-bags-savings-of-up-to-440-per-roundtrip",
+          "title": "Free first and second checked bags",
+          "detail": "The primary cardmember and one companion each check a first and second standard bag free on United-operated flights (save up to $440 per roundtrip). Premier Access priority check-in, security and boarding where available.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-ihg-one-rewards-platinum-elite-status",
+          "title": "IHG Platinum Elite status",
+          "detail": "The primary cardmember is eligible for IHG One Rewards Platinum Elite status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-avis-president-s-club",
+          "title": "Avis President's Club",
+          "detail": "Enroll in Avis President's Club at united.com/AvisChaseBenefit; include your Avis Preferred number when you book.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "You pay no foreign transaction fees on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-visa-infinite-concierge-services",
+          "title": "Visa Infinite Concierge",
+          "detail": "24/7 Visa Infinite Concierge for travel, dining and entertainment.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-up-to-200-in-credits-for-renowned-hotels-and-resorts-for-united-cardmembers",
+          "title": "Up to $200 in credits for Renowned Hotels and Resorts for United Cardmembers",
+          "detail": "Up to US$200/cardmember year on eligible prepaid Renowned Hotels and Resorts bookings.",
+          "capMinor": 20000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 100,
+          "kind": "credit"
+        },
+        {
+          "id": "issuer-up-to-240-in-instacart-credits",
+          "title": "Up to $240 in Instacart Credits",
+          "detail": "Two US$10 credits each month for eligible direct Instacart purchases through December 31, 2027.",
+          "capMinor": 2000,
+          "reset": "monthly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 100,
+          "kind": "credit",
+          "endsBefore": "2028-01-01"
+        },
+        {
+          "id": "issuer-up-to-200-in-credits-on-jsx-purchases-annually",
+          "title": "Up to $200 in credits on JSX purchases annually",
+          "detail": "Up to US$200/cardmember year on eligible direct JSX purchases.",
+          "capMinor": 20000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 100,
+          "kind": "credit"
+        },
+        {
+          "id": "avis-budget-credit",
+          "title": "Avis or Budget United travel credit",
+          "detail": "US$50 in United TravelBank cash on each of the first two Avis or Budget rentals booked through mileageplustravel each anniversary year (US$100 total).",
+          "capMinor": 10000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 100
+        },
+        {
+          "id": "rideshare",
+          "title": "Up to $150 in credits on rideshare purchases",
+          "detail": "Up to US$12/month January–November and US$18 in December for eligible rideshare purchases. Yearly enrollment required.",
+          "capMinor": 1200,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "monthOverrides": {
+            "12": 1800
+          },
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 100
+        },
+        {
+          "id": "global-entry-credit",
+          "title": "Global Entry, TSA PreCheck or NEXUS credit",
+          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "intervalYears": 4,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 100
+        },
+        {
+          "id": "chase-united-club-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "If your trip is canceled or cut short by sickness, severe weather or other covered situations, you can be reimbursed up to $10,000 per covered traveler and $20,000 per trip for your pre-paid, non-refundable travel expenses, including passenger fares, tours, and hotels.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "chase-united-club-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "If your common carrier travel is delayed more than 12 hours or requires an overnight stay, you are covered for unreimbursed expenses, such as meals and lodging, up to $500 per covered traveler.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "chase-united-club-us-baggage-delay-insurance",
+          "title": "Baggage delay insurance",
+          "detail": "Reimburses you up to $100 a day for up to 3 days for essential purchases like toiletries and clothing when baggage is delayed over 6 hours.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "chase-united-club-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Provides reimbursement up to $3,000 per covered traveler for the cost to repair or replace checked or carry-on baggage that is lost, damaged or stolen during a covered trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "chase-united-club-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers your eligible new purchases for 120 days from the date of purchase against damage or theft up to $10,000 per item.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "chase-united-club-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends the time period of the manufacturer's U.S. warranty by an additional year, on eligible warranties of three years or less, up to four years from the date of purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "chase-united-club-us-return-protection",
+          "title": "Return protection",
+          "detail": "You can be reimbursed for eligible items that the store won't accept within 90 days of purchase, up to $500 per item, $1,000 per 12-month period.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "chase-united-club-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Decline the rental company's collision insurance and charge the entire rental cost to your card. Coverage is primary and provides reimbursement up to $60,000 for theft and collision damage for most rental vehicles with an MSRP of $125,000 or less.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "protection",
+          "priority": 207
+        }
+      ],
+      "statuses": [
+        {
+          "id": "card-status-progress",
+          "programID": "united",
+          "tier": "Premier qualifying-point progress",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "automatic": false,
+          "sourceURL": "https://www.united.com/en/us/fly/mileageplus/premier/qualify.html"
+        },
+        {
+          "id": "included-ihg-status",
+          "programID": "ihg",
+          "tier": "Platinum Elite",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite"
+        },
+        {
+          "id": "issuer-avis-president-s-club",
+          "programID": "avis",
+          "tier": "President's Club",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Enroll at united.com/AvisChaseBenefit; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "united",
+          "label": "1X United mile",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "calculationNote": null
+        },
+        {
+          "id": "united",
+          "categories": [
+            "flightsDirect"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "united",
+          "label": "4X United",
+          "detail": "Eligible purchases directly from United.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "calculationNote": null
+        },
+        {
+          "id": "bonus",
+          "categories": [
+            "carRentals",
+            "dining",
+            "flightsPortal",
+            "hotelsDirect",
+            "hotelsPortal",
+            "transit"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "united",
+          "label": "2X bonus categories",
+          "detail": "Eligible listed bonus categories.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+      "artworkSearchTerms": "Chase United Club",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "loungeAccess": [
+        {
+          "id": "united-club-personal",
+          "provider": "United Club",
+          "title": "United Club membership",
+          "detail": "Primary cardmember receives United Club membership; guest and All Access rules vary.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.united.com/UnitedClub"
+        }
+      ],
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/travel-credit-cards/united/club-infinite"
+      ],
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_new_infinite_card.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "scotia-passport-visa-infinite-plus-can",
+      "name": "Scotiabank Passport Visa Infinite + CAN",
+      "issuer": "Scotiabank",
+      "market": "CAN",
+      "annualFeeMinor": 15000,
+      "feeNote": "Annual fee verified from current Scotiabank Canada product information on 2026-10-12: C$150/year.",
+      "colorHex": "CD4A57",
+      "secondaryHex": "672636",
+      "artworkAsset": "Card-scotia-passport-visa-infinite-plus-can",
+      "programIDs": [
+        "scene-can"
+      ],
+      "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Verified against current Scotiabank Canada issuer pages on 2026-10-12. Welcome offers are excluded from Best Card rankings; merchant coding, annual spend caps and account-specific terms still control actual earn.",
+      "benefits": [
+        {
+          "id": "lounge-visits",
+          "title": "Visa Airport Companion visits",
+          "detail": "Six complimentary lounge visits per membership year through Visa Airport Companion.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/compare-cards.html",
+          "kind": "benefit"
+        },
+        {
+          "id": "no-fx",
+          "title": "No foreign transaction fee",
+          "detail": "No foreign transaction fee charged by Scotiabank on eligible foreign-currency purchases; network conversion applies.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/compare-cards.html",
+          "kind": "benefit"
+        },
+        {
+          "id": "gigsky",
+          "title": "GigSky connectivity (Visa Infinite +)",
+          "detail": "Complimentary 10 GB of GigSky global data for 15 consecutive days annually and access to eligible Travel Essentials; activation and terms apply. Effective April 25, 2026.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/notices/credit-cards/frequently-asked-questions.html",
+          "kind": "benefit"
+        },
+        {
+          "id": "pot-avis-preferred-plus",
+          "title": "Avis Preferred Plus",
+          "detail": "Avis Preferred Plus with a one-class car upgrade.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/",
+          "priority": 50
+        },
+        {
+          "id": "pot-shell-fuel-savings",
+          "title": "Shell fuel savings",
+          "detail": "Get up to 10¢/L in value at Shell when you link this card and Scene+ to a Shell Go+ account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/",
+          "priority": 51
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Receive up to $2 million CAD in emergency medical coverage for you, your spouse, and your eligible dependent children.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Protect your trip with cancellation and interruption insurance when you charge at least 75% of your trip costs to your card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Protect your trip with cancellation and interruption insurance when you charge at least 75% of your trip costs to your card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "If you charge at least 75% of your ticket to your card, you’re eligible for reimbursement of necessary expenses if your flight is delayed up to $500 per insured person on the same trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "If your checked luggage is delayed or lost, you’re covered up to $1,000 if you charged the full cost of your travel ticket to your card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "When you use your card to pay for your stay at any hotel or motel around the world, you, your spouse, and your dependent children are eligible for coverage up to $1,000 against theft if your room is broken into.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "If your eligible rental car is damaged or stolen, you’re automatically insured if you’ve charged the full cost of it to your card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "When you charge at least 75% of your trip to your card, you’re insured against accidental loss of life or dismemberment up to $500,000 per insured person and up to $1,000,000 for the trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Most of the new items you buy with your card are insured against theft, loss, or damage for 90 days from the purchase date.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [
+        {
+          "id": "pot-avis-preferred-plus",
+          "programID": "avis",
+          "tier": "Preferred Plus",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Register for Avis Preferred and link it to the card's offer; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html"
+        },
+        {
+          "id": "sobeys",
+          "categories": [
+            "sobeysGroup"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "Eligible participating Sobeys-family grocery stores.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html"
+        },
+        {
+          "id": "2x",
+          "categories": [
+            "groceries",
+            "dining",
+            "entertainment",
+            "transit"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "Eligible other groceries, dining, entertainment and transit.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html"
+        },
+        {
+          "id": "scene-travel",
+          "categories": [
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "Eligible Scene+ Travel hotel and car-rental bookings: 1 card point plus 3 additional Scene+ Travel points.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/",
+      "artworkSearchTerms": "Scotia Passport Visa Infinite Plus",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "available",
+      "loungeAccess": [
+        {
+          "id": "dragonpass",
+          "provider": "DragonPass",
+          "title": "Visa Airport Companion (DragonPass)",
+          "detail": "Six complimentary visits per membership year.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/compare-cards.html",
+          "finderURLTemplate": "https://airport.mastercard.com/en/lounge-finder"
+        }
+      ],
+      "foreignTransactionFeePercent": 0,
+      "benefitSourceURLs": [
+        "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+        "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2026/04/SB-Visa-Infinite-Plus-chip-E-PMS-0326.png",
+      "earningDataComplete": true
+    },
+    {
+      "id": "td-aeroplan-visa-infinite-can",
+      "name": "TD Aeroplan Visa Infinite CAN",
+      "issuer": "TD",
+      "market": "CAN",
+      "annualFeeMinor": 13900,
+      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "colorHex": "3A9955",
+      "secondaryHex": "163C2B",
+      "artworkAsset": "Card-td-aeroplan-visa-infinite-can",
+      "programIDs": [
+        "aeroplan"
+      ],
+      "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "benefits": [
+        {
+          "id": "aeroplan-2027-flight-discount",
+          "title": "15% off eligible Air Canada flight rewards",
+          "detail": "Ongoing from January 12, 2027, for eligible Aeroplan flight rewards containing an Air Canada flight. A limited-time promotion applies through January 11, 2027; check the displayed price and account terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "startsOn": null,
+          "kind": "benefit",
+          "priority": 10
+        },
+        {
+          "id": "aeroplan-2027-hotel-night",
+          "title": "Fourth night free on Aeroplan hotel redemptions",
+          "detail": "A current limited-time fourth-night-free offer applies to eligible Aeroplan hotel redemptions. From January 12, 2027, it becomes an ongoing card benefit for eligible four-night points stays booked through the Aeroplan hotel portal.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "startsOn": null,
+          "kind": "benefit",
+          "priority": 25
+        },
+        {
+          "id": "aeroplan-2027-car-day",
+          "title": "Fourth day free on Aeroplan car rental redemptions",
+          "detail": "From January 12, 2027, one day free for each eligible four consecutive rental days redeemed with Aeroplan points; check booking terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "startsOn": "2027-01-12",
+          "kind": "benefit",
+          "priority": 25
+        },
+        {
+          "id": "aeroplan-2027-ac-wallet",
+          "title": "Air Canada AC Wallet flight credit",
+          "detail": "C$25 deposited January 15 and July 15 (up to C$50 per year) for the primary cardholder. Each deposit expires after six months; applies to eligible Air Canada bookings, not reward-ticket taxes and fees.",
+          "capMinor": 2500,
+          "reset": "aeroplanWallet",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "startsOn": "2027-01-15",
+          "kind": "credit",
+          "priority": 10
+        },
+        {
+          "id": "nexus",
+          "title": "NEXUS rebate",
+          "detail": "Once every 48 months, a NEXUS application fee rebate of up to C$100.",
+          "capMinor": 10000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "credit",
+          "intervalYears": 4
+        },
+        {
+          "id": "pot-free-first-checked-bag",
+          "title": "Free first checked bag",
+          "detail": "Your first checked bag is free on Air Canada for you and up to 8 companions on the same booking.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/td-aeroplan-visa-infinite-card/",
+          "priority": 50
+        },
+        {
+          "id": "pot-status-qualifying-credits-from-spending",
+          "title": "Status Qualifying Credits from spending",
+          "detail": "Earn 1,000 SQC for every $20,000 spent, up to 25,000 SQC a year, toward Aeroplan Elite Status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/td-aeroplan-visa-infinite-card/",
+          "priority": 51
+        },
+        {
+          "id": "pot-troon-rewards-silver",
+          "title": "Troon Rewards Silver",
+          "detail": "10% off at 95+ Troon golf courses.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/td-aeroplan-visa-infinite-card/",
+          "priority": 52
+        },
+        {
+          "id": "pot-avis-preferred-plus",
+          "title": "Avis Preferred Plus",
+          "detail": "Avis Preferred Plus with a one-class car upgrade.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/td-aeroplan-visa-infinite-card/",
+          "priority": 53
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "For Trip Cancellation coverage of up to $1,500 per insured person, with a maximum of $5,000 for all insured persons, and for Trip Interruption coverage of up to $5,000 per insured person, with a maximum of $25,000 for all insured persons on",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "For Trip Cancellation coverage of up to $1,500 per insured person, with a maximum of $5,000 for all insured persons, and for Trip Interruption coverage of up to $5,000 per insured person, with a maximum of $25,000 for all insured persons on",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Up to $500 in coverage per insured person if your flight/trip is delayed for over 4 hours.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Up to $1,000 overall coverage per insured person toward the Purchase of essentials such as clothes and toiletries if your baggage is delayed more than 6 hours or lost.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to $2,500 of coverage per occurrence for eligible personal items stolen from your hotel or motel room that belong to the Cardholder on the Account and eligible family members travelling with the Cardholder.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Up to $500,000 of coverage for covered losses while travelling on a common carrier (for example, a bus, ferry, plane, train or auto rental).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to $1,000 of coverage in the event of loss, theft, accidental damage, or mechanical breakdown for eligible mobile devices.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "You automatically have access to Purchase Security and Extended Warranty Protection, covering eligible new items you’ve purchased with your Card, should they be stolen or damaged within 90 days of Purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "You automatically have access to Purchase Security and Extended Warranty Protection, covering eligible new items you’ve purchased with your Card, should they be stolen or damaged within 90 days of Purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [
+        {
+          "id": "pot-avis-preferred-plus",
+          "programID": "avis",
+          "tier": "Preferred Plus",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Register for Avis Preferred and link it to the card's offer; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://princeoftravel.com/credit-cards/td-aeroplan-visa-infinite-card/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "aeroplan",
+          "label": "Aeroplan points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card"
+        },
+        {
+          "id": "bonus",
+          "categories": [
+            "airCanada",
+            "gas",
+            "evCharging",
+            "groceries"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "aeroplan",
+          "label": "Aeroplan points",
+          "detail": "Eligible Air Canada, gas, EV charging and grocery purchases; accelerated annual cap.",
+          "countries": [],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+          "capMinor": 8000000,
+          "capGroup": "td-aeroplan-infinite"
+        },
+        {
+          "id": "hyatt",
+          "categories": [
+            "hyatt"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "aeroplan",
+          "label": "Aeroplan points",
+          "detail": "Hyatt purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://princeoftravel.com/credit-cards/td-aeroplan-visa-infinite-card/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/td-aeroplan-visa-infinite-card/",
+      "artworkSearchTerms": "TD Aeroplan Visa Infinite",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2021/01/card-aeroplan-infinite-2-removebg.png",
+      "benefitSourceURLs": [
+        "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
+        "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/newcardbenefits.html",
+        "https://princeoftravel.com/credit-cards/td-aeroplan-visa-infinite-card/"
+      ],
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true,
+      "upcomingFeeNote": "Announced annual fee: C$159 starting later in January 2027, subject to TD notice. Current fee is shown above until your applicable renewal."
+    },
+    {
+      "id": "chase-united-club-business-us",
+      "name": "Chase United Club Business US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 69500,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "2587B7",
+      "secondaryHex": "122A52",
+      "artworkAsset": "Card-chase-united-club-business-us",
+      "programIDs": [
+        "united"
+      ],
+      "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-200-in-credits-for-renowned-hotels-and-resorts-for-united-cardmembers",
+          "title": "Up to $200 in credits for Renowned Hotels and Resorts for United Cardmembers",
+          "detail": "Up to US$200/cardmember year on eligible prepaid Renowned Hotels and Resorts bookings.",
+          "capMinor": 20000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-240-in-instacart-credits",
+          "title": "Up to $240 in Instacart Credits",
+          "detail": "Two US$10 credits each month for eligible direct Instacart purchases through December 31, 2027.",
+          "capMinor": 2000,
+          "reset": "monthly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "credit",
+          "priority": 100,
+          "endsBefore": "2028-01-01"
+        },
+        {
+          "id": "issuer-200-in-credits-on-jsx-purchases-annually",
+          "title": "Up to $200 in credits on JSX purchases annually",
+          "detail": "Up to US$200/cardmember year on eligible direct JSX purchases.",
+          "capMinor": 20000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-free-first-and-second-checked-bags",
+          "title": "Free first and second checked bags",
+          "detail": "The primary cardmember and one companion each check a first and second standard bag free on United-operated flights (save up to $440 per roundtrip).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-avis-president-s-club",
+          "title": "Avis President's Club",
+          "detail": "Enroll in Avis President's Club at united.com/AvisChaseBenefit; include your Avis Preferred number when you book.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "You pay no foreign transaction fees on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-visa-concierge",
+          "title": "Visa Signature Concierge",
+          "detail": "Complimentary Visa Signature Concierge 24/7 for event tickets, dinner reservations and gifts.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "avis-budget-credit",
+          "title": "Avis or Budget United travel credit",
+          "detail": "US$50 in United TravelBank cash on each of the first two Avis or Budget rentals booked through mileageplustravel each anniversary year (US$100 total).",
+          "capMinor": 10000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "priority": 100
+        },
+        {
+          "id": "farelock-credit",
+          "title": "United FareLock credit",
+          "detail": "Up to US$50 back each anniversary year on United FareLock purchases.",
+          "capMinor": 5000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "priority": 100
+        },
+        {
+          "id": "rideshare",
+          "title": "Up to $150 in credits on rideshare purchases",
+          "detail": "Up to US$12/month January–November and US$18 in December for eligible rideshare purchases. Yearly enrollment required.",
+          "capMinor": 1200,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "monthOverrides": {
+            "12": 1800
+          },
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "priority": 100
+        },
+        {
+          "id": "chase-united-club-business-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "If your trip is canceled or cut short by sickness, severe weather or other covered situations, you can be reimbursed up to $10,000 per covered traveler and $20,000 per trip for your pre-paid, nonrefundable travel expenses, including passenger fares, tours, and hotels.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "chase-united-club-business-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "If your common carrier travel is delayed more than 12 hours or requires an overnight stay, you are covered for unreimbursed expenses, such as meals and lodging, up to $500 per covered traveler.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "chase-united-club-business-us-baggage-delay-insurance",
+          "title": "Baggage delay insurance",
+          "detail": "Reimburses you up to $100 a day for up to 3 days for essential purchases like toiletries and clothing when baggage is delayed over 6 hours.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "chase-united-club-business-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Provides reimbursement up to $3,000 per covered traveler for the cost to repair or replace checked or carry-on baggage that is lost, damaged or stolen during a covered trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "chase-united-club-business-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers your eligible new purchases for 120 days from the date of purchase against damage or theft up to $10,000 per item.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "chase-united-club-business-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends the time period of the manufacturer's U.S. warranty by an additional year, on eligible warranties of three years or less, up to four years from the date of purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "chase-united-club-business-us-return-protection",
+          "title": "Return protection",
+          "detail": "You can be reimbursed for eligible items that the store won't accept within 90 days of purchase, up to $500 per item, $1,000 per 12-month period.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "chase-united-club-business-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Decline the rental company's collision insurance and charge the entire rental cost to your card. Coverage is primary when renting for business purposes and provides reimbursement up to $60,000 for theft and collision damage for most rental vehicles with an MSRP of $125,000 or less.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "protection",
+          "priority": 207
+        }
+      ],
+      "statuses": [
+        {
+          "id": "card-status-progress",
+          "programID": "united",
+          "tier": "Premier qualifying-point progress",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "automatic": false,
+          "sourceURL": "https://www.united.com/en/us/fly/mileageplus/premier/qualify.html"
+        },
+        {
+          "id": "issuer-avis-president-s-club",
+          "programID": "avis",
+          "tier": "President's Club",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Enroll at united.com/AvisChaseBenefit; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "united",
+          "label": "1X United mile",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "calculationNote": null
+        },
+        {
+          "id": "united",
+          "categories": [
+            "flightsDirect"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "united",
+          "label": "2X United",
+          "detail": "Eligible purchases directly from United.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+      "artworkSearchTerms": "Chase United Club Business",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "loungeAccess": [
+        {
+          "id": "united-club-business",
+          "provider": "United Club",
+          "title": "United Club membership",
+          "detail": "Primary business cardmember receives United Club membership; All Access can have additional conditions.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.united.com/UnitedClub"
+        }
+      ],
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/united_club_biz_new_card.png",
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/business-credit-cards/united/united-club-business"
+      ],
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
@@ -10549,8 +11888,6 @@
     "Annual Costco cash back certificate": "Certificat de remise annuel Costco",
     "8 free passes a year (shared by all cards on the account) to the Desjardins Odyssey Lounges at Montréal-Trudeau (YUL), near gate 63 (international) and gate 76 (U.S.), then 50% off entry for you, one guest and up to 3 children.": "8 laissez-passer gratuits par année (partagés par toutes les cartes du compte) aux salons Odyssée Desjardins de Montréal-Trudeau (YUL), près de la porte 63 (international) et de la porte 76 (États-Unis), puis 50 % de rabais sur l'entrée pour vous, un invité et jusqu'à 3 enfants.",
     "50% off entry to the Desjardins Odyssey Lounges at Montréal-Trudeau (YUL) for you, one guest and up to 3 children, on flights leaving Canada (regular entry $42 before tax).": "50 % de rabais sur l'entrée aux salons Odyssée Desjardins de Montréal-Trudeau (YUL) pour vous, un invité et jusqu'à 3 enfants, pour les vols quittant le Canada (entrée régulière 42 $ avant taxes).",
-    "Access to the Desjardins Odyssey Lounges at Montréal-Trudeau (YUL) under Desjardins' current terms for this card; Desjardins' published lounge rules don't list a pass count for it, so check before you go.": "Accès aux salons Odyssée Desjardins de Montréal-Trudeau (YUL) selon les conditions actuelles de Desjardins pour cette carte; les règles publiées ne précisent pas de nombre de laissez-passer pour elle, vérifiez avant d'y aller.",
-    "Up to 25% off Hertz base rates in Canada (hertz.ca/desjardinsprestige), with no young or additional driver fee and Hertz Five Star status; up to 10% off at Thrifty and Dollar.": "Jusqu'à 25 % de rabais sur les tarifs de base Hertz au Canada (hertz.ca/desjardinsprestige), sans frais pour jeune conducteur ou conducteur additionnel, et statut Hertz Five Star; jusqu'à 10 % chez Thrifty et Dollar.",
     "15,000 bonus points (worth $125 in travel) if you make $10,000 in net purchases in the 12 months after you join; the points arrive by the end of the 15th month.": "15 000 points bonis (valant 125 $ en voyages) si vous faites 10 000 $ d'achats nets dans les 12 mois suivant l'adhésion; les points sont versés au plus tard à la fin du 15e mois.",
     "First-anniversary bonus points": "Points bonis au premier anniversaire",
     "Instant extra cash back at thousands of Neo partners across Canada, on top of the card's earn rates.": "Remises supplémentaires instantanées chez des milliers de partenaires Neo au Canada, en plus des taux de la carte.",
@@ -10583,6 +11920,13 @@
     "Concierge 24/7 at 1-800-797-8389: event and restaurant reservations, golf tee times, car services, gifts and flowers, plus medical and emergency travel help. You pay for anything bought for you.": "Conciergerie 24 h sur 24, 7 jours sur 7 au 1-800-797-8389 : réservations d'événements et de restaurants, départs au golf, services de voiture, cadeaux et fleurs, plus de l'aide médicale et d'urgence en voyage. Vous payez ce qui est acheté pour vous.",
     "Groceries, on the Gas & Grocery plan. Neo's monthly spend conditions apply.": "Épicerie, avec le forfait Essence et épicerie. Les conditions de dépenses mensuelles de Neo s'appliquent.",
     "Recurring bill payments, on the Gas & Grocery plan. Neo's monthly spend conditions apply.": "Paiements de factures récurrents, avec le forfait Essence et épicerie. Les conditions de dépenses mensuelles de Neo s'appliquent.",
-    "Gas and EV charging, on the Gas & Grocery plan. Neo's monthly spend conditions apply.": "Essence et recharge de VÉ, avec le forfait Essence et épicerie. Les conditions de dépenses mensuelles de Neo s'appliquent."
+    "Gas and EV charging, on the Gas & Grocery plan. Neo's monthly spend conditions apply.": "Essence et recharge de VÉ, avec le forfait Essence et épicerie. Les conditions de dépenses mensuelles de Neo s'appliquent.",
+    "Register for Avis Preferred and link it to the card's offer; keep the card open and in good standing.": "Inscrivez-vous à Avis Preferred et liez-le à l'offre de la carte; gardez la carte ouverte et en règle.",
+    "Primary cardholder; link your Aeroplan and World of Hyatt accounts. Keep the card open and in good standing.": "Titulaire principal; liez vos comptes Aéroplan et World of Hyatt. Gardez la carte ouverte et en règle.",
+    "Desjardins gives automatic eligibility for Five Star with Hertz Gold Plus Rewards; book through Desjardins' Hertz link.": "Desjardins donne l'admissibilité automatique au statut Five Star avec Hertz Gold Plus Rewards; réservez par le lien Hertz de Desjardins.",
+    "Enroll at united.com/AvisChaseBenefit; keep the card open and in good standing.": "Inscrivez-vous sur united.com/AvisChaseBenefit; gardez la carte ouverte et en règle.",
+    "Up to 25% off Hertz base rates at participating locations in Canada (hertz.ca/desjardinsprestige), no young or additional driver fee, and automatic eligibility for Hertz Five Star status in Gold Plus Rewards; up to 10% off at Thrifty and Dollar.": "Jusqu'à 25 % de rabais sur les tarifs de base Hertz aux comptoirs participants au Canada (hertz.ca/desjardinsprestige), sans frais pour jeune conducteur ou conducteur additionnel, et admissibilité automatique au statut Hertz Five Star dans Gold Plus Rewards; jusqu'à 10 % chez Thrifty et Dollar.",
+    "Mastercard Travel Pass lounge access": "Accès aux salons Mastercard Travel Pass",
+    "Mastercard Travel Pass by DragonPass for 1,300+ airport lounges in 140+ countries. Visits are paid at Travel Pass rates.": "Mastercard Travel Pass par DragonPass pour plus de 1 300 salons d'aéroport dans plus de 140 pays. Les visites sont payantes aux tarifs de Travel Pass."
   }
 }
