@@ -11838,6 +11838,235 @@
         "https://creditcards.chase.com/business-credit-cards/united/united-club-business"
       ],
       "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "chase-world-of-hyatt-us",
+      "name": "Chase World of Hyatt US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 9500,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "2587B7",
+      "secondaryHex": "122A52",
+      "artworkAsset": "Card-chase-world-of-hyatt-us",
+      "programIDs": [
+        "hyatt"
+      ],
+      "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-get-a-free-night-every-year",
+          "title": "Anniversary free night",
+          "detail": "One free night at any Category 1–4 Hyatt hotel or resort every year after your cardmember anniversary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "included-hyatt-status",
+          "title": "Discoverist status",
+          "detail": "World of Hyatt Discoverist status for as long as the card account is open.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://world.hyatt.com/content/gp/en/rewards/business-card.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "tqnc-annual",
+          "title": "5 tier-qualifying night credits a year",
+          "detail": "5 World of Hyatt tier-qualifying night credits toward status each year you have the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://world.hyatt.com/content/gp/en/rewards/business-card.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "tqnc-5k",
+          "title": "2 tier-qualifying night credits per $5,000",
+          "detail": "2 more World of Hyatt tier-qualifying night credits every time you spend $5,000 on the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://world.hyatt.com/content/gp/en/rewards/business-card.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "doordash-quarterly",
+          "title": "DoorDash non-restaurant discount",
+          "detail": "US$10 off one qualifying non-restaurant DoorDash order each calendar quarter after activating the card's DashPass membership.",
+          "capMinor": 1000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "priority": 100
+        },
+        {
+          "id": "chase-world-of-hyatt-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "If your trip is canceled or cut short by sickness, severe weather or other covered situations, you can be reimbursed up to $5,000 per covered traveler and $10,000 per trip for your pre-paid, non-refundable travel expenses, including passenger fares, tours, and hotels.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "chase-world-of-hyatt-us-baggage-delay-insurance",
+          "title": "Baggage delay insurance",
+          "detail": "Reimburses you up to $100 a day for up to 5 days for essential purchases like toiletries and clothing when baggage is delayed over 6 hours.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "chase-world-of-hyatt-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Provides reimbursement up to $3,000 per covered traveler for the cost to repair or replace checked or carry-on baggage that is lost, damaged or stolen during a covered trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "chase-world-of-hyatt-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers your eligible new purchases for 120 days from the date of purchase against damage or theft up to $500 per item.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "chase-world-of-hyatt-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Decline the rental company's collision insurance and charge the entire rental cost to your card. Coverage provides reimbursement for theft and collision damage for most rental vehicles. In the U.S., coverage is secondary to your personal insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "free-night-15k",
+          "title": "Hyatt Free Night (Category 1–4)",
+          "detail": "A Category 1–4 Free Night Award after spending $15,000 in purchases in a calendar year (once a year).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "kind": "benefit",
+          "priority": 105,
+          "spendMilestoneMinor": 1500000,
+          "spendPeriod": "calendarYear"
+        }
+      ],
+      "statuses": [
+        {
+          "id": "included-hyatt-status",
+          "programID": "hyatt",
+          "tier": "Discoverist",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "hyatt",
+          "label": "1X Hyatt point",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "calculationNote": null
+        },
+        {
+          "id": "hyatt",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "hyatt",
+          "label": "4X Hyatt",
+          "detail": "Eligible Hyatt hotel purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "calculationNote": null
+        },
+        {
+          "id": "bonus",
+          "categories": [
+            "dining",
+            "flightsDirect",
+            "transit"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "hyatt",
+          "label": "2X travel and dining",
+          "detail": "Eligible restaurants, airline tickets booked directly and local transit/commuting.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+      "artworkSearchTerms": "Chase World of Hyatt",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/world_of_hyatt_card.png",
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card"
+      ],
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
