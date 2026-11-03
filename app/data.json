@@ -1,0 +1,18 @@
+{
+  "format": "stackjet-app-data",
+  "version": 1,
+  "updated": "2026-11-03",
+  "note": "No changes yet. Every section is optional; an empty or missing section leaves that table as built into the app.",
+  "transferPartners": {},
+  "storeChains": [],
+  "princeOfTravelSources": {},
+  "princeOfTravelPartners": {},
+  "pointsGuySources": [],
+  "frequentMilerSources": [],
+  "partnerNames": [],
+  "statusMatchRules": [],
+  "statusTiers": {},
+  "retiredCards": {},
+  "homeCities": [],
+  "nearbyCities": {}
+}

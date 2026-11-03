@@ -1,6 +1,6 @@
 # stackjet-data
 
-Lounge and card fixes for the **StackJet** iPhone app, published here so they reach everyone without an App Store update.
+Lounge, card and other data fixes for the **StackJet** iPhone app, published here so they reach everyone without an App Store update.
 
 StackJet downloads [`lounges/corrections.json`](lounges/corrections.json) at most once a day, keeps the last valid copy on the iPhone, and from the next time it starts applies it to every lounge it shows, whether the lounge came from the list built into the app, a table in the app (Air Canada, United, Chase, Capital One, Escape) or the network's own website (Priority Pass, Centurion, Admirals Club, Plaza Premium). From StackJet 1.3 (3). A file that doesn't pass the app's checks is ignored, and the app keeps what it had.
 
@@ -36,5 +36,21 @@ StackJet downloads this at most once a day (or straight away with Settings › C
 | `french` | `{ "English text": "French text" }` for new or changed text on Canadian cards. |
 
 Rules the app checks: the right format, every card's rewards programs known, no duplicate ids, valid fees. If the result isn't a valid card list the file is ignored.
+
+## `app/data.json`
+
+Right now this file is empty: nothing is changed. Fixes for StackJet's smaller tables (from StackJet 1.3 (3)). The app downloads it at most once a day (or with Settings › Check for updates) and uses it from the next time it starts. Every section is optional and stands alone: a missing or empty section, or one with a bad entry, leaves that table exactly as built into the app.
+
+| Section | What it does |
+|---|---|
+| `transferPartners` | `{ "<source program id>": [ { "id", "name", "category", "from", "to", "unit", "programID"? } ] }`. The Points page shows exactly this partner list for each source program listed (e.g. `amex-mr-can`). `programID` is only needed for a partner id the app doesn't know yet. |
+| `storeChains` | `[ { "match": ["<store name>", …], "category": "<card category>" } ]`, checked before the built-in chains (e.g. `loblawsGroup`, `groceries`, `gas`). |
+| `princeOfTravelSources`, `princeOfTravelPartners` | Prince of Travel's program codes -> the app's programs and transfer partners, added to the built-in names. |
+| `pointsGuySources`, `frequentMilerSources`, `partnerNames` | Names The Points Guy and Frequent Miler use -> the app's programs and partners, checked first. |
+| `statusMatchRules` | When present, the whole list of status match offers (`source`, `minRank`, `destProgram`, `destRank`, `dest`, `instant`, `detail`, `countries`?). |
+| `statusTiers` | `{ "<program id>": ["<lowest tier>", …] }`: the tier names for each program listed. |
+| `retiredCards` | `{ "<closed card id>": "<replacement card id>" }`. Used only when the replacement card is in the app's card list. |
+| `homeCities` | Points deals departure cities `{ "city", "airports" }`: replaces the city with the same name, or adds it. |
+| `nearbyCities` | `{ "<city>": ["<nearby city>", …] }` for each city listed. |
 
 The data here is public lounge and card information (lounge names, locations and hours; card fees, benefits and earn rates) from the networks' and issuers' own sites. No app code, user data or keys are kept in this repository.
