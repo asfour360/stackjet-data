@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-03",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards: Status Lift details with the 2027 changes; the Business card's first-year WestJet Silver status; Status Lift progress on the personal card.",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -545,6 +545,2254 @@
       ],
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
+    },
+    {
+      "id": "amex-business-platinum-us",
+      "name": "Amex Business Platinum US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 89500,
+      "feeNote": "Current U.S. Business Platinum annual fee: $895.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-business-platinum-us",
+      "programIDs": [
+        "amex-mr-us"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Current issuer-sourced benefits and earning rules are modeled where the app can represent them safely. Issuer terms control eligibility, exclusions and changes.",
+      "benefits": [
+        {
+          "id": "hotel-credit",
+          "title": "Lodging credit",
+          "detail": "Up to $300 in statement credits January-June and another $300 July-December on eligible prepaid Fine Hotels + Resorts, The Hotel Collection (2+ nights) or Airbnb Luxe stays of 2+ nights booked through American Express Travel. From January 1, 2027, Fine Hotels + Resorts bookings also need 2+ nights for the credit.",
+          "capMinor": 30000,
+          "reset": "semiannual",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "kind": "credit"
+        },
+        {
+          "id": "airbnb-experiences",
+          "title": "Airbnb Experiences credit",
+          "detail": "Up to $250 a year in statement credits on Experiences bought directly from Airbnb, unlocked by a prepaid Airbnb Luxe stay booked through American Express Travel. Experiences finished on another site don't count.",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "kind": "credit"
+        },
+        {
+          "id": "airline-fee",
+          "title": "Airline fee credit",
+          "detail": "Up to $200 per calendar year for eligible incidental fees with the selected qualifying airline.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "credit"
+        },
+        {
+          "id": "chatgpt",
+          "title": "ChatGPT Business credit",
+          "detail": "Up to $300 per calendar year on eligible U.S. ChatGPT Business purchases.",
+          "capMinor": 30000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "credit"
+        },
+        {
+          "id": "indeed",
+          "title": "Indeed credit",
+          "detail": "Up to $90 quarterly on eligible U.S. Indeed purchases.",
+          "capMinor": 9000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "credit"
+        },
+        {
+          "id": "wireless",
+          "title": "Wireless credit",
+          "detail": "Up to $10 monthly on eligible U.S. wireless service purchases.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "credit"
+        },
+        {
+          "id": "adobe",
+          "title": "Adobe credit",
+          "detail": "Up to $250 per calendar year after meeting the qualifying Adobe spend requirement.",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "credit"
+        },
+        {
+          "id": "lounge",
+          "title": "Global Lounge Collection",
+          "detail": "Access to eligible lounges in the American Express Global Lounge Collection. Individual networks have separate entry rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "benefit"
+        },
+        {
+          "id": "issuer-marriott-bonvoy-gold-elite-status",
+          "title": "Marriott Bonvoy Gold Elite status",
+          "detail": "Complimentary Marriott Bonvoy Gold Elite status without stay requirements. Enrollment required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-hilton-honors-gold-status",
+          "title": "Hilton Honors Gold status",
+          "detail": "Complimentary Hilton Honors Gold status. Enrollment required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-global-dining-access-by-resy",
+          "title": "Global Dining Access by Resy",
+          "detail": "Access to hard-to-get reservations at participating restaurants, Priority Notify and a Resy profile badge when you add the card to Resy.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "clear-plus",
+          "title": "CLEAR+ credit",
+          "detail": "Up to US$219 in statement credits per calendar year for an auto-renewing CLEAR+ membership, excluding taxes and fees.",
+          "capMinor": 21900,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "priority": 100
+        },
+        {
+          "id": "global-entry-credit",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "A US$120 statement credit for Global Entry, or up to US$85 for a five-year TSA PreCheck membership, every 4 years when the fee is charged to the card.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "intervalYears": 4,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "priority": 100
+        },
+        {
+          "id": "amex-business-platinum-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Round trip paid entirely with the card: non-refundable expenses reimbursed up to US$10,000 per trip and US$20,000 per card per 12 months when a covered reason cancels or interrupts the trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-business-platinum-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$500 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-business-platinum-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "When the entire common-carrier fare is charged to the card: up to US$2,000 for checked baggage and a combined US$3,000 for checked and carry-on baggage, in excess of the carrier's coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-business-platinum-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-business-platinum-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "amex-business-platinum-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "amex-business-platinum-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "amex-business-platinum-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 medical, legal, financial and other emergency coordination and assistance when travelling more than 100 miles from home. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "kind": "protection",
+          "priority": 207
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hilton-gold",
+          "programID": "hilton",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card account open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "marriott-gold",
+          "programID": "marriott",
+          "tier": "Gold Elite",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card account open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "lhw-sterling",
+          "programID": "lhw",
+          "tier": "Sterling",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card account open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "avis-preferred",
+          "programID": "avis",
+          "tier": "Preferred",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card account open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "hertz-president",
+          "programID": "hertz",
+          "tier": "President's Circle",
+          "rank": 30,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card account open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "national-executive",
+          "programID": "national",
+          "tier": "Executive",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card account open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "amex-cruise-privileges",
+          "programID": "amex-cruise",
+          "tier": "Cruise Privileges access",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "Eligible Platinum Card cruise benefits apply to qualifying sailings; this is not cruise-line elite status.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/travel/cruises"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "MR points",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/"
+        },
+        {
+          "id": "travel-portal",
+          "categories": [
+            "flightsPortal",
+            "hotelsPortal"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "MR points",
+          "detail": "Flights, prepaid hotels and Airbnb stays booked through American Express Travel.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/"
+        },
+        {
+          "id": "business-2x",
+          "categories": [
+            "shipping",
+            "homeImprovement"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "MR points",
+          "detail": "U.S. construction material & hardware suppliers, electronic goods retailers, software & cloud providers and shipping providers, plus single purchases of $5,000+; up to $2 million per calendar year.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "capMinor": 200000000,
+          "capGroup": "bizplat-2x"
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+      "artworkSearchTerms": "Amex Business Platinum",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "loungeAccess": [
+        {
+          "id": "amex-glc-business",
+          "provider": "American Express",
+          "title": "Amex Global Lounge Collection",
+          "detail": "Business Platinum lounge benefits include eligible Centurion and partner lounges. Delta Sky Club visit rules and itinerary restrictions apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+          "finderURLTemplate": "https://travelloungefinder.americanexpress.com/en-us/travel/lounges/the-platinum-card/{IATA}/"
+        },
+        {
+          "id": "priority-pass-business",
+          "provider": "Priority Pass",
+          "title": "Priority Pass Select",
+          "detail": "Enrollment is required. Participating locations and guest charges follow current card and Priority Pass terms.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.prioritypass.com/lounges"
+        },
+        {
+          "id": "delta-skyclub",
+          "provider": "Delta Sky Club",
+          "title": "Delta Sky Club",
+          "detail": "10 visits each year when flying an eligible Delta flight; current fare, timing, guest and visit rules apply. Unlimited access can be unlocked after the current annual eligible-spend threshold.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/detail/delta-sky-club-access/business-platinum",
+          "finderURLTemplate": "https://www.delta.com/us/en/airports/delta-sky-club/locations"
+        }
+      ],
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/business-platinum.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/"
+      ]
+    },
+    {
+      "id": "amex-green-us",
+      "name": "Amex Green US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 15000,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-green-us",
+      "programIDs": [
+        "amex-mr-us"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/green/",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Selected official-source rules only. Unmodeled merchant-specific bonuses, travel protections, activation rules and credits are not asserted. This is not a complete benefits guide.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn 3× Membership Rewards points on eligible travel, transit and restaurant purchases and 1× on other eligible purchases. The current issuer page controls credits and enrollment requirements.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/green/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "coverage-guide",
+          "title": "Coverage: see your Guide to Benefits",
+          "detail": "Amex's Green Card page now redirects to the card list, so coverage could not be checked there. Check the Guide to Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/green/",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "Amex MR US",
+          "detail": "Standard eligible-purchase rate; issuer definitions and account eligibility apply. Welcome and relationship bonuses are not included.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/green/"
+        },
+        {
+          "id": "travel-dining-transit",
+          "categories": [
+            "dining",
+            "flightsDirect",
+            "hotelsDirect",
+            "transit"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "Amex MR US",
+          "detail": "Travel (including flights, hotels, and stays like Airbnb booked directly on third-party sites), dining and transit. Issuer definitions apply.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/green/",
+      "artworkSearchTerms": "Amex Green",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/green-card.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/green/"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "amex-morgan-stanley-platinum-us",
+      "name": "Amex Platinum for Morgan Stanley US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 89500,
+      "feeNote": "Current standard annual fee snapshot from the official co-brand product page; verify your account agreement.",
+      "colorHex": "667C92",
+      "secondaryHex": "263948",
+      "artworkAsset": "Card-amex-morgan-stanley-platinum-us",
+      "programIDs": [
+        "amex-mr-us"
+      ],
+      "sourceURL": "https://apply.americanexpress.com/amex-morgan-stanley%20-credit-cards/?page_url=38",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Issuer-sourced benefits are modeled for development testing. Full issuer terms control eligibility, exclusions, enrollment and changes.",
+      "benefits": [
+        {
+          "id": "resy-credit",
+          "title": "Resy credit",
+          "detail": "Up to $100 in statement credits each calendar quarter on eligible U.S. Resy purchases.",
+          "capMinor": 10000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "hotel-credit",
+          "title": "Lodging credit",
+          "detail": "Up to $300 in statement credits January-June and another $300 July-December on eligible prepaid Fine Hotels + Resorts, The Hotel Collection (2+ nights) or Airbnb Luxe stays of 2+ nights booked through American Express Travel. From January 1, 2027, Fine Hotels + Resorts bookings also need 2+ nights for the credit.",
+          "capMinor": 30000,
+          "reset": "semiannual",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "airbnb-experiences",
+          "title": "Airbnb Experiences credit",
+          "detail": "Up to $250 a year in statement credits on Experiences bought directly from Airbnb, unlocked by a prepaid Airbnb Luxe stay booked through American Express Travel. Experiences finished on another site don't count.",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "kind": "credit"
+        },
+        {
+          "id": "uber-cash",
+          "title": "Uber Cash",
+          "detail": "Up to $15 in Uber Cash each month plus an additional $20 in December, subject to current U.S. Platinum terms.",
+          "capMinor": 1500,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "monthOverrides": {
+            "12": 3500
+          },
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "uber-one",
+          "title": "Uber One credit",
+          "detail": "Up to $120 per calendar year toward an eligible Uber One membership.",
+          "capMinor": 12000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "digital-entertainment",
+          "title": "Digital entertainment credit",
+          "detail": "Up to $25 per month on eligible enrolled digital entertainment subscriptions.",
+          "capMinor": 2500,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "airline-fee",
+          "title": "Airline fee credit",
+          "detail": "Up to $200 per calendar year for eligible incidental fees charged by one selected qualifying airline.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "selectionLabel": "Preferred airline",
+          "selectionOptions": [
+            "Alaska Airlines",
+            "American Airlines",
+            "Delta Air Lines",
+            "JetBlue Airways",
+            "Spirit Airlines",
+            "United Airlines"
+          ],
+          "kind": "credit"
+        },
+        {
+          "id": "lululemon",
+          "title": "lululemon credit",
+          "detail": "Up to $75 each calendar quarter on eligible U.S. lululemon purchases.",
+          "capMinor": 7500,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "clear",
+          "title": "CLEAR+ credit",
+          "detail": "Up to $219 per calendar year toward an eligible CLEAR+ membership.",
+          "capMinor": 21900,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "oura",
+          "title": "Oura Ring credit",
+          "detail": "Up to $200 per calendar year on eligible Oura purchases under current Platinum terms.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "walmart-plus",
+          "title": "Walmart+ credit",
+          "detail": "Monthly statement credit toward one eligible Walmart+ membership, subject to current terms.",
+          "capMinor": 1295,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "equinox",
+          "title": "Equinox credit",
+          "detail": "Up to $300 per calendar year on eligible Equinox purchases after enrollment.",
+          "capMinor": 30000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "global-entry-tsa",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "Statement credit for an eligible Global Entry or TSA PreCheck application fee. The qualifying interval is rolling, not annual.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "intervalYears": 4,
+          "kind": "credit"
+        },
+        {
+          "id": "global-lounge",
+          "title": "Global Lounge Collection",
+          "detail": "Access to participating lounges in the American Express Global Lounge Collection, subject to the individual network and same-day travel rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "centurion",
+          "title": "Centurion Lounges",
+          "detail": "Access to eligible Centurion Lounges subject to current Platinum entry and guest rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "priority-pass",
+          "title": "Priority Pass Select",
+          "detail": "Enrollment provides Priority Pass Select access under the current U.S. Platinum terms; participating lounges and guest rules vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "delta-skyclub",
+          "title": "Delta Sky Club access",
+          "detail": "Eligible Platinum Card Members receive a limited number of Delta Sky Club visits when flying on an eligible same-day Delta itinerary, subject to current Delta/Amex terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "fhr",
+          "title": "Fine Hotels + Resorts",
+          "detail": "Eligible FHR bookings receive program benefits such as daily breakfast for two, property amenity, room upgrade when available and late checkout under current terms. From January 1, 2027, the statement credit needs a stay of 2 nights or more; the perks still apply on one-night stays.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hotel-collection",
+          "title": "The Hotel Collection",
+          "detail": "Qualifying stays through The Hotel Collection receive current program benefits; minimum stay requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hilton-gold",
+          "title": "Hilton Honors Gold",
+          "detail": "Enrollment benefit for Hilton Honors Gold status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "marriott-gold",
+          "title": "Marriott Bonvoy Gold Elite",
+          "detail": "Enrollment benefit for Marriott Bonvoy Gold Elite status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "lhw-sterling",
+          "title": "Leading Hotels of the World Sterling",
+          "detail": "Enrollment benefit for Leaders Club Sterling status under current Platinum terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "avis",
+          "title": "Avis Preferred",
+          "detail": "Enrollment for eligible Avis Preferred benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hertz",
+          "title": "Hertz Gold Plus Rewards",
+          "detail": "Enrollment for eligible Hertz elite benefits under current Platinum terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "national",
+          "title": "National Emerald Club",
+          "detail": "Enrollment for eligible National Emerald Club Executive benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "concierge",
+          "title": "Platinum Concierge",
+          "detail": "Access to Platinum Concierge service for eligible requests.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "global-dining",
+          "title": "Global Dining Access",
+          "detail": "Access to eligible dining inventory and experiences through current Platinum dining programs.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "amex-experiences",
+          "title": "Amex Experiences / ticket access",
+          "detail": "Access to eligible presales, reserved tickets and cardmember experiences where offered.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "amex-offers",
+          "title": "Amex Offers",
+          "detail": "Eligible targeted statement-credit or points offers may be available after enrollment; offers vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "amex-morgan-stanley-platinum-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Round trip paid entirely with the card: non-refundable expenses reimbursed up to US$10,000 per trip and US$20,000 per card per 12 months when a covered reason cancels or interrupts the trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-morgan-stanley-platinum-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$500 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-morgan-stanley-platinum-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-morgan-stanley-platinum-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-morgan-stanley-platinum-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories; up to US$10,000 per item and US$50,000 per account per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "amex-morgan-stanley-platinum-us-return-protection",
+          "title": "Return protection",
+          "detail": "If the seller won't take back an eligible purchase within 90 days, Amex may refund up to US$300 per item and US$1,000 per calendar year (U.S. purchases).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "amex-morgan-stanley-platinum-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "amex-morgan-stanley-platinum-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 medical, legal, financial and other emergency coordination and assistance when travelling more than 100 miles from home. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 207
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hilton-gold",
+          "programID": "hilton",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "marriott-gold",
+          "programID": "marriott",
+          "tier": "Gold Elite",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "lhw-sterling",
+          "programID": "lhw",
+          "tier": "Sterling",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "avis-preferred",
+          "programID": "avis",
+          "tier": "Preferred",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "hertz-president",
+          "programID": "hertz",
+          "tier": "President's Circle",
+          "rank": 30,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "national-executive",
+          "programID": "national",
+          "tier": "Executive",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "amex-cruise-privileges",
+          "programID": "amex-cruise",
+          "tier": "Cruise Privileges access",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "Eligible Platinum Card cruise benefits apply to qualifying sailings; this is not cruise-line elite status.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/travel/cruises"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "label": "MR points",
+          "detail": "Eligible purchases only. Issuer category definitions and account terms apply.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "airfare",
+          "categories": [
+            "flightsDirect",
+            "flightsPortal"
+          ],
+          "rate": 5,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "label": "MR points",
+          "detail": "Airline-direct or Amex Travel flights; shared USD 500,000 calendar-year spending limit.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "calendarYear",
+          "capGroup": "annual-airfare",
+          "capMinor": 50000000
+        },
+        {
+          "id": "prepaid-hotel",
+          "categories": [
+            "hotelsPortal"
+          ],
+          "rate": 5,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "label": "MR points",
+          "detail": "Prepaid hotels and Airbnb stays booked through American Express Travel.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://apply.americanexpress.com/amex-morgan-stanley%20-credit-cards/?page_url=38",
+      "artworkSearchTerms": "Amex Platinum for Morgan Stanley",
+      "catalogLevel": "partial",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "loungeAccess": [
+        {
+          "id": "amex-centurion",
+          "provider": "American Express",
+          "title": "Centurion Lounge",
+          "detail": "Eligible Centurion Lounge access under current Platinum terms.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/{IATA}/"
+        },
+        {
+          "id": "priority-pass",
+          "provider": "Priority Pass",
+          "title": "Priority Pass Select",
+          "detail": "Enrollment required; participating lounge rules vary.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.prioritypass.com/lounges/{IATA}"
+        },
+        {
+          "id": "delta-skyclub",
+          "provider": "Delta Sky Club",
+          "title": "Delta Sky Club",
+          "detail": "Eligible same-day Delta itinerary and current visit-limit rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.delta.com/us/en/airports/delta-sky-club/locations"
+        }
+      ],
+      "foreignTransactionFeePercent": 0,
+      "benefitSourceURLs": [
+        "https://apply.americanexpress.com/amex-morgan-stanley%20-credit-cards/?page_url=38",
+        "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+      ],
+      "artworkURL": "https://apply.americanexpress.com/wp-content/themes/openforum/morgan-stanley/images/chg_plat_metal_morgan.svg"
+    },
+    {
+      "id": "amex-platinum-us",
+      "name": "Amex Platinum US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 89500,
+      "feeNote": "Annual fee: $895. No foreign transaction fee.",
+      "colorHex": "667C92",
+      "secondaryHex": "263948",
+      "artworkAsset": "Card-amex-platinum-us",
+      "programIDs": [
+        "amex-mr-us"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Issuer-sourced benefits are modeled for development testing. Full issuer terms control eligibility, exclusions, enrollment and changes.",
+      "benefits": [
+        {
+          "id": "resy",
+          "title": "Resy credit",
+          "detail": "Up to $100 in statement credits each calendar quarter on eligible U.S. Resy purchases.",
+          "capMinor": 10000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "hotel",
+          "title": "Lodging credit",
+          "detail": "Up to $300 in statement credits January-June and another $300 July-December on eligible prepaid Fine Hotels + Resorts, The Hotel Collection (2+ nights) or Airbnb Luxe stays of 2+ nights booked through American Express Travel. From January 1, 2027, Fine Hotels + Resorts bookings also need 2+ nights for the credit.",
+          "capMinor": 30000,
+          "reset": "semiannual",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "airbnb-experiences",
+          "title": "Airbnb Experiences credit",
+          "detail": "Up to $250 a year in statement credits on Experiences bought directly from Airbnb, unlocked by a prepaid Airbnb Luxe stay booked through American Express Travel. Experiences finished on another site don't count.",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "kind": "credit"
+        },
+        {
+          "id": "uber",
+          "title": "Uber Cash",
+          "detail": "Up to $15 in Uber Cash each month plus an additional $20 in December, subject to current U.S. Platinum terms.",
+          "capMinor": 1500,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "monthOverrides": {
+            "12": 3500
+          },
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "uber-one",
+          "title": "Uber One credit",
+          "detail": "Up to $120 per calendar year toward an eligible Uber One membership.",
+          "capMinor": 12000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "digital",
+          "title": "Digital entertainment credit",
+          "detail": "Up to $25 per month on eligible enrolled digital entertainment subscriptions.",
+          "capMinor": 2500,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "airline",
+          "title": "Airline fee credit",
+          "detail": "Up to $200 per calendar year for eligible incidental fees charged by one selected qualifying airline.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "selectionLabel": "Preferred airline",
+          "selectionOptions": [
+            "Alaska Airlines",
+            "American Airlines",
+            "Delta Air Lines",
+            "JetBlue Airways",
+            "Spirit Airlines",
+            "United Airlines"
+          ],
+          "kind": "credit"
+        },
+        {
+          "id": "lululemon",
+          "title": "lululemon credit",
+          "detail": "Up to $75 each calendar quarter on eligible U.S. lululemon purchases.",
+          "capMinor": 7500,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "clear",
+          "title": "CLEAR+ credit",
+          "detail": "Up to $219 per calendar year toward an eligible CLEAR+ membership.",
+          "capMinor": 21900,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "oura",
+          "title": "Oura Ring credit",
+          "detail": "Up to $200 per calendar year on eligible Oura purchases under current Platinum terms.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "walmart-plus",
+          "title": "Walmart+ credit",
+          "detail": "Monthly statement credit toward one eligible Walmart+ membership, subject to current terms.",
+          "capMinor": 1295,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "equinox",
+          "title": "Equinox credit",
+          "detail": "Up to $300 per calendar year on eligible Equinox purchases after enrollment.",
+          "capMinor": 30000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "global-entry-tsa",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "Statement credit for an eligible Global Entry or TSA PreCheck application fee. The qualifying interval is rolling, not annual.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "intervalYears": 4,
+          "kind": "credit"
+        },
+        {
+          "id": "lounge",
+          "title": "Global Lounge Collection",
+          "detail": "Access to participating lounges in the American Express Global Lounge Collection, subject to the individual network and same-day travel rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "centurion",
+          "title": "Centurion Lounges",
+          "detail": "Access to eligible Centurion Lounges subject to current Platinum entry and guest rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "priority-pass",
+          "title": "Priority Pass Select",
+          "detail": "Enrollment provides Priority Pass Select access under the current U.S. Platinum terms; participating lounges and guest rules vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "delta-skyclub",
+          "title": "Delta Sky Club access",
+          "detail": "Eligible Platinum Card Members receive a limited number of Delta Sky Club visits when flying on an eligible same-day Delta itinerary, subject to current Delta/Amex terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "fhr",
+          "title": "Fine Hotels + Resorts",
+          "detail": "Eligible FHR bookings receive program benefits such as daily breakfast for two, property amenity, room upgrade when available and late checkout under current terms. From January 1, 2027, the statement credit needs a stay of 2 nights or more; the perks still apply on one-night stays.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hotel-collection",
+          "title": "The Hotel Collection",
+          "detail": "Qualifying stays through The Hotel Collection receive current program benefits; minimum stay requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hilton-gold",
+          "title": "Hilton Honors Gold",
+          "detail": "Enrollment benefit for Hilton Honors Gold status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "marriott-gold",
+          "title": "Marriott Bonvoy Gold Elite",
+          "detail": "Enrollment benefit for Marriott Bonvoy Gold Elite status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "lhw-sterling",
+          "title": "Leading Hotels of the World Sterling",
+          "detail": "Enrollment benefit for Leaders Club Sterling status under current Platinum terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "avis",
+          "title": "Avis Preferred",
+          "detail": "Enrollment for eligible Avis Preferred benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hertz",
+          "title": "Hertz Gold Plus Rewards",
+          "detail": "Enrollment for eligible Hertz elite benefits under current Platinum terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "national",
+          "title": "National Emerald Club",
+          "detail": "Enrollment for eligible National Emerald Club Executive benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "concierge",
+          "title": "Platinum Concierge",
+          "detail": "Access to Platinum Concierge service for eligible requests.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "global-dining",
+          "title": "Global Dining Access",
+          "detail": "Access to eligible dining inventory and experiences through current Platinum dining programs.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "amex-experiences",
+          "title": "Amex Experiences / ticket access",
+          "detail": "Access to eligible presales, reserved tickets and cardmember experiences where offered.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "amex-offers",
+          "title": "Amex Offers",
+          "detail": "Eligible targeted statement-credit or points offers may be available after enrollment; offers vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-leaders-club-sterling-status-from-the-leading-hotels-of-the-world",
+          "title": "Leaders Club Sterling status",
+          "detail": "Complimentary Leaders Club Sterling status from The Leading Hotels of the World: 5% points bonus on qualifying stays and 5 pre-arrival upgrades a year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "amex-platinum-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Round trip paid entirely with the card: non-refundable expenses reimbursed up to US$10,000 per trip and US$20,000 per card per 12 months when a covered reason cancels or interrupts the trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-platinum-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$500 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-platinum-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-platinum-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-platinum-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories; up to US$10,000 per item and US$50,000 per account per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "amex-platinum-us-return-protection",
+          "title": "Return protection",
+          "detail": "If the seller won't take back an eligible purchase within 90 days, Amex may refund up to US$300 per item and US$1,000 per calendar year (U.S. purchases).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "amex-platinum-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "amex-platinum-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 medical, legal, financial and other emergency coordination and assistance when travelling more than 100 miles from home. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 207
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hilton-gold",
+          "programID": "hilton",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "marriott-gold",
+          "programID": "marriott",
+          "tier": "Gold Elite",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "lhw-sterling",
+          "programID": "lhw",
+          "tier": "Sterling",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "avis-preferred",
+          "programID": "avis",
+          "tier": "Preferred",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "hertz-president",
+          "programID": "hertz",
+          "tier": "President's Circle",
+          "rank": 30,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "national-executive",
+          "programID": "national",
+          "tier": "Executive",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "amex-cruise-privileges",
+          "programID": "amex-cruise",
+          "tier": "Cruise Privileges access",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "Eligible Platinum Card cruise benefits apply to qualifying sailings; this is not cruise-line elite status.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/travel/cruises"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "label": "MR points",
+          "detail": "Eligible purchases only. Issuer category definitions and account terms apply.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "airfare",
+          "categories": [
+            "flightsDirect",
+            "flightsPortal"
+          ],
+          "rate": 5,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "label": "MR points",
+          "detail": "Airline-direct or Amex Travel flights; shared USD 500,000 calendar-year spending limit.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "calendarYear",
+          "capGroup": "annual-airfare",
+          "capMinor": 50000000
+        },
+        {
+          "id": "prepaid-hotel",
+          "categories": [
+            "hotelsPortal"
+          ],
+          "rate": 5,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "label": "MR points",
+          "detail": "Prepaid hotels and Airbnb stays booked through American Express Travel.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+      "artworkSearchTerms": "Amex Platinum",
+      "catalogLevel": "partial",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "loungeAccess": [
+        {
+          "id": "amex-centurion",
+          "provider": "American Express",
+          "title": "Centurion Lounge",
+          "detail": "Eligible Centurion Lounge access under current Platinum terms.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/{IATA}/"
+        },
+        {
+          "id": "priority-pass",
+          "provider": "Priority Pass",
+          "title": "Priority Pass Select",
+          "detail": "Enrollment required; participating lounge rules vary.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.prioritypass.com/lounges/{IATA}"
+        },
+        {
+          "id": "delta-skyclub",
+          "provider": "Delta Sky Club",
+          "title": "Delta Sky Club",
+          "detail": "Eligible same-day Delta itinerary and current visit-limit rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.delta.com/us/en/airports/delta-sky-club/locations"
+        }
+      ],
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/platinum-card.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+        "https://www.americanexpress.com/us/credit-cards/features-benefits/policies/baggage-insurance-plan-terms.html"
+      ]
+    },
+    {
+      "id": "amex-schwab-platinum-us",
+      "name": "Amex Platinum for Charles Schwab US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 89500,
+      "feeNote": "Current standard annual fee snapshot from the official co-brand product page; verify your account agreement.",
+      "colorHex": "667C92",
+      "secondaryHex": "263948",
+      "artworkAsset": "Card-amex-schwab-platinum-us",
+      "programIDs": [
+        "amex-mr-us"
+      ],
+      "sourceURL": "https://www.schwab.com/credit-cards/platinum-card",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Issuer-sourced benefits are modeled for development testing. Full issuer terms control eligibility, exclusions, enrollment and changes.",
+      "benefits": [
+        {
+          "id": "resy-credit",
+          "title": "Resy credit",
+          "detail": "Up to $100 in statement credits each calendar quarter on eligible U.S. Resy purchases.",
+          "capMinor": 10000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "hotel-credit",
+          "title": "Lodging credit",
+          "detail": "Up to $300 in statement credits January-June and another $300 July-December on eligible prepaid Fine Hotels + Resorts, The Hotel Collection (2+ nights) or Airbnb Luxe stays of 2+ nights booked through American Express Travel. From January 1, 2027, Fine Hotels + Resorts bookings also need 2+ nights for the credit.",
+          "capMinor": 30000,
+          "reset": "semiannual",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "airbnb-experiences",
+          "title": "Airbnb Experiences credit",
+          "detail": "Up to $250 a year in statement credits on Experiences bought directly from Airbnb, unlocked by a prepaid Airbnb Luxe stay booked through American Express Travel. Experiences finished on another site don't count.",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "kind": "credit"
+        },
+        {
+          "id": "uber-cash",
+          "title": "Uber Cash",
+          "detail": "Up to $15 in Uber Cash each month plus an additional $20 in December, subject to current U.S. Platinum terms.",
+          "capMinor": 1500,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "monthOverrides": {
+            "12": 3500
+          },
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "uber-one",
+          "title": "Uber One credit",
+          "detail": "Up to $120 per calendar year toward an eligible Uber One membership.",
+          "capMinor": 12000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "digital-entertainment",
+          "title": "Digital entertainment credit",
+          "detail": "Up to $25 per month on eligible enrolled digital entertainment subscriptions.",
+          "capMinor": 2500,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "airline-fee",
+          "title": "Airline fee credit",
+          "detail": "Up to $200 per calendar year for eligible incidental fees charged by one selected qualifying airline.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "selectionLabel": "Preferred airline",
+          "selectionOptions": [
+            "Alaska Airlines",
+            "American Airlines",
+            "Delta Air Lines",
+            "JetBlue Airways",
+            "Spirit Airlines",
+            "United Airlines"
+          ],
+          "kind": "credit"
+        },
+        {
+          "id": "lululemon",
+          "title": "lululemon credit",
+          "detail": "Up to $75 each calendar quarter on eligible U.S. lululemon purchases.",
+          "capMinor": 7500,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "clear",
+          "title": "CLEAR+ credit",
+          "detail": "Up to $219 per calendar year toward an eligible CLEAR+ membership.",
+          "capMinor": 21900,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "oura",
+          "title": "Oura Ring credit",
+          "detail": "Up to $200 per calendar year on eligible Oura purchases under current Platinum terms.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "walmart-plus",
+          "title": "Walmart+ credit",
+          "detail": "Monthly statement credit toward one eligible Walmart+ membership, subject to current terms.",
+          "capMinor": 1295,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "reminderOnPeriodStart": true,
+          "kind": "credit"
+        },
+        {
+          "id": "equinox",
+          "title": "Equinox credit",
+          "detail": "Up to $300 per calendar year on eligible Equinox purchases after enrollment.",
+          "capMinor": 30000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "credit"
+        },
+        {
+          "id": "global-entry-tsa",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "Statement credit for an eligible Global Entry or TSA PreCheck application fee. The qualifying interval is rolling, not annual.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "intervalYears": 4,
+          "kind": "credit"
+        },
+        {
+          "id": "global-lounge",
+          "title": "Global Lounge Collection",
+          "detail": "Access to participating lounges in the American Express Global Lounge Collection, subject to the individual network and same-day travel rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "centurion",
+          "title": "Centurion Lounges",
+          "detail": "Access to eligible Centurion Lounges subject to current Platinum entry and guest rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "priority-pass",
+          "title": "Priority Pass Select",
+          "detail": "Enrollment provides Priority Pass Select access under the current U.S. Platinum terms; participating lounges and guest rules vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "delta-skyclub",
+          "title": "Delta Sky Club access",
+          "detail": "Eligible Platinum Card Members receive a limited number of Delta Sky Club visits when flying on an eligible same-day Delta itinerary, subject to current Delta/Amex terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "fhr",
+          "title": "Fine Hotels + Resorts",
+          "detail": "Eligible FHR bookings receive program benefits such as daily breakfast for two, property amenity, room upgrade when available and late checkout under current terms. From January 1, 2027, the statement credit needs a stay of 2 nights or more; the perks still apply on one-night stays.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hotel-collection",
+          "title": "The Hotel Collection",
+          "detail": "Qualifying stays through The Hotel Collection receive current program benefits; minimum stay requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hilton-gold",
+          "title": "Hilton Honors Gold",
+          "detail": "Enrollment benefit for Hilton Honors Gold status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "marriott-gold",
+          "title": "Marriott Bonvoy Gold Elite",
+          "detail": "Enrollment benefit for Marriott Bonvoy Gold Elite status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "lhw-sterling",
+          "title": "Leading Hotels of the World Sterling",
+          "detail": "Enrollment benefit for Leaders Club Sterling status under current Platinum terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "avis",
+          "title": "Avis Preferred",
+          "detail": "Enrollment for eligible Avis Preferred benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "hertz",
+          "title": "Hertz Gold Plus Rewards",
+          "detail": "Enrollment for eligible Hertz elite benefits under current Platinum terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "national",
+          "title": "National Emerald Club",
+          "detail": "Enrollment for eligible National Emerald Club Executive benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "concierge",
+          "title": "Platinum Concierge",
+          "detail": "Access to Platinum Concierge service for eligible requests.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "global-dining",
+          "title": "Global Dining Access",
+          "detail": "Access to eligible dining inventory and experiences through current Platinum dining programs.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "amex-experiences",
+          "title": "Amex Experiences / ticket access",
+          "detail": "Access to eligible presales, reserved tickets and cardmember experiences where offered.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "amex-offers",
+          "title": "Amex Offers",
+          "detail": "Eligible targeted statement-credit or points offers may be available after enrollment; offers vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "benefit"
+        },
+        {
+          "id": "amex-schwab-platinum-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Round trip paid entirely with the card: non-refundable expenses reimbursed up to US$10,000 per trip and US$20,000 per card per 12 months when a covered reason cancels or interrupts the trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-schwab-platinum-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$500 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-schwab-platinum-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-schwab-platinum-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-schwab-platinum-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories; up to US$10,000 per item and US$50,000 per account per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "amex-schwab-platinum-us-return-protection",
+          "title": "Return protection",
+          "detail": "If the seller won't take back an eligible purchase within 90 days, Amex may refund up to US$300 per item and US$1,000 per calendar year (U.S. purchases).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "amex-schwab-platinum-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "amex-schwab-platinum-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 medical, legal, financial and other emergency coordination and assistance when travelling more than 100 miles from home. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "kind": "protection",
+          "priority": 207
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hilton-gold",
+          "programID": "hilton",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "marriott-gold",
+          "programID": "marriott",
+          "tier": "Gold Elite",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "lhw-sterling",
+          "programID": "lhw",
+          "tier": "Sterling",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "avis-preferred",
+          "programID": "avis",
+          "tier": "Preferred",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "hertz-president",
+          "programID": "hertz",
+          "tier": "President's Circle",
+          "rank": 30,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "national-executive",
+          "programID": "national",
+          "tier": "Executive",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Keep the qualifying card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+        },
+        {
+          "id": "amex-cruise-privileges",
+          "programID": "amex-cruise",
+          "tier": "Cruise Privileges access",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "Eligible Platinum Card cruise benefits apply to qualifying sailings; this is not cruise-line elite status.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/travel/cruises"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "label": "MR points",
+          "detail": "Eligible purchases only. Issuer category definitions and account terms apply.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "airfare",
+          "categories": [
+            "flightsDirect",
+            "flightsPortal"
+          ],
+          "rate": 5,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "label": "MR points",
+          "detail": "Airline-direct or Amex Travel flights; shared USD 500,000 calendar-year spending limit.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "calendarYear",
+          "capGroup": "annual-airfare",
+          "capMinor": 50000000
+        },
+        {
+          "id": "prepaid-hotel",
+          "categories": [
+            "hotelsPortal"
+          ],
+          "rate": 5,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/",
+          "label": "MR points",
+          "detail": "Prepaid hotels and Airbnb stays booked through American Express Travel.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.schwab.com/credit-cards/platinum-card",
+      "artworkSearchTerms": "Amex Platinum for Charles Schwab",
+      "catalogLevel": "partial",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "loungeAccess": [
+        {
+          "id": "amex-centurion",
+          "provider": "American Express",
+          "title": "Centurion Lounge",
+          "detail": "Eligible Centurion Lounge access under current Platinum terms.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/{IATA}/"
+        },
+        {
+          "id": "priority-pass",
+          "provider": "Priority Pass",
+          "title": "Priority Pass Select",
+          "detail": "Enrollment required; participating lounge rules vary.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.prioritypass.com/lounges/{IATA}"
+        },
+        {
+          "id": "delta-skyclub",
+          "provider": "Delta Sky Club",
+          "title": "Delta Sky Club",
+          "detail": "Eligible same-day Delta itinerary and current visit-limit rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+          "finderURLTemplate": "https://www.delta.com/us/en/airports/delta-sky-club/locations"
+        }
+      ],
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://www.schwab.com/sites/g/files/eyrktu1401/files/Platinum_Marquee.jpg",
+      "benefitSourceURLs": [
+        "https://www.schwab.com/credit-cards/platinum-card",
+        "https://www.americanexpress.com/us/credit-cards/card/platinum/"
+      ]
     }
   ],
   "removeCards": [],
