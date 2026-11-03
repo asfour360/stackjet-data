@@ -2,7 +2,7 @@
 
 Lounge and card fixes for the **StackJet** iPhone app, published here so they reach everyone without an App Store update.
 
-StackJet downloads [`lounges/corrections.json`](lounges/corrections.json) at most once a day, keeps the last valid copy on the iPhone, and applies it on top of the lounges built into the app the next time it starts. A file that doesn't pass the app's checks is ignored, and the app keeps what it had.
+StackJet downloads [`lounges/corrections.json`](lounges/corrections.json) at most once a day, keeps the last valid copy on the iPhone, and from the next time it starts applies it to every lounge it shows, whether the lounge came from the list built into the app, a table in the app (Air Canada, United, Chase, Capital One, Escape) or the network's own website (Priority Pass, Centurion, Admirals Club, Plaza Premium). From StackJet 1.3 (3). A file that doesn't pass the app's checks is ignored, and the app keeps what it had.
 
 ## `lounges/corrections.json`
 
@@ -10,7 +10,7 @@ StackJet downloads [`lounges/corrections.json`](lounges/corrections.json) at mos
 |---|---|
 | `format`, `version` | Always `"stackjet-lounge-corrections"` and `1`. |
 | `updated` | Date of the last change, `yyyy-MM-dd`. |
-| `remove` | Lounges to hide: `{ "airport": "YVR", "provider": "Priority Pass", "name": "…" }` (exact name as in the app). |
+| `remove` | Lounges to hide: `{ "airport": "YVR", "provider": "Priority Pass", "name": "…" }`, the name as shown in the app (case, dashes and a trailing airport code like "— YVR" don't matter). |
 | `change` | Fix fields on one lounge, found the same way. Optional: `newName`, `terminal`, `location`, `hours`, `officialURL`, `description`, `restrictions`, `amenities`, `photoURLs`. |
 | `add` | New lounges, in the same format as the app's built-in lounge list. |
 | `replaceAirports` | `{ "YVR": [ … ] }`: replaces every lounge of the networks listed for that airport. |
