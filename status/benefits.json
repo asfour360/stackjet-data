@@ -1,0 +1,1217 @@
+{
+  "format": "stackjet-status-benefits",
+  "version": 1,
+  "updated": "2026-11-03",
+  "note": "Tier benefits shown when you tap a status. Each program lists its tiers lowest first, with where it was checked.",
+  "programs": {
+    "delta": {
+      "sourceName": "Delta",
+      "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/medallion-benefits",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Silver Medallion",
+          "qualify": "$5,000 MQDs in a year",
+          "qualifyFR": "5 000 $ de MQD dans l'année",
+          "benefits": [
+            "7 miles per dollar on Delta flights",
+            "Complimentary upgrades to Delta Comfort and First Class from 24 hours before departure",
+            "Preferred seats and no checked bag fees",
+            "Zone 5 boarding and a priority phone line",
+            "SkyTeam Elite",
+            "Hertz Five Star and 15% off Delta Stays"
+          ],
+          "benefitsFR": [
+            "7 milles par dollar sur les vols Delta",
+            "Surclassements gratuits en Delta Comfort et en Première à partir de 24 heures avant le départ",
+            "Sièges privilégiés et bagages enregistrés sans frais",
+            "Embarquement en zone 5 et ligne téléphonique prioritaire",
+            "SkyTeam Elite",
+            "Hertz Five Star et 15 % de rabais sur Delta Stays"
+          ]
+        },
+        {
+          "name": "Gold Medallion",
+          "qualify": "$10,000 MQDs in a year",
+          "qualifyFR": "10 000 $ de MQD dans l'année",
+          "benefits": [
+            "8 miles per dollar on Delta flights",
+            "Complimentary upgrades from 72 hours before departure",
+            "Sky Priority check-in, priority security and expedited bags",
+            "Zone 4 boarding; same-day confirmed changes free",
+            "SkyTeam Elite Plus: SkyTeam lounges on international flights",
+            "4 drink vouchers a year; Hertz Five Star"
+          ],
+          "benefitsFR": [
+            "8 milles par dollar sur les vols Delta",
+            "Surclassements gratuits à partir de 72 heures avant le départ",
+            "Enregistrement Sky Priority, contrôle de sécurité prioritaire et bagages prioritaires",
+            "Embarquement en zone 4; changements confirmés le jour même sans frais",
+            "SkyTeam Elite Plus : salons SkyTeam sur les vols internationaux",
+            "4 bons de boisson par année; Hertz Five Star"
+          ]
+        },
+        {
+          "name": "Platinum Medallion",
+          "qualify": "$15,000 MQDs in a year",
+          "qualifyFR": "15 000 $ de MQD dans l'année",
+          "benefits": [
+            "9 miles per dollar on Delta flights",
+            "Upgrades to First and Premium Select from 120 hours; Delta Comfort right after booking",
+            "1 Choice Benefit a year",
+            "Zone 4 boarding and a higher-priority phone line",
+            "SkyTeam Elite Plus",
+            "Hertz President's Circle and 20% off Delta Stays"
+          ],
+          "benefitsFR": [
+            "9 milles par dollar sur les vols Delta",
+            "Surclassements en Première et Premium Select à partir de 120 heures; Delta Comfort dès la réservation",
+            "1 avantage au choix (Choice Benefit) par année",
+            "Embarquement en zone 4 et ligne téléphonique plus prioritaire",
+            "SkyTeam Elite Plus",
+            "Hertz President's Circle et 20 % de rabais sur Delta Stays"
+          ]
+        },
+        {
+          "name": "Diamond Medallion",
+          "qualify": "$28,000 MQDs in a year",
+          "qualifyFR": "28 000 $ de MQD dans l'année",
+          "benefits": [
+            "11 miles per dollar on Delta flights",
+            "Top upgrade priority, from 120 hours before departure",
+            "3 Choice Benefits a year (a Sky Club membership uses 2, or all 3 for Executive)",
+            "Zone 2 boarding and the Diamond VIP phone line",
+            "SkyTeam Elite Plus",
+            "Hertz President's Circle and $90 off CLEAR+"
+          ],
+          "benefitsFR": [
+            "11 milles par dollar sur les vols Delta",
+            "Priorité de surclassement la plus élevée, à partir de 120 heures avant le départ",
+            "3 avantages au choix par année (une adhésion Sky Club en utilise 2, ou les 3 pour Executive)",
+            "Embarquement en zone 2 et ligne VIP Diamond",
+            "SkyTeam Elite Plus",
+            "Hertz President's Circle et 90 $ de rabais sur CLEAR+"
+          ]
+        }
+      ],
+      "note": "Status earned with 2026 activity is for 2027. Credit cards can add MQDs (Headstart and Boost).",
+      "noteFR": "Le statut obtenu avec l'activité de 2026 vaut pour 2027. Les cartes de crédit peuvent ajouter des MQD (Headstart et Boost)."
+    },
+    "united": {
+      "sourceName": "Milesopedia (United MileagePlus guide)",
+      "sourceURL": "https://milesopedia.com/en/guide/strategy/united-airlines-elite-status/",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Premier Silver",
+          "qualify": "15 flights + 5,000 PQP, or 6,000 PQP",
+          "qualifyFR": "15 vols + 5 000 PQP, ou 6 000 PQP",
+          "benefits": [
+            "Bonus award miles on United flights",
+            "Complimentary upgrades on the day of departure",
+            "Economy Plus at check-in for you and one companion",
+            "1 free checked bag",
+            "Star Alliance Silver"
+          ],
+          "benefitsFR": [
+            "Milles bonis sur les vols United",
+            "Surclassements gratuits le jour du départ",
+            "Economy Plus à l'enregistrement pour vous et un compagnon",
+            "1 bagage enregistré gratuit",
+            "Star Alliance Argent"
+          ]
+        },
+        {
+          "name": "Premier Gold",
+          "qualify": "30 flights + 10,000 PQP, or 12,000 PQP",
+          "qualifyFR": "30 vols + 10 000 PQP, ou 12 000 PQP",
+          "benefits": [
+            "More bonus award miles on United flights",
+            "Complimentary upgrades from 48 hours before departure",
+            "Economy Plus at booking for you and one companion",
+            "2 free checked bags",
+            "Star Alliance Gold: lounges on international trips"
+          ],
+          "benefitsFR": [
+            "Plus de milles bonis sur les vols United",
+            "Surclassements gratuits à partir de 48 heures avant le départ",
+            "Economy Plus dès la réservation pour vous et un compagnon",
+            "2 bagages enregistrés gratuits",
+            "Star Alliance Or : salons lors des voyages internationaux"
+          ]
+        },
+        {
+          "name": "Premier Platinum",
+          "qualify": "45 flights + 15,000 PQP, or 18,000 PQP",
+          "qualifyFR": "45 vols + 15 000 PQP, ou 18 000 PQP",
+          "benefits": [
+            "Complimentary upgrades from 72 hours before departure",
+            "40 PlusPoints for upgrades",
+            "Economy Plus at booking for you and up to 8 companions",
+            "3 free checked bags",
+            "Star Alliance Gold"
+          ],
+          "benefitsFR": [
+            "Surclassements gratuits à partir de 72 heures avant le départ",
+            "40 PlusPoints pour des surclassements",
+            "Economy Plus dès la réservation pour vous et jusqu'à 8 compagnons",
+            "3 bagages enregistrés gratuits",
+            "Star Alliance Or"
+          ]
+        },
+        {
+          "name": "Premier 1K",
+          "qualify": "60 flights + 22,000 PQP, or 28,000 PQP",
+          "qualifyFR": "60 vols + 22 000 PQP, ou 28 000 PQP",
+          "benefits": [
+            "Complimentary upgrades from 96 hours before departure",
+            "280 more PlusPoints (320 in all)",
+            "Boards before all other groups",
+            "3 free checked bags",
+            "Star Alliance Gold"
+          ],
+          "benefitsFR": [
+            "Surclassements gratuits à partir de 96 heures avant le départ",
+            "280 PlusPoints de plus (320 au total)",
+            "Embarquement avant tous les autres groupes",
+            "3 bagages enregistrés gratuits",
+            "Star Alliance Or"
+          ]
+        }
+      ],
+      "note": "Qualification shown is for the 2026 year (status for 2027).",
+      "noteFR": "Les exigences indiquées sont celles de 2026 (statut pour 2027)."
+    },
+    "american": {
+      "sourceName": "American Airlines and MilesMate",
+      "sourceURL": "https://www.aa.com/pubcontent/en_AP/aadvantage-program/discover/tab-content/status-overview.html",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "AAdvantage Gold",
+          "qualify": "40,000 Loyalty Points",
+          "qualifyFR": "40 000 points de fidélité",
+          "benefits": [
+            "40% more miles on American flights",
+            "Complimentary upgrades from 24 hours before departure",
+            "1 free checked bag",
+            "Main Cabin Extra and Preferred seats at check-in",
+            "Group 4 boarding",
+            "oneworld Ruby"
+          ],
+          "benefitsFR": [
+            "40 % de milles de plus sur les vols American",
+            "Surclassements gratuits à partir de 24 heures avant le départ",
+            "1 bagage enregistré gratuit",
+            "Sièges Main Cabin Extra et privilégiés à l'enregistrement",
+            "Embarquement groupe 4",
+            "oneworld Ruby"
+          ]
+        },
+        {
+          "name": "AAdvantage Platinum",
+          "qualify": "75,000 Loyalty Points",
+          "qualifyFR": "75 000 points de fidélité",
+          "benefits": [
+            "60% more miles on American flights",
+            "Complimentary upgrades from 48 hours before departure",
+            "2 free checked bags with priority handling",
+            "Main Cabin Extra and Preferred seats at booking",
+            "Group 3 boarding",
+            "oneworld Sapphire: business class lounges on international trips"
+          ],
+          "benefitsFR": [
+            "60 % de milles de plus sur les vols American",
+            "Surclassements gratuits à partir de 48 heures avant le départ",
+            "2 bagages enregistrés gratuits, traités en priorité",
+            "Sièges Main Cabin Extra et privilégiés dès la réservation",
+            "Embarquement groupe 3",
+            "oneworld Sapphire : salons affaires lors des voyages internationaux"
+          ]
+        },
+        {
+          "name": "AAdvantage Platinum Pro",
+          "qualify": "125,000 Loyalty Points",
+          "qualifyFR": "125 000 points de fidélité",
+          "benefits": [
+            "80% more miles on American flights",
+            "Complimentary upgrades from 72 hours before departure",
+            "3 free checked bags",
+            "Group 2 boarding",
+            "oneworld Emerald: first class lounges on international trips"
+          ],
+          "benefitsFR": [
+            "80 % de milles de plus sur les vols American",
+            "Surclassements gratuits à partir de 72 heures avant le départ",
+            "3 bagages enregistrés gratuits",
+            "Embarquement groupe 2",
+            "oneworld Emerald : salons première classe lors des voyages internationaux"
+          ]
+        },
+        {
+          "name": "AAdvantage Executive Platinum",
+          "qualify": "200,000 Loyalty Points",
+          "qualifyFR": "200 000 points de fidélité",
+          "benefits": [
+            "120% more miles on American flights",
+            "Complimentary upgrades from 100 hours before departure",
+            "3 free checked bags",
+            "Group 1 boarding",
+            "oneworld Emerald, including Flagship Lounges"
+          ],
+          "benefitsFR": [
+            "120 % de milles de plus sur les vols American",
+            "Surclassements gratuits à partir de 100 heures avant le départ",
+            "3 bagages enregistrés gratuits",
+            "Embarquement groupe 1",
+            "oneworld Emerald, y compris les salons Flagship"
+          ]
+        }
+      ],
+      "note": "Status year runs March 1 to the end of February. Basic Economy fares bought after December 17, 2025 don't earn Loyalty Points.",
+      "noteFR": "L'année de statut va du 1er mars à la fin février. Les tarifs Basic Economy achetés après le 17 décembre 2025 ne donnent pas de points de fidélité."
+    },
+    "aeroplan": {
+      "sourceName": "Air Canada Aeroplan",
+      "sourceURL": "https://www.aircanada.com/ca/en/aco/home/aeroplan/status/tiers.html",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Aeroplan 25K",
+          "qualify": "25,000 SQC (or 100,000 everyday EDQ)",
+          "qualifyFR": "25 000 CQS (ou 100 000 EDQ au quotidien)",
+          "benefits": [
+            "2X elite points on Air Canada flights",
+            "5 eUpgrade credits",
+            "1 extra checked bag (23 kg)",
+            "Priority check-in with Air Canada",
+            "Preferred seats at check-in",
+            "Star Alliance Silver; Hertz Five Star; Avis Preferred Plus"
+          ],
+          "benefitsFR": [
+            "Points élites 2X sur les vols Air Canada",
+            "5 crédits eSurclassement",
+            "1 bagage enregistré de plus (23 kg)",
+            "Enregistrement prioritaire avec Air Canada",
+            "Sièges privilégiés à l'enregistrement",
+            "Star Alliance Argent; Hertz Five Star; Avis Preferred Plus"
+          ]
+        },
+        {
+          "name": "Aeroplan 35K",
+          "qualify": "35,000 SQC",
+          "qualifyFR": "35 000 CQS",
+          "benefits": [
+            "3X elite points on Air Canada flights",
+            "10 eUpgrade credits",
+            "3 checked bags (32 kg each)",
+            "Priority security and priority baggage",
+            "Star Alliance Silver"
+          ],
+          "benefitsFR": [
+            "Points élites 3X sur les vols Air Canada",
+            "10 crédits eSurclassement",
+            "3 bagages enregistrés (32 kg chacun)",
+            "Contrôle de sécurité et bagages prioritaires",
+            "Star Alliance Argent"
+          ]
+        },
+        {
+          "name": "Aeroplan 50K",
+          "qualify": "50,000 SQC",
+          "qualifyFR": "50 000 CQS",
+          "benefits": [
+            "4X elite points on Air Canada flights",
+            "15 eUpgrade credits",
+            "Maple Leaf Lounges and Air Canada Cafés",
+            "Star Alliance Gold: lounges and priority across the alliance",
+            "Free standard seats; preferred seats at booking in Canada and the U.S.",
+            "Can get Marriott Bonvoy Gold Elite"
+          ],
+          "benefitsFR": [
+            "Points élites 4X sur les vols Air Canada",
+            "15 crédits eSurclassement",
+            "Salons Feuille d'érable et Cafés Air Canada",
+            "Star Alliance Or : salons et services prioritaires dans toute l'alliance",
+            "Sièges standards gratuits; sièges privilégiés à la réservation au Canada et aux États-Unis",
+            "Admissible au statut Gold Elite Marriott Bonvoy"
+          ]
+        },
+        {
+          "name": "Aeroplan 75K",
+          "qualify": "75,000 SQC",
+          "qualifyFR": "75 000 CQS",
+          "benefits": [
+            "5X elite points on Air Canada flights",
+            "20 eUpgrade credits",
+            "Preferred seats at booking",
+            "Star Alliance Gold",
+            "Hertz President's Circle"
+          ],
+          "benefitsFR": [
+            "Points élites 5X sur les vols Air Canada",
+            "20 crédits eSurclassement",
+            "Sièges privilégiés dès la réservation",
+            "Star Alliance Or",
+            "Hertz President's Circle"
+          ]
+        },
+        {
+          "name": "Aeroplan Super Elite",
+          "qualify": "125,000 SQC",
+          "qualifyFR": "125 000 CQS",
+          "benefits": [
+            "6X elite points on Air Canada flights",
+            "30 eUpgrade credits and an eUpgrade nominee",
+            "Concierge service",
+            "2 Status Passes",
+            "Free changes and cancellations on flight rewards",
+            "Avis President's Club; Hertz President's Circle"
+          ],
+          "benefitsFR": [
+            "Points élites 6X sur les vols Air Canada",
+            "30 crédits eSurclassement et un bénéficiaire désigné",
+            "Service de concierge",
+            "2 laissez-passer de statut",
+            "Modifications et annulations gratuites des primes-voyages",
+            "Avis President's Club; Hertz President's Circle"
+          ]
+        }
+      ],
+      "note": "Qualification shown is with Status Qualifying Credits (SQC), Air Canada's measure for 2027 status and later.",
+      "noteFR": "Les exigences sont en crédits de qualification au statut (CQS), la mesure d'Air Canada pour le statut 2027 et après."
+    },
+    "flying-blue": {
+      "sourceName": "Milesopedia (Flying Blue guide)",
+      "sourceURL": "https://milesopedia.com/en/guide/strategy/flying-blue-status/",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Flying Blue Silver",
+          "qualify": "100 XP",
+          "qualifyFR": "100 XP",
+          "benefits": [
+            "6 Miles per euro",
+            "1 extra checked bag on SkyTeam",
+            "Priority check-in, bag drop and boarding",
+            "Free standard seats; extra-legroom seats free 24 hours before departure",
+            "SkyTeam Elite"
+          ],
+          "benefitsFR": [
+            "6 Miles par euro",
+            "1 bagage enregistré de plus sur SkyTeam",
+            "Enregistrement, dépôt de bagages et embarquement prioritaires",
+            "Sièges standards gratuits; sièges à espace accru gratuits 24 heures avant le départ",
+            "SkyTeam Elite"
+          ]
+        },
+        {
+          "name": "Flying Blue Gold",
+          "qualify": "280 XP",
+          "qualifyFR": "280 XP",
+          "benefits": [
+            "7 Miles per euro",
+            "1 extra checked bag on SkyTeam",
+            "SkyTeam lounges for you and 1 guest",
+            "SkyPriority throughout the airport",
+            "Extra-legroom seats free 72 hours before departure",
+            "SkyTeam Elite Plus"
+          ],
+          "benefitsFR": [
+            "7 Miles par euro",
+            "1 bagage enregistré de plus sur SkyTeam",
+            "Salons SkyTeam pour vous et 1 invité",
+            "SkyPriority dans tout l'aéroport",
+            "Sièges à espace accru gratuits 72 heures avant le départ",
+            "SkyTeam Elite Plus"
+          ]
+        },
+        {
+          "name": "Flying Blue Platinum",
+          "qualify": "580 XP",
+          "qualifyFR": "580 XP",
+          "benefits": [
+            "8 Miles per euro",
+            "2 extra checked bags on SkyTeam",
+            "SkyTeam lounges for you, 1 guest and your children",
+            "Extra-legroom seats free at booking",
+            "50,000-Mile overdraft for awards and upgrades",
+            "Platinum service line"
+          ],
+          "benefitsFR": [
+            "8 Miles par euro",
+            "2 bagages enregistrés de plus sur SkyTeam",
+            "Salons SkyTeam pour vous, 1 invité et vos enfants",
+            "Sièges à espace accru gratuits dès la réservation",
+            "Découvert de 50 000 Miles pour les primes et surclassements",
+            "Ligne de service Platinum"
+          ]
+        },
+        {
+          "name": "Flying Blue Ultimate",
+          "qualify": "900 UXP on Air France and KLM flights, while Platinum",
+          "qualifyFR": "900 UXP sur les vols Air France et KLM, en étant Platinum",
+          "benefits": [
+            "9 Miles per euro",
+            "Air France and KLM lounges for you and up to 8 guests",
+            "4 upgrade vouchers a year",
+            "A Platinum card for one companion",
+            "100,000-Mile overdraft and free onboard Wi-Fi",
+            "Dedicated advisor"
+          ],
+          "benefitsFR": [
+            "9 Miles par euro",
+            "Salons Air France et KLM pour vous et jusqu'à 8 invités",
+            "4 bons de surclassement par année",
+            "Une carte Platinum pour un compagnon",
+            "Découvert de 100 000 Miles et Wi-Fi gratuit à bord",
+            "Conseiller dédié"
+          ]
+        }
+      ],
+      "note": "XP is counted over your own 12-month qualification period. Falling short drops you one level only.",
+      "noteFR": "Les XP comptent sur votre période de qualification de 12 mois. Si vous n'atteignez pas le seuil, vous ne descendez que d'un niveau."
+    },
+    "southwest": {
+      "sourceName": "Southwest Airlines",
+      "sourceURL": "https://www.southwest.com/rapid-rewards/tiers/",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "A-List",
+          "qualify": "20 one-way flights or 35,000 tier qualifying points",
+          "qualifyFR": "20 vols aller simple ou 35 000 points de qualification",
+          "benefits": [
+            "25% earning bonus",
+            "Preferred or Standard seat at booking; Extra Legroom upgrade within 48 hours",
+            "Group 1 boarding",
+            "1 free checked bag",
+            "Same-day standby",
+            "Priority and Express Lanes, priority phone support"
+          ],
+          "benefitsFR": [
+            "Boni de 25 % sur les points",
+            "Siège privilégié ou standard à la réservation; surclassement Extra Legroom dans les 48 heures",
+            "Embarquement groupe 1",
+            "1 bagage enregistré gratuit",
+            "Attente le jour même",
+            "Voies Priority et Express, soutien téléphonique prioritaire"
+          ]
+        },
+        {
+          "name": "A-List Preferred",
+          "qualify": "40 one-way flights or 70,000 tier qualifying points",
+          "qualifyFR": "40 vols aller simple ou 70 000 points de qualification",
+          "benefits": [
+            "100% earning bonus",
+            "Extra Legroom, Preferred or Standard seat at booking",
+            "Boards before Group 1",
+            "2 free checked bags",
+            "Up to 2 premium drinks per flight (251+ miles)",
+            "Same-day standby and priority lanes"
+          ],
+          "benefitsFR": [
+            "Boni de 100 % sur les points",
+            "Siège Extra Legroom, privilégié ou standard dès la réservation",
+            "Embarquement avant le groupe 1",
+            "2 bagages enregistrés gratuits",
+            "Jusqu'à 2 boissons haut de gamme par vol (251 milles et plus)",
+            "Attente le jour même et voies prioritaires"
+          ]
+        }
+      ],
+      "note": "From January 1, 2027, A-List becomes Silver and A-List Preferred becomes Gold, and a new Platinum tier arrives (140,000 points or 100 flights: 120% bonus, 3 free bags, unlimited Companion Pass trips).",
+      "noteFR": "À partir du 1er janvier 2027, A-List devient Silver, A-List Preferred devient Gold et un nouveau palier Platinum s'ajoute (140 000 points ou 100 vols : boni de 120 %, 3 bagages gratuits, voyages Compagnon illimités)."
+    },
+    "jetblue": {
+      "sourceName": "The Points Party (JetBlue Mosaic guide)",
+      "sourceURL": "https://thepointsparty.com/articles/jetblue-mosaic-status-guide",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Mosaic 1",
+          "qualify": "50 tiles",
+          "qualifyFR": "50 tuiles",
+          "benefits": [
+            "25% bonus points on fares",
+            "First checked bag free for you and companions on the booking",
+            "Group A boarding; Mint upgrades at the gate when available",
+            "Free same-day changes and standby",
+            "Drink coupons and a Perks You Pick choice"
+          ],
+          "benefitsFR": [
+            "25 % de points de plus sur les tarifs",
+            "Premier bagage enregistré gratuit pour vous et vos compagnons de réservation",
+            "Embarquement groupe A; surclassements Mint à la porte selon la disponibilité",
+            "Changements le jour même et attente gratuits",
+            "Bons de boisson et un avantage au choix (Perks You Pick)"
+          ]
+        },
+        {
+          "name": "Mosaic 2",
+          "qualify": "100 tiles",
+          "qualifyFR": "100 tuiles",
+          "benefits": [
+            "50% bonus points on fares",
+            "Even More Space seats at booking for you and 2 companions",
+            "Higher priority for Mint upgrades",
+            "Free in-cabin pet on JetBlue flights"
+          ],
+          "benefitsFR": [
+            "50 % de points de plus sur les tarifs",
+            "Sièges Even More Space à la réservation pour vous et 2 compagnons",
+            "Priorité plus élevée pour les surclassements Mint",
+            "Animal en cabine gratuit sur les vols JetBlue"
+          ]
+        },
+        {
+          "name": "Mosaic 3",
+          "qualify": "150 tiles",
+          "qualifyFR": "150 tuiles",
+          "benefits": [
+            "75% bonus points on fares",
+            "Even More Space at booking for you and 5 companions",
+            "2 Move to Mosaic upgrade certificates a year (eligible Mint routes)",
+            "Higher boarding and upgrade priority"
+          ],
+          "benefitsFR": [
+            "75 % de points de plus sur les tarifs",
+            "Even More Space à la réservation pour vous et 5 compagnons",
+            "2 certificats de surclassement Move to Mosaic par année (routes Mint admissibles)",
+            "Priorité d'embarquement et de surclassement plus élevée"
+          ]
+        },
+        {
+          "name": "Mosaic 4",
+          "qualify": "250 tiles",
+          "qualifyFR": "250 tuiles",
+          "benefits": [
+            "100% bonus points on fares",
+            "Confirmed Even More Space at booking for you and 8 companions",
+            "4 Move to Mosaic certificates a year",
+            "Dedicated Mosaic phone line"
+          ],
+          "benefitsFR": [
+            "100 % de points de plus sur les tarifs",
+            "Even More Space confirmé à la réservation pour vous et 8 compagnons",
+            "4 certificats Move to Mosaic par année",
+            "Ligne téléphonique Mosaic dédiée"
+          ]
+        }
+      ],
+      "note": "Tiles: 1 per $100 of base fare, 1 per $1,000 on JetBlue credit cards.",
+      "noteFR": "Tuiles : 1 par 100 $ de tarif de base, 1 par 1 000 $ sur les cartes de crédit JetBlue."
+    },
+    "frontier": {
+      "sourceName": "The Points Guy (Frontier Miles changes)",
+      "sourceURL": "https://thepointsguy.com/news/frontier-miles-2026-program-changes/",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Elite Silver",
+          "qualify": "15,000 Elite Status Points",
+          "qualifyFR": "15 000 points de statut élite",
+          "benefits": [
+            "Upgrades to UpFront Plus or first class, space available, 4 hours before departure",
+            "Preferred seats free"
+          ],
+          "benefitsFR": [
+            "Surclassements en UpFront Plus ou première classe, selon la disponibilité, 4 heures avant le départ",
+            "Sièges privilégiés gratuits"
+          ]
+        },
+        {
+          "name": "Elite Gold",
+          "qualify": "25,000 Elite Status Points",
+          "qualifyFR": "25 000 points de statut élite",
+          "benefits": [
+            "Upgrades, space available, 8 hours before departure",
+            "Premium seats free"
+          ],
+          "benefitsFR": [
+            "Surclassements, selon la disponibilité, 8 heures avant le départ",
+            "Sièges premium gratuits"
+          ]
+        },
+        {
+          "name": "Elite Platinum",
+          "qualify": "50,000 Elite Status Points",
+          "qualifyFR": "50 000 points de statut élite",
+          "benefits": [
+            "Upgrades, space available, 18 hours before departure",
+            "Premium seats free for everyone on the booking",
+            "50 lb bag allowance per traveller",
+            "2 companion travel certificates"
+          ],
+          "benefitsFR": [
+            "Surclassements, selon la disponibilité, 18 heures avant le départ",
+            "Sièges premium gratuits pour tous sur la réservation",
+            "Bagage de 50 lb par voyageur",
+            "2 certificats de voyage pour compagnon"
+          ]
+        },
+        {
+          "name": "Elite Diamond",
+          "qualify": "75,000 Elite Status Points",
+          "qualifyFR": "75 000 points de statut élite",
+          "benefits": [
+            "Upgrades, space available, 24 hours before departure",
+            "2 free checked bags per traveller (50 lb each)",
+            "Highest miles earning per dollar"
+          ],
+          "benefitsFR": [
+            "Surclassements, selon la disponibilité, 24 heures avant le départ",
+            "2 bagages enregistrés gratuits par voyageur (50 lb chacun)",
+            "Meilleur taux de milles par dollar"
+          ]
+        }
+      ],
+      "note": "Requirements and benefits shown are for status from 2027 (Diamond drops from 100,000 to 75,000 points).",
+      "noteFR": "Exigences et avantages pour le statut à partir de 2027 (Diamond passe de 100 000 à 75 000 points)."
+    },
+    "hilton": {
+      "sourceName": "Hilton",
+      "sourceURL": "https://www.hilton.com/en/help-center/hilton-honors-benefits/tiers-and-benefits/",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Hilton Honors Silver",
+          "qualify": "10 nights, 4 stays or $2,500 a year",
+          "qualifyFR": "10 nuits, 4 séjours ou 2 500 $ par année",
+          "benefits": [
+            "20% bonus points",
+            "5th night free on Standard Room Rewards",
+            "2 bottles of water at check-in (select hotels)"
+          ],
+          "benefitsFR": [
+            "20 % de points bonis",
+            "5e nuit gratuite sur les primes en chambre standard",
+            "2 bouteilles d'eau à l'arrivée (hôtels participants)"
+          ]
+        },
+        {
+          "name": "Hilton Honors Gold",
+          "qualify": "25 nights, 15 stays or $6,000 a year",
+          "qualifyFR": "25 nuits, 15 séjours ou 6 000 $ par année",
+          "benefits": [
+            "80% bonus points",
+            "Room upgrades when available",
+            "Daily food and beverage credit (U.S.) or continental breakfast (elsewhere)",
+            "Milestone bonuses"
+          ],
+          "benefitsFR": [
+            "80 % de points bonis",
+            "Surclassements selon la disponibilité",
+            "Crédit quotidien de restauration (É.-U.) ou petit-déjeuner continental (ailleurs)",
+            "Primes d'étape"
+          ]
+        },
+        {
+          "name": "Hilton Honors Diamond",
+          "qualify": "50 nights, 25 stays or $11,500 a year",
+          "qualifyFR": "50 nuits, 25 séjours ou 11 500 $ par année",
+          "benefits": [
+            "100% bonus points",
+            "Executive lounge access",
+            "48-hour room guarantee",
+            "Premium Wi-Fi",
+            "Status gifting and Diamond extension"
+          ],
+          "benefitsFR": [
+            "100 % de points bonis",
+            "Accès aux salons exécutifs",
+            "Garantie de chambre de 48 heures",
+            "Wi-Fi premium",
+            "Statut à offrir et prolongation Diamond"
+          ]
+        },
+        {
+          "name": "Hilton Honors Diamond Reserve",
+          "qualify": "80 nights or 40 stays, and $18,000 a year",
+          "qualifyFR": "80 nuits ou 40 séjours, et 18 000 $ par année",
+          "benefits": [
+            "120% bonus points",
+            "Guaranteed 4 p.m. late checkout",
+            "Confirmable Upgrade Reward",
+            "Premium club access at select hotels",
+            "Elevated customer service desk"
+          ],
+          "benefitsFR": [
+            "120 % de points bonis",
+            "Départ tardif garanti à 16 h",
+            "Prime de surclassement confirmable",
+            "Accès aux clubs premium dans certains hôtels",
+            "Service à la clientèle supérieur"
+          ]
+        }
+      ]
+    },
+    "marriott": {
+      "sourceName": "Marriott Bonvoy",
+      "sourceURL": "https://www.marriott.com/loyalty/member-benefits/platinum.mi",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Marriott Bonvoy Silver Elite",
+          "qualify": "10 nights a year",
+          "qualifyFR": "10 nuits par année",
+          "benefits": [
+            "10% bonus points",
+            "Priority late checkout",
+            "Ultimate Reservation Guarantee"
+          ],
+          "benefitsFR": [
+            "10 % de points bonis",
+            "Départ tardif prioritaire",
+            "Garantie de réservation ultime"
+          ]
+        },
+        {
+          "name": "Marriott Bonvoy Gold Elite",
+          "qualify": "25 nights a year",
+          "qualifyFR": "25 nuits par année",
+          "benefits": [
+            "25% bonus points",
+            "Late checkout up to 2 p.m. when available",
+            "Enhanced room upgrade on arrival",
+            "Welcome gift of 250 or 500 points"
+          ],
+          "benefitsFR": [
+            "25 % de points bonis",
+            "Départ tardif jusqu'à 14 h selon la disponibilité",
+            "Surclassement amélioré à l'arrivée",
+            "Cadeau de bienvenue de 250 ou 500 points"
+          ]
+        },
+        {
+          "name": "Marriott Bonvoy Platinum Elite",
+          "qualify": "50 nights a year",
+          "qualifyFR": "50 nuits par année",
+          "benefits": [
+            "50% bonus points",
+            "Guaranteed 4 p.m. late checkout (resort and convention hotels excepted)",
+            "Upgrades including select suites",
+            "Lounge access and breakfast at participating brands",
+            "Welcome gift: points, breakfast or an amenity",
+            "Annual Choice Benefit"
+          ],
+          "benefitsFR": [
+            "50 % de points bonis",
+            "Départ tardif garanti à 16 h (sauf centres de villégiature et de congrès)",
+            "Surclassements, y compris certaines suites",
+            "Accès aux salons et petit-déjeuner dans les marques participantes",
+            "Cadeau de bienvenue : points, petit-déjeuner ou commodité",
+            "Avantage annuel au choix"
+          ]
+        },
+        {
+          "name": "Marriott Bonvoy Titanium Elite",
+          "qualify": "75 nights a year",
+          "qualifyFR": "75 nuits par année",
+          "benefits": [
+            "75% bonus points",
+            "All Platinum benefits",
+            "48-hour booking guarantee",
+            "A second Annual Choice Benefit",
+            "United MileagePlus Premier Silver"
+          ],
+          "benefitsFR": [
+            "75 % de points bonis",
+            "Tous les avantages Platinum",
+            "Garantie de réservation de 48 heures",
+            "Un deuxième avantage annuel au choix",
+            "United MileagePlus Premier Silver"
+          ]
+        },
+        {
+          "name": "Marriott Bonvoy Ambassador Elite",
+          "qualify": "100 nights and $23,000 qualifying spend a year",
+          "qualifyFR": "100 nuits et 23 000 $ de dépenses admissibles par année",
+          "benefits": [
+            "75% bonus points",
+            "Your24: choose your check-in time and keep the room 24 hours",
+            "Personal Ambassador service",
+            "Guaranteed 4 p.m. late checkout (resort and convention hotels excepted)"
+          ],
+          "benefitsFR": [
+            "75 % de points bonis",
+            "Your24 : choisissez l'heure d'arrivée et gardez la chambre 24 heures",
+            "Service Ambassador personnel",
+            "Départ tardif garanti à 16 h (sauf centres de villégiature et de congrès)"
+          ]
+        }
+      ]
+    },
+    "hyatt": {
+      "sourceName": "NerdWallet (World of Hyatt guide)",
+      "sourceURL": "https://www.nerdwallet.com/blog/travel/complete-guide-to-hyatt-elite-status",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "World of Hyatt Discoverist",
+          "qualify": "10 nights, 25,000 base points or $25,000 in meetings and events a year",
+          "qualifyFR": "10 nuits, 25 000 points de base ou 25 000 $ en réunions et événements par année",
+          "benefits": [
+            "10% bonus points",
+            "Preferred room in the same category",
+            "2 p.m. late checkout",
+            "Premium Wi-Fi and daily bottled water"
+          ],
+          "benefitsFR": [
+            "10 % de points bonis",
+            "Chambre préférée dans la même catégorie",
+            "Départ tardif à 14 h",
+            "Wi-Fi premium et bouteilles d'eau quotidiennes"
+          ]
+        },
+        {
+          "name": "World of Hyatt Explorist",
+          "qualify": "30 nights, 50,000 base points or $75,000 in meetings and events a year",
+          "qualifyFR": "30 nuits, 50 000 points de base ou 75 000 $ en réunions et événements par année",
+          "benefits": [
+            "20% bonus points",
+            "Room category upgrades when available",
+            "Award availability guaranteed 72 hours before arrival"
+          ],
+          "benefitsFR": [
+            "20 % de points bonis",
+            "Surclassements de catégorie selon la disponibilité",
+            "Disponibilité des primes garantie 72 heures avant l'arrivée"
+          ]
+        },
+        {
+          "name": "World of Hyatt Globalist",
+          "qualify": "60 nights, 100,000 base points or $150,000 in meetings and events a year",
+          "qualifyFR": "60 nuits, 100 000 points de base ou 150 000 $ en réunions et événements par année",
+          "benefits": [
+            "30% bonus points",
+            "Standard suite upgrades when available",
+            "Club lounge access, or free breakfast where there's no lounge",
+            "4 p.m. late checkout",
+            "Resort fees waived on paid stays; free parking on award stays",
+            "Guest of Honor; award availability guaranteed 48 hours before arrival"
+          ],
+          "benefitsFR": [
+            "30 % de points bonis",
+            "Surclassement en suite standard selon la disponibilité",
+            "Accès au salon Club, ou petit-déjeuner gratuit s'il n'y a pas de salon",
+            "Départ tardif à 16 h",
+            "Frais de villégiature annulés sur les séjours payés; stationnement gratuit sur les séjours-primes",
+            "Guest of Honor; disponibilité des primes garantie 48 heures avant l'arrivée"
+          ]
+        }
+      ]
+    },
+    "ihg": {
+      "sourceName": "IHG One Rewards",
+      "sourceURL": "https://www.ihg.com/onerewards/content/us/en/tier-benefits",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "IHG Silver Elite",
+          "qualify": "10 nights a year",
+          "qualifyFR": "10 nuits par année",
+          "benefits": [
+            "20% bonus points",
+            "Points don't expire",
+            "2 p.m. late checkout when available"
+          ],
+          "benefitsFR": [
+            "20 % de points bonis",
+            "Les points n'expirent pas",
+            "Départ tardif à 14 h selon la disponibilité"
+          ]
+        },
+        {
+          "name": "IHG Gold Elite",
+          "qualify": "20 nights or 40,000 points a year",
+          "qualifyFR": "20 nuits ou 40 000 points par année",
+          "benefits": [
+            "40% bonus points",
+            "Milestone Rewards from 20 nights",
+            "Rollover nights toward next year's status",
+            "Hertz Five Star"
+          ],
+          "benefitsFR": [
+            "40 % de points bonis",
+            "Primes d'étape dès 20 nuits",
+            "Nuits reportées pour le statut de l'année suivante",
+            "Hertz Five Star"
+          ]
+        },
+        {
+          "name": "IHG Platinum Elite",
+          "qualify": "40 nights or 60,000 points a year",
+          "qualifyFR": "40 nuits ou 60 000 points par année",
+          "benefits": [
+            "60% bonus points",
+            "Room upgrades when available",
+            "Welcome amenity: points or a drink or snack",
+            "Room guaranteed when booked 72 hours ahead; early check-in when available"
+          ],
+          "benefitsFR": [
+            "60 % de points bonis",
+            "Surclassements selon la disponibilité",
+            "Commodité de bienvenue : points ou boisson ou collation",
+            "Chambre garantie si réservée 72 heures à l'avance; arrivée hâtive selon la disponibilité"
+          ]
+        },
+        {
+          "name": "IHG Diamond Elite",
+          "qualify": "70 nights or 120,000 points a year",
+          "qualifyFR": "70 nuits ou 120 000 points par année",
+          "benefits": [
+            "100% bonus points",
+            "Welcome amenity can be free breakfast for two",
+            "Dedicated Diamond support line",
+            "Hertz President's Circle"
+          ],
+          "benefitsFR": [
+            "100 % de points bonis",
+            "La commodité de bienvenue peut être un petit-déjeuner gratuit pour deux",
+            "Ligne de soutien Diamond dédiée",
+            "Hertz President's Circle"
+          ]
+        }
+      ]
+    },
+    "choice": {
+      "sourceName": "Choice Hotels",
+      "sourceURL": "https://www.choicehotels.com/choice-privileges/benefits",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Choice Privileges Gold",
+          "qualify": "5 nights or 10,000 credits a year",
+          "qualifyFR": "5 nuits ou 10 000 crédits par année",
+          "benefits": [
+            "10% bonus points",
+            "Late checkout and early check-in where available",
+            "Welcome gift at participating hotels"
+          ],
+          "benefitsFR": [
+            "10 % de points bonis",
+            "Départ tardif et arrivée hâtive selon la disponibilité",
+            "Cadeau de bienvenue dans les hôtels participants"
+          ]
+        },
+        {
+          "name": "Choice Privileges Platinum",
+          "qualify": "15 nights or 30,000 credits a year",
+          "qualifyFR": "15 nuits ou 30 000 crédits par année",
+          "benefits": [
+            "25% bonus points",
+            "Room upgrades at select brands when available",
+            "Reserved elite parking where available"
+          ],
+          "benefitsFR": [
+            "25 % de points bonis",
+            "Surclassements dans certaines marques selon la disponibilité",
+            "Stationnement réservé aux élites selon la disponibilité"
+          ]
+        },
+        {
+          "name": "Choice Privileges Diamond",
+          "qualify": "35 nights or 70,000 credits a year",
+          "qualifyFR": "35 nuits ou 70 000 crédits par année",
+          "benefits": [
+            "50% bonus points",
+            "Elite member line 7 days a week",
+            "Points don't expire while you're elite"
+          ],
+          "benefitsFR": [
+            "50 % de points bonis",
+            "Ligne des membres élites 7 jours sur 7",
+            "Les points n'expirent pas tant que vous êtes élite"
+          ]
+        },
+        {
+          "name": "Choice Privileges Titanium",
+          "qualify": "55 nights or 110,000 credits a year",
+          "qualifyFR": "55 nuits ou 110 000 crédits par année",
+          "benefits": [
+            "50% bonus points",
+            "A yearly coupon for 50% off a reward stay (up to 7 nights)",
+            "All Diamond benefits"
+          ],
+          "benefitsFR": [
+            "50 % de points bonis",
+            "Un coupon annuel de 50 % sur un séjour-prime (jusqu'à 7 nuits)",
+            "Tous les avantages Diamond"
+          ]
+        }
+      ]
+    },
+    "wyndham": {
+      "sourceName": "Wyndham Rewards",
+      "sourceURL": "https://www.wyndhamhotels.com/wyndham-rewards/member-levels",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Wyndham Rewards Gold",
+          "qualify": "5 qualifying nights a year",
+          "qualifyFR": "5 nuits admissibles par année",
+          "benefits": [
+            "10% more points",
+            "Late checkout",
+            "Preferred room choice",
+            "Dedicated member services"
+          ],
+          "benefitsFR": [
+            "10 % de points de plus",
+            "Départ tardif",
+            "Choix de chambre préféré",
+            "Service aux membres dédié"
+          ]
+        },
+        {
+          "name": "Wyndham Rewards Platinum",
+          "qualify": "15 qualifying nights a year",
+          "qualifyFR": "15 nuits admissibles par année",
+          "benefits": [
+            "15% more points",
+            "Early check-in",
+            "Car rental upgrades with Enterprise, Alamo and National (U.S. and Canada)",
+            "Caesars Rewards status match"
+          ],
+          "benefitsFR": [
+            "15 % de points de plus",
+            "Arrivée hâtive",
+            "Surclassements de location avec Enterprise, Alamo et National (É.-U. et Canada)",
+            "Statut équivalent Caesars Rewards"
+          ]
+        },
+        {
+          "name": "Wyndham Rewards Diamond",
+          "qualify": "40 qualifying nights a year",
+          "qualifyFR": "40 nuits admissibles par année",
+          "benefits": [
+            "20% more points",
+            "Suite upgrades on every stay when available",
+            "Welcome snack or drink at select hotels",
+            "Gift Gold status once a year"
+          ],
+          "benefitsFR": [
+            "20 % de points de plus",
+            "Surclassement en suite à chaque séjour selon la disponibilité",
+            "Collation ou boisson de bienvenue dans certains hôtels",
+            "Offrir le statut Gold une fois par année"
+          ]
+        }
+      ]
+    },
+    "hertz": {
+      "sourceName": "Thrifty Traveler (Hertz guide)",
+      "sourceURL": "https://thriftytraveler.com/guides/travel/hertz-presidents-circle-status/",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Hertz Five Star",
+          "qualify": "12 rentals or $2,400 a year",
+          "qualifyFR": "12 locations ou 2 400 $ par année",
+          "benefits": [
+            "25% more points on paid rentals",
+            "Occasional upgrades (not guaranteed)",
+            "A wider choice of cars than Gold"
+          ],
+          "benefitsFR": [
+            "25 % de points de plus sur les locations payées",
+            "Surclassements à l'occasion (non garantis)",
+            "Plus grand choix de voitures que Gold"
+          ]
+        },
+        {
+          "name": "Hertz President's Circle",
+          "qualify": "20 rentals or $4,000 a year",
+          "qualifyFR": "20 locations ou 4 000 $ par année",
+          "benefits": [
+            "50% more points (1.5 per dollar)",
+            "Guaranteed one-class upgrade at participating locations",
+            "Ultimate Choice at 50+ airports (mid-size booking or above)",
+            "Free additional driver for a spouse or partner"
+          ],
+          "benefitsFR": [
+            "50 % de points de plus (1,5 par dollar)",
+            "Surclassement d'une catégorie garanti aux comptoirs participants",
+            "Ultimate Choice dans plus de 50 aéroports (réservation intermédiaire ou plus)",
+            "Conducteur additionnel gratuit pour le conjoint ou partenaire"
+          ]
+        }
+      ]
+    },
+    "avis": {
+      "sourceName": "NerdWallet (Avis Preferred guide)",
+      "sourceURL": "https://www.nerdwallet.com/article/travel/the-guide-to-the-avis-preferred-loyalty-program",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "Avis Preferred Plus",
+          "qualify": "10 rentals or $4,000 a year",
+          "qualifyFR": "10 locations ou 4 000 $ par année",
+          "benefits": [
+            "1.25 points per dollar on rentals",
+            "One car-class upgrade when available",
+            "Exclusive offers and a dedicated phone line"
+          ],
+          "benefitsFR": [
+            "1,25 point par dollar sur les locations",
+            "Surclassement d'une catégorie selon la disponibilité",
+            "Offres exclusives et ligne téléphonique dédiée"
+          ]
+        },
+        {
+          "name": "Avis President's Club",
+          "qualify": "20 rentals or $6,000 a year",
+          "qualifyFR": "20 locations ou 6 000 $ par année",
+          "benefits": [
+            "1.5 points per dollar on rentals",
+            "Double upgrades when available",
+            "Guaranteed vehicle availability"
+          ],
+          "benefitsFR": [
+            "1,5 point par dollar sur les locations",
+            "Double surclassement selon la disponibilité",
+            "Disponibilité de véhicule garantie"
+          ]
+        }
+      ]
+    },
+    "national": {
+      "sourceName": "National Car Rental",
+      "sourceURL": "https://www.nationalcar.com/en/emerald-club/programs/ec-benefits.html",
+      "checked": "2026-11-03",
+      "tiers": [
+        {
+          "name": "National Executive",
+          "qualify": "12 paid rentals or 40 paid rental days a year",
+          "qualifyFR": "12 locations payées ou 40 jours de location payés par année",
+          "benefits": [
+            "Choose any full-size or larger car in the Executive Area at the mid-size rate",
+            "Free upgrade when booking full-size to luxury (U.S. and Canada)",
+            "A free day after 6 rental credits"
+          ],
+          "benefitsFR": [
+            "Choisissez toute voiture pleine grandeur ou plus dans la zone Executive au tarif intermédiaire",
+            "Surclassement gratuit en réservant de pleine grandeur à luxe (É.-U. et Canada)",
+            "Une journée gratuite après 6 crédits de location"
+          ]
+        },
+        {
+          "name": "National Executive Elite",
+          "qualify": "25 paid rentals or 85 paid rental days a year",
+          "qualifyFR": "25 locations payées ou 85 jours de location payés par année",
+          "benefits": [
+            "Guaranteed car up to full-size with 24 hours' notice, at the mid-size rate",
+            "A free day after 5 credits, any class, no blackout dates",
+            "Private airport delivery (U.S. and Canada)"
+          ],
+          "benefitsFR": [
+            "Voiture garantie jusqu'à pleine grandeur avec 24 heures de préavis, au tarif intermédiaire",
+            "Une journée gratuite après 5 crédits, toute catégorie, sans dates d'interdiction",
+            "Livraison aux aéroports privés (É.-U. et Canada)"
+          ]
+        }
+      ]
+    }
+  }
+}

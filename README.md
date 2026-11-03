@@ -59,4 +59,14 @@ Right now this file is empty: nothing is changed. Fixes for StackJet's smaller t
 | `sources` | Websites the app reads, by key: `princeOfTravel`, `pointsGuyBonuses`, `frequentMiler`, `flytrippers`, `flyingBluePromos`, `pointValues`. `{ "enabled": false }` stops reading one (its old results go away; point values keep the last ones); `{ "url": "https://…" }` reads it at a new address (same page layout). |
 | `liveLounges` | `{ "<network>": false }` (e.g. `"Priority Pass"`): stop reading that network's own website and show the app's built-in list for it, plus the lounge fixes. |
 
+## `status/benefits.json`
+
+What each status tier gives, shown when someone taps a status on StackJet's Status page (from StackJet 1.3 (3)). The app ships a copy and uses this file when it's newer (by `updated`), checked at most once a day. Changes show straight away.
+
+| Key | What it does |
+|---|---|
+| `format`, `version`, `updated` | `"stackjet-status-benefits"`, `1`, and the date of the last change. Bump `updated` with every change. |
+| `programs` | `{ "<program id>": { "sourceName", "sourceURL" (HTTPS), "checked", "note"?, "noteFR"?, "tiers": [ … ] } }`, keyed by the app's program id (`delta`, `hilton`…). |
+| `tiers` | Lowest first: `{ "name", "nameFR"?, "qualify"?, "qualifyFR"?, "benefits": [ … ], "benefitsFR": [ … ] }`. Use the app's tier names (e.g. `Hilton Honors Gold`) so the person's tier is marked. `benefitsFR` must have one line per English line. |
+
 The data here is public lounge and card information (lounge names, locations and hours; card fees, benefits and earn rates) from the networks' and issuers' own sites. No app code, user data or keys are kept in this repository.
