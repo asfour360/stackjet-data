@@ -6,18 +6,22 @@ StackJet downloads [`lounges/corrections.json`](lounges/corrections.json) at mos
 
 ## `lounges/corrections.json`
 
+The tables below only describe the format, and the airport codes in them are placeholders. The file itself is the only thing the app reads, and right now it's empty: no lounge is changed.
+
 | Key | What it does |
 |---|---|
 | `format`, `version` | Always `"stackjet-lounge-corrections"` and `1`. |
 | `updated` | Date of the last change, `yyyy-MM-dd`. |
-| `remove` | Lounges to hide: `{ "airport": "YVR", "provider": "Priority Pass", "name": "…" }`, the name as shown in the app (case, dashes and a trailing airport code like "— YVR" don't matter). |
+| `remove` | Lounges to hide, each given as `{ "airport": "<3-letter code>", "provider": "<network>", "name": "<lounge name>" }`, the name as shown in the app (case, dashes and a trailing airport code like "— ABC" don't matter). |
 | `change` | Fix fields on one lounge, found the same way. Optional: `newName`, `terminal`, `location`, `hours`, `officialURL`, `description`, `restrictions`, `amenities`, `photoURLs`. |
 | `add` | New lounges, in the same format as the app's built-in lounge list. |
-| `replaceAirports` | `{ "YVR": [ … ] }`: replaces every lounge of the networks listed for that airport. |
+| `replaceAirports` | `{ "<3-letter code>": [ … ] }`: replaces every lounge of the networks listed for that airport. |
 
 Rules the app checks: 3-letter uppercase airport codes, a known network name, HTTPS links only, non-empty names.
 
 ## `cards/corrections.json`
+
+Right now this file is empty: no card is changed.
 
 StackJet downloads this at most once a day (or straight away with Settings › Check for updates) and applies it right away, on top of the card list built into the app.
 
