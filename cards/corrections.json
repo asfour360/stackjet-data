@@ -2,7 +2,7 @@
   "format": "stackjet-card-corrections",
   "version": 1,
   "updated": "2026-11-03",
-  "catalogVersion": "1.7.70",
+  "catalogVersion": "1.7.71",
   "note": "No card fixes yet. StackJet applies this file on top of the card list built into the app.",
   "cards": [],
   "removeCards": [],

@@ -29,7 +29,7 @@ StackJet downloads this at most once a day (or straight away with Settings › C
 |---|---|
 | `format`, `version` | Always `"stackjet-card-corrections"` and `1`. |
 | `updated` | Date of the last change, `yyyy-MM-dd`. |
-| `catalogVersion` | The app's built-in card list version this file was written for (`1.7.70` in StackJet 1.3). An app whose built-in list is newer ignores the whole file, so an old fix never undoes a newer app update. |
+| `catalogVersion` | The app's built-in card list version this file was written for (`1.7.71` in StackJet 1.3 (3)). An app whose built-in list is newer ignores the whole file, so an old fix never undoes a newer app update. |
 | `cards` | Whole card entries, in the same format as the app's built-in card list. One with an existing `id` replaces that card (fee, benefits, earn rates…); a new `id` adds a card. Keep benefit `id`s the same so people's tracked credits carry over. |
 | `removeCards` | Card `id`s to take out of the card list. Anyone who already has the card in their wallet keeps it. |
 | `programs` | Rewards programs, replaced or added by `id`. |
