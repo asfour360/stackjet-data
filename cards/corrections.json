@@ -12067,6 +12067,249 @@
         "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card"
       ],
       "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "chase-world-of-hyatt-business-us",
+      "name": "Chase World of Hyatt Business US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 19900,
+      "feeNote": "Current standard primary-card annual fee; account-specific or promotional terms may differ.",
+      "colorHex": "2587B7",
+      "secondaryHex": "122A52",
+      "artworkAsset": "Card-chase-world-of-hyatt-business-us",
+      "programIDs": [
+        "hyatt"
+      ],
+      "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+      "checkedOn": "2026-11-03",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-unlock-a-faster-way-to-elite-status-and-milestone-rewards",
+          "title": "Hyatt Discoverist status",
+          "detail": "World of Hyatt Discoverist status while the account is open, and you can gift Discoverist to up to five employees.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "You pay no foreign transaction fees on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-merchant-offers",
+          "title": "DashPass membership",
+          "detail": "One year of complimentary DashPass (DoorDash and Caviar) when activated by Dec 31, 2027; then it renews at the monthly rate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "hyatt-credit",
+          "title": "Hyatt credit",
+          "detail": "US$50 statement credit per qualifying Hyatt purchase of US$50 or more, up to two times each anniversary year (US$100 total).",
+          "capMinor": 10000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "priority": 100
+        },
+        {
+          "id": "doordash-quarterly",
+          "title": "DoorDash non-restaurant discount",
+          "detail": "US$10 off one qualifying non-restaurant DoorDash order each calendar quarter after activating the card's DashPass membership.",
+          "capMinor": 1000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "priority": 100
+        },
+        {
+          "id": "chase-world-of-hyatt-business-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "You can be reimbursed up to $1,500 per covered traveler and $6,000 per trip for your pre-paid, non-refundable passenger fares, if your trip is canceled or cut short by sickness, severe weather or other covered situations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "chase-world-of-hyatt-business-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers your eligible new purchases for 120 days from the date of purchase against damage or theft up to $10,000 per item.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "chase-world-of-hyatt-business-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends the time period of the manufacturer's U.S. warranty by an additional year, on eligible warranties of three years or less, up to four years from the date of purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "chase-world-of-hyatt-business-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Decline the rental company's collision insurance and charge the entire rental cost to your card. Coverage is primary when renting for business purposes and provides reimbursement up to $60,000 for theft and collision damage for most rental vehicles with an MSRP of $125,000 or less.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "chase-world-of-hyatt-business-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "If you run into a problem while traveling away from home, this benefit provides legal and medical referrals and access to other travel and emergency assistance services. (You will be responsible for the cost of any goods or services obtained.)",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "tqnc-10k",
+          "title": "5 tier-qualifying night credits per $10,000",
+          "detail": "5 World of Hyatt tier-qualifying night credits for every $10,000 in purchases in a calendar year (first one shown).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "benefit",
+          "priority": 105,
+          "spendMilestoneMinor": 1000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "redemption-bonus-50k",
+          "title": "10% points back on redemptions",
+          "detail": "Spend $50,000 in a calendar year to get 10% of redeemed points back for the rest of the year, on up to 200,000 points redeemed.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "benefit",
+          "priority": 105,
+          "spendMilestoneMinor": 5000000,
+          "spendPeriod": "calendarYear"
+        }
+      ],
+      "statuses": [
+        {
+          "id": "included-hyatt-status",
+          "programID": "hyatt",
+          "tier": "Discoverist",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "hyatt",
+          "label": "1X Hyatt point",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "calculationNote": null
+        },
+        {
+          "id": "hyatt",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "hyatt",
+          "label": "4X Hyatt",
+          "detail": "Eligible Hyatt hotel purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "calculationNote": null
+        },
+        {
+          "id": "bonus",
+          "categories": [
+            "dining",
+            "flightsDirect",
+            "transit",
+            "gas"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "hyatt",
+          "label": "2X eligible business categories",
+          "detail": "Eligible categories can vary by top quarterly spend; modeled categories reflect supported Best Card categories.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "calculationNote": "World of Hyatt Business top-category earning depends on quarterly spend mix."
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+      "artworkSearchTerms": "Chase World of Hyatt Business",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/world_hyatt_biz_card.png",
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card"
+      ],
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
