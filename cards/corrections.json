@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -14193,6 +14193,443 @@
       "foreignTransactionFeePercent": 0,
       "artworkURL": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/1bbt_bussigcm_v_atmos_336px.png",
       "artworkAsset": "Card-bofa-atmos-rewards-visa-signature-business-us"
+    },
+    {
+      "id": "tangerine-rewards-world-elite-mastercard-can",
+      "name": "Tangerine Rewards World Elite Mastercard CAN",
+      "issuer": "Tangerine",
+      "market": "CAN",
+      "annualFeeMinor": 12000,
+      "feeNote": "C$120 annual fee; additional cards C$30 per card. Check issuer terms for account-specific changes.",
+      "colorHex": "E88830",
+      "secondaryHex": "A44623",
+      "artworkAsset": "Card-tangerine-rewards-world-elite-mastercard-can",
+      "programIDs": [
+        "scene-can"
+      ],
+      "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Selected-category 1.5x applies only to three chosen categories, not all possible categories simultaneously. Per-benefit eligibility and issuer terms govern.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn 1 Scene+ point per eligible C$1, or 1.5 points per C$1 in your three selected accelerator categories, plus cardholder travel and insurance benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-dragonpass-visits",
+          "title": "Four complimentary DragonPass lounge visits",
+          "detail": "Four complimentary lounge visits each membership year through Mastercard Travel Pass by DragonPass, shared among eligible cardholders and guests; each person counts as one visit. Additional visits are generally US$32 per person, subject to change.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-shell-rewards",
+          "title": "Shell fuel savings",
+          "detail": "Link an eligible card and Scene+ account with Shell Go+ for up to 10¢/L in combined savings and points value on eligible premium fuel; exact value varies by purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "benefit",
+          "priority": 35
+        },
+        {
+          "id": "issuer-annual-spend-bonus",
+          "title": "10,000 Scene+ points annual-spend bonus",
+          "detail": "Earn 10,000 bonus Scene+ points when your account reaches C$30,000 in qualifying purchases in an anniversary year, under current issuer terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "benefit",
+          "priority": 36
+        },
+        {
+          "id": "issuer-roaming",
+          "title": "FlexiRoam international mobile data",
+          "detail": "Eligible complimentary 3GB global data roaming plan, plus up to 15% off additional plans, subject to activation terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
+          "id": "issuer-mastercard-perks",
+          "title": "Mastercard travel and lifestyle offers",
+          "detail": "Eligible Mastercard Travel Rewards, Priceless experiences, Mastercard Collection and selected Cirque du Soleil benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "benefit",
+          "priority": 50
+        },
+        {
+          "id": "issuer-tax-filing",
+          "title": "H&R Block discount",
+          "detail": "Eligible 30% savings on participating H&R Block tax filing services; promotion terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "benefit",
+          "priority": 55
+        },
+        {
+          "id": "issuer-fubo",
+          "title": "Fubo subscription savings",
+          "detail": "Eligible C$30 savings on the first quarter of a qualifying Sports Quarterly plan, subject to promotion terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "benefit",
+          "priority": 60
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5,000,000 for eligible unexpected emergency medical expenses occurring in the first 15 days of a trip for insured people under age 65.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Eligible rental-car collision and theft coverage is included under the card's insurance certificate, subject to rental duration, vehicle and payment requirements.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Eligible mobile-device protection is included; deductible, depreciation, claim limits and purchase or bill-payment requirements are defined in the current certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible purchases can extend the original manufacturer's warranty under the Tangerine certificate's conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "When at least 75% of eligible trip costs are paid with the card or qualifying Scene+ points, covered cancellations may be reimbursed up to C$2,000 per person and C$5,000 per trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 211
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "When at least 75% of eligible trip costs are paid with the card or qualifying Scene+ points, covered interruptions may be reimbursed up to C$2,000 per person and C$25,000 per trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 212
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Coverage for eligible flight delays; see the card's current certificate for trigger and reimbursement maximums.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 213
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Baggage delay/loss insurance",
+          "detail": "Eligible baggage delay and lost or stolen luggage coverage; limits and triggering conditions are defined by the certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 214
+        },
+        {
+          "id": "ins-purchase-assurance",
+          "title": "Purchase assurance",
+          "detail": "Eligible purchased merchandise receives specified damage or theft protection subject to issuer insurance conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 215
+        },
+        {
+          "id": "ins-event-ticket",
+          "title": "Event ticket protection",
+          "detail": "Eligible tickets may be protected against qualifying covered events; see the card's certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "kind": "protection",
+          "priority": 216
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard"
+        },
+        {
+          "id": "selected",
+          "categories": [
+            "selfSelect"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "Three selected accelerator categories; the app does not presume every category is enabled simultaneously.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+      "artworkSearchTerms": "Tangerine Rewards World Elite Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard"
+      ],
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true,
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2026/05/Tangerine-Rewards-World-Elite-Mastercard.png"
+    },
+    {
+      "id": "chase-disney-inspire-visa-us",
+      "name": "Chase Disney Inspire Visa US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 14900,
+      "feeNote": "Standard annual fee is US$149.",
+      "colorHex": "2587B7",
+      "secondaryHex": "122A52",
+      "artworkAsset": "Card-chase-disney-inspire-visa-us",
+      "programIDs": [
+        "disney-us"
+      ],
+      "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Earning rates and anniversary credits checked against Chase and Disney official card terms; welcome bonuses are not included in recurring benefits.",
+      "benefits": [
+        {
+          "id": "disney-streaming",
+          "title": "Disney streaming credit",
+          "detail": "Enroll each year for a US$10 monthly statement credit after US$10+ in qualifying Disney+, Hulu, or ESPN subscriptions or add-ons purchased directly; up to US$120 per year.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "theme-park-credit",
+          "title": "Disney theme park ticket credit",
+          "detail": "US$100 statement credit after US$200 in eligible direct U.S. Disney theme park ticket purchases in each card anniversary year. Disney vacation package tickets do not qualify.",
+          "capMinor": 10000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-disney-resort-bonus",
+          "title": "200 Disney Rewards Dollars anniversary bonus",
+          "detail": "Earn 200 Disney Rewards Dollars after US$2,000 of qualifying annual purchases at U.S. Disney Resorts and Disney Cruise Line bookings during the card anniversary year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "issuer-parks-discount",
+          "title": "Disney Parks cardmember offers",
+          "detail": "Eligible savings at participating Disney locations and merchandise/dining experiences subject to the current cardmember terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "issuer-vacation-financing",
+          "title": "Disney vacation financing",
+          "detail": "Promotional financing on qualifying Disney vacation packages bought with the card, subject to current finance terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "kind": "benefit",
+          "priority": 103
+        },
+        {
+          "id": "chase-disney-inspire-visa-us-baggage-delay-insurance",
+          "title": "Baggage delay insurance",
+          "detail": "Eligible baggage delays longer than six hours: reimbursement up to US$100 per day for up to three days for essential purchases, subject to the benefits guide.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "chase-disney-inspire-visa-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible newly purchased items are protected against theft or damage for 120 days, up to US$500 per item.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "chase-disney-inspire-visa-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends the eligible U.S. manufacturer's warranty by one additional year on warranties of three years or less, up to four years from purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "kind": "protection",
+          "priority": 202
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "disney-us",
+          "label": "1% Disney Rewards",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "calculationNote": null
+        },
+        {
+          "id": "everyday",
+          "categories": [
+            "groceries",
+            "dining"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "disney-us",
+          "label": "2% everyday categories",
+          "detail": "Eligible grocery stores and restaurants.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+          "calculationNote": null
+        },
+        {
+          "id": "gas",
+          "categories": [
+            "gas"
+          ],
+          "rate": 3,
+          "rewardKind": "cashback",
+          "programID": "disney-us",
+          "label": "3% gas and Disney",
+          "detail": "Gas stations and most U.S. Disney locations. (The app's merchant-category model may not identify all Disney merchants.)",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+      "artworkSearchTerms": "Chase Disney Inspire Visa",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/disney-inspire.png",
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
+        "https://disneyrewards.com/inspire-credit-card-benefits/"
+      ],
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
