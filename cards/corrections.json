@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -47,11 +47,11 @@
         {
           "id": "pot-annual-world-elite-companion-voucher",
           "title": "Annual World Elite Companion Voucher",
-          "detail": "A yearly companion voucher ($119–$499 base fare by region), or swap it for 30% off a flight, a $200 WestJet Vacations credit or 2 lounge passes.",
+          "detail": "The annual round-trip companion voucher (base fare from C$119, plus taxes and fees) requires C$5,000 in eligible card purchases annually for subsequent vouchers. Eligible holders can alternatively exchange a voucher for a 30% base-fare discount, C$200 WestJet Vacations/Sunwing Vacations credit, or eligible lounge vouchers; airline terms control.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard/",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-world-elite-mastercard.html",
           "priority": 50
         },
         {
@@ -3853,7 +3853,7 @@
         {
           "id": "travel-medical",
           "title": "Emergency medical insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$5,000,000 in eligible out-of-province/country emergency medical expenses for insured people under 65 during the first 15 consecutive days of a covered trip. Policy conditions and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4736,6 +4736,50 @@
           "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-cashback-world-elite-mastercard/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-mastercard-travel-pass-paid-access",
+          "title": "Mastercard Travel Pass (paid lounge access)",
+          "detail": "Complimentary enrollment in Mastercard Travel Pass by DragonPass. Lounge visits cost US$32 per person per visit; this card does not include free visits. Registration required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-cashback-world-elite-mastercard/",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-rental-discounts",
+          "title": "Rental car discounts",
+          "detail": "Eligible discounts with Avis (up to 30% prepaid), Budget (up to 35% prepaid), and participating National, Alamo and Enterprise rentals; minimum and location-specific terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-cashback-world-elite-mastercard/",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-premium-chequing-fee-rebate",
+          "title": "Annual fee rebate with Premium Chequing",
+          "detail": "Eligible BMO Premium Chequing account holders can have the C$139 annual card fee rebated annually, subject to account and package conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-cashback-world-elite-mastercard/",
+          "kind": "benefit",
+          "priority": 97
+        },
+        {
+          "id": "issuer-cashback-redemptions",
+          "title": "Flexible cash back redemption",
+          "detail": "Redeem cash back starting at C$1 as a statement credit, deposit to a BMO account, or InvestorLine account; automatic recurring deposits start at C$25.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-cashback-world-elite-mastercard/",
+          "kind": "benefit",
+          "priority": 98
         }
       ],
       "statuses": [],
@@ -5477,6 +5521,39 @@
           "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-card.html",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-skip-plus",
+          "title": "Skip+ membership and monthly voucher",
+          "detail": "Link an eligible CIBC card to receive complimentary Skip+ membership benefits, including eligible zero delivery fees and a C$10 monthly voucher, subject to current program requirements.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-card.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-disney-plus",
+          "title": "Disney+ subscription offer",
+          "detail": "Eligible cardholders can receive 50% off Disney+ for six months, subject to offer eligibility, activation and current terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-card.html",
+          "kind": "benefit",
+          "priority": 96
+        },
+        {
+          "id": "issuer-points-do-not-expire",
+          "title": "Aeroplan points remain active",
+          "detail": "Aeroplan points do not expire while you remain the primary cardholder of an eligible CIBC Aeroplan credit card in good standing; Aeroplan program terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-card.html",
+          "kind": "benefit",
+          "priority": 97
         }
       ],
       "statuses": [
@@ -9508,7 +9585,7 @@
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "On eligible items fully charged to the card, the original manufacturer's warranty can be doubled for up to two additional years. Items with a manufacturer warranty of five years or longer must be registered within the first year; policy limits and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
