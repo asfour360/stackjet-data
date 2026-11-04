@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -17367,6 +17367,245 @@
         "https://www.biltrewards.com/terms/bilt-card-offer-terms",
         "https://www.biltrewards.com/terms/palladium-card-guide-to-benefits"
       ]
+    },
+    {
+      "id": "air-france-klm-world-elite-mastercard-by-brim-can",
+      "name": "Air France KLM World Elite Mastercard by Brim CAN",
+      "issuer": "Brim Financial",
+      "market": "CAN",
+      "annualFeeMinor": 13200,
+      "feeNote": "C$132 annual fee, first year waived under the current offer; additional cards C$50/year. Foreign currency conversion fee: 2.5%.",
+      "colorHex": "4D689B",
+      "secondaryHex": "272C50",
+      "artworkAsset": "Card-air-france-klm-world-elite-mastercard-by-brim-can",
+      "programIDs": [
+        "flying-blue"
+      ],
+      "sourceURL": "https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire-canada",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Co-brand product page and May 22, 2026 booklet checked on 2026-11-04. The booklet excludes Quebec residents from common carrier, emergency medical, trip cancellation/interruption, flight delay and baggage insurance. The co-brand legal page warns new Quebec applicants do not receive travel insurance. Existing Quebec cardholders should confirm their applicable certificate.",
+      "benefits": [
+        {
+          "id": "annual-xp",
+          "title": "30 Flying Blue XP every year",
+          "detail": "Get 30 XP each year toward Flying Blue status, plus 30 bonus XP in your first year (60 XP total). Silver needs 100 XP.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire-canada",
+          "priority": 10
+        },
+        {
+          "id": "af-klm-ticket-bonus",
+          "title": "Air France-KLM ticket bonus",
+          "detail": "Flying Blue members with this card earn an extra 5 Miles per € on Air France or KLM tickets, on top of regular flight earning.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire-canada",
+          "kind": "benefit",
+          "priority": 15
+        },
+        {
+          "id": "partner-miles",
+          "title": "Up to 30 miles per $ at Brim partners",
+          "detail": "Earn up to 30 Flying Blue miles per dollar at selected Brim retail partners.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire-canada",
+          "priority": 20
+        },
+        {
+          "id": "miles-validity",
+          "title": "Keeps your miles from expiring",
+          "detail": "Every purchase with the card extends the validity of your Flying Blue miles by 2 years.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire-canada",
+          "priority": 30
+        },
+        {
+          "id": "dragonpass",
+          "title": "DragonPass membership",
+          "detail": "DragonPass airport lounge membership is included; lounge visits are paid (no free visits).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/air-france-klm-world-elite-mastercard/",
+          "priority": 40
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-emergency-medical-insurance",
+          "title": "Emergency medical insurance",
+          "detail": "Up to $5,000,000 per insured person per trip outside your province. 15 days per trip if 64 or under; 3 days if 65 or over. Not available to Quebec residents under the currently linked certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-trip-cancellation-insurance",
+          "title": "Trip cancellation insurance",
+          "detail": "Up to $2,000 per insured person per trip (max $5,000 per trip for all insured persons). Not available to Quebec residents under the currently linked certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-trip-interruption-insurance",
+          "title": "Trip interruption insurance",
+          "detail": "Trip interruption and trip delay: up to $5,000 per insured person per trip (max $25,000 per trip for all insured persons). Not available to Quebec residents under the currently linked certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-flight-delay-insurance",
+          "title": "Flight delay insurance",
+          "detail": "Up to $1,000 per trip for all insured persons when a flight is delayed more than 4 hours. Not available to Quebec residents under the currently linked certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-delayed-lost-baggage-insurance",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Lost, stolen or damaged baggage: up to $1,000 per person ($2,000 per trip). Baggage delayed over 6 hours: up to $500 per person ($1,000 per trip) for essentials. Not available to Quebec residents under the currently linked certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-hotel-motel-burglary-insurance",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to $2,500 per occurrence for all insured persons.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-rental-car-collision-loss-damage-insurance",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Covers damage or theft of a rental car with MSRP up to $85,000, for rentals up to 48 consecutive days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-travel-accident-insurance",
+          "title": "Travel accident insurance",
+          "detail": "Common carrier accident insurance: up to $150,000 per insured person for accidental death or dismemberment while on a common carrier. Not available to Quebec residents under the currently linked certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-mobile-device-insurance",
+          "title": "Mobile device insurance",
+          "detail": "Up to $1,500 per occurrence for loss, theft or accidental damage when the device is bought or financed on the card. 1 claim per 12 months, 2 per 48 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers theft or damage of eligible items for 90 days from purchase when the full price is charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "air-france-klm-world-elite-mastercard-by-brim-can-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Doubles the original manufacturer’s warranty, up to 1 extra year, when the full price is charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "flying-blue",
+          "label": "Flying Blue miles",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire-canada"
+        },
+        {
+          "id": "dining",
+          "categories": [
+            "dining",
+            "foodDelivery"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "flying-blue",
+          "label": "Flying Blue miles",
+          "detail": "Eligible food and beverage purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire-canada"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/air-france-klm-world-elite-mastercard/",
+      "artworkSearchTerms": "Brim Air France KLM World Elite Mastercard Canada official card artwork",
+      "reviewURL": "https://creditcardgenius.ca/credit-cards/brim-financial-air-france-klm-world-elite-mastercard",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire-canada",
+        "https://princeoftravel.com/credit-cards/air-france-klm-world-elite-mastercard/",
+        "https://brim.flyingblue.ca/card",
+        "https://brim.flyingblue.ca/legal",
+        "https://static.brimfinancial.com/afklm/pdf_files/Insurance%20Certificates%20-%20Brim%20World%20Elite%20(as%20of%20May%2022,%202026).pdf"
+      ],
+      "foreignTransactionFeePercent": 2.5,
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2023/09/AFKLM_WorldElite_FINAL-V2-01-1.png",
+      "earningDataComplete": true
     }
   ],
   "removeCards": [],
@@ -17469,9 +17708,17 @@
     "Delay over four hours: C$500/trip for essentials, excluding return home. Loss/damage: C$1,000/person/trip, C$500/item or set. Requires 75% eligible payment.": "Retard de plus de quatre heures : 500 $ CA par voyage pour les articles essentiels, sauf au retour. Perte ou dommages : 1 000 $ CA par personne et par voyage, 500 $ CA par article ou ensemble. Paiement admissible de 75 % requis.",
     "Eligible purchases: 90-day loss/theft/damage coverage; full card/eligible Scene+ payment required. Shared lifetime purchase/warranty limit: C$60,000.": "Achats admissibles : protection de 90 jours contre la perte, le vol ou les dommages; paiement intégral par carte ou points Scene+ admissibles requis. Limite à vie commune des protections d’achat et de garantie : 60 000 $ CA.",
     "Covered causes: up to C$1,000/occurrence for non-refundable tickets bought in full on the card from a primary outlet.": "Causes couvertes : jusqu’à 1 000 $ CA par événement pour les billets non remboursables achetés entièrement avec la carte auprès d’un point de vente principal.",
-    "Hotel/motel burglary insurance": "Assurance cambriolage à l’hôtel ou au motel",
+    "Hotel/motel burglary insurance": "Assurance cambriolage hôtel/motel",
     "Forced-entry room theft: up to C$1,000/occurrence, excess of other coverage; full eligible card/Scene+ payment required.": "Vol dans une chambre avec effraction : jusqu’à 1 000 $ CA par événement, en complément des autres protections; paiement intégral admissible par carte ou points Scene+ requis.",
     "Selected-category earnings apply to three chosen categories, changeable every 90 days. Insurance summaries are subject to the February 28, 2026 certificate, including payment requirements, eligibility, exclusions and claims deadlines.": "Les taux accélérés s’appliquent à trois catégories choisies, modifiables tous les 90 jours. Les résumés d’assurance sont assujettis au certificat du 28 février 2026, notamment aux exigences de paiement, à l’admissibilité, aux exclusions et aux délais de réclamation.",
-    "Extended warranty": "Garantie prolongée"
+    "Extended warranty": "Garantie prolongée",
+    "C$132 annual fee, first year waived under the current offer; additional cards C$50/year. Foreign currency conversion fee: 2.5%.": "Frais annuels de 132 $ CA, annulés la première année selon l’offre actuelle; cartes supplémentaires : 50 $ CA/an. Frais de conversion de devises : 2,5 %.",
+    "Co-brand product page and May 22, 2026 booklet checked on 2026-11-04. The booklet excludes Quebec residents from common carrier, emergency medical, trip cancellation/interruption, flight delay and baggage insurance. The co-brand legal page warns new Quebec applicants do not receive travel insurance. Existing Quebec cardholders should confirm their applicable certificate.": "Page du produit et livret du 22 mai 2026 consultés le 4 novembre 2026. Le livret exclut les résidents du Québec des assurances transport public, soins médicaux d’urgence, annulation/interruption, retard de vol et bagages. La page juridique exclut aussi l’assurance voyage pour les nouveaux demandeurs québécois. Les titulaires québécois existants doivent confirmer leur certificat applicable.",
+    "Up to $5,000,000 per insured person per trip outside your province. 15 days per trip if 64 or under; 3 days if 65 or over. Not available to Quebec residents under the currently linked certificate.": "Jusqu’à 5 000 000 $ par assuré et par voyage hors province. 15 jours à 64 ans ou moins; 3 jours à 65 ans ou plus. Non offert aux résidents du Québec selon le certificat actuellement lié.",
+    "Up to $2,000 per insured person per trip (max $5,000 per trip for all insured persons). Not available to Quebec residents under the currently linked certificate.": "Jusqu’à 2 000 $ par assuré et par voyage, maximum collectif de 5 000 $. Non offert aux résidents du Québec selon le certificat actuellement lié.",
+    "Trip interruption and trip delay: up to $5,000 per insured person per trip (max $25,000 per trip for all insured persons). Not available to Quebec residents under the currently linked certificate.": "Interruption et retard de voyage : jusqu’à 5 000 $ par assuré et par voyage, maximum collectif de 25 000 $. Non offert aux résidents du Québec selon le certificat actuellement lié.",
+    "Up to $1,000 per trip for all insured persons when a flight is delayed more than 4 hours. Not available to Quebec residents under the currently linked certificate.": "Jusqu’à 1 000 $ par voyage pour tous les assurés si le vol est retardé de plus de 4 heures. Non offert aux résidents du Québec selon le certificat actuellement lié.",
+    "Lost, stolen or damaged baggage: up to $1,000 per person ($2,000 per trip). Baggage delayed over 6 hours: up to $500 per person ($1,000 per trip) for essentials. Not available to Quebec residents under the currently linked certificate.": "Bagages perdus, volés ou endommagés : jusqu’à 1 000 $ par personne, 2 000 $ par voyage. Retard de plus de 6 heures : articles essentiels jusqu’à 500 $ par personne, 1 000 $ par voyage. Non offert aux résidents du Québec selon le certificat actuellement lié.",
+    "Common carrier accident insurance: up to $150,000 per insured person for accidental death or dismemberment while on a common carrier. Not available to Quebec residents under the currently linked certificate.": "Accident en transport public : jusqu’à 150 000 $ par assuré en cas de décès ou mutilation accidentels. Non offert aux résidents du Québec selon le certificat actuellement lié."
   }
 }
