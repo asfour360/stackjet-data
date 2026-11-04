@@ -1,8 +1,8 @@
 {
   "format": "stackjet-status-benefits",
   "version": 1,
-  "updated": "2026-11-03",
-  "note": "Tier benefits shown when you tap a status. Each program lists its tiers lowest first, with where it was checked.",
+  "updated": "2026-11-04",
+  "note": "Tier benefits shown when you tap a status. Added Atmos Rewards Silver, Gold, Platinum and Titanium using Alaska/Hawaiian official sources (2026-11-04).",
   "programs": {
     "delta": {
       "sourceName": "Delta",
@@ -1749,6 +1749,74 @@
             "seats.choice",
             "seats.boarding",
             "upgrades.window"
+          ]
+        }
+      ]
+    },
+    "atmos": {
+      "sourceName": "Alaska Airlines Atmos Rewards",
+      "sourceURL": "https://www.alaskaair.com/atmosrewards/content/partners/oneworld",
+      "checked": "2026-11-04",
+      "note": "2026 status qualification thresholds. Benefits depend on airline, fare, route, available space and applicable lounge-entry rules. Tier benefits accumulate in the comparison view.",
+      "tiers": [
+        {
+          "name": "Atmos Silver",
+          "qualify": "20,000 status points in a calendar year; oneworld Ruby",
+          "benefits": [
+            "oneworld Ruby: priority check-in, preferred seating where available and waitlist priority on eligible itineraries",
+            "Complimentary preferred seating on eligible Alaska and Hawaiian flights",
+            "Eligible for complimentary First Class and Premium Class upgrades, subject to availability and fare rules",
+            "One free checked bag on eligible Alaska/Hawaiian flights",
+            "Eligible for at least 15% off participating Alaska Vacations VIP Access hotel stays and a property perk"
+          ],
+          "keys": [
+            "partners.oneworld",
+            "seats.preferred",
+            "upgrades.eligibility",
+            "bags.allowance",
+            "stay.vip"
+          ]
+        },
+        {
+          "name": "Atmos Gold",
+          "qualify": "40,000 status points in a calendar year; oneworld Sapphire",
+          "benefits": [
+            "oneworld Sapphire: priority boarding, lounge access on eligible itineraries, extra baggage allowance and priority baggage handling (subject to alliance rules)",
+            "Higher complimentary upgrade priority than Atmos Silver",
+            "Eligible for at least 20% off participating VIP Access hotel stays, a property perk and, when available, room upgrades, early check-in or late checkout"
+          ],
+          "keys": [
+            "partners.oneworld",
+            "upgrades.eligibility",
+            "stay.vip"
+          ]
+        },
+        {
+          "name": "Atmos Platinum",
+          "qualify": "80,000 status points in a calendar year; oneworld Emerald",
+          "benefits": [
+            "oneworld Emerald: additional priority services including fast-track security at selected airports, subject to local availability",
+            "Higher complimentary upgrade priority than Atmos Gold",
+            "Eligible Platinum members may bring one companion and eligible children into Premium Class when space is available (from November 2, 2026)"
+          ],
+          "keys": [
+            "partners.oneworld",
+            "upgrades.eligibility",
+            "seats.companion"
+          ]
+        },
+        {
+          "name": "Atmos Titanium",
+          "qualify": "135,000 status points in a calendar year; oneworld Emerald",
+          "benefits": [
+            "oneworld Emerald benefits; highest Atmos status tier",
+            "Top Atmos priority for eligible complimentary upgrades, subject to availability",
+            "Eligible Titanium members may bring one companion and eligible children into Premium Class when space is available (from November 2, 2026)"
+          ],
+          "keys": [
+            "partners.oneworld",
+            "upgrades.eligibility",
+            "seats.companion"
           ]
         }
       ]
