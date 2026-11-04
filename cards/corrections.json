@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -975,7 +975,7 @@
         "amex-mr-us"
       ],
       "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/green/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Selected official-source rules only. Unmodeled merchant-specific bonuses, travel protections, activation rules and credits are not asserted. This is not a complete benefits guide.",
       "benefits": [
         {
@@ -992,13 +992,145 @@
         {
           "id": "coverage-guide",
           "title": "Coverage: see your Guide to Benefits",
-          "detail": "Amex's Green Card page now redirects to the card list, so coverage could not be checked there. Check the Guide to Benefits sent with the card.",
+          "detail": "Trip delay, baggage, car rental, purchase and warranty protection benefits are subject to the separate Amex Guides to Benefits. See individual items below.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/green/",
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-clear-credit",
+          "title": "$219 CLEAR+ membership credit",
+          "detail": "Up to US$219 in statement credits each calendar year when eligible CLEAR+ membership fees are charged to the card; account and renewal conditions apply.",
+          "capMinor": 21900,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible new purchases receive up to 90 days of theft or damage protection, up to US$1,000 per purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one additional year of warranty coverage for qualifying purchases originally covered by manufacturer warranties of five years or less.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-trip-delay-insurance",
+          "title": "Trip delay insurance",
+          "detail": "Covered round-trip travel purchased entirely with the card may qualify for insurance when a qualifying delay exceeds 12 hours; coverage terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-rental-car-insurance",
+          "title": "Rental car loss and damage insurance",
+          "detail": "Secondary rental vehicle theft/damage coverage on eligible rentals when you pay with the card and decline the rental company's collision waiver; not third-party liability insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-baggage-insurance",
+          "title": "Baggage insurance",
+          "detail": "Eligible lost, stolen or damaged baggage when the full common-carrier fare is charged to the card; limits and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-fx",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fees on eligible purchases abroad.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-global-assist",
+          "title": "Global Assist Hotline",
+          "detail": "24/7 referrals and emergency coordination when traveling more than 100 miles from home; third-party service costs may apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Account-specific merchant offers can earn additional rewards or statement credits after activation, subject to their terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-event-access",
+          "title": "Amex Presale and Reserved Tickets",
+          "detail": "Access to eligible presale and reserved event tickets, subject to available inventory.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-venue-collection",
+          "title": "American Express Venue Collection",
+          "detail": "Special event-venue benefits, including qualifying concession savings after enrollment; current limits apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-optional-premium-rental",
+          "title": "Optional Premium Car Rental Protection",
+          "detail": "Eligible cardmembers may enroll in a paid primary rental-car protection plan; enrollment and fees apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+          "kind": "benefit",
+          "priority": 100
         }
       ],
       "statuses": [],
