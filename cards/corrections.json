@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -14924,12 +14924,12 @@
       ],
       "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
       "checkedOn": "2026-11-04",
-      "coverageNote": "Selected-category 1.5x applies only to three chosen categories, not all possible categories simultaneously. Per-benefit eligibility and issuer terms govern.",
+      "coverageNote": "Selected-category earnings apply to three chosen categories, changeable every 90 days. Insurance summaries are subject to the February 28, 2026 certificate, including payment requirements, eligibility, exclusions and claims deadlines.",
       "benefits": [
         {
           "id": "official-card-highlights",
-          "title": "Rewards & card benefits",
-          "detail": "Earn 1 Scene+ point per eligible C$1, or 1.5 points per C$1 in your three selected accelerator categories, plus cardholder travel and insurance benefits.",
+          "title": "Scene+ rewards and flexible categories",
+          "detail": "Earn 1.5 Scene+ points per eligible C$1 in three selected categories and 1 point elsewhere. Categories may be changed every 90 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -14940,10 +14940,10 @@
         {
           "id": "issuer-dragonpass-visits",
           "title": "Four complimentary DragonPass lounge visits",
-          "detail": "Four complimentary lounge visits each membership year through Mastercard Travel Pass by DragonPass, shared among eligible cardholders and guests; each person counts as one visit. Additional visits are generally US$32 per person, subject to change.",
+          "detail": "Enroll in Mastercard Travel Pass for four shared visits per membership year. Each guest uses one visit; the cardholder must accompany guests. Further visits cost US$32 per person, subject to change.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
+          "enrollmentRequired": true,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
           "priority": 30
@@ -14951,10 +14951,10 @@
         {
           "id": "issuer-shell-rewards",
           "title": "Shell fuel savings",
-          "detail": "Link an eligible card and Scene+ account with Shell Go+ for up to 10¢/L in combined savings and points value on eligible premium fuel; exact value varies by purchase.",
+          "detail": "Link to Shell Go+: 3¢/L instant savings on all grades, plus 4¢/L on premium through March 6, 2027, each limited to 1,000 L monthly. Scene+ rewards can add value; advertised totals are not all instant discounts.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
+          "enrollmentRequired": true,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
           "priority": 35
@@ -14973,10 +14973,10 @@
         {
           "id": "issuer-roaming",
           "title": "FlexiRoam international mobile data",
-          "detail": "Eligible complimentary 3GB global data roaming plan, plus up to 15% off additional plans, subject to activation terms.",
+          "detail": "Eligible cards receive a one-time 3GB global data benefit (3 × 1GB plans), each valid five days after activation; enroll and activate within the stated calendar-year window. Subsequent eligible purchases receive 15% off. Country exclusions apply.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
+          "enrollmentRequired": true,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
           "priority": 40
@@ -15028,33 +15028,33 @@
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Eligible rental-car collision and theft coverage is included under the card's insurance certificate, subject to rental duration, vehicle and payment requirements.",
+          "detail": "Eligible rentals: maximum 48 consecutive days; vehicle value at most C$85,000. Pay the full rental with the card/eligible Scene+ points and decline CDW/LDW. Exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "sourceURL": "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-mobile-device",
           "title": "Mobile device insurance",
-          "detail": "Eligible mobile-device protection is included; deductible, depreciation, claim limits and purchase or bill-payment requirements are defined in the current certificate.",
+          "detail": "Up to C$1,500, less 2% monthly depreciation and C$25–C$100 deductible. Coverage lasts up to two years; required purchase/plan payments must use the card. Certificate waiting periods apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "sourceURL": "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Eligible purchases can extend the original manufacturer's warranty under the Tangerine certificate's conditions.",
+          "detail": "Doubles eligible warranties by at most one year. Warranties of five years or longer require registration within one year. Shared lifetime purchase/warranty limit: C$60,000.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "sourceURL": "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf",
           "kind": "protection",
           "priority": 210
         },
@@ -15083,46 +15083,57 @@
         {
           "id": "ins-flight-delay",
           "title": "Flight delay insurance",
-          "detail": "Coverage for eligible flight delays; see the card's current certificate for trigger and reimbursement maximums.",
+          "detail": "Covered delays of at least four hours: up to C$250 per 24 hours, C$500 per trip. No alternative flight within four hours; 75% eligible trip payment required.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "sourceURL": "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf",
           "kind": "protection",
           "priority": 213
         },
         {
           "id": "ins-baggage",
           "title": "Baggage delay/loss insurance",
-          "detail": "Eligible baggage delay and lost or stolen luggage coverage; limits and triggering conditions are defined by the certificate.",
+          "detail": "Delay over four hours: C$500/trip for essentials, excluding return home. Loss/damage: C$1,000/person/trip, C$500/item or set. Requires 75% eligible payment.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "sourceURL": "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf",
           "kind": "protection",
           "priority": 214
         },
         {
           "id": "ins-purchase-assurance",
           "title": "Purchase assurance",
-          "detail": "Eligible purchased merchandise receives specified damage or theft protection subject to issuer insurance conditions.",
+          "detail": "Eligible purchases: 90-day loss/theft/damage coverage; full card/eligible Scene+ payment required. Shared lifetime purchase/warranty limit: C$60,000.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "sourceURL": "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf",
           "kind": "protection",
           "priority": 215
         },
         {
           "id": "ins-event-ticket",
           "title": "Event ticket protection",
-          "detail": "Eligible tickets may be protected against qualifying covered events; see the card's certificate.",
+          "detail": "Covered causes: up to C$1,000/occurrence for non-refundable tickets bought in full on the card from a primary outlet.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+          "sourceURL": "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf",
           "kind": "protection",
           "priority": 216
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Forced-entry room theft: up to C$1,000/occurrence, excess of other coverage; full eligible card/Scene+ payment required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf",
+          "kind": "protection",
+          "priority": 217
         }
       ],
       "statuses": [],
@@ -15163,7 +15174,8 @@
       "catalogLevel": "verified",
       "availability": "confirm-with-issuer",
       "benefitSourceURLs": [
-        "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard"
+        "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
+        "https://www.tangerine.ca/content/dam/tangerine/en/pdfs/credit-card-cardholder-agreement/Tangerine_Rewards_World_Elite_Mastercard_Certificate_of_Insurance_EN.pdf"
       ],
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true,
@@ -16897,6 +16909,21 @@
     "Enroll at united.com/AvisChaseBenefit; keep the card open and in good standing.": "Inscrivez-vous sur united.com/AvisChaseBenefit; gardez la carte ouverte et en règle.",
     "Up to 25% off Hertz base rates at participating locations in Canada (hertz.ca/desjardinsprestige), no young or additional driver fee, and automatic eligibility for Hertz Five Star status in Gold Plus Rewards; up to 10% off at Thrifty and Dollar.": "Jusqu'à 25 % de rabais sur les tarifs de base Hertz aux comptoirs participants au Canada (hertz.ca/desjardinsprestige), sans frais pour jeune conducteur ou conducteur additionnel, et admissibilité automatique au statut Hertz Five Star dans Gold Plus Rewards; jusqu'à 10 % chez Thrifty et Dollar.",
     "Mastercard Travel Pass lounge access": "Accès aux salons Mastercard Travel Pass",
-    "Mastercard Travel Pass by DragonPass for 1,300+ airport lounges in 140+ countries. Visits are paid at Travel Pass rates.": "Mastercard Travel Pass par DragonPass pour plus de 1 300 salons d'aéroport dans plus de 140 pays. Les visites sont payantes aux tarifs de Travel Pass."
+    "Mastercard Travel Pass by DragonPass for 1,300+ airport lounges in 140+ countries. Visits are paid at Travel Pass rates.": "Mastercard Travel Pass par DragonPass pour plus de 1 300 salons d'aéroport dans plus de 140 pays. Les visites sont payantes aux tarifs de Travel Pass.",
+    "Scene+ rewards and flexible categories": "Récompenses Scene+ et catégories flexibles",
+    "Earn 1.5 Scene+ points per eligible C$1 in three selected categories and 1 point elsewhere. Categories may be changed every 90 days.": "Obtenez 1,5 point Scene+ par dollar canadien admissible dans trois catégories choisies et 1 point ailleurs. Les catégories peuvent être modifiées tous les 90 jours.",
+    "Enroll in Mastercard Travel Pass for four shared visits per membership year. Each guest uses one visit; the cardholder must accompany guests. Further visits cost US$32 per person, subject to change.": "Inscrivez-vous à Mastercard Travel Pass pour quatre visites partagées par année d’adhésion. Chaque invité utilise une visite et doit être accompagné du titulaire. Les visites supplémentaires coûtent 32 $ US par personne, sous réserve de modification.",
+    "Link to Shell Go+: 3¢/L instant savings on all grades, plus 4¢/L on premium through March 6, 2027, each limited to 1,000 L monthly. Scene+ rewards can add value; advertised totals are not all instant discounts.": "Liez votre carte à Shell Go+ : réduction immédiate de 3 ¢/L sur toutes les qualités, plus 4 ¢/L sur le carburant supérieur jusqu’au 6 mars 2027, chacune limitée à 1 000 L par mois. Les récompenses Scene+ peuvent ajouter de la valeur; les totaux annoncés ne sont pas entièrement des réductions immédiates.",
+    "Eligible cards receive a one-time 3GB global data benefit (3 × 1GB plans), each valid five days after activation; enroll and activate within the stated calendar-year window. Subsequent eligible purchases receive 15% off. Country exclusions apply.": "Les cartes admissibles donnent droit à un avantage unique de 3 Go de données mondiales (3 forfaits de 1 Go), chacun valable cinq jours après activation. Inscription et activation requises dans la période civile indiquée. Les achats admissibles suivants donnent droit à 15 % de réduction. Certains pays sont exclus.",
+    "Eligible rentals: maximum 48 consecutive days; vehicle value at most C$85,000. Pay the full rental with the card/eligible Scene+ points and decline CDW/LDW. Exclusions apply.": "Locations admissibles : au plus 48 jours consécutifs; valeur du véhicule d’au plus 85 000 $ CA. Payez la location entière avec la carte ou les points Scene+ admissibles et refusez la garantie CDW/LDW. Des exclusions s’appliquent.",
+    "Up to C$1,500, less 2% monthly depreciation and C$25–C$100 deductible. Coverage lasts up to two years; required purchase/plan payments must use the card. Certificate waiting periods apply.": "Jusqu’à 1 500 $ CA, moins une dépréciation mensuelle de 2 % et une franchise de 25 $ à 100 $ CA. Protection d’au plus deux ans; les paiements requis de l’achat ou du forfait doivent être portés à la carte. Les délais de carence du certificat s’appliquent.",
+    "Doubles eligible warranties by at most one year. Warranties of five years or longer require registration within one year. Shared lifetime purchase/warranty limit: C$60,000.": "Double les garanties admissibles d’au plus un an. Les garanties d’au moins cinq ans nécessitent une inscription dans l’année suivant l’achat. Limite à vie commune des protections d’achat et de garantie : 60 000 $ CA.",
+    "Covered delays of at least four hours: up to C$250 per 24 hours, C$500 per trip. No alternative flight within four hours; 75% eligible trip payment required.": "Retards couverts d’au moins quatre heures : jusqu’à 250 $ CA par période de 24 heures et 500 $ CA par voyage. Aucun vol de remplacement dans les quatre heures; paiement admissible de 75 % requis.",
+    "Delay over four hours: C$500/trip for essentials, excluding return home. Loss/damage: C$1,000/person/trip, C$500/item or set. Requires 75% eligible payment.": "Retard de plus de quatre heures : 500 $ CA par voyage pour les articles essentiels, sauf au retour. Perte ou dommages : 1 000 $ CA par personne et par voyage, 500 $ CA par article ou ensemble. Paiement admissible de 75 % requis.",
+    "Eligible purchases: 90-day loss/theft/damage coverage; full card/eligible Scene+ payment required. Shared lifetime purchase/warranty limit: C$60,000.": "Achats admissibles : protection de 90 jours contre la perte, le vol ou les dommages; paiement intégral par carte ou points Scene+ admissibles requis. Limite à vie commune des protections d’achat et de garantie : 60 000 $ CA.",
+    "Covered causes: up to C$1,000/occurrence for non-refundable tickets bought in full on the card from a primary outlet.": "Causes couvertes : jusqu’à 1 000 $ CA par événement pour les billets non remboursables achetés entièrement avec la carte auprès d’un point de vente principal.",
+    "Hotel/motel burglary insurance": "Assurance cambriolage à l’hôtel ou au motel",
+    "Forced-entry room theft: up to C$1,000/occurrence, excess of other coverage; full eligible card/Scene+ payment required.": "Vol dans une chambre avec effraction : jusqu’à 1 000 $ CA par événement, en complément des autres protections; paiement intégral admissible par carte ou points Scene+ requis.",
+    "Selected-category earnings apply to three chosen categories, changeable every 90 days. Insurance summaries are subject to the February 28, 2026 certificate, including payment requirements, eligibility, exclusions and claims deadlines.": "Les taux accélérés s’appliquent à trois catégories choisies, modifiables tous les 90 jours. Les résumés d’assurance sont assujettis au certificat du 28 février 2026, notamment aux exigences de paiement, à l’admissibilité, aux exclusions et aux délais de réclamation."
   }
 }
