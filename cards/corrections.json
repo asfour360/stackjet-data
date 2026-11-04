@@ -25214,6 +25214,302 @@
       ],
       "foreignTransactionFeePercent": 0,
       "earningDataComplete": true
+    },
+    {
+      "id": "amex-business-gold-rewards-can",
+      "name": "Amex Business Gold Rewards CAN",
+      "issuer": "American Express",
+      "market": "CAN",
+      "annualFeeMinor": 19900,
+      "feeNote": "C$199 annual fee; supplementary Business Gold Rewards cards C$50 each/year (age of majority; up to 99). Foreign currency surcharge: 2.5%.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-business-gold-rewards-can",
+      "programIDs": [
+        "amex-mr-can"
+      ],
+      "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-gold-card/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Product benefits, registered-offer terms, September 2026 agreement and July 1, 2025 insurance certificates reviewed November 4, 2026. Unsupported catalog travel-credit and Plaza Premium-pass entries have been removed; these are not listed Business Gold benefits. No emergency-medical, general trip-cancellation/interruption or elite-status grant is listed. Employee Card Misuse Protection is issuer-listed, but its separate full terms were not publicly linked; eligibility beyond the displayed conditions remains unresolved. Other insurance requires eligible Canadian residency, account status and full-payment conditions. Rental/purchase claims: report within 48 hours; warranty within 45 days; other certificate claim deadlines apply.",
+      "benefits": [
+        {
+          "id": "dell",
+          "title": "Dell credit",
+          "detail": "Register in Amex Offers: up to C$50 January–June and C$50 July–December on eligible CAD purchases online at Dell Canada, shipped within Canada, through December 31, 2026. Basic registered card only; gift cards, refurbished products, Dell Financial Services and listed business/partner portals excluded. Credit may take 90 days after each half-year.",
+          "capMinor": 5000,
+          "reset": "semiannual",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "credit",
+          "endsBefore": "2027-01-01",
+          "priority": 20
+        },
+        {
+          "id": "pot-transfer-to-airline-and-hotel-partners",
+          "title": "Transfer to airline and hotel partners",
+          "detail": "Eligible Membership Rewards points can be transferred to participating airline/hotel loyalty programs at their current ratios, minimums and transfer terms. Transfers are normally final; partner availability and account matching apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "priority": 100
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$500 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$500 with flight delay. Lost/stolen baggage has a separate C$500 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to C$500 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Scheduled common-carrier accidental death/dismemberment benefits up to C$100,000/covered person. Full ticket fare must be charged to the card. Family eligibility and policy exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to C$1,000/occurrence/person, less 2% monthly depreciation and 10% deductible. Maximum two-year cover; one claim/12 months, two/48 months across eligible Amex cards. Full purchase or required financed-device payments must use the card; outright-purchase theft/damage cover starts day 91.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "instacart",
+          "title": "Instacart monthly credit",
+          "detail": "Register before spending: C$10 monthly credit for a single qualifying Instacart Canada purchase of at least C$10 in CAD through December 31, 2027. Canadian delivery and registered basic card required; gift cards, prescriptions and alcohol excluded. No rollover.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": "2028-01-01"
+        },
+        {
+          "id": "indeed",
+          "title": "Indeed quarterly credit",
+          "detail": "Register before spending: up to C$50 per calendar quarter, C$200 total in 2026, for qualifying CAD purchases directly at ca.indeed.com, through December 31, 2026. Basic registered card only; listed Indeed Events, Hire, Flex, job-seeker services and affiliates excluded. Credits may take 90 days after the quarter.",
+          "capMinor": 5000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": "2027-01-01"
+        },
+        {
+          "id": "quickbooks",
+          "title": "QuickBooks one-time credit",
+          "detail": "Register and spend C$50 cumulatively or in one transaction directly at quickbooks.ca/amex by February 28, 2027 for one C$50 credit. Canadian site/CAD/basic registered card required. Resellers, hardware, tSheets, TurboTax, CreditKarma, MailChimp and Quicken excluded; subscription renewal charges may apply. Allow 90 days after offer end.",
+          "capMinor": 5000,
+          "reset": "oneTime",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": "2027-03-01"
+        },
+        {
+          "id": "quarterly-spend-bonus",
+          "title": "10,000 quarterly bonus points",
+          "detail": "Earn 10,000 Membership Rewards points after C$20,000 in eligible net purchases each calendar quarter, up to 40,000 bonus points/year. Additional-card purchases count; spend resets each quarter, with no rollover. This milestone is additional to 1X eligible purchase earnings.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-hertz",
+          "title": "Hertz rental benefits",
+          "detail": "Enroll in Hertz Gold Plus Rewards with CDP 705500 and book directly with Hertz, paying with an eligible card. Eligible rentals can receive a one-class upgrade on five-plus-day rentals, a waived additional-driver fee and applicable discounts; location, vehicle, availability and blackout restrictions apply. This does not grant Hertz Five Star status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-hotel-collection",
+          "title": "The Hotel Collection",
+          "detail": "Book at least two consecutive nights at participating properties through eligible Amex Travel channels and pay in full with an eligible card. Up to US$100 of eligible room-charged property amenities and a one-category room upgrade when available. No room-rate/tax/gratuity credit; no cash or carryover.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Register for eligible targeted offers before spending; merchants, thresholds, expiry dates and reward types vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-experiences",
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible Front Of The Line presale and reserved tickets, events and experiences; availability, payment and ticket terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-business-management",
+          "title": "Business payment and employee controls",
+          "detail": "No preset spending limit does not mean unlimited credit. Up to 55 interest-free days requires payment under the agreement; eligible Flexible Payment Option balances accrue interest if carried. Supplementary-card limits, expense reports, statements and account alerts help manage business spending.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-replacement",
+          "title": "Fraud protection and emergency card replacement",
+          "detail": "Fraud protection requires reasonable care of account details and PIN and prompt notification of suspected misuse. Contact Amex for lost/stolen-card assistance and replacement.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "travel-emergency-assistance",
+          "title": "Travel emergency assistance",
+          "detail": "24/7 out-of-town medical/legal referral and coordination services. This is not medical insurance; third-party expenses are your responsibility and services must be arranged/authorized by the assistance provider.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "employee-misuse",
+          "title": "Employee Card Misuse Protection",
+          "detail": "Issuer lists up to C$100,000/basic Cardmember for eligible unauthorized employee-card charges when the employee is terminated and the supplementary card cancelled within two business days. Administered by Belair. Separate full eligibility/exclusion/claim terms were not publicly linked; confirm them with Amex before relying on this protection.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "amex-mr-can",
+          "label": "Membership Rewards points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/"
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/american-express-business-gold-rewards-card/",
+      "artworkSearchTerms": "Amex Business Gold Rewards",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/en-ca/charge-cards/small-business-gold-card/",
+        "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50463831-50498176-0926-Business-Gold-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf"
+      ],
+      "artworkURL": "https://princeoftravel.com/images/cards/Business_Gold_Rewards_Card.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
     }
   ],
   "removeCards": [],
@@ -25420,6 +25716,27 @@
     "Gold members can receive a fifth night free on eligible standard-room reward stays booked entirely with points. Reward stays paid entirely with points have no resort fees; hotel/program terms apply. This is a Hilton loyalty benefit, not an annual free-night certificate.": "Les membres Gold peuvent obtenir la cinquième nuit gratuite lors de séjours-récompenses admissibles en chambre standard payés entièrement en points. Aucun frais de villégiature pour les séjours payés entièrement en points; modalités de l’hôtel et du programme applicables. Avantage du programme Hilton, sans certificat annuel de nuit gratuite.",
     "Register for eligible targeted offers before spending. Merchant, minimum spend, reward and expiry conditions vary by offer and account.": "S’inscrire aux offres ciblées admissibles avant de dépenser. Commerçants, seuils, récompenses et dates d’expiration varient selon l’offre et le compte.",
     "Front Of The Line presale and reserved-ticket access to participating events. Full Amex payment, availability, ticket fees and event restrictions apply.": "Accès aux préventes et billets réservés Avant-première pour les événements participants. Paiement intégral Amex, disponibilité, frais de billetterie et restrictions applicables.",
-    "Contact Amex promptly for lost/stolen cards or suspected misuse. Fraud protection requires reasonable care of account details and PIN; replacement services and account terms apply.": "Aviser rapidement Amex en cas de carte perdue ou volée ou d’utilisation suspecte. La protection contre la fraude exige des précautions raisonnables pour le compte et le NIP; services de remplacement et modalités du compte applicables."
+    "Contact Amex promptly for lost/stolen cards or suspected misuse. Fraud protection requires reasonable care of account details and PIN; replacement services and account terms apply.": "Aviser rapidement Amex en cas de carte perdue ou volée ou d’utilisation suspecte. La protection contre la fraude exige des précautions raisonnables pour le compte et le NIP; services de remplacement et modalités du compte applicables.",
+    "Indeed quarterly credit": "Crédit trimestriel Indeed",
+    "QuickBooks one-time credit": "Crédit unique QuickBooks",
+    "10,000 quarterly bonus points": "Prime trimestrielle de 10 000 points",
+    "Hertz rental benefits": "Avantages de location Hertz",
+    "The Hotel Collection": "La Collection hôtelière",
+    "Business payment and employee controls": "Options de paiement et gestion des employés",
+    "Travel emergency assistance": "Assistance voyage d’urgence",
+    "Employee Card Misuse Protection": "Protection contre l’utilisation abusive des cartes d’employés",
+    "C$199 annual fee; supplementary Business Gold Rewards cards C$50 each/year (age of majority; up to 99). Foreign currency surcharge: 2.5%.": "Frais annuels de 199 $ CA; cartes supplémentaires Or avec primes Entreprise : 50 $ CA chacune par an (majorité requise; maximum de 99). Majoration de change : 2,5 %.",
+    "Product benefits, registered-offer terms, September 2026 agreement and July 1, 2025 insurance certificates reviewed November 4, 2026. Unsupported catalog travel-credit and Plaza Premium-pass entries have been removed; these are not listed Business Gold benefits. No emergency-medical, general trip-cancellation/interruption or elite-status grant is listed. Employee Card Misuse Protection is issuer-listed, but its separate full terms were not publicly linked; eligibility beyond the displayed conditions remains unresolved. Other insurance requires eligible Canadian residency, account status and full-payment conditions. Rental/purchase claims: report within 48 hours; warranty within 45 days; other certificate claim deadlines apply.": "Avantages, modalités des offres avec inscription, convention de septembre 2026 et certificats du 1er juillet 2025 vérifiés le 4 novembre 2026. Les mentions non étayées de crédit-voyage et de visites Plaza Premium ont été retirées. Aucune assurance frais médicaux d’urgence, annulation ou interruption générale de voyage, ni attribution de statut élite n’est indiquée. Amex mentionne la protection contre l’utilisation abusive des cartes d’employés, sans lien vers ses modalités complètes; l’admissibilité au-delà des conditions affichées reste à confirmer. Autres assurances : résidence canadienne, compte admissible et paiement intégral requis. Location et achats : déclaration sous 48 heures; garantie : 45 jours; autres délais selon le certificat.",
+    "Register in Amex Offers: up to C$50 January–June and C$50 July–December on eligible CAD purchases online at Dell Canada, shipped within Canada, through December 31, 2026. Basic registered card only; gift cards, refurbished products, Dell Financial Services and listed business/partner portals excluded. Credit may take 90 days after each half-year.": "S’inscrire aux Offres Amex : jusqu’à 50 $ CA de janvier à juin et 50 $ de juillet à décembre pour les achats admissibles en dollars canadiens chez Dell Canada en ligne, livrés au Canada, jusqu’au 31 décembre 2026. Carte principale inscrite seulement; cartes-cadeaux, produits remis à neuf, Dell Financial Services et portails exclus selon les modalités. Crédit sous 90 jours après chaque semestre.",
+    "Register before spending: C$10 monthly credit for a single qualifying Instacart Canada purchase of at least C$10 in CAD through December 31, 2027. Canadian delivery and registered basic card required; gift cards, prescriptions and alcohol excluded. No rollover.": "S’inscrire avant l’achat : crédit mensuel de 10 $ CA pour une transaction Instacart Canada admissible d’au moins 10 $ CA jusqu’au 31 décembre 2027. Livraison au Canada et carte principale inscrite requises; cartes-cadeaux, médicaments sur ordonnance et alcool exclus. Aucun report.",
+    "Register before spending: up to C$50 per calendar quarter, C$200 total in 2026, for qualifying CAD purchases directly at ca.indeed.com, through December 31, 2026. Basic registered card only; listed Indeed Events, Hire, Flex, job-seeker services and affiliates excluded. Credits may take 90 days after the quarter.": "S’inscrire avant l’achat : jusqu’à 50 $ CA par trimestre civil, 200 $ au total en 2026, pour les achats admissibles en dollars canadiens directement sur ca.indeed.com jusqu’au 31 décembre 2026. Carte principale inscrite seulement; Indeed Events, Hire, Flex, services aux chercheurs d’emploi et sociétés affiliées exclus selon les modalités. Crédit sous 90 jours après le trimestre.",
+    "Register and spend C$50 cumulatively or in one transaction directly at quickbooks.ca/amex by February 28, 2027 for one C$50 credit. Canadian site/CAD/basic registered card required. Resellers, hardware, tSheets, TurboTax, CreditKarma, MailChimp and Quicken excluded; subscription renewal charges may apply. Allow 90 days after offer end.": "S’inscrire et dépenser 50 $ CA en une ou plusieurs transactions directement sur quickbooks.ca/amex au plus tard le 28 février 2027 pour un crédit unique de 50 $ CA. Site canadien, dollars canadiens et carte principale inscrite requis. Revendeurs, matériel, tSheets, TurboTax, CreditKarma, MailChimp et Quicken exclus; renouvellements d’abonnement possibles. Crédit sous 90 jours après la fin de l’offre.",
+    "Earn 10,000 Membership Rewards points after C$20,000 in eligible net purchases each calendar quarter, up to 40,000 bonus points/year. Additional-card purchases count; spend resets each quarter, with no rollover. This milestone is additional to 1X eligible purchase earnings.": "Prime de 10 000 points-privilèges après 20 000 $ CA d’achats nets admissibles par trimestre civil, jusqu’à 40 000 points-primes par an. Achats des cartes supplémentaires inclus; compteur remis à zéro chaque trimestre sans report. Prime en plus du taux de 1 point par dollar admissible.",
+    "Enroll in Hertz Gold Plus Rewards with CDP 705500 and book directly with Hertz, paying with an eligible card. Eligible rentals can receive a one-class upgrade on five-plus-day rentals, a waived additional-driver fee and applicable discounts; location, vehicle, availability and blackout restrictions apply. This does not grant Hertz Five Star status.": "S’inscrire à Hertz Gold Plus Rewards avec le CDP 705500 et réserver directement chez Hertz, en payant avec une carte admissible. Surclassement d’une catégorie pour les locations d’au moins cinq jours, frais d’un conducteur additionnel supprimés et rabais applicables, sous réserve des restrictions de lieu, véhicule, disponibilité et dates. Aucun statut Hertz Five Star attribué.",
+    "Book at least two consecutive nights at participating properties through eligible Amex Travel channels and pay in full with an eligible card. Up to US$100 of eligible room-charged property amenities and a one-category room upgrade when available. No room-rate/tax/gratuity credit; no cash or carryover.": "Réserver au moins deux nuits consécutives dans un établissement participant par un canal Amex Voyages admissible et payer intégralement avec une carte admissible. Jusqu’à 100 $ US de services admissibles portés à la chambre et surclassement d’une catégorie selon disponibilité. Tarif de chambre, taxes et pourboires exclus; aucun remboursement en espèces ni report.",
+    "No preset spending limit does not mean unlimited credit. Up to 55 interest-free days requires payment under the agreement; eligible Flexible Payment Option balances accrue interest if carried. Supplementary-card limits, expense reports, statements and account alerts help manage business spending.": "L’absence de limite préétablie ne signifie pas un crédit illimité. Jusqu’à 55 jours sans intérêt sous réserve des paiements prévus à la convention; les soldes admissibles de l’option de paiement flexible portent intérêt s’ils sont reportés. Limites de cartes supplémentaires, rapports de dépenses, relevés et alertes facilitent la gestion.",
+    "24/7 out-of-town medical/legal referral and coordination services. This is not medical insurance; third-party expenses are your responsibility and services must be arranged/authorized by the assistance provider.": "Services de coordination et d’orientation médicale ou juridique hors domicile, 24 heures sur 24. Ce n’est pas une assurance médicale; frais de tiers à votre charge et services à faire organiser ou autoriser par le fournisseur.",
+    "Issuer lists up to C$100,000/basic Cardmember for eligible unauthorized employee-card charges when the employee is terminated and the supplementary card cancelled within two business days. Administered by Belair. Separate full eligibility/exclusion/claim terms were not publicly linked; confirm them with Amex before relying on this protection.": "Amex indique jusqu’à 100 000 $ CA par titulaire principal pour les frais non autorisés admissibles d’un employé si l’emploi et la carte supplémentaire prennent fin dans les deux jours ouvrables. Administration par Belair. Modalités complètes d’admissibilité, d’exclusions et de réclamation sans lien public; les confirmer auprès d’Amex avant de compter sur cette protection.",
+    "Eligible Membership Rewards points can be transferred to participating airline/hotel loyalty programs at their current ratios, minimums and transfer terms. Transfers are normally final; partner availability and account matching apply.": "Transférer les points-privilèges admissibles aux programmes aériens ou hôteliers participants selon leurs ratios, minimums et modalités courants. Transferts normalement définitifs; disponibilité et concordance des comptes requises."
   }
 }
