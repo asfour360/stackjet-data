@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -3406,7 +3406,7 @@
         "amex-mr-can"
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
       "benefits": [
         {
@@ -3610,7 +3610,7 @@
         {
           "id": "issuer-purchase-protection-plan",
           "title": "Purchase protection",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible new items charged to the card are protected against covered accidental damage or theft for 90 days, subject to the insurer's claim limits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -3621,7 +3621,7 @@
         {
           "id": "issuer-buyer-s-assurance-protection-plan",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible original manufacturer's warranties can be extended for up to one additional year when the item is fully purchased with the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -7820,7 +7820,7 @@
         "neo-cash-can"
       ],
       "sourceURL": "https://www.neofinancial.com/lp/neo-world-elite",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility. Neo World Elite Mastercard has mutually exclusive plan variants: Gas & Grocery = 5% groceries, 3% gas/EV, 4% recurring bills, 1% other; Shop & Dine = 5% food & drink, 3% shopping, 1% other; Everywhere = 2% on eligible purchases. Best Card does not combine variants into false simultaneous multipliers; it uses the selected-plan lane until plan state is stored.",
       "benefits": [
         {
@@ -7848,22 +7848,22 @@
         {
           "id": "neo-world-elite-mastercard-can-trip-cancellation-insurance",
           "title": "Trip cancellation insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Neo World Elite includes trip cancellation coverage for eligible prepaid travel when the required costs are charged to the card and the cancellation is due to a covered reason; refer to the current insurer certificate for the limits and exclusions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.neofinancial.com/legal/insurance-certificates",
+          "sourceURL": "https://www.neofinancial.com/legal/insurance-certificates?lang=en",
           "kind": "protection",
           "priority": 200
         },
         {
           "id": "neo-world-elite-mastercard-can-trip-interruption-insurance",
           "title": "Trip interruption insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Neo World Elite includes trip interruption coverage when an eligible journey charged to the card is interrupted for a covered reason; insurer limits and claim conditions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.neofinancial.com/legal/insurance-certificates",
+          "sourceURL": "https://www.neofinancial.com/legal/insurance-certificates?lang=en",
           "kind": "protection",
           "priority": 200
         },
@@ -7892,11 +7892,11 @@
         {
           "id": "neo-world-elite-mastercard-can-hotel-motel-burglary-insurance",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Neo World Elite includes hotel/motel burglary coverage for qualifying theft of personal property during an eligible paid stay; see the insurer certificate for covered property, maximums and exclusions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.neofinancial.com/legal/insurance-certificates",
+          "sourceURL": "https://www.neofinancial.com/legal/insurance-certificates?lang=en",
           "kind": "protection",
           "priority": 200
         },
@@ -9404,7 +9404,7 @@
         "scene-can"
       ],
       "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/american-express/gold-card.html",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Verified against current Scotiabank Canada issuer pages on 2026-10-12. Welcome offers are excluded from Best Card rankings; merchant coding, annual spend caps and account-specific terms still control actual earn.",
       "benefits": [
         {
@@ -9508,7 +9508,7 @@
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Collision and theft insurance on qualifying rentals for up to 48 consecutive days, with an eligible vehicle value limit of C$65,000 when the rental is paid in full with the card and the agency CDW is declined.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -9552,7 +9552,7 @@
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Doubles the original manufacturer's warranty on eligible purchases for up to one additional year. Items with warranties of five years or longer must be registered within the first year.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -9659,7 +9659,7 @@
         "scene-can"
       ],
       "sourceURL": "https://www.scotiabank.com/ca/en/business-banking/banking-solutions/credit-cards/scotiabank-passport-visa-infinite-business-card.html",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Verified against current Scotiabank Canada issuer pages on 2026-10-12. Welcome offers are excluded from Best Card rankings; merchant coding, annual spend caps and account-specific terms still control actual earn.",
       "benefits": [
         {
@@ -9796,7 +9796,7 @@
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Doubles the original manufacturer's warranty for most eligible purchases, up to one extra year, when the full purchase cost is charged to the card. Register manufacturers' warranties of five or more years within the first year.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -10181,7 +10181,7 @@
         "scene-can"
       ],
       "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/american-express/platinum-card.html",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Verified against current Scotiabank Canada issuer pages on 2026-10-12. Welcome offers are excluded from Best Card rankings; merchant coding, annual spend caps and account-specific terms still control actual earn.",
       "benefits": [
         {
@@ -10329,7 +10329,7 @@
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Doubles eligible original manufacturer's warranties for up to two additional years when purchased in full with the card. Items with original warranties of five years or longer require registration within the first year.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -11548,7 +11548,7 @@
         "scene-can"
       ],
       "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Verified against current Scotiabank Canada issuer pages on 2026-10-12. Welcome offers are excluded from Best Card rankings; merchant coding, annual spend caps and account-specific terms still control actual earn.",
       "benefits": [
         {
@@ -11703,7 +11703,7 @@
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Doubles eligible original manufacturer's warranties for up to one additional year when the full purchase price is charged to the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -11825,7 +11825,7 @@
         "aeroplan"
       ],
       "sourceURL": "https://www.td.com/ca/en/personal-banking/products/credit-cards/aeroplan/aeroplan-visa-infinite-card",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
       "benefits": [
         {
@@ -11930,7 +11930,7 @@
         {
           "id": "ins-emergency-medical",
           "title": "Emergency medical insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$2,000,000 in eligible out-of-province emergency medical expenses, for the first 21 days of a trip if age 64 or younger or four days if age 65 or older. Optional top-up coverage can be purchased.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -11996,7 +11996,7 @@
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Rental car collision or loss damage insurance for rentals up to 48 consecutive days when paid in full with the card or associated Aeroplan points and the rental company's collision damage waiver is declined.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
