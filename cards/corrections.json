@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -6776,7 +6776,7 @@
         "desjardins-can"
       ],
       "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
       "benefits": [
         {
@@ -6804,7 +6804,7 @@
         {
           "id": "issuer-compre-hensive-travel-insurance",
           "title": "Comprehensive travel insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Emergency travel healthcare coverage up to C$5,000,000 per insured person for up to 60 days, depending on age. Trip cancellation and baggage coverage are included under separate conditions; 24/7 travel assistance is available. Coverage duration depends on insured age and policy requirements.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6815,7 +6815,7 @@
         {
           "id": "ins-trip-cancellation",
           "title": "Trip cancellation insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$2,500 per person before departure; covered cancellations after departure may have unlimited coverage under the policy. The eligible travel expense must be paid with this Desjardins card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6826,7 +6826,7 @@
         {
           "id": "issuer-auto-rental-collision-and-loss-damage-insurance",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Collision or theft insurance on qualifying rental vehicles for up to 48 consecutive days when the full rental cost is charged to the card and the rental agency's collision coverage is declined.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6837,7 +6837,7 @@
         {
           "id": "ins-travel-accident",
           "title": "Travel accident insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Travel healthcare, emergency assistance, cancellation and baggage coverages are described in the issuer's current travel-insurance policy; consult the policy for any separate accident coverage and exclusions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6848,7 +6848,7 @@
         {
           "id": "desjardins-odyssey-world-elite-mastercard-can-mobile-device-insurance",
           "title": "Mobile device insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,500 toward qualifying mobile-device loss, theft, accidental damage or mechanical failure when eligible device costs or wireless payments are charged to this card; policy deductible and depreciation apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6859,7 +6859,7 @@
         {
           "id": "desjardins-odyssey-world-elite-mastercard-can-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Protects qualifying items against covered theft, loss or damage for 120 days from purchase when paid with the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -6870,12 +6870,56 @@
         {
           "id": "desjardins-odyssey-world-elite-mastercard-can-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Doubles an eligible original manufacturer's warranty for up to 2 additional years on qualifying items purchased with the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
           "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-baggage-coverage",
+          "title": "Lost, damaged or delayed baggage insurance",
+          "detail": "Up to C$1,000 per person for lost, damaged or stolen baggage, or C$500 for a delay longer than six hours. Eligibility and coverage duration follow the card's travel-insurance policy.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-travel-assistance",
+          "title": "24/7 travel assistance",
+          "detail": "Access to emergency travel assistance worldwide, including medical coordination and travel support. Assistance is not a waiver of policy limits or exclusions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-dragonpass-membership",
+          "title": "Mastercard Travel Pass membership",
+          "detail": "DragonPass lounge membership; individual visits may be subject to fees unless separately included.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-flexiroam",
+          "title": "Global mobile data benefit",
+          "detail": "Eligible FlexiRoam global travel data benefits under Mastercard program terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "kind": "benefit",
           "priority": 100
         }
       ],
@@ -7016,7 +7060,7 @@
         "desjardins-can"
       ],
       "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-gold-visa.html",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
       "benefits": [
         {
@@ -7044,7 +7088,7 @@
         {
           "id": "issuer-compre-hensive-travel-insurance",
           "title": "Comprehensive travel insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Emergency travel healthcare coverage up to C$5,000,000 per insured person for up to 60 days, depending on age. Trip cancellation and baggage coverage are included under separate conditions; 24/7 travel assistance is available. Coverage duration depends on insured age and policy requirements.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -7055,7 +7099,7 @@
         {
           "id": "ins-trip-cancellation",
           "title": "Trip cancellation insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$2,500 per person before departure; eligible cancellations after departure may have unlimited coverage under the policy. The eligible travel expense must be paid with this Desjardins card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -7066,7 +7110,7 @@
         {
           "id": "issuer-auto-rental-collision-and-loss-damage-insurance",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Collision or theft insurance on qualifying rental vehicles for up to 48 consecutive days when the full rental cost is charged to the card and the rental agency's collision coverage is declined.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -7077,7 +7121,7 @@
         {
           "id": "ins-travel-accident",
           "title": "Travel accident insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Travel healthcare, emergency assistance, cancellation and baggage coverages are described in the issuer's current travel-insurance policy; consult the policy for any separate accident coverage and exclusions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -7088,7 +7132,7 @@
         {
           "id": "desjardins-odyssey-gold-visa-can-mobile-device-insurance",
           "title": "Mobile device insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,000 toward qualifying mobile-device loss, theft, accidental damage or mechanical failure when eligible device costs or wireless payments are charged to this card; policy deductible and depreciation apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -7099,7 +7143,7 @@
         {
           "id": "desjardins-odyssey-gold-visa-can-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Protects qualifying items against covered theft, loss or damage for 90 days from purchase when paid with the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -7110,12 +7154,34 @@
         {
           "id": "desjardins-odyssey-gold-visa-can-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Doubles an eligible original manufacturer's warranty for up to 1 additional year on qualifying items purchased with the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-gold-visa.html",
           "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-baggage-coverage",
+          "title": "Lost, damaged or delayed baggage insurance",
+          "detail": "Up to C$1,000 per person for lost, damaged or stolen baggage, or C$500 when delayed longer than six hours. Eligibility and coverage duration follow the card's travel-insurance policy.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-gold-visa.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-travel-assistance",
+          "title": "24/7 travel assistance",
+          "detail": "Access to emergency travel assistance worldwide, including medical coordination and travel support. Assistance is not a waiver of policy limits or exclusions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-gold-visa.html",
+          "kind": "benefit",
           "priority": 100
         }
       ],
@@ -7242,8 +7308,8 @@
       "programIDs": [
         "desjardins-cash-can"
       ],
-      "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
-      "checkedOn": "2026-11-03",
+      "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
       "benefits": [
         {
@@ -7271,29 +7337,29 @@
         {
           "id": "issuer-compre-hensive-travel-insurance",
           "title": "Comprehensive travel insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Emergency travel healthcare coverage up to C$5,000,000 per insured person for the first three days of each covered trip. Trip cancellation and baggage coverage are included under separate conditions; 24/7 travel assistance is available. Coverage duration depends on insured age and policy requirements.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "issuer-auto-rental-collision-and-loss-damage-insurance",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Collision or theft insurance on qualifying rental vehicles for up to 48 consecutive days when the full rental cost is charged to the card and the rental agency's collision coverage is declined.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "ins-travel-accident",
           "title": "Travel accident insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Travel healthcare, emergency assistance, cancellation and baggage coverages are described in the issuer's current travel-insurance policy; consult the policy for any separate accident coverage and exclusions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -7304,34 +7370,78 @@
         {
           "id": "desjardins-cash-back-world-elite-mastercard-can-mobile-device-insurance",
           "title": "Mobile device insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,500 toward qualifying mobile-device loss, theft, accidental damage or mechanical failure when eligible device costs or wireless payments are charged to this card; policy deductible and depreciation apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "desjardins-cash-back-world-elite-mastercard-can-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Protects qualifying items against covered theft, loss or damage for 120 days from purchase when paid with the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "desjardins-cash-back-world-elite-mastercard-can-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Doubles an eligible original manufacturer's warranty for up to 2 additional years on qualifying items purchased with the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.desjardins.com/en/credit-cards/odyssey-world-elite-mastercard.html",
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
           "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-baggage-coverage",
+          "title": "Lost, damaged or delayed baggage insurance",
+          "detail": "Up to C$500 per person for loss, damage, theft or delay exceeding six hours. Eligibility and coverage duration follow the card's travel-insurance policy.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-travel-assistance",
+          "title": "24/7 travel assistance",
+          "detail": "Access to emergency travel assistance worldwide, including medical coordination and travel support. Assistance is not a waiver of policy limits or exclusions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-travel-pass",
+          "title": "Mastercard Travel Pass",
+          "detail": "Membership for paid access to participating DragonPass lounges; the card does not include unlimited complimentary visits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-protection",
+          "title": "Identity and fraud protection",
+          "detail": "Desjardins Identity Protection, card transaction security alerts and zero-liability protections subject to card terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.desjardins.com/en/credit-cards/cash-back-world-elite-mastercard.html",
+          "kind": "benefit",
           "priority": 100
         }
       ],
