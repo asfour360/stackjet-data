@@ -1,8 +1,8 @@
 {
   "format": "stackjet-app-data",
   "version": 1,
-  "updated": "2026-11-03",
-  "note": "Every section is optional; an empty or missing section leaves that table as built into the app. statusTiers: WestJet, plus Porter, British Airways, Iberia, Aer Lingus and Cathay tiers (2026-11-03).",
+  "updated": "2026-11-04",
+  "note": "Every section is optional; an empty or missing section leaves that table as built into the app. statusTiers: WestJet, plus Porter, British Airways, Iberia, Aer Lingus and Cathay tiers (2026-11-03). Atmos Rewards four tier names added (2026-11-04).",
   "transferPartners": {},
   "storeChains": [],
   "princeOfTravelSources": {},
@@ -49,6 +49,12 @@
       "Cathay Silver",
       "Cathay Gold",
       "Cathay Diamond"
+    ],
+    "atmos": [
+      "Atmos Silver",
+      "Atmos Gold",
+      "Atmos Platinum",
+      "Atmos Titanium"
     ]
   },
   "retiredCards": {},
