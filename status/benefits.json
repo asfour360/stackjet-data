@@ -2,7 +2,7 @@
   "format": "stackjet-status-benefits",
   "version": 1,
   "updated": "2026-11-04",
-  "note": "Tier benefits shown when you tap a status. Added Atmos Rewards Silver, Gold, Platinum and Titanium using Alaska/Hawaiian official sources (2026-11-04).",
+  "note": "Airline tier benefits updated 2026-11-04: British Airways Club, Iberia Club, AerClub, VIPorter, Cathay and Breezy Rewards, alongside earlier programs. Source details reflect 2026 rules.",
   "programs": {
     "delta": {
       "sourceName": "Delta",
@@ -1817,6 +1817,478 @@
             "partners.oneworld",
             "upgrades.eligibility",
             "seats.companion"
+          ]
+        }
+      ]
+    },
+    "ba-avios": {
+      "sourceName": "British Airways",
+      "sourceURL": "https://www.britishairways.com/content/en/us/the-british-airways-club/about-the-club/tiers-and-benefits/compare-the-tiers",
+      "checked": "2026-11-04",
+      "note": "2026 British Airways Club tiers. Lounge access and baggage privileges depend on flight, airline and fare. Gold Guest List is a higher-qualification benefit within Gold, not a separate oneworld tier.",
+      "tiers": [
+        {
+          "name": "British Airways Blue",
+          "qualify": "Free enrolment",
+          "benefits": [
+            "Collect and redeem Avios on eligible flights and partner purchases",
+            "Free text-based Wi-Fi messaging on eligible British Airways flights"
+          ],
+          "keys": [
+            "earn.avios",
+            "other.wifi"
+          ]
+        },
+        {
+          "name": "British Airways Bronze",
+          "qualify": "3,500 Tier Points or 25 eligible flights in a collection year; oneworld Ruby",
+          "benefits": [
+            "oneworld Ruby recognition and priority check-in on eligible flights",
+            "Free British Airways seat selection from seven days before departure, with exclusions",
+            "Priority boarding on eligible British Airways flights"
+          ],
+          "keys": [
+            "partners.alliance",
+            "seats.selection",
+            "seats.boarding"
+          ]
+        },
+        {
+          "name": "British Airways Silver",
+          "qualify": "8,000 Tier Points or 50 eligible flights in a collection year; oneworld Sapphire",
+          "benefits": [
+            "oneworld Sapphire recognition",
+            "Free seat selection at booking, subject to seat and fare exclusions",
+            "Business-class lounge access on eligible British Airways and oneworld itineraries",
+            "Additional checked-baggage allowance on eligible fares",
+            "Priority check-in and boarding"
+          ],
+          "keys": [
+            "partners.alliance",
+            "seats.selection",
+            "lounge.access",
+            "bags.allowance",
+            "seats.boarding"
+          ]
+        },
+        {
+          "name": "British Airways Gold",
+          "qualify": "21,000 Tier Points in a collection year; oneworld Emerald",
+          "benefits": [
+            "oneworld Emerald recognition and priority security where available",
+            "First-class lounge access on eligible British Airways and oneworld itineraries",
+            "First-class check-in and priority boarding",
+            "Additional British Airways reward-flight availability and Gold Priority Rewards"
+          ],
+          "keys": [
+            "partners.alliance",
+            "lounge.access",
+            "seats.boarding",
+            "other.rewards"
+          ]
+        },
+        {
+          "name": "British Airways Gold Guest List",
+          "qualify": "Gold member with additional qualifying Tier Points from eligible activities; check current British Airways requirements",
+          "benefits": [
+            "Gold Guest List privileges, including eligible guest and Concorde Room benefits as set out by British Airways",
+            "Eligible Concorde Room and enhanced lounge access, subject to published Guest List conditions"
+          ],
+          "keys": [
+            "other.guestlist",
+            "lounge.access"
+          ]
+        }
+      ]
+    },
+    "iberia-avios": {
+      "sourceName": "Iberia",
+      "sourceURL": "https://www.iberia.com/ca/iberia-club/earn-elite-points/",
+      "checked": "2026-11-04",
+      "note": "2026 Iberia Club: 1 April–31 March qualification year for annual tiers; Infinita levels are lifetime achievements. oneworld benefits subject to operating carrier and itinerary.",
+      "tiers": [
+        {
+          "name": "Iberia Clásica",
+          "qualify": "Free enrolment",
+          "benefits": [
+            "Earn and redeem Avios; collect eligible Elite Points",
+            "Use Avios for eligible reward seats or cabin upgrades"
+          ],
+          "keys": [
+            "earn.avios",
+            "upgrades.redemption"
+          ]
+        },
+        {
+          "name": "Iberia Plata",
+          "qualify": "3,500 Elite Points per qualification year; oneworld Ruby",
+          "benefits": [
+            "oneworld Ruby recognition",
+            "Iberia priority boarding Group 2 on eligible flights",
+            "Business-class priority check-in and waitlist priority where available"
+          ],
+          "keys": [
+            "partners.alliance",
+            "seats.boarding",
+            "stay.checkin"
+          ]
+        },
+        {
+          "name": "Iberia Oro",
+          "qualify": "7,500 Elite Points per qualification year; oneworld Sapphire",
+          "benefits": [
+            "oneworld Sapphire recognition",
+            "Business lounge access on qualifying oneworld itineraries, including applicable guest privileges",
+            "Iberia priority boarding Group 1",
+            "Additional baggage allowance and priority baggage services on eligible itineraries",
+            "Fast Track on eligible Iberia journeys where available"
+          ],
+          "keys": [
+            "partners.alliance",
+            "lounge.access",
+            "seats.boarding",
+            "bags.allowance",
+            "other.security"
+          ]
+        },
+        {
+          "name": "Iberia Platino",
+          "qualify": "20,000 Elite Points per qualification year; oneworld Emerald",
+          "benefits": [
+            "oneworld Emerald recognition",
+            "Access to eligible first-class and business-class oneworld lounges",
+            "Iberia priority boarding Group 0",
+            "Priority security where available"
+          ],
+          "keys": [
+            "partners.alliance",
+            "lounge.access",
+            "seats.boarding",
+            "other.security"
+          ]
+        },
+        {
+          "name": "Iberia Platino Prime",
+          "qualify": "30,000 Elite Points per qualification year; oneworld Emerald",
+          "benefits": [
+            "Enhanced Iberia Club Platino Prime benefits subject to the published tier terms",
+            "oneworld Emerald recognition"
+          ],
+          "keys": [
+            "other.priority",
+            "partners.alliance"
+          ]
+        },
+        {
+          "name": "Iberia Infinita",
+          "qualify": "400,000 lifetime Elite Points; lifetime tier",
+          "benefits": [
+            "Lifetime Iberia Club privileges based on Platino Prime, with additional Infinita recognition",
+            "oneworld Emerald recognition"
+          ],
+          "keys": [
+            "other.lifetime",
+            "partners.alliance"
+          ]
+        },
+        {
+          "name": "Iberia Infinita Prime",
+          "qualify": "640,000 lifetime Elite Points; lifetime tier",
+          "benefits": [
+            "Lifetime Infinita Prime level with enhanced Iberia privileges",
+            "oneworld Emerald recognition"
+          ],
+          "keys": [
+            "other.lifetime",
+            "partners.alliance"
+          ]
+        }
+      ]
+    },
+    "aerclub-avios": {
+      "sourceName": "Aer Lingus",
+      "sourceURL": "https://www.aerlingus.com/aerclub/using-aerclub/tiers-and-benefits/",
+      "checked": "2026-11-04",
+      "note": "AerClub uses Tier Credits plus eligible Aer Lingus flights to qualify. Aer Lingus is not itself a oneworld alliance member; partner-airline privileges vary by route and tier.",
+      "tiers": [
+        {
+          "name": "AerClub Green",
+          "qualify": "Free enrolment",
+          "benefits": [
+            "Earn Avios on eligible Aer Lingus flights and participating partners",
+            "Redeem Avios for eligible Aer Lingus and partner rewards"
+          ],
+          "keys": [
+            "earn.avios",
+            "other.member"
+          ]
+        },
+        {
+          "name": "AerClub Silver",
+          "qualify": "Earn the required AerClub Tier Credits and at least two eligible Aer Lingus flights in the qualification period",
+          "benefits": [
+            "Priority check-in and boarding on eligible Aer Lingus journeys",
+            "Additional Avios and travel benefits for Silver members as specified by AerClub"
+          ],
+          "keys": [
+            "seats.boarding",
+            "earn.bonus"
+          ]
+        },
+        {
+          "name": "AerClub Platinum",
+          "qualify": "Earn the required AerClub Tier Credits and at least four eligible Aer Lingus flights in the qualification period",
+          "benefits": [
+            "Lounge access on qualifying Aer Lingus and selected partner journeys, subject to route and guest rules",
+            "Additional priority airport benefits, including Fast Track at eligible airports"
+          ],
+          "keys": [
+            "lounge.access",
+            "seats.boarding"
+          ]
+        },
+        {
+          "name": "AerClub Concierge",
+          "qualify": "Earn the required AerClub Tier Credits and at least six eligible Aer Lingus flights in the qualification period",
+          "benefits": [
+            "Top-level AerClub recognition and priority services",
+            "Enhanced lounge privileges on eligible itineraries under AerClub terms"
+          ],
+          "keys": [
+            "other.concierge",
+            "lounge.access"
+          ]
+        }
+      ]
+    },
+    "porter": {
+      "sourceName": "Porter Airlines",
+      "sourceURL": "https://www.flyporter.com/en-ca/about-porter/viporter",
+      "checked": "2026-11-04",
+      "note": "Annual qualifying spend is based on eligible Porter travel; BMO VIPorter card benefits and qualifying-spend contributions are separate from flight-earned status.",
+      "tiers": [
+        {
+          "name": "VIPorter Member",
+          "qualify": "C$0–1,999 eligible annual qualifying spend",
+          "benefits": [
+            "5 VIPorter points per eligible C$1 spent on Porter flights",
+            "Redeem points for Porter and eligible partner-airline rewards"
+          ],
+          "keys": [
+            "earn.points",
+            "other.redeem"
+          ]
+        },
+        {
+          "name": "VIPorter Passport",
+          "qualify": "C$2,000 eligible annual qualifying spend",
+          "benefits": [
+            "6 VIPorter points per eligible C$1 spent on Porter flights",
+            "Dedicated check-in, selected priority security and early boarding",
+            "Priority call centre, standby and flight-delay re-accommodation",
+            "20% bonus on qualifying partner-airline points earnings"
+          ],
+          "keys": [
+            "earn.points",
+            "seats.boarding",
+            "other.service",
+            "other.partnerbonus"
+          ]
+        },
+        {
+          "name": "VIPorter Venture",
+          "qualify": "C$3,000 eligible annual qualifying spend",
+          "benefits": [
+            "Complimentary PorterClassic seat selection on eligible Porter flights",
+            "First checked bag free and carry-on included even on eligible PorterClassic Basic fares",
+            "PorterReserve certificate at eligible qualifying-spend milestones"
+          ],
+          "keys": [
+            "seats.selection",
+            "bags.allowance",
+            "upgrades.certificate"
+          ]
+        },
+        {
+          "name": "VIPorter Ascent",
+          "qualify": "C$6,000 eligible annual qualifying spend",
+          "benefits": [
+            "7 VIPorter points per eligible C$1 spent on Porter flights",
+            "First and second checked bags free on eligible Porter flights",
+            "Complimentary PorterClassic Stretch seat selection when available",
+            "Free same-day flight changes on eligible fares",
+            "40% bonus on qualifying partner-airline points earnings"
+          ],
+          "keys": [
+            "earn.points",
+            "bags.allowance",
+            "seats.selection",
+            "other.changes",
+            "other.partnerbonus"
+          ]
+        },
+        {
+          "name": "VIPorter First",
+          "qualify": "C$10,000 eligible annual qualifying spend",
+          "benefits": [
+            "Guaranteed seat on a sold-out eligible Porter flight when purchasing PorterClassic Freedom",
+            "Guaranteed next-flight re-accommodation after eligible Porter cancellations"
+          ],
+          "keys": [
+            "other.reservation",
+            "other.irrops"
+          ]
+        }
+      ]
+    },
+    "cathay": {
+      "sourceName": "Cathay Pacific",
+      "sourceURL": "https://www.cathaypacific.com/cx/en_HK/membership/benefits.html",
+      "checked": "2026-11-04",
+      "note": "Current 2026 Cathay statuses. Major new Cathay status rules start 1 January 2027 and are not mixed into these 2026 tiers.",
+      "tiers": [
+        {
+          "name": "Cathay Green",
+          "qualify": "Free enrolment",
+          "benefits": [
+            "Earn Asia Miles and eligible Status Points on qualifying flights and partners",
+            "Member ticket offers and eligible direct-booking privileges"
+          ],
+          "keys": [
+            "earn.miles",
+            "other.booking"
+          ]
+        },
+        {
+          "name": "Cathay Silver",
+          "qualify": "300 Status Points and at least one eligible Cathay Pacific sector in the membership year; oneworld Ruby",
+          "benefits": [
+            "oneworld Ruby",
+            "Business-class priority check-in and priority waitlist on eligible flights",
+            "Advance seat reservation subject to paid-fare and availability rules",
+            "Business lounge access on eligible Cathay journeys; see specific operating-airline rules"
+          ],
+          "keys": [
+            "partners.alliance",
+            "stay.checkin",
+            "seats.selection",
+            "lounge.access"
+          ]
+        },
+        {
+          "name": "Cathay Gold",
+          "qualify": "600 Status Points and at least one eligible Cathay Pacific sector in the membership year; oneworld Sapphire",
+          "benefits": [
+            "oneworld Sapphire",
+            "Business-class lounge access on eligible Cathay and oneworld itineraries",
+            "Priority boarding and priority baggage handling",
+            "Additional checked baggage allowance on eligible itineraries",
+            "Complimentary onboard Wi-Fi on eligible Cathay Pacific flights"
+          ],
+          "keys": [
+            "partners.alliance",
+            "lounge.access",
+            "seats.boarding",
+            "bags.allowance",
+            "other.wifi"
+          ]
+        },
+        {
+          "name": "Cathay Diamond",
+          "qualify": "1,200 Status Points and at least one eligible Cathay Pacific sector in the membership year; oneworld Emerald",
+          "benefits": [
+            "oneworld Emerald",
+            "First-class lounge access on qualifying Cathay and oneworld itineraries",
+            "First-class priority check-in where available",
+            "Fast-track security at participating airports"
+          ],
+          "keys": [
+            "partners.alliance",
+            "lounge.access",
+            "stay.checkin",
+            "other.security"
+          ]
+        }
+      ]
+    },
+    "breeze": {
+      "sourceName": "Breeze Airways",
+      "sourceURL": "https://www.flybreeze.com/support?a=What-is-Breezy-Rewards%28r%29---id--SsR85r47RRm1ZNhd1ZEnLQ",
+      "checked": "2026-11-04",
+      "note": "Breeze Easy Visa first-year Breezy 1 is a conditional card promotion after qualifying spending; it is not a lifetime automatic tier. See the card issuer's current offer terms.",
+      "tiers": [
+        {
+          "name": "Breezy Rewards Member",
+          "qualify": "0 qualifying BreezePoints",
+          "benefits": [
+            "Free family seating on eligible Breeze journeys",
+            "Earn BreezePoints on qualifying Breeze flights and purchases"
+          ],
+          "keys": [
+            "seats.family",
+            "earn.points"
+          ]
+        },
+        {
+          "name": "Breezy 1",
+          "qualify": "15,000 qualifying BreezePoints, or an eligible first-year Breeze Easy Visa offer after required spending",
+          "benefits": [
+            "Complimentary Wi-Fi on eligible Breeze flights",
+            "25% BreezePoints boost",
+            "Zone 1 priority boarding",
+            "One eligible bundle upgrade"
+          ],
+          "keys": [
+            "other.wifi",
+            "earn.boost",
+            "seats.boarding",
+            "upgrades.bundle"
+          ]
+        },
+        {
+          "name": "Breezy 2",
+          "qualify": "30,000 qualifying BreezePoints",
+          "benefits": [
+            "50% BreezePoints boost",
+            "Two eligible bundle upgrades",
+            "Priority guest support",
+            "Choice of a listed Breezy Select benefit"
+          ],
+          "keys": [
+            "earn.boost",
+            "upgrades.bundle",
+            "other.support",
+            "other.select"
+          ]
+        },
+        {
+          "name": "Breezy 3",
+          "qualify": "60,000 qualifying BreezePoints",
+          "benefits": [
+            "75% BreezePoints boost",
+            "BreezeBy priority boarding",
+            "Five eligible bundle upgrades",
+            "Enhanced Breezy Select benefit options"
+          ],
+          "keys": [
+            "earn.boost",
+            "seats.boarding",
+            "upgrades.bundle",
+            "other.select"
+          ]
+        },
+        {
+          "name": "Breezy Club",
+          "qualify": "120,000 qualifying BreezePoints",
+          "benefits": [
+            "100% BreezePoints boost",
+            "Ten eligible bundle upgrades",
+            "Top-tier Breezy Select benefit options"
+          ],
+          "keys": [
+            "earn.boost",
+            "upgrades.bundle",
+            "other.select"
           ]
         }
       ]
