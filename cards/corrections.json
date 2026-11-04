@@ -24324,6 +24324,293 @@
       "artworkURL": "https://princeoftravel.com/images/cards/SimplyCash_Preferred_Card.png",
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
+    },
+    {
+      "id": "amex-hilton-honors-can",
+      "name": "Amex Hilton Honors CAN",
+      "issuer": "American Express",
+      "market": "CAN",
+      "annualFeeMinor": 15000,
+      "feeNote": "C$150 annual fee; up to nine supplementary cards at no annual fee (age 13+). Foreign currency conversion surcharge: 2.5%.",
+      "colorHex": "1F3B73",
+      "secondaryHex": "0E1E45",
+      "artworkAsset": "Card-amex-hilton-honors-can",
+      "programIDs": [
+        "hilton"
+      ],
+      "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Product offer, October 2026 cardmember agreement and October 14, 2026 certificates checked November 4, 2026. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, account eligibility and full-payment requirements apply. Rental and purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel claims should be filed promptly, with written notice within 90 days where possible. Certificate exclusions and proof requirements apply.",
+      "benefits": [
+        {
+          "id": "hilton-annual-50k",
+          "title": "50,000 bonus points at C$12,000 a year",
+          "detail": "Earn 50,000 bonus Hilton Honors points once each calendar year after C$12,000 in eligible net purchases posts by December 31. Additional-card spend counts; basic Cardmember receives the bonus in the first billing cycle after the qualifying month. No rollover.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 1200000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "hilton-diamond-spend",
+          "title": "Hilton Diamond at C$40,000 a year",
+          "detail": "Charge C$40,000 in eligible net purchases in a calendar year to be upgraded to Hilton Honors Diamond for the rest of that year and the next. Additional cards' purchases count; the status goes to the basic Cardmember. Takes about 10–12 weeks to apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 4000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "welcome-offer",
+          "title": "Welcome offer (new Cardmembers, apply by 2027-01-11)",
+          "detail": "New applicants October 29, 2026–January 11, 2027: 60,000 points and one Free Night Reward after C$3,000 posted net spend within three months; 10,000 more points after C$500 in month 13. Current/former holders excluded. Night is a standard room subject to availability/excluded properties, booked by phone; issued within 16 weeks and expires after 12 months. Account eligibility applies.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "kind": "benefit",
+          "priority": 100,
+          "endsBefore": "2027-01-12"
+        },
+        {
+          "id": "travel-emergency-assistance",
+          "title": "Travel emergency assistance",
+          "detail": "24/7 out-of-town emergency medical/legal referral and coordination services. Assistance does not itself pay treatment or other third-party costs; contact the assistance provider for authorized arrangements.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-hilton-honors-gold-status",
+          "title": "Hilton Honors Gold status",
+          "detail": "Automatic Hilton Honors Gold for the basic Cardmember; allow up to 12 weeks after account opening. Ends when the card is cancelled; account must remain in good standing. Hotel benefits vary by brand and availability.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "pot-free-additional-cards",
+          "title": "Free additional cards",
+          "detail": "Up to nine supplementary cards with no annual fee, for persons age 13+. Their eligible spend earns points and counts toward the basic Cardmember's annual spend benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$500 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$500 with flight delay. Lost/stolen baggage has a separate C$500 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required. Delay essentials must be purchased within four days and before baggage return.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to C$500 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Scheduled accidental death/dismemberment benefits up to C$500,000 per covered person on a covered common-carrier trip. Charge the fare to the card before injury; eligible spouse/dependent children under 23 are included. Loss must occur within 100 days of the accident; exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Register for eligible targeted offers before spending. Merchant, minimum spend, reward and expiry conditions vary by offer and account.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30
+        },
+        {
+          "id": "issuer-experiences",
+          "title": "Amex Experiences and ticket access",
+          "detail": "Front Of The Line presale and reserved-ticket access to participating events. Full Amex payment, availability, ticket fees and event restrictions apply.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-hilton-redemptions",
+          "title": "Hilton reward-stay benefits",
+          "detail": "Gold members can receive a fifth night free on eligible standard-room reward stays booked entirely with points. Reward stays paid entirely with points have no resort fees; hotel/program terms apply. This is a Hilton loyalty benefit, not an annual free-night certificate.",
+          "sourceURL": "https://www.hilton.com/en/hilton-honors/terms/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-replacement",
+          "title": "Fraud protection and emergency card replacement",
+          "detail": "Contact Amex promptly for lost/stolen cards or suspected misuse. Fraud protection requires reasonable care of account details and PIN; replacement services and account terms apply.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hilton-gold",
+          "programID": "hilton",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "Complimentary for the basic Cardmember while the card is open and in good standing; allow up to 12 weeks after account opening.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "Hilton Honors points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/17626-50498176-1026-Hilton-Online-CMA-EN.pdf"
+        },
+        {
+          "id": "canada-eats-gas",
+          "categories": [
+            "dining",
+            "groceries",
+            "gas",
+            "foodDelivery"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "Hilton Honors points",
+          "detail": "Eligible purchases in Canada at restaurants, coffee shops and bars, stand-alone grocery stores, gas stations and food/grocery delivery merchants.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/17626-50498176-1026-Hilton-Online-CMA-EN.pdf"
+        },
+        {
+          "id": "hilton",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 6,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "6X Hilton",
+          "detail": "Eligible purchases made directly with Hilton portfolio hotels and resorts (including Hilton Grand Vacations and incidentals charged to the room).",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/17626-50498176-1026-Hilton-Online-CMA-EN.pdf"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/en-ca/credit-cards/hilton-honors-card/",
+      "artworkSearchTerms": "Amex Hilton Honors Canada",
+      "reviewURL": "https://princeoftravel.com/news/amex-hilton-honors-card-canada/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/17626-50498176-1026-Hilton-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+        "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "artworkURL": "https://icm.aexp-static.com/Internet/internationalcardshop/fr_ca/images/cards/HiltonHonors_Card.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
     }
   ],
   "removeCards": [],
@@ -24516,6 +24803,20 @@
     "Fraud protection and emergency card replacement": "Protection contre la fraude et remplacement d’urgence",
     "Fraud protection requires reasonable care of card/account details and PIN. Contact Amex for lost/stolen card assistance and replacement.": "La protection contre la fraude exige des précautions raisonnables concernant la carte, le compte et le NIP. Communiquer avec Amex pour une carte perdue ou volée et son remplacement.",
     "Non-Quebec: C$9.99 monthly (C$119.88 annually). Quebec: C$119 annual fee. Additional cards have no annual fee.": "Hors Québec : 9,99 $ CA par mois (119,88 $ CA par an). Québec : frais annuels de 119 $ CA. Cartes supplémentaires sans frais annuels.",
-    "Full public-source audit: product, cashback program agreement, registered extras and July 1, 2025 insurance certificates checked November 4, 2026. Cashback grocery cap resets on the cardmembership anniversary; payout calculation is separate. No general trip-cancellation/interruption coverage or elite-status grant is listed. Insurance requires eligible Canadian residency, account status and applicable payment conditions; read the linked certificate for exclusions and claim deadlines.": "Audit des sources publiques : produit, convention de remise, offres avec inscription et certificats d’assurance du 1er juillet 2025 vérifiés le 4 novembre 2026. Le plafond d’épicerie est renouvelé à l’anniversaire d’adhésion; le calcul du versement est distinct. Aucune assurance générale annulation ou interruption de voyage ni attribution de statut élite n’est indiquée. Résidence canadienne admissible, compte admissible et conditions de paiement requis; consulter le certificat pour les exclusions et délais de réclamation."
+    "Full public-source audit: product, cashback program agreement, registered extras and July 1, 2025 insurance certificates checked November 4, 2026. Cashback grocery cap resets on the cardmembership anniversary; payout calculation is separate. No general trip-cancellation/interruption coverage or elite-status grant is listed. Insurance requires eligible Canadian residency, account status and applicable payment conditions; read the linked certificate for exclusions and claim deadlines.": "Audit des sources publiques : produit, convention de remise, offres avec inscription et certificats d’assurance du 1er juillet 2025 vérifiés le 4 novembre 2026. Le plafond d’épicerie est renouvelé à l’anniversaire d’adhésion; le calcul du versement est distinct. Aucune assurance générale annulation ou interruption de voyage ni attribution de statut élite n’est indiquée. Résidence canadienne admissible, compte admissible et conditions de paiement requis; consulter le certificat pour les exclusions et délais de réclamation.",
+    "C$150 annual fee; up to nine supplementary cards at no annual fee (age 13+). Foreign currency conversion surcharge: 2.5%.": "Frais annuels de 150 $ CA; jusqu’à neuf cartes supplémentaires sans frais annuels (13 ans et plus). Majoration de conversion des devises : 2,5 %.",
+    "Product offer, October 2026 cardmember agreement and October 14, 2026 certificates checked November 4, 2026. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, account eligibility and full-payment requirements apply. Rental and purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel claims should be filed promptly, with written notice within 90 days where possible. Certificate exclusions and proof requirements apply.": "Offre du produit, convention d’octobre 2026 et certificats du 14 octobre 2026 vérifiés le 4 novembre 2026. Aucune assurance frais médicaux d’urgence, annulation ou interruption générale de voyage, ou appareils mobiles n’est indiquée. Résidence canadienne, compte admissible et paiement intégral requis. Signaler les sinistres de location et d’achats dans les 48 heures; garantie : 45 jours; accident : avis écrit dans les 30 jours ou dès que raisonnablement possible. Autres sinistres de voyage : agir rapidement, avec avis écrit sous 90 jours lorsque possible. Exclusions et justificatifs du certificat applicables.",
+    "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$500 with flight delay. Lost/stolen baggage has a separate C$500 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required. Delay essentials must be purchased within four days and before baggage return.": "Retard des bagages enregistrés d’au moins six heures à destination à l’aller : articles essentiels, plafond de 500 $ CA partagé avec le retard de vol. Perte ou vol : plafond distinct de 500 $ CA par événement, dont 300 $ pour les bijoux et 250 $ pour les bâtons de golf. Billet payé intégralement. Achats liés au retard effectués dans les quatre jours et avant la restitution des bagages.",
+    "Scheduled accidental death/dismemberment benefits up to C$500,000 per covered person on a covered common-carrier trip. Charge the fare to the card before injury; eligible spouse/dependent children under 23 are included. Loss must occur within 100 days of the accident; exclusions apply.": "Prestations prévues jusqu’à 500 000 $ CA par assuré en cas de décès ou de mutilation accidentels pendant un voyage couvert en transport public. Billet porté à la carte avant la blessure; conjoint et enfants à charge admissibles de moins de 23 ans inclus. Perte dans les 100 jours de l’accident; exclusions applicables.",
+    "Automatic Hilton Honors Gold for the basic Cardmember; allow up to 12 weeks after account opening. Ends when the card is cancelled; account must remain in good standing. Hotel benefits vary by brand and availability.": "Statut Hilton Honors Gold automatique pour le titulaire principal; délai maximal de 12 semaines après l’ouverture du compte. Prend fin à l’annulation de la carte; compte en règle requis. Avantages hôteliers variables selon la marque et la disponibilité.",
+    "Up to nine supplementary cards with no annual fee, for persons age 13+. Their eligible spend earns points and counts toward the basic Cardmember's annual spend benefits.": "Jusqu’à neuf cartes supplémentaires sans frais annuels pour les personnes de 13 ans et plus. Leurs achats admissibles rapportent des points et comptent pour les avantages annuels du titulaire principal.",
+    "Earn 50,000 bonus Hilton Honors points once each calendar year after C$12,000 in eligible net purchases posts by December 31. Additional-card spend counts; basic Cardmember receives the bonus in the first billing cycle after the qualifying month. No rollover.": "Une prime de 50 000 points Hilton Honors par année civile après l’inscription de 12 000 $ CA d’achats nets admissibles au plus tard le 31 décembre. Achats des cartes supplémentaires inclus; prime au titulaire principal au premier cycle de facturation suivant le mois admissible. Aucun report.",
+    "New applicants October 29, 2026–January 11, 2027: 60,000 points and one Free Night Reward after C$3,000 posted net spend within three months; 10,000 more points after C$500 in month 13. Current/former holders excluded. Night is a standard room subject to availability/excluded properties, booked by phone; issued within 16 weeks and expires after 12 months. Account eligibility applies.": "Nouveaux demandeurs du 29 octobre 2026 au 11 janvier 2027 : 60 000 points et une nuit gratuite après 3 000 $ CA d’achats nets inscrits en trois mois; 10 000 points de plus après 500 $ CA au 13e mois. Titulaires actuels et anciens exclus. Chambre standard sous réserve de disponibilité et d’hôtels exclus, réservée par téléphone; récompense émise sous 16 semaines et valide 12 mois. Conditions du compte applicables.",
+    "24/7 out-of-town emergency medical/legal referral and coordination services. Assistance does not itself pay treatment or other third-party costs; contact the assistance provider for authorized arrangements.": "Services de coordination et d’orientation médicale ou juridique d’urgence hors domicile, 24 heures sur 24. L’assistance ne paie pas elle-même les soins ou autres frais de tiers; communiquer avec le fournisseur pour les dispositions autorisées.",
+    "Hilton reward-stay benefits": "Avantages des séjours-récompenses Hilton",
+    "Gold members can receive a fifth night free on eligible standard-room reward stays booked entirely with points. Reward stays paid entirely with points have no resort fees; hotel/program terms apply. This is a Hilton loyalty benefit, not an annual free-night certificate.": "Les membres Gold peuvent obtenir la cinquième nuit gratuite lors de séjours-récompenses admissibles en chambre standard payés entièrement en points. Aucun frais de villégiature pour les séjours payés entièrement en points; modalités de l’hôtel et du programme applicables. Avantage du programme Hilton, sans certificat annuel de nuit gratuite.",
+    "Register for eligible targeted offers before spending. Merchant, minimum spend, reward and expiry conditions vary by offer and account.": "S’inscrire aux offres ciblées admissibles avant de dépenser. Commerçants, seuils, récompenses et dates d’expiration varient selon l’offre et le compte.",
+    "Front Of The Line presale and reserved-ticket access to participating events. Full Amex payment, availability, ticket fees and event restrictions apply.": "Accès aux préventes et billets réservés Avant-première pour les événements participants. Paiement intégral Amex, disponibilité, frais de billetterie et restrictions applicables.",
+    "Contact Amex promptly for lost/stolen cards or suspected misuse. Fraud protection requires reasonable care of account details and PIN; replacement services and account terms apply.": "Aviser rapidement Amex en cas de carte perdue ou volée ou d’utilisation suspecte. La protection contre la fraude exige des précautions raisonnables pour le compte et le NIP; services de remplacement et modalités du compte applicables."
   }
 }
