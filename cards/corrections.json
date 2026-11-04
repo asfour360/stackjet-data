@@ -1,9 +1,9 @@
 {
   "format": "stackjet-card-corrections",
   "version": 1,
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected.",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -12310,6 +12310,734 @@
         "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card"
       ],
       "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "bmo-viporter-mastercard-can",
+      "name": "BMO VIPorter Mastercard CAN",
+      "issuer": "BMO",
+      "market": "CAN",
+      "annualFeeMinor": 8900,
+      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "colorHex": "478BC1",
+      "secondaryHex": "163F72",
+      "artworkAsset": "Card-bmo-viporter-mastercard-can",
+      "programIDs": [
+        "porter"
+      ],
+      "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "benefits": [
+        {
+          "id": "pot-viporter-avid-traveller-status",
+          "title": "VIPorter Avid Traveller status",
+          "detail": "Automatic VIPorter Passport Avid Traveller status while the qualifying BMO card is active and linked to VIPorter.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.flyporter.com/en-ca/about-porter/viporter/viporter-faq",
+          "priority": 50
+        },
+        {
+          "id": "pot-priority-check-in-security-and-boarding",
+          "title": "Priority check-in, security and boarding",
+          "detail": "Priority check-in, security and early boarding on Porter.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-mastercard/",
+          "priority": 51
+        },
+        {
+          "id": "pot-priority-rebooking",
+          "title": "Priority rebooking",
+          "detail": "Priority rebooking when flights are delayed.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-mastercard/",
+          "priority": 52
+        },
+        {
+          "id": "pot-35-off-a-base-fare",
+          "title": "35% off a base fare",
+          "detail": "A 35% base-fare voucher after $6,000 spend in year one, then $25,000 a year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-mastercard/",
+          "priority": 53
+        },
+        {
+          "id": "pot-instacart-for-3-months",
+          "title": "Instacart+ for 3 months",
+          "detail": "Three months of Instacart+ plus a $5 monthly Instacart credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-mastercard/",
+          "priority": 54
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [
+        {
+          "id": "viporter-passport",
+          "programID": "porter",
+          "tier": "VIPorter Passport",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "Automatic while the BMO VIPorter card is active, in good standing and linked to the cardholder's VIPorter account. Higher earned tiers take precedence.",
+          "automatic": true,
+          "sourceURL": "https://www.flyporter.com/en-ca/about-porter/viporter/viporter-faq"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/"
+        },
+        {
+          "id": "porter",
+          "categories": [
+            "porter"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "Eligible Porter purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/"
+        },
+        {
+          "id": "gas-transport",
+          "categories": [
+            "gas",
+            "transit",
+            "carRentals"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "Eligible gas and transportation.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/"
+        },
+        {
+          "id": "dining-grocery",
+          "categories": [
+            "dining",
+            "groceries"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "Eligible dining and grocery purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/bmo-viporter-mastercard/",
+      "artworkSearchTerms": "BMO VIPorter Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+        "https://princeoftravel.com/credit-cards/bmo-viporter-mastercard/",
+        "https://www.flyporter.com/en-ca/about-porter/viporter/viporter-faq"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2025/03/BMO-VIPorter-Mastercard.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
+    },
+    {
+      "id": "bmo-viporter-world-elite-mastercard-can",
+      "name": "BMO VIPorter World Elite Mastercard CAN",
+      "issuer": "BMO",
+      "market": "CAN",
+      "annualFeeMinor": 19900,
+      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "colorHex": "478BC1",
+      "secondaryHex": "163F72",
+      "artworkAsset": "Card-bmo-viporter-world-elite-mastercard-can",
+      "programIDs": [
+        "porter"
+      ],
+      "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "benefits": [
+        {
+          "id": "pot-porter-avid-traveller-status",
+          "title": "Porter Avid Traveller status",
+          "detail": "Automatic VIPorter Venture Avid Traveller status while the qualifying BMO World Elite card is active and linked to VIPorter.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.flyporter.com/en-ca/about-porter/viporter/viporter-faq",
+          "priority": 50
+        },
+        {
+          "id": "pot-free-checked-bag-and-carry-on",
+          "title": "Free checked bag and carry-on",
+          "detail": "First checked bag and carry-on free for you and up to 8 guests.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "priority": 51
+        },
+        {
+          "id": "pot-porterclassic-seat-selection",
+          "title": "PorterClassic seat selection",
+          "detail": "Free seat selection in rows 8+ for you and one companion.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "priority": 52
+        },
+        {
+          "id": "pot-priority-check-in-security-and-boarding",
+          "title": "Priority check-in, security and boarding",
+          "detail": "Priority check-in, security and early boarding on Porter.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "priority": 53
+        },
+        {
+          "id": "pot-priority-rebooking",
+          "title": "Priority rebooking",
+          "detail": "Priority rebooking when flights are delayed.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "priority": 54
+        },
+        {
+          "id": "pot-round-trip-companion-pass",
+          "title": "Round-trip companion pass",
+          "detail": "A companion pass after $9,000 spend in year one, then $50,000 a year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "priority": 55
+        },
+        {
+          "id": "pot-status-lift",
+          "title": "Status Lift",
+          "detail": "Earn $1 in Qualifying Spend toward Porter status for every $25 on the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "priority": 56
+        },
+        {
+          "id": "pot-instacart-for-6-months",
+          "title": "Instacart+ for 6 months",
+          "detail": "Six months of Instacart+ plus a $10 monthly Instacart credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "priority": 57
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [
+        {
+          "id": "viporter-venture",
+          "programID": "porter",
+          "tier": "VIPorter Venture",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "Automatic while the BMO VIPorter card is active, in good standing and linked to the cardholder's VIPorter account. Higher earned tiers take precedence.",
+          "automatic": true,
+          "sourceURL": "https://www.flyporter.com/en-ca/about-porter/viporter/viporter-faq"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/"
+        },
+        {
+          "id": "porter",
+          "categories": [
+            "porter"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "Eligible Porter purchases; first C$20,000 annually.",
+          "countries": [],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "capMinor": 2000000,
+          "capGroup": "bmo-viporter-we-porter"
+        },
+        {
+          "id": "gas-transport",
+          "categories": [
+            "gas",
+            "transit",
+            "carRentals"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "Eligible gas and transportation; first C$5,000 annually.",
+          "countries": [],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "capMinor": 500000,
+          "capGroup": "bmo-viporter-we-transport"
+        },
+        {
+          "id": "dining-grocery",
+          "categories": [
+            "dining",
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "Eligible dining and grocery purchases; first C$10,000 annually.",
+          "countries": [],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "capMinor": 1000000,
+          "capGroup": "bmo-viporter-we-food"
+        },
+        {
+          "id": "hotel",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "Eligible hotel purchases; first C$5,000 annually.",
+          "countries": [],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+          "capMinor": 500000,
+          "capGroup": "bmo-viporter-we-hotel"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+      "artworkSearchTerms": "BMO VIPorter World Elite Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-world-elite-mastercard/",
+        "https://princeoftravel.com/credit-cards/bmo-viporter-world-elite-mastercard/",
+        "https://www.flyporter.com/en-ca/about-porter/viporter/viporter-faq"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2025/03/BMO-VIPorter-World-Elite-Mastercard.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
+    },
+    {
+      "id": "barclays-breeze-easy-visa-us",
+      "name": "Barclays Breeze Easy Visa US",
+      "issuer": "Barclays",
+      "market": "US",
+      "annualFeeMinor": 8900,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "13A6CF",
+      "secondaryHex": "174575",
+      "artworkAsset": "Card-barclays-breeze-easy-visa-us",
+      "programIDs": [
+        "breeze"
+      ],
+      "sourceURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Checked against Barclays and Breeze Airways card terms. Welcome offers are excluded from Best Card rankings. First-year status is offer-dependent and requires meeting the eligible new-cardmember spend requirement.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "On Breeze bundles: 5X when you buy Nicer/Nicest bundles, 2X on Nice, 1X on No Flex fares (plus the same again when you fly). 2X at grocery stores and restaurants (including Breeze inflight food and drinks), 1X on everything else. BreezePoints never expire.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "anniversary-points",
+          "title": "7,500 anniversary points",
+          "detail": "7,500 bonus BreezePoints after every account anniversary with eligible purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "priority-boarding",
+          "title": "Zone 1 priority boarding",
+          "detail": "For primary cardmembers and their companions on Breeze-operated flights.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "wifi",
+          "title": "Free inflight Wi-Fi",
+          "detail": "Complimentary inflight Wi-Fi on Breeze Airways.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "welcome-offer",
+          "title": "First-year Breezy 1 status",
+          "detail": "Eligible new cardmembers receive Breezy 1 for the first year after spending $1,000 on qualifying purchases within the first 90 days of account opening. Includes 25% BreezePoints boost and one bundle upgrade; status does not automatically renew after year one.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.flybreeze.com/flight-deals",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
+          "id": "no-fx",
+          "title": "No foreign transaction fees",
+          "detail": "0% foreign transaction fee.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+          "kind": "benefit",
+          "priority": 110
+        },
+        {
+          "id": "barclays-breeze-easy-visa-us-coverage-not-listed",
+          "title": "Coverage not listed",
+          "detail": "Barclays' page for this card lists no travel or purchase insurance; coverage details are in the Guide to Benefits sent after approval.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [
+        {
+          "id": "breezy1-first-year-conditional",
+          "programID": "breeze",
+          "tier": "Breezy 1",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "First year only for eligible new cardmembers after $1,000 in qualifying purchases in the first 90 days. Confirm the offer was earned; do not assume Breezy 1 continues beyond the first year.",
+          "automatic": true,
+          "sourceURL": "https://www.flybreeze.com/flight-deals"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "breeze",
+          "label": "1X BreezePoints",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/",
+          "calculationNote": null
+        },
+        {
+          "id": "breeze",
+          "categories": [
+            "flightsDirect"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "breeze",
+          "label": "2X Breeze (Nice bundle)",
+          "detail": "Breeze purchases: 5X on Nicer/Nicest bundles, 2X on Nice bundles, 1X on No Flex fares. Ranked at the Nice-bundle rate.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/",
+          "calculationNote": null
+        },
+        {
+          "id": "food",
+          "categories": [
+            "dining",
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "breeze",
+          "label": "2X dining and groceries",
+          "detail": "Eligible grocery store and restaurant purchases, including Breeze inflight food and drinks.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+      "artworkSearchTerms": "Barclays Breeze Easy Visa",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://cards.barclaycardus.com/banking/cards/breeze-airways/",
+        "https://www.flybreeze.com/flight-deals"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://cards.barclaycardus.com/content/dam/bcuspublic/credit-card/breeze/card/BRZ_card_wMoneyBadge_CardDetails_230x157.png"
     }
   ],
   "removeCards": [],
