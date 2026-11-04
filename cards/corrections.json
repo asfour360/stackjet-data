@@ -8239,8 +8239,8 @@
         "rbc-avion-can"
       ],
       "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 RBC product-page audit: benefits and partner offers checked; pre-existing insurance dollar limits retained pending certificate-level revalidation. Welcome offers excluded as recurring benefits. All partner discounts subject to current eligibility and program terms.",
       "benefits": [
         {
           "id": "travel-flexibility",
@@ -8286,7 +8286,7 @@
         {
           "id": "pot-petro-canada-savings",
           "title": "Petro-Canada savings",
-          "detail": "Link the card to Petro-Points to save 3¢/L and earn 20% more Petro-Points.",
+          "detail": "Link your RBC card with Petro-Points to save 3 cents per litre, earn 20% more Petro-Points and 20% more Avion points on eligible Petro-Canada purchases.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -8413,6 +8413,83 @@
           "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-triangle-rewards",
+          "title": "Triangle Rewards linked-card offer",
+          "detail": "Link your RBC card with Triangle Rewards, scan your Triangle Rewards card and pay with your linked RBC card to earn 3x Canadian Tire Money at eligible Triangle Rewards retailers, including Canadian Tire, Sport Chek and Mark's.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-rexall-be-well",
+          "title": "Rexall Be Well linked loyalty",
+          "detail": "Link the RBC card to a Be Well account to earn 50 Be Well points per C$1 on eligible purchases at Rexall.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-visa-infinite-luxury-hotels",
+          "title": "Visa Infinite Luxury Hotel Collection",
+          "detail": "Eligible stays booked through Visa Infinite Luxury Hotel Collection may receive hotel privileges such as breakfast, room upgrades and participating-property offers, subject to hotel and booking terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-visa-infinite-travel-dining",
+          "title": "Visa Infinite travel and dining offers",
+          "detail": "Access participating Visa Infinite dining and wine-country experiences, plus eligible Park'N Fly, Viator and VIA Rail offers. Offer eligibility and discounts vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-gigsky-data",
+          "title": "GigSky mobile data benefit",
+          "detail": "Visa Infinite cardholders can receive a complimentary 1 GB / 15-day GigSky plan and 20% off additional plans on eligible eSIM-compatible devices, subject to current offer conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-fixed-points-travel",
+          "title": "Avion fixed-points flight redemption",
+          "detail": "Avion cardholders may redeem through RBC's fixed-points Air Travel Redemption Schedule on eligible routes, subject to maximum base ticket price and payment of taxes, surcharges, fees or excess fare.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-avion-nonexpiry",
+          "title": "Avion points do not expire",
+          "detail": "Avion points do not expire while the program account remains eligible under RBC's terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
         }
       ],
       "statuses": [],
@@ -8477,13 +8554,13 @@
         "rbc-avion-can"
       ],
       "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 RBC product-page audit: benefits and partner offers checked; pre-existing insurance dollar limits retained pending certificate-level revalidation. Welcome offers excluded as recurring benefits. All partner discounts subject to current eligibility and program terms.",
       "benefits": [
         {
           "id": "lounge-visits",
           "title": "Visa Airport Companion visits",
-          "detail": "Six complimentary lounge visits per membership year through the Visa Airport Companion program, subject to current RBC terms.",
+          "detail": "Six complimentary lounge visits per membership year through Visa Airport Companion / DragonPass for each enrolled eligible cardholder, subject to RBC's terms and enrollment.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -8493,7 +8570,7 @@
         {
           "id": "issuer-global-airport-lounge-access",
           "title": "Global Airport Lounge Access",
-          "detail": "6 free airport lounge passes a membership year through DragonPass (valued at $375).",
+          "detail": "The Visa Airport Companion / DragonPass access includes six complimentary lounge visits per membership year for each enrolled eligible cardholder; this is the same allowance described under Visa Airport Companion visits, not six additional visits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -8546,7 +8623,7 @@
         {
           "id": "pot-troon-rewards-platinum",
           "title": "Troon Rewards Platinum",
-          "detail": "20% off at 150+ Troon golf courses.",
+          "detail": "Enroll in Troon Rewards for complimentary Platinum status, including 20% off eligible golf fees, merchandise and lessons at participating courses; Troon Prive access has separate booking fees and limits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -8576,7 +8653,7 @@
         {
           "id": "pot-petro-canada-savings",
           "title": "Petro-Canada savings",
-          "detail": "Link the card to Petro-Points to save 3¢/L and earn 20% more Petro-Points.",
+          "detail": "Link to Petro-Points to save 3 cents per litre of fuel and earn 20% more Petro-Points and 20% more Avion points on eligible purchases at Petro-Canada.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -8703,6 +8780,83 @@
           "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite-privilege/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-triangle-rewards",
+          "title": "Triangle Rewards linked-card offer",
+          "detail": "Link the RBC card with Triangle Rewards, scan your Triangle Rewards card and pay with the linked RBC card to earn 3x Canadian Tire Money at eligible participating Triangle retailers.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-rexall-be-well",
+          "title": "Rexall Be Well linked loyalty",
+          "detail": "Link the RBC card to a Be Well account to earn 50 Be Well points per C$1 on eligible purchases at Rexall.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-visa-privilege-hotel-collection",
+          "title": "Visa Infinite Luxury Hotel Collection",
+          "detail": "Eligible reservations through Visa Infinite Luxury Hotel Collection may unlock participating-hotel offers, breakfasts, room upgrades and other property-specific privileges.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-visa-privilege-dining",
+          "title": "Visa Infinite Privilege dining and wine experiences",
+          "detail": "Access eligible Visa Infinite Privilege Dining Series reservations, dining experiences and wine-country benefits; participation and booking conditions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-opentable-primetime",
+          "title": "OpenTable preferred reservations",
+          "detail": "Add the RBC Avion Visa Infinite Privilege card to OpenTable to access eligible primetime reservations at participating restaurants, subject to restrictions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-gigsky-privilege",
+          "title": "GigSky enhanced mobile data benefit",
+          "detail": "Visa Infinite Privilege cardholders can get a complimentary 1 GB / 15-day GigSky eSIM data plan twice a year, plus 30% off additional plans on eligible compatible devices.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-first-business-redemption",
+          "title": "Business and first-class redemption value",
+          "detail": "Eligible Avion Rewards redemptions can offer up to double the redemption value for business- and first-class tickets under RBC's applicable premium travel redemption rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html",
+          "kind": "benefit",
+          "priority": 90
         }
       ],
       "statuses": [],
