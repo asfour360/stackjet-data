@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -16820,6 +16820,248 @@
           "priority": 95
         }
       ]
+    },
+    {
+      "id": "bofa-premium-rewards-elite-us",
+      "name": "BofA Premium Rewards Elite US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 55000,
+      "feeNote": "US$550 annual fee; no foreign transaction fees.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "artworkAsset": "Card-bofa-premium-rewards-elite-us",
+      "programIDs": [
+        "bofa-premium-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Product highlights and published protection summaries checked on 2026-11-04. Full insurance exclusions, lounge guest rules and eligible credit merchants remain governed by the account materials.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Premium travel rewards include elevated travel and dining earning, annual airline incidental and lifestyle credits, trusted-traveler reimbursement and lounge membership under current terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "airline-incidental",
+          "title": "Airline incidental credit",
+          "detail": "Up to US$300 in Airline Incidental statement credits each year for seat upgrades, baggage fees, airline lounge fees and in-flight services.",
+          "capMinor": 30000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "priority": 100
+        },
+        {
+          "id": "lifestyle-credit",
+          "title": "Lifestyle credit",
+          "detail": "Up to US$150 each year in statement credits for video streaming, food delivery, fitness subscriptions and rideshare.",
+          "capMinor": 15000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "priority": 100
+        },
+        {
+          "id": "global-entry-credit",
+          "title": "TSA PreCheck / Global Entry credit",
+          "detail": "Up to US$120 in Airport Security statement credits for a TSA PreCheck or Global Entry application fee, every four years.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "intervalYears": 4,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "priority": 100
+        },
+        {
+          "id": "bofa-premium-rewards-elite-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Reimbursement of the common-carrier passenger fare if the trip is cancelled or interrupted for a covered reason.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/premium-elite-benefits/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "bofa-premium-rewards-elite-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Up to US$500 per ticket for you and eligible family members for reasonable expenses when a trip is delayed more than 6 hours by a covered hazard or requires an overnight stay.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/premium-elite-benefits/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "bofa-premium-rewards-elite-us-baggage-delay-insurance",
+          "title": "Baggage delay insurance",
+          "detail": "Reimbursement, in excess of other insurance, for emergency purchases of essential items when baggage is delayed.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/premium-elite-benefits/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "bofa-premium-rewards-elite-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Coverage for luggage and its contents lost or stolen through theft or misdirection by the common carrier.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/premium-elite-benefits/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "bofa-premium-rewards-elite-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Primary coverage up to US$75,000 for collision or theft damage, up to the actual cash value of most rental cars.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/premium-elite-benefits/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "bofa-premium-rewards-elite-us-travel-accident-insurance",
+          "title": "Travel accident insurance",
+          "detail": "Up to US$1,000,000 in accidental death or dismemberment insurance on a common carrier when the entire fare is charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/premium-elite-benefits/",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "bofa-premium-rewards-elite-us-emergency-evacuation-transportation",
+          "title": "Emergency evacuation & transportation",
+          "detail": "Up to US$100,000 for evacuation expenses if you or an immediate family member are injured or become sick on a trip far from home.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/premium-elite-benefits/",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "bofa-premium-rewards-elite-us-roadside-assistance",
+          "title": "Roadside assistance",
+          "detail": "24/7 on-demand roadside dispatch for emergency assistance, towing and locksmith services; service fees apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/premium-elite-benefits/",
+          "kind": "protection",
+          "priority": 207
+        },
+        {
+          "id": "issuer-priority-pass",
+          "title": "Up to four Priority Pass Select memberships",
+          "detail": "Activate up to four complimentary Priority Pass Select memberships for unlimited access to participating airport lounges and experiences. Membership and guest terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-airfare-points-discount",
+          "title": "20% savings on airfare with points",
+          "detail": "Save 20% on airfare paid with points through BofA Travel or the concierge, for domestic or international flights in any cabin.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-concierge",
+          "title": "24/7 concierge",
+          "detail": "Complimentary concierge assistance with travel, dining reservations and event tickets; purchases arranged for you remain payable.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "bofa-premium-us",
+          "label": "1.5X points",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "travel-dining",
+          "categories": [
+            "flightsDirect",
+            "hotelsDirect",
+            "transit",
+            "dining"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "bofa-premium-us",
+          "label": "2X travel and dining",
+          "detail": "Eligible travel and dining purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+      "artworkSearchTerms": "BofA Premium Rewards Elite",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/"
+      ],
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cud_premrewelite_v_250x158.png",
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
