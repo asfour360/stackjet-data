@@ -273,13 +273,13 @@
         "westjet"
       ],
       "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility. Status-dependent airline earning above the guaranteed rate is not automatically ranked because airline status is separate user state.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 RBC public issuer-page audit: clarified introductory Silver status timing and renewal, added employee point pooling, supplier payment float and additional-card terms. Original earning rules and statuses retained. Verify insurance certificate separately.",
       "benefits": [
         {
           "id": "issuer-instant-silver-status",
           "title": "Instant Silver Status",
-          "detail": "WestJet Silver status for the first year of card membership. Keep it in later years with C$30,000 in eligible card spending each calendar year.",
+          "detail": "Get WestJet Silver status through December 31 of the calendar year following account opening (subject to account and offer conditions); maintaining Silver in subsequent periods requires at least C$30,000 in qualifying annual card purchases or independently meeting airline qualification rules.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -289,8 +289,8 @@
         },
         {
           "id": "issuer-1st-year-silver-status",
-          "title": "1st year Silver Status",
-          "detail": "WestJet Silver status for the first year of card membership. Keep it in later years with C$30,000 in eligible card spending each calendar year.",
+          "title": "Silver status qualification and renewal",
+          "detail": "Silver can be retained after the introductory benefit by making at least C$30,000 in eligible annual card purchases, or by qualifying through WestJet's normal tier requirements. This describes the renewal condition, not a second Silver award.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -472,6 +472,39 @@
           "sourceURL": "https://princeoftravel.com/credit-cards/westjet-rbc-world-elite-mastercard-for-business/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-pool-employee-westjet-points",
+          "title": "Business and employee WestJet points pooling",
+          "detail": "Eligible WestJet points earned on the business card and secondary employee business cards are automatically consolidated in the primary cardholder's WestJet Rewards account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-up-to-51-days-supplier",
+          "title": "Up to 51 interest-free days for supplier payments",
+          "detail": "Eligible supplier payments may qualify for up to 51 interest-free days when the applicable payment and statement requirements are met; this is a cash-flow feature rather than a statement credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-cardholder-additional-fee",
+          "title": "Additional employee cards",
+          "detail": "Up to nine additional employee cards are offered for C$75 each per year; employee spending can earn WestJet points for the primary business account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+          "kind": "benefit",
+          "priority": 95
         }
       ],
       "statuses": [
@@ -9187,8 +9220,8 @@
         "rbc-avion-can"
       ],
       "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/avion-visa-infinite-business.html",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 issuer-page review: added Visa Airport Companion, expense management, redemption, DashPass and Petro-Canada descriptions; corrected baggage and travel coverage limits on RBC public page. No free lounge visit allotment inferred; policy certificate remains authoritative.",
       "benefits": [
         {
           "id": "issuer-premium-benefits-personal-assistance",
@@ -9225,7 +9258,7 @@
         {
           "id": "ins-trip-cancellation",
           "title": "Trip cancellation insurance",
-          "detail": "Up to $1,500 per person.",
+          "detail": "Up to C$1,500 per covered person per trip, subject to an overall C$5,000 policy maximum and covered reasons.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -9236,7 +9269,7 @@
         {
           "id": "ins-trip-interruption",
           "title": "Trip interruption insurance",
-          "detail": "Up to $5,000 per person.",
+          "detail": "Up to C$5,000 per covered person per trip, subject to an overall C$25,000 policy maximum and covered reasons.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -9247,7 +9280,7 @@
         {
           "id": "ins-flight-delay",
           "title": "Flight delay insurance",
-          "detail": "Up to $500.",
+          "detail": "Up to C$250 per day, with a C$500 per-trip limit, for eligible expenses arising from delayed flights, missed connections or denied boarding.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -9258,7 +9291,7 @@
         {
           "id": "ins-baggage",
           "title": "Delayed & lost baggage insurance",
-          "detail": "Delayed baggage up to $2,500; lost or stolen baggage up to $1,000.",
+          "detail": "Delayed baggage: up to C$500 in eligible immediate expenses. Lost or stolen checked baggage: up to C$1,000 for eligible replacement items. These are separate coverages and limits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -9269,7 +9302,7 @@
         {
           "id": "ins-hotel-burglary",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Covers you up to $2,500 should your personal property get lost or damaged as a result of a burglary of your hotel, motel or cruise cabinlegal disclaimer",
+          "detail": "Up to C$2,500 for eligible personal property lost or damaged during a burglary of a hotel, motel or cruise cabin.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -9331,6 +9364,72 @@
           "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite-business/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-visa-airport-companion",
+          "title": "Visa Airport Companion access",
+          "detail": "Enroll in Visa Airport Companion for access to participating lounges and select airport dining and spa offers. Lounge visits and other services may carry charges; this card's public benefits page does not specify an included complimentary visit allotment.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/manage-my-avion-visa-infinite-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-visa-spend-clarity",
+          "title": "Visa Spend Clarity for Business",
+          "detail": "Access Visa Spend Clarity for Business to review transactions, report expenses, and manage eligible employee card spending controls through online and mobile tools.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/avion-visa-infinite-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-air-travel-redemption-schedule",
+          "title": "Avion fixed-points flight redemption",
+          "detail": "Redeem Avion points for eligible flights using the RBC Air Travel Redemption Schedule, or use points for any airline subject to program conditions and required taxes and fees.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/avion-visa-infinite-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-pay-with-points",
+          "title": "Pay with Avion points",
+          "detail": "Redeem eligible Avion points toward the RBC credit card balance or for merchandise and gift cards, subject to redemption rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/avion-visa-infinite-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-doordash-dashpass",
+          "title": "DoorDash DashPass subscription offer",
+          "detail": "Eligible RBC Avion Visa Infinite Business cardholders can activate a complimentary 12-month DashPass subscription with their eligible card. After the complimentary period, the subscription may renew at the then-current paid rate unless cancelled.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/avion-visa-infinite-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-petro-canada",
+          "title": "Petro-Canada savings",
+          "detail": "Link the card with Petro-Points to access eligible RBC card fuel savings and rewards at participating Petro-Canada stations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/manage-my-avion-visa-infinite-business.html",
+          "kind": "benefit",
+          "priority": 95
         }
       ],
       "statuses": [],
