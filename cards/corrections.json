@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -17062,6 +17062,311 @@
       ],
       "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cud_premrewelite_v_250x158.png",
       "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "bilt-palladium-us",
+      "name": "Bilt Palladium US",
+      "issuer": "Bilt / Column",
+      "market": "US",
+      "annualFeeMinor": 49500,
+      "feeNote": "US$495 annual fee. Benefits depend on account opening date and any Legacy Election.",
+      "colorHex": "4B6861",
+      "secondaryHex": "172724",
+      "artworkAsset": "Card-bilt-palladium-us",
+      "programIDs": [
+        "bilt-us"
+      ],
+      "sourceURL": "https://www.bilt.com/card/palladium",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "October 27, 2026 offer terms control the account-anniversary Bilt Cash award, despite the product FAQ still saying January 1. Current US$200 cash and US$400 hotel amounts represent the pre-2027 structure; the conditional US$600 replacement is not an additional credit. Account-specific transition tracking is not encoded.",
+      "benefits": [
+        {
+          "id": "bilt-cash",
+          "title": "Bilt Cash",
+          "detail": "Pre-2027 accounts receive US$200 Bilt Cash at opening and each card anniversary while eligible. At the first anniversary on or after January 1, 2027, non-legacy accounts move to US$600 annual Bilt Cash, replacing this benefit and the hotel credit. A timely Legacy Election retains the earlier benefits.",
+          "capMinor": 20000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.biltrewards.com/terms/bilt-card-offer-terms",
+          "kind": "credit"
+        },
+        {
+          "id": "hotel-credit",
+          "title": "Bilt hotel credit",
+          "detail": "Eligible pre-2027 accounts: up to US$200 January–June and US$200 July–December for Bilt Travel hotel bookings of at least two nights; no rollover. For non-legacy accounts this ends at the first anniversary on or after January 1, 2027 and unused credit expires, replaced by US$600 annual Bilt Cash.",
+          "capMinor": 20000,
+          "reset": "semiannual",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.biltrewards.com/terms/bilt-card-offer-terms",
+          "kind": "credit"
+        },
+        {
+          "id": "bilt-dining",
+          "title": "Bilt Dining bonus",
+          "detail": "Earn up to the published Bilt Dining rate at participating Bilt Dining restaurants; not every restaurant qualifies.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/card/palladium",
+          "kind": "benefit"
+        },
+        {
+          "id": "issuer-priority-pass-membership-worth-469-per-year",
+          "title": "Priority Pass membership",
+          "detail": "Complimentary Priority Pass membership for the cardholder and two accompanying guests at participating locations. Activate membership before use.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.bilt.com/card/palladium",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "housing-rewards-choice",
+          "title": "Flexible Bilt Cash or Housing-only rewards",
+          "detail": "Pre-2027 accounts choose Housing-only rewards (up to 1.25X housing points based on everyday spending) or Flexible Bilt Cash (4% Bilt Cash on everyday spend, redeemable to unlock up to 1X housing points). Continuing Flexible Bilt Cash after the first anniversary on or after January 1, 2027 requires a timely Legacy Election.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.biltrewards.com/terms/bilt-card-offer-terms",
+          "kind": "benefit",
+          "priority": 8
+        },
+        {
+          "id": "point-accelerator",
+          "title": "Point Accelerator",
+          "detail": "Redeem $200 in Bilt Cash to add +1X on eligible category spend for the next $5,000 of qualifying purchases. Available up to five activations per calendar year. Configure active status and remaining spend in Bilt rewards setup so Best Card can reflect it.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.bilt.com/terms/bilt-cash",
+          "kind": "benefit",
+          "priority": 9
+        },
+        {
+          "id": "rent-day-double-points",
+          "title": "Rent Day double points",
+          "detail": "Bilt currently promotes double points with the Bilt Palladium Card on Rent Day, the 1st of the month. StackJet can remind you two days before Rent Day and reflects the boost in Best Card on the 1st.",
+          "capMinor": null,
+          "reset": "monthly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/rewards/rent-day/offer/earn-double-points-with-your-bilt-palladium-card",
+          "kind": "benefit",
+          "priority": 10
+        },
+        {
+          "id": "housing-no-transaction-fee",
+          "title": "No transaction fee on eligible housing payments",
+          "detail": "Bilt cardholders can make eligible rent, mortgage and HOA payments through Bilt without a transaction fee, subject to current Bilt terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/card/palladium",
+          "kind": "benefit",
+          "priority": 11
+        },
+        {
+          "id": "lyft-bilt-cash-redemption",
+          "title": "$10 monthly Lyft Pass via Bilt Cash",
+          "detail": "Redeem $10 of Bilt Cash per calendar month for a $10 Lyft Pass credit after linking Bilt and Lyft. The Lyft credit expires at the end of the month. This uses Bilt Cash and is not an additional $10 statement credit.",
+          "capMinor": null,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.bilt.com/terms/bilt-cash",
+          "kind": "benefit",
+          "priority": 12
+        },
+        {
+          "id": "priority-pass-extra-guests-bilt-cash",
+          "title": "Extra Priority Pass guest credits with Bilt Cash",
+          "detail": "Palladium cardholders may redeem up to $70 of Bilt Cash per calendar month for up to two additional Priority Pass guest-pass credits at $35 Bilt Cash each, subject to current terms.",
+          "capMinor": null,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.bilt.com/terms/bilt-cash",
+          "kind": "benefit",
+          "priority": 13
+        },
+        {
+          "id": "instacart-mastercard-3-months",
+          "title": "3 months of Instacart+ (eligible Mastercard offer)",
+          "detail": "Eligible U.S. Mastercard cardholders can receive 3 complimentary months of Instacart+ under the current Mastercard/Instacart promotion. Enrollment and eligibility rules apply; this is a network promotion rather than a Bilt-funded annual credit.",
+          "capMinor": null,
+          "reset": "oneTime",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.instacart.com/help/section/639415266/2307999497",
+          "endsBefore": "2027-02-01",
+          "kind": "benefit",
+          "priority": 14
+        },
+        {
+          "id": "bilt-palladium-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Up to US$2,000 per covered trip and US$5,000 per account per 12 months (secondary).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "bilt-palladium-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Up to US$300 per trip for delays of more than six hours, one claim per 12 months (secondary).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "bilt-palladium-us-baggage-delay-insurance",
+          "title": "Baggage delay insurance",
+          "detail": "Baggage delay coverage. The limit isn't stated in the guide text Bilt publishes online; call the number on the card for details.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "bilt-palladium-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost or damaged luggage coverage (secondary to the carrier). The limit isn't stated in the guide text Bilt publishes online; call the number on the card for details.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "bilt-palladium-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Up to US$800 per claim and US$1,000 per card per 12 months, two claims, US$50 deductible, when the monthly phone bill is paid with the card (secondary).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "bilt-palladium-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Up to US$1,000 per loss and US$50,000 per account per 12 months for items damaged or stolen within 90 days of purchase (secondary).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "bilt-palladium-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extended warranty on eligible purchases. The limit isn't stated in the guide text Bilt publishes online; call the number on the card for details.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "bilt-palladium-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary rental car coverage (primary if you have no other insurance) for rentals of 31 days or less when you decline the rental company's collision waiver; loss-of-use up to US$500 per incident.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 207
+        },
+        {
+          "id": "bilt-palladium-us-price-drop-protection",
+          "title": "Price Drop Protection",
+          "detail": "Price drop protection on eligible purchases. The limit isn't stated in the guide text Bilt publishes online; call the number on the card for details.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bilt.com/terms/palladium-card-guide-to-benefits",
+          "kind": "protection",
+          "priority": 208
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "bilt-us",
+          "label": "Bilt points",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bilt.com/card/palladium"
+        },
+        {
+          "id": "hotels-portal",
+          "categories": [
+            "hotelsPortal"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "bilt-us",
+          "label": "Bilt points",
+          "detail": "Hotels booked through Bilt Travel.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bilt.com/card/palladium"
+        },
+        {
+          "id": "flights-portal",
+          "categories": [
+            "flightsPortal"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "bilt-us",
+          "label": "Bilt points",
+          "detail": "Flights booked through Bilt Travel.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bilt.com/card/palladium"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bilt.com/card/palladium",
+      "artworkSearchTerms": "Bilt Palladium",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "loungeAccess": [
+        {
+          "id": "priority-pass-bilt",
+          "provider": "Priority Pass",
+          "title": "Priority Pass",
+          "detail": "Priority Pass lounge access under current Palladium terms. Confirm enrollment and guest rules in your Bilt account.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.bilt.com/card/palladium"
+        }
+      ],
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://img.bilt.com/43819/1790799681-bilt-aspen.webp",
+      "benefitSourceURLs": [
+        "https://www.bilt.com/card/palladium",
+        "https://www.biltrewards.com/terms/bilt-card-offer-terms",
+        "https://www.biltrewards.com/terms/palladium-card-guide-to-benefits"
+      ]
     }
   ],
   "removeCards": [],
@@ -17166,6 +17471,7 @@
     "Covered causes: up to C$1,000/occurrence for non-refundable tickets bought in full on the card from a primary outlet.": "Causes couvertes : jusqu’à 1 000 $ CA par événement pour les billets non remboursables achetés entièrement avec la carte auprès d’un point de vente principal.",
     "Hotel/motel burglary insurance": "Assurance cambriolage à l’hôtel ou au motel",
     "Forced-entry room theft: up to C$1,000/occurrence, excess of other coverage; full eligible card/Scene+ payment required.": "Vol dans une chambre avec effraction : jusqu’à 1 000 $ CA par événement, en complément des autres protections; paiement intégral admissible par carte ou points Scene+ requis.",
-    "Selected-category earnings apply to three chosen categories, changeable every 90 days. Insurance summaries are subject to the February 28, 2026 certificate, including payment requirements, eligibility, exclusions and claims deadlines.": "Les taux accélérés s’appliquent à trois catégories choisies, modifiables tous les 90 jours. Les résumés d’assurance sont assujettis au certificat du 28 février 2026, notamment aux exigences de paiement, à l’admissibilité, aux exclusions et aux délais de réclamation."
+    "Selected-category earnings apply to three chosen categories, changeable every 90 days. Insurance summaries are subject to the February 28, 2026 certificate, including payment requirements, eligibility, exclusions and claims deadlines.": "Les taux accélérés s’appliquent à trois catégories choisies, modifiables tous les 90 jours. Les résumés d’assurance sont assujettis au certificat du 28 février 2026, notamment aux exigences de paiement, à l’admissibilité, aux exclusions et aux délais de réclamation.",
+    "Extended warranty": "Garantie prolongée"
   }
 }
