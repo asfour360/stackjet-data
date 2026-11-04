@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -14630,6 +14630,233 @@
         "https://disneyrewards.com/inspire-credit-card-benefits/"
       ],
       "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "capital-one-spark-cash-plus-us",
+      "name": "Capital One Spark Cash Plus US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 15000,
+      "feeNote": "US$150 per year, refunded after US$150,000 in eligible anniversary-year purchases.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-spark-cash-plus-us",
+      "programIDs": [
+        "capital-cash-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Recurring card benefits verified against Capital One. Introductory new-account bonuses are not counted as ongoing benefits or Best Card earnings.",
+      "benefits": [
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fees on eligible purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 50
+        },
+        {
+          "id": "capital-one-spark-cash-plus-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible purchases receive additional manufacturer warranty and purchase protections under the current card Guide to Benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "capital-one-spark-cash-plus-us-roadside-assistance",
+          "title": "Roadside assistance",
+          "detail": "Assistance with eligible roadside emergencies such as towing, flat-tire changes and jump starts; service charges may apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-annual-fee-refund",
+          "title": "Refund of $150 annual fee",
+          "detail": "Get the $150 annual fee refunded each year you spend at least $150,000 in net purchases during the membership anniversary year. Refund is issued as a statement credit after qualification.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-cash-rewards",
+          "title": "2% unlimited cash back",
+          "detail": "Earn unlimited 2% cash back on eligible purchases with no category restrictions and no expiration while your account is open and in good standing.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 21
+        },
+        {
+          "id": "issuer-capital-one-travel",
+          "title": "5% Capital One Business Travel bookings",
+          "detail": "Earn 5% cash back on eligible hotels, vacation rentals and rental cars booked through Capital One Business Travel; booking and reward terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 22
+        },
+        {
+          "id": "issuer-points-redemption",
+          "title": "Flexible cash back redemption",
+          "detail": "Redeem cash back for eligible amounts at any time through statement credit or check while the card account is active and in good standing.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 23
+        },
+        {
+          "id": "issuer-flexible-capacity",
+          "title": "No preset spending limit",
+          "detail": "Purchasing power adjusts with payment history, spending behavior and credit profile; this is not unlimited spending.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-business-payment",
+          "title": "Business charge-card payment features",
+          "detail": "Designed to be paid in full each month; additional flexible-payment options may be available under current account terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 31
+        },
+        {
+          "id": "issuer-employee-cards",
+          "title": "Free employee cards",
+          "detail": "Add employee cards at no extra charge and earn cash rewards on employee purchases. Set limits and track posted transactions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 32
+        },
+        {
+          "id": "issuer-virtual-cards",
+          "title": "Virtual card numbers",
+          "detail": "Use virtual card numbers to pay online without exposing the physical card number to merchants.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 33
+        },
+        {
+          "id": "issuer-account-controls",
+          "title": "Business account tools",
+          "detail": "Download itemized purchase records, choose a payment due date, set account managers and access recurring transaction details.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 34
+        },
+        {
+          "id": "issuer-security",
+          "title": "Security and fraud alerts",
+          "detail": "Card locking, fraud monitoring and suspicious transaction notifications, with zero unauthorized-purchase liability under the card's conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
+          "id": "issuer-auto-pay",
+          "title": "Automatic payments",
+          "detail": "Enroll in AutoPay and track card statements and spending through Capital One's online business tools.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 41
+        },
+        {
+          "id": "issuer-expense-integration",
+          "title": "Business expense integrations",
+          "detail": "Download expenses in common accounting formats and use available business travel and accounts payable management tools.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+          "kind": "benefit",
+          "priority": 42
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "2% cash back",
+          "detail": "Unlimited cash back on eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/"
+        },
+        {
+          "id": "portal",
+          "categories": [
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 5,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "5% cash back",
+          "detail": "Eligible Capital One Business Travel bookings; vacation rentals may be included by the issuer.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/"
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/",
+      "artworkSearchTerms": "Capital One Spark Cash Plus",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/small-business/credit-cards/spark-cash-plus/"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/image-optimization/compressed-1.5x-scp-card-obo.png"
     }
   ],
   "removeCards": [],
