@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -3009,66 +3009,66 @@
         {
           "id": "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
           "title": "Emergency medical insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$5,000,000 per insured person per trip for eligible emergency medical expenses outside the home province or territory during the first 15 days, for insured persons age 64 or under.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "issuer-trip-cancellation-insurance",
           "title": "Trip cancellation insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible trip cancellation: up to C$1,500 per insured person and C$3,000 combined for covered prepaid non-refundable arrangements.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "issuer-trip-interruption-insurance",
           "title": "Trip interruption insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible trip interruption or trip delay: up to C$1,500 per insured person and C$6,000 for all insured persons combined.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "issuer-flight-delay-insurance",
           "title": "Flight delay insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "For flight delays of four hours or more, reimbursement of eligible necessary expenses is subject to a C$1,000 combined flight and baggage delay limit per occurrence.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "issuer-baggage-delay-insurance",
           "title": "Delayed & lost baggage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible baggage delays of six hours or more may qualify for essentials; flight and baggage delay coverage shares a C$1,000 per-occurrence limit for all insured persons.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
           "kind": "protection",
           "priority": 100
         },
         {
           "id": "issuer-hotel-burglary-insurance",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Covered theft or damage following a hotel room break-in: maximum C$1,000 per occurrence for all insured persons.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
           "kind": "protection",
           "priority": 100
         },
@@ -3390,7 +3390,7 @@
         {
           "id": "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
           "title": "Emergency medical insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$5,000,000 in eligible emergency medical coverage when an insured person under age 65 travels outside their home province or territory, for the first 15 consecutive days of a covered trip.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -3401,7 +3401,7 @@
         {
           "id": "issuer-trip-cancellation-insurance",
           "title": "Trip cancellation insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,500 per insured person and C$3,000 total for eligible prepaid non-refundable travel arrangements when a trip is cancelled for a covered reason.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -3412,7 +3412,7 @@
         {
           "id": "issuer-trip-interruption-insurance",
           "title": "Trip interruption insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,500 per insured person and C$6,000 combined for eligible unused non-refundable arrangements following a covered trip interruption or delay.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -3423,7 +3423,7 @@
         {
           "id": "issuer-flight-delay-insurance",
           "title": "Flight delay insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible flight delays of four hours or longer may qualify for reimbursement of necessary expenses, up to a C$500 combined maximum with baggage delay coverage.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4457,7 +4457,7 @@
         {
           "id": "ins-emergency-medical",
           "title": "Emergency medical insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$5 million in eligible emergency medical expenses for trips outside your home province or country, up to 15 days per covered trip. Eligibility and exclusions are detailed in the BMO certificate of insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4468,7 +4468,7 @@
         {
           "id": "ins-trip-cancellation",
           "title": "Trip cancellation insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,500 per insured person for eligible non-refundable prepaid trip costs, maximum C$5,000 per account. Covered reasons and payment conditions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4479,13 +4479,112 @@
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible rental-car collision or theft protection for rental periods up to 48 consecutive days; conditions, covered vehicle types and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-nexus-rebate",
+          "title": "NEXUS statement credit",
+          "detail": "Eligible NEXUS application statement credit under the BMO Business World Elite card's published benefit terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-virtual-maple-visits",
+          "title": "Five Maple healthcare visits",
+          "detail": "Five virtual visits with a participating Canadian healthcare provider through Maple, subject to the card's offer conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Up to C$500 per account for eligible additional accommodation and travel expenses when the flight is delayed more than four hours.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-baggage-loss",
+          "title": "Lost and delayed baggage insurance",
+          "detail": "Up to C$500 per insured person, maximum C$1,000 per account for covered lost/damaged baggage. Eligible checked baggage delayed over six hours may qualify for up to C$500 in essentials.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Up to C$2,000 per insured person toward eligible extra one-way return airfare and non-refundable prepaid travel arrangements following a covered interruption.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-business-protection",
+          "title": "Employee card liability protection",
+          "detail": "Employee card misuse and zero-liability protections, subject to BMO account and claim requirements.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-purchase-warranty",
+          "title": "Purchase protection and warranty",
+          "detail": "90-day purchase protection and up to one additional year of eligible manufacturer's warranty protection for purchases charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-instacart",
+          "title": "Instacart+ benefit",
+          "detail": "Six months of Instacart+ and a C$10 monthly Instacart credit with eligible enrollment.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-car-rental",
+          "title": "Rental discounts",
+          "detail": "Up to 35% off qualifying prepaid base rates with Avis and Budget at participating locations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-ascend-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
         }
       ],
       "statuses": [],
@@ -5404,7 +5503,7 @@
         {
           "id": "ins-emergency-medical",
           "title": "Emergency medical insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$5,000,000 in eligible out-of-province emergency medical coverage for the first 15 days of a trip if age 64 or under, or the first three days if age 65 or older. Coverage may apply without charging the trip to the card; pre-approval and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -9585,11 +9684,11 @@
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "On eligible items fully charged to the card, the original manufacturer's warranty can be doubled for up to two additional years. Items with a manufacturer warranty of five years or longer must be registered within the first year; policy limits and exclusions apply.",
+          "detail": "Eligible items purchased with the card may receive up to two additional years after the original manufacturer's warranty expires, subject to policy conditions and exclusions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-privilege-card.html",
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/credit_card/Passport_Visa_Inifite_Privilege_Card_Certificate_of_Insurance_2025_En.pdf",
           "kind": "protection",
           "priority": 210
         }
