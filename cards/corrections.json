@@ -9394,8 +9394,8 @@
         "rbc-avion-can"
       ],
       "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 RBC issuer product-page benefit audit: confirmed this is the C$120 Avion Visa Business card, distinct from the C$175 Avion Visa Infinite Business. Added issuer-listed partner, reward pooling, liability and card-management benefits. Pre-existing insurance limits remain subject to certificate verification.",
       "benefits": [
         {
           "id": "issuer-get-up-to-20-8-off-with-hertz",
@@ -9509,13 +9509,112 @@
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Up to 1 extra year.",
+          "detail": "Doubles the original Canadian manufacturer's warranty by up to one additional year, subject to a maximum combined warranty of 5 years and eligibility requirements.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-business/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-employee-avion-pooling",
+          "title": "Employee and personal-business points pooling",
+          "detail": "Combine eligible employee RBC Avion Visa Business points into a single account and pool Avion points between eligible RBC business and personal Avion cards.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-petro-canada-linked-savings",
+          "title": "Petro-Canada gas and points savings",
+          "detail": "Link your card to Petro-Points to save 3 cents per litre and earn 20% more Petro-Points and 20% more Avion points at participating Petro-Canada locations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-triangle-rewards",
+          "title": "Triangle Rewards linked-card bonus",
+          "detail": "Link the RBC card to Triangle Rewards and scan Triangle Rewards when paying with the card to earn 3x Canadian Tire Money at participating retailers.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-rbc-offers",
+          "title": "RBC Offers for business",
+          "detail": "Load eligible RBC Offers in online banking to receive bonus Avion points or cash savings on participating business purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-liability-waiver",
+          "title": "Employee card liability waiver",
+          "detail": "RBC's employee liability waiver insurance helps protect the business from qualifying unauthorized employee-card charges; subject to policy terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-hertz-business",
+          "title": "Hertz base-rate discount and bonus points",
+          "detail": "Load an eligible Hertz offer to save up to 20% on base rates and earn 3x points under the RBC/Hertz offer conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-multicard-fee-rebate",
+          "title": "Additional Avion card annual-fee reduction",
+          "detail": "RBC lists a C$50 annual fee on qualifying additional Avion Business or Personal cards when an eligible business and personal Avion card are both held; confirm how this applies to the account before valuing it.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-mobile-card-lock",
+          "title": "Temporary card lock",
+          "detail": "Lock or unlock the credit card through the RBC Mobile app when misplaced.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-redemption-options",
+          "title": "Avion business redemption flexibility",
+          "detail": "Redeem Avion points for eligible travel using RBC's Air Travel Redemption Schedule, or for merchandise, gift cards, financial rewards and other program redemptions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+          "kind": "benefit",
+          "priority": 95
         }
       ],
       "statuses": [],
