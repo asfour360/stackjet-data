@@ -12485,7 +12485,7 @@
           "categories": [
             "everything"
           ],
-          "rate": 1,
+          "rate": 0.5,
           "rewardKind": "points",
           "programID": "porter",
           "label": "VIPorter points",
@@ -12503,10 +12503,12 @@
           "rewardKind": "points",
           "programID": "porter",
           "label": "VIPorter points",
-          "detail": "Eligible Porter purchases.",
+          "detail": "Eligible Porter purchases; first C$10,000 annually.",
           "countries": [],
-          "capReset": "none",
-          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/"
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "capMinor": 1000000,
+          "capGroup": "bmo-viporter-porter"
         },
         {
           "id": "gas-transport",
@@ -12515,14 +12517,16 @@
             "transit",
             "carRentals"
           ],
-          "rate": 1.5,
+          "rate": 1,
           "rewardKind": "points",
           "programID": "porter",
           "label": "VIPorter points",
-          "detail": "Eligible gas and transportation.",
+          "detail": "Eligible gas and transportation; first C$3,000 annually.",
           "countries": [],
-          "capReset": "none",
-          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/"
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "capMinor": 300000,
+          "capGroup": "bmo-viporter-transport"
         },
         {
           "id": "dining-grocery",
@@ -12530,14 +12534,32 @@
             "dining",
             "groceries"
           ],
-          "rate": 1.5,
+          "rate": 1,
           "rewardKind": "points",
           "programID": "porter",
           "label": "VIPorter points",
-          "detail": "Eligible dining and grocery purchases.",
+          "detail": "Eligible dining and grocery purchases; first C$5,000 annually.",
           "countries": [],
-          "capReset": "none",
-          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/"
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "capMinor": 500000,
+          "capGroup": "bmo-viporter-food"
+        },
+        {
+          "id": "hotel",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "porter",
+          "label": "VIPorter points",
+          "detail": "Eligible hotel purchases; first C$3,000 annually.",
+          "countries": [],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-viporter-mastercard/",
+          "capMinor": 300000,
+          "capGroup": "bmo-viporter-hotel"
         }
       ],
       "accountType": "personal",
