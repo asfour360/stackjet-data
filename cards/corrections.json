@@ -16662,7 +16662,7 @@
       ],
       "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
       "checkedOn": "2026-11-04",
-      "coverageNote": "Issuer-page 2026-11-04 review: spending-tier earnings are 1.25x from $0 to $20,000 annual purchases, 2x from $20,001 to $30,000, then 1.25x. World Mastercard does NOT receive World Elite's complimentary YUL lounge access or World Elite-specific C$150 annual travel reimbursement. Insurance limits issuer-page based, certificate controls.",
+      "coverageNote": "Issuer-page 2026-11-04 review: spending-tier earnings are 1.25x from $0 to $20,000 annual purchases, 2x from $20,001 to $30,000, then 1.25x. World Mastercard does NOT receive World Elite's complimentary YUL lounge access or World Elite-specific C$150 annual travel reimbursement. Insurance limits issuer-page based, certificate controls. 2x annual-spend middle band is disclosed as a benefit only, not a flat 2x Best Card rate, until spend-range support is implemented.",
       "accountType": "personal",
       "catalogLevel": "partial",
       "availability": "confirm-with-issuer",
@@ -16679,26 +16679,10 @@
           "rewardKind": "points",
           "programID": "nbc-rewards-can",
           "label": "National Bank rewards points",
-          "detail": "1.25 points per C$1 up to C$20,000 gross annual eligible spend, then again over C$30,000. Rate is spend-tier dependent.",
+          "detail": "Conservative 1.25x Best Card rate; RBC-style flat-category engine cannot model National Bank's annual-spend range: 1.25x for $0–$20,000, 2x for $20,001–$30,000, then 1.25x. Actual rate in the middle band must be tracked separately.",
           "countries": [],
           "capReset": "none",
           "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html"
-        },
-        {
-          "id": "middle-spend-tier",
-          "categories": [
-            "everything"
-          ],
-          "rate": 2,
-          "rewardKind": "points",
-          "programID": "nbc-rewards-can",
-          "label": "National Bank rewards points",
-          "detail": "2 points per C$1 on eligible net annual spending from C$20,001 through C$30,000; after C$30,000 the rate drops to 1.25. The C$30,000 cap is the upper threshold for this tier; threshold starts only after C$20,000 spend.",
-          "countries": [],
-          "capReset": "anniversary",
-          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
-          "capMinor": 3000000,
-          "capGroup": "nbc-world-annual-spend"
         }
       ],
       "benefits": [
