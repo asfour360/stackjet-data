@@ -8760,8 +8760,8 @@
         "ba-avios"
       ],
       "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 issuer product-page audit: seven previously missing RBC and Visa partner benefits added; British Airways companion voucher and flight discount descriptions clarified. Existing insurance descriptions have not been revalidated against a current insurance certificate.",
       "benefits": [
         {
           "id": "issuer-complimentary-concierge",
@@ -8777,7 +8777,7 @@
         {
           "id": "pot-companion-voucher",
           "title": "Companion Voucher",
-          "detail": "Spend $30,000 in a calendar year for a British Airways Companion Voucher (companion flies round-trip).",
+          "detail": "Spend C$30,000 annually on eligible purchases to earn a British Airways Companion Voucher. Apply it to an eligible reward flight for a companion or, when flying solo, receive 50% off the Avios price of a reward seat; taxes, fees, and redemption conditions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -8787,7 +8787,7 @@
         {
           "id": "pot-10-off-british-airways-fares",
           "title": "10% off British Airways fares",
-          "detail": "Save 10% on British Airways round-trip fares at ba.com/RBC10.",
+          "detail": "10% off eligible British Airways flights when booked and paid for with this RBC British Airways Visa Infinite card, subject to fare and booking terms.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -8881,6 +8881,83 @@
           "sourceURL": "https://princeoftravel.com/credit-cards/rbc-british-airways-visa-infinite/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-petro-canada-linked-savings",
+          "title": "Petro-Canada linked savings",
+          "detail": "Link the card with Petro-Points to save 3 cents per litre on fuel and earn 20% more Petro-Points at participating Petro-Canada locations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 75
+        },
+        {
+          "id": "issuer-doordash-dashpass",
+          "title": "DoorDash DashPass offer",
+          "detail": "Eligible RBC cardholders may add the card to DoorDash to activate a 12-month complimentary DashPass subscription; qualifying order and subscription terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 75
+        },
+        {
+          "id": "issuer-rexall-be-well",
+          "title": "Rexall Be Well points",
+          "detail": "Link the card with Be Well to earn 50 Be Well points per C$1 on eligible Rexall purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 75
+        },
+        {
+          "id": "issuer-triangle-rewards",
+          "title": "Triangle Rewards linked-card offer",
+          "detail": "Earn 3x Canadian Tire Money on eligible purchases at participating Triangle Rewards retailers when scanning a Triangle Rewards card and paying with the linked RBC card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 75
+        },
+        {
+          "id": "issuer-visa-infinite-luxury-hotels",
+          "title": "Visa Infinite Luxury Hotel Collection",
+          "detail": "Access eligible Visa Infinite Luxury Hotel Collection hotel privileges such as room upgrades and breakfast at participating hotels, subject to booking terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 75
+        },
+        {
+          "id": "issuer-visa-infinite-travel-offers",
+          "title": "Visa Infinite travel and dining offers",
+          "detail": "Access eligible Visa Infinite dining and wine-country experiences and travel offers with Park'N Fly, Viator, and VIA Rail; discounts and terms vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 75
+        },
+        {
+          "id": "issuer-gigsky-esim",
+          "title": "GigSky international eSIM offer",
+          "detail": "Eligible Visa Infinite cardholders can receive a complimentary 1 GB / 15-day GigSky data plan and 20% off additional plans on compatible devices, subject to current terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 75
         }
       ],
       "statuses": [],
