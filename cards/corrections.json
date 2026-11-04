@@ -24061,6 +24061,269 @@
         "https://creditcards.wellsfargo.com/autograph-visa-credit-card/"
       ],
       "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "amex-simplycash-preferred-can",
+      "name": "Amex SimplyCash Preferred CAN",
+      "issuer": "American Express",
+      "market": "CAN",
+      "annualFeeMinor": 11988,
+      "feeNote": "Non-Quebec: C$9.99 monthly (C$119.88 annually). Quebec: C$119 annual fee. Additional cards have no annual fee.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-simplycash-preferred-can",
+      "programIDs": [
+        "amex-cash-can"
+      ],
+      "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/simply-cash-preferred/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source audit: product, cashback program agreement, registered extras and July 1, 2025 insurance certificates checked November 4, 2026. Cashback grocery cap resets on the cardmembership anniversary; payout calculation is separate. No general trip-cancellation/interruption coverage or elite-status grant is listed. Insurance requires eligible Canadian residency, account status and applicable payment conditions; read the linked certificate for exclusions and claim deadlines.",
+      "benefits": [
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5 million/person/trip for eligible insured persons under 65, first 15 consecutive days outside the home province. Provincial health-plan coverage required. Conditions must be stable during the prior 90 days; call Global Excel before treatment or benefits may be reduced.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$500 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$500 with flight delay. Lost/stolen baggage has a separate C$500 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to C$500 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Scheduled common-carrier accidental death/dismemberment benefits up to C$100,000/covered person. Full ticket fare must be charged to the card. Family eligibility and policy exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to C$1,000/occurrence/person, less 2% monthly depreciation and 10% deductible. Maximum two-year cover; one claim/12 months, two/48 months across eligible Amex cards. Full purchase or required financed-device payments must use the card; outright-purchase theft/damage cover starts day 91.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "instacart",
+          "title": "Instacart monthly credit",
+          "detail": "Register in Amex Offers before purchase. Get C$5 back monthly on one eligible Instacart Canada transaction of C$10 or more through December 31, 2027; CAD and Canadian delivery required. Gift cards, prescriptions and alcohol excluded; no rollover.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/member-extras/simply-cash-preferred/",
+          "kind": "credit",
+          "capMinor": 500,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "priority": 20,
+          "endsBefore": "2028-01-01"
+        },
+        {
+          "id": "issuer-cashback-earn",
+          "title": "4% gas/groceries; 2% other purchases",
+          "detail": "Earn 4% on eligible Canadian gas, 4% on the first C$30,000 of eligible Canadian groceries each cardmembership year, then 2%; 2% on other eligible purchases. Network merchant coding and cash-equivalent exclusions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464123-50498176-0926-Simplycash-Preferred-Online-CMA-EN.pdf",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-cashback-payment",
+          "title": "Annual cashback statement credit",
+          "detail": "Eligible cashback is credited annually. The agreement calculates entitlement at the first billing close on/after August 1, with the credit normally shown on the September statement; account good standing and payment conditions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464123-50498176-0926-Simplycash-Preferred-Online-CMA-EN.pdf",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Register for eligible targeted offers before spending; merchants, thresholds, expiry dates and reward types vary by account.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/simplycashpreferred-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30
+        },
+        {
+          "id": "issuer-experiences",
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible Front Of The Line presale and reserved tickets, events and experiences; availability, payment and ticket terms apply.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/simplycashpreferred-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-plan-it",
+          "title": "Plan It installment option",
+          "detail": "Eligible purchases can be split into monthly installments for a disclosed fixed fee; eligibility, plan terms and minimum payments apply. This is a borrowing option, not a free credit.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/simplycashpreferred-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-replacement",
+          "title": "Fraud protection and emergency card replacement",
+          "detail": "Fraud protection requires reasonable care of card/account details and PIN. Contact Amex for lost/stolen card assistance and replacement.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/simplycashpreferred-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "amex-cash-can",
+          "label": "cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464123-50498176-0926-Simplycash-Preferred-Online-CMA-EN.pdf"
+        },
+        {
+          "id": "gas",
+          "categories": [
+            "gas"
+          ],
+          "rate": 4,
+          "rewardKind": "cashback",
+          "programID": "amex-cash-can",
+          "label": "cash back",
+          "detail": "Eligible gas station purchases in Canada; no annual cap.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464123-50498176-0926-Simplycash-Preferred-Online-CMA-EN.pdf"
+        },
+        {
+          "id": "grocery",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 4,
+          "rewardKind": "cashback",
+          "programID": "amex-cash-can",
+          "label": "cash back",
+          "detail": "Eligible grocery purchases in Canada; up to C$1,200 cash back a year (first C$30,000 of grocery spend), then 2%.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "anniversary",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464123-50498176-0926-Simplycash-Preferred-Online-CMA-EN.pdf",
+          "capMinor": 3000000,
+          "capGroup": "simplycash-preferred-grocery"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/simplycash-preferred-card-from-american-express/",
+      "artworkSearchTerms": "Amex SimplyCash Preferred",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/en-ca/credit-cards/simply-cash-preferred/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464123-50498176-0926-Simplycash-Preferred-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/simplycashpreferred-card/",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/simply-cash-preferred/"
+      ],
+      "artworkURL": "https://princeoftravel.com/images/cards/SimplyCash_Preferred_Card.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
     }
   ],
   "removeCards": [],
@@ -24187,7 +24450,7 @@
     "Temporary offer: up to 15% off eligible Cathay Pacific fares using CXNEO15OFF; book by December 31, 2026. Route, fare, travel-date and payment restrictions apply.": "Offre temporaire : jusqu’à 15 % sur les tarifs Cathay Pacific admissibles avec CXNEO15OFF; réservation avant le 31 décembre 2026. Restrictions de trajet, tarif, dates de voyage et paiement.",
     "Bonus Asia Miles at Neo partners": "Asia Miles supplémentaires chez les partenaires Neo",
     "Extra Asia Miles at participating Neo partners; offers vary by merchant and account. Advertised averages are not a universal earn rate.": "Asia Miles supplémentaires chez les partenaires participants. Les offres varient selon le marchand et le compte; les moyennes annoncées ne constituent pas un taux universel.",
-    "Emergency medical insurance": "Assurance médicale d’urgence",
+    "Emergency medical insurance": "Assurance frais médicaux d’urgence",
     "Up to C$1,000,000 for eligible insured persons under 60, first 14 consecutive trip days. Full card/associated reward payment and provincial health coverage required; six-month pre-existing-condition stability exclusion applies. Contact assistance before treatment.": "Jusqu’à 1 000 000 $ CA pour les assurés admissibles de moins de 60 ans, durant les 14 premiers jours consécutifs. Paiement intégral par carte ou récompenses associées et régime provincial requis. Exclusion liée à la stabilité de six mois des affections préexistantes. Contactez l’assistance avant les soins.",
     "Trip cancellation insurance": "Assurance annulation de voyage",
     "Covered cancellations: C$1,000/person, C$5,000/trip aggregate. Full trip payment by card/associated rewards required. Six-month pre-existing-condition stability exclusion and other certificate conditions apply.": "Annulations couvertes : 1 000 $ CA par personne, plafond collectif de 5 000 $ CA par voyage. Paiement intégral par carte ou récompenses associées requis. Exclusion liée à la stabilité de six mois des affections préexistantes et autres conditions du certificat.",
@@ -24198,7 +24461,7 @@
     "Delayed & lost baggage insurance": "Assurance retard et perte de bagages",
     "Checked-baggage delay over six hours: essentials bought before return of baggage and within 96 hours. Delay/loss/damage share C$1,000 total. Full eligible fare payment required; exclusions apply.": "Retard des bagages enregistrés de plus de six heures : articles essentiels achetés avant leur retour et dans les 96 heures. Retard, perte et dommages partagent un plafond de 1 000 $ CA. Paiement intégral admissible du billet requis; exclusions applicables.",
     "Up to C$1,000 for covered room burglary, excess of other insurance. Reserve and pay the full stay with the card; forced-entry evidence and police/hotel reports required.": "Jusqu’à 1 000 $ CA pour un cambriolage couvert, en complément des autres assurances. Réservez et payez le séjour entier avec la carte; preuves d’effraction et rapports de police et de l’hôtel requis.",
-    "Rental car collision/loss damage insurance": "Assurance collision et dommages pour voitures de location",
+    "Rental car collision/loss damage insurance": "Assurance collision, vol et dommages des voitures de location",
     "Eligible rentals up to 48 consecutive days; MSRP no more than C$65,000 before taxes. Pay the full rental with the same card and decline CDW. Primary collision/theft coverage, subject to exclusions; no liability insurance.": "Locations admissibles d’au plus 48 jours consécutifs; PDSF maximal de 65 000 $ CA avant taxes. Payez la location entière avec la même carte et refusez la garantie CDW. Protection principale collision et vol, sous réserve d’exclusions; responsabilité civile exclue.",
     "Purchase protection": "Protection des achats",
     "Eligible new items paid in full: 90-day loss/theft/damage protection. C$1,000/occurrence and C$10,000/account aggregate shared with extended warranty; excess of other insurance.": "Articles neufs admissibles payés intégralement : protection perte, vol et dommages de 90 jours. Limites de 1 000 $ CA par événement et de 10 000 $ CA par compte, partagées avec la garantie prolongée; protection complémentaire.",
@@ -24226,6 +24489,33 @@
     "Rental car personal effects": "Effets personnels en voiture de location",
     "Up to C$1,000/person and C$2,000/occurrence aggregate for eligible effects during a covered rental of at most 48 days. Full card payment and theft-evidence conditions apply; excess coverage.": "Jusqu’à 1 000 $ CA par personne et 2 000 $ CA collectivement par événement pour les effets admissibles pendant une location couverte d’au plus 48 jours. Paiement intégral par carte et preuves de vol requis; protection complémentaire.",
     "C$180 annual fee. Not available in Quebec; minimum annual income C$80,000 personal or C$150,000 household.": "Frais annuels de 180 $ CA. Non offerte au Québec; revenu annuel minimal de 80 000 $ CA individuel ou de 150 000 $ CA familial.",
-    "Product terms and April 15, 2026 Chubb certificates checked November 4, 2026. Insurance requires eligible card status and applicable full-payment conditions. Medical cover is under age 60 for 14 days; six-month pre-existing-condition stability exclusions apply to medical and trip cover. Lounge/baggage redemption privileges do not grant free services or elite status. Temporary flight promotion is dated separately.": "Conditions du produit et certificats Chubb du 15 avril 2026 vérifiés le 4 novembre 2026. Statut admissible et paiement intégral requis selon la protection. Assurance médicale pour les moins de 60 ans, durant 14 jours; exclusions de stabilité médicale de six mois pour les protections médicale et voyage. Les privilèges d’échange ne donnent ni services gratuits ni statut élite. L’offre de réduction temporaire est datée séparément."
+    "Product terms and April 15, 2026 Chubb certificates checked November 4, 2026. Insurance requires eligible card status and applicable full-payment conditions. Medical cover is under age 60 for 14 days; six-month pre-existing-condition stability exclusions apply to medical and trip cover. Lounge/baggage redemption privileges do not grant free services or elite status. Temporary flight promotion is dated separately.": "Conditions du produit et certificats Chubb du 15 avril 2026 vérifiés le 4 novembre 2026. Statut admissible et paiement intégral requis selon la protection. Assurance médicale pour les moins de 60 ans, durant 14 jours; exclusions de stabilité médicale de six mois pour les protections médicale et voyage. Les privilèges d’échange ne donnent ni services gratuits ni statut élite. L’offre de réduction temporaire est datée séparément.",
+    "Up to C$5 million/person/trip for eligible insured persons under 65, first 15 consecutive days outside the home province. Provincial health-plan coverage required. Conditions must be stable during the prior 90 days; call Global Excel before treatment or benefits may be reduced.": "Jusqu’à 5 M$ CA par personne et voyage pour les assurés admissibles de moins de 65 ans, pendant les 15 premiers jours consécutifs hors de leur province. Couverture provinciale requise. Stabilité des affections pendant les 90 jours précédents; appeler Global Excel avant les soins pour éviter une réduction des prestations.",
+    "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$500 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.": "Correspondance manquée, retard de départ ou refus d’embarquement couvert sans solution de rechange pendant quatre heures : frais de subsistance et accessoires nécessaires. Plafond global de 500 $ CA par événement partagé avec le retard de bagages. Billet d’avion payé intégralement avec la carte.",
+    "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$500 with flight delay. Lost/stolen baggage has a separate C$500 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required.": "Retard des bagages enregistrés d’au moins six heures à destination à l’aller : articles essentiels, plafond de 500 $ CA partagé avec le retard de vol. Perte ou vol : plafond distinct de 500 $ CA par événement, dont 300 $ pour les bijoux et 250 $ pour les bâtons de golf. Billet payé intégralement.",
+    "Up to C$500 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.": "Jusqu’à 500 $ CA par cambriolage pour la perte ou les dommages matériels couverts dans la chambre. Hébergement payé intégralement avec la carte; preuve d’effraction et exclusions applicables.",
+    "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.": "Couverture de premier rang contre le vol et les dommages admissibles pour une location d’au plus 48 jours consécutifs et un véhicule dont le PDSF avant taxes ne dépasse pas 85 000 $ CA. Payer toute la location et refuser la protection du loueur lorsque possible. Responsabilité civile non couverte; exclusions de véhicule, de territoire et de location.",
+    "Travel accident insurance": "Assurance accidents de voyage",
+    "Scheduled common-carrier accidental death/dismemberment benefits up to C$100,000/covered person. Full ticket fare must be charged to the card. Family eligibility and policy exclusions apply.": "Prestations prévues jusqu’à 100 000 $ CA par assuré en cas de décès ou de mutilation accidentels à bord d’un transporteur public régulier. Billet payé intégralement avec la carte. Admissibilité familiale et exclusions applicables.",
+    "Mobile device insurance": "Assurance appareils mobiles",
+    "Up to C$1,000/occurrence/person, less 2% monthly depreciation and 10% deductible. Maximum two-year cover; one claim/12 months, two/48 months across eligible Amex cards. Full purchase or required financed-device payments must use the card; outright-purchase theft/damage cover starts day 91.": "Jusqu’à 1 000 $ CA par événement et personne, moins une dépréciation mensuelle de 2 % et une franchise de 10 %. Protection maximale de deux ans; une réclamation par période de 12 mois, deux par 48 mois pour l’ensemble des cartes Amex admissibles. Achat intégral ou paiements de financement requis portés à la carte; vol et dommages d’un achat comptant couverts dès le 91e jour.",
+    "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.": "Articles neufs admissibles payés intégralement avec la carte : protection de 90 jours contre le vol et les dommages matériels accidentels, jusqu’à 1 000 $ CA par titulaire et événement. Complémentaire aux autres assurances; exclusions et pièces justificatives applicables.",
+    "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.": "Prolongation d’au plus un an des garanties admissibles du fabricant de cinq ans ou moins. Paiement intégral avec la carte; plafonds de 10 000 $ CA par article et de 25 000 $ CA par titulaire et année d’assurance. Conditions territoriales et exclusions applicables.",
+    "Instacart monthly credit": "Crédit mensuel Instacart",
+    "Register in Amex Offers before purchase. Get C$5 back monthly on one eligible Instacart Canada transaction of C$10 or more through December 31, 2027; CAD and Canadian delivery required. Gift cards, prescriptions and alcohol excluded; no rollover.": "S’inscrire aux Offres Amex avant l’achat. Crédit mensuel de 5 $ CA pour une transaction Instacart Canada admissible d’au moins 10 $ CA jusqu’au 31 décembre 2027; paiement en dollars canadiens et livraison au Canada. Cartes-cadeaux, médicaments sur ordonnance et alcool exclus; aucun report.",
+    "4% gas/groceries; 2% other purchases": "4 % essence et épicerie; 2 % autres achats",
+    "Earn 4% on eligible Canadian gas, 4% on the first C$30,000 of eligible Canadian groceries each cardmembership year, then 2%; 2% on other eligible purchases. Network merchant coding and cash-equivalent exclusions apply.": "Remise de 4 % sur l’essence admissible au Canada, de 4 % sur les premiers 30 000 $ CA d’épicerie admissible au Canada par année d’adhésion, puis de 2 %; 2 % sur les autres achats admissibles. Classement des commerçants par le réseau et exclusions des quasi-espèces applicables.",
+    "Annual cashback statement credit": "Crédit annuel de remise au relevé",
+    "Eligible cashback is credited annually. The agreement calculates entitlement at the first billing close on/after August 1, with the credit normally shown on the September statement; account good standing and payment conditions apply.": "La remise admissible est créditée annuellement. Selon la convention, le calcul a lieu à la première clôture de facturation le 1er août ou après, et le crédit figure normalement au relevé de septembre. Compte en règle et conditions de paiement requis.",
+    "Amex Offers": "Offres Amex",
+    "Register for eligible targeted offers before spending; merchants, thresholds, expiry dates and reward types vary by account.": "S’inscrire aux offres ciblées admissibles avant de dépenser; commerçants, seuils, dates d’expiration et récompenses varient selon le compte.",
+    "Amex Experiences and ticket access": "Expériences Amex et accès aux billets",
+    "Access eligible Front Of The Line presale and reserved tickets, events and experiences; availability, payment and ticket terms apply.": "Accès aux préventes et billets réservés Avant-première, aux événements et aux expériences admissibles; disponibilité, paiement et conditions de billetterie applicables.",
+    "Plan It installment option": "Option de versements Planifiez",
+    "Eligible purchases can be split into monthly installments for a disclosed fixed fee; eligibility, plan terms and minimum payments apply. This is a borrowing option, not a free credit.": "Les achats admissibles peuvent être répartis en versements mensuels moyennant des frais fixes divulgués; admissibilité, modalités du plan et paiements minimums applicables. Il s’agit d’une option d’emprunt.",
+    "Fraud protection and emergency card replacement": "Protection contre la fraude et remplacement d’urgence",
+    "Fraud protection requires reasonable care of card/account details and PIN. Contact Amex for lost/stolen card assistance and replacement.": "La protection contre la fraude exige des précautions raisonnables concernant la carte, le compte et le NIP. Communiquer avec Amex pour une carte perdue ou volée et son remplacement.",
+    "Non-Quebec: C$9.99 monthly (C$119.88 annually). Quebec: C$119 annual fee. Additional cards have no annual fee.": "Hors Québec : 9,99 $ CA par mois (119,88 $ CA par an). Québec : frais annuels de 119 $ CA. Cartes supplémentaires sans frais annuels.",
+    "Full public-source audit: product, cashback program agreement, registered extras and July 1, 2025 insurance certificates checked November 4, 2026. Cashback grocery cap resets on the cardmembership anniversary; payout calculation is separate. No general trip-cancellation/interruption coverage or elite-status grant is listed. Insurance requires eligible Canadian residency, account status and applicable payment conditions; read the linked certificate for exclusions and claim deadlines.": "Audit des sources publiques : produit, convention de remise, offres avec inscription et certificats d’assurance du 1er juillet 2025 vérifiés le 4 novembre 2026. Le plafond d’épicerie est renouvelé à l’anniversaire d’adhésion; le calcul du versement est distinct. Aucune assurance générale annulation ou interruption de voyage ni attribution de statut élite n’est indiquée. Résidence canadienne admissible, compte admissible et conditions de paiement requis; consulter le certificat pour les exclusions et délais de réclamation."
   }
 }
