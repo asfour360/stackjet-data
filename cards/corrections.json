@@ -16027,6 +16027,404 @@
           "priority": 100
         }
       ]
+    },
+    {
+      "id": "bmo-eclipse-visa-infinite-privilege-can",
+      "name": "BMO eclipse Visa Infinite Privilege CAN",
+      "issuer": "BMO",
+      "market": "CAN",
+      "annualFeeMinor": 59900,
+      "feeNote": "Standard annual fee C$599. BMO refreshed benefits November 2, 2026: no FX fee and 10 Visa Airport Companion visits. Primary and supplementary card rebates may be conditional.",
+      "colorHex": "478BC1",
+      "secondaryHex": "163F72",
+      "artworkAsset": "Card-bmo-eclipse-visa-infinite-privilege-can",
+      "programIDs": [
+        "bmo-can"
+      ],
+      "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Issuer refresh announced Nov 2 2026; current BMO welcome-offer terms confirm 10 lounge visits, C$200 travel credit and 5x eligible categories. Some older public pages retain legacy 6 visits and older insurance summaries; use updated benefits terms for active travel perks. Insurance certificates still require a dedicated coverage check.",
+      "statuses": [],
+      "accountType": "personal",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true,
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "bmo-can",
+          "label": "BMO Rewards points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/"
+        },
+        {
+          "id": "grocery",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "bmo-can",
+          "label": "BMO Rewards points",
+          "detail": "Eligible Canadian grocery spending, first C$20,000 each calendar year.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "capMinor": 2000000,
+          "capGroup": "bmo-eclipse-vip-grocery"
+        },
+        {
+          "id": "dining",
+          "categories": [
+            "dining",
+            "foodDelivery"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "bmo-can",
+          "label": "BMO Rewards points",
+          "detail": "Eligible Canadian dining and takeout, first C$25,000 each calendar year.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "capMinor": 2500000,
+          "capGroup": "bmo-eclipse-vip-dining"
+        },
+        {
+          "id": "gas",
+          "categories": [
+            "gas"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "bmo-can",
+          "label": "BMO Rewards points",
+          "detail": "Eligible Canadian gasoline purchases, first C$15,000 each calendar year.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "capMinor": 1500000,
+          "capGroup": "bmo-eclipse-vip-gas"
+        },
+        {
+          "id": "wellness",
+          "categories": [
+            "fitness"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "bmo-can",
+          "label": "BMO Rewards points",
+          "detail": "Eligible Canadian wellness spending such as golf, spas, massage, recreation and club memberships, first C$15,000 each calendar year.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "capMinor": 1500000,
+          "capGroup": "bmo-eclipse-vip-wellness"
+        },
+        {
+          "id": "travel",
+          "categories": [
+            "flightsDirect",
+            "hotelsDirect",
+            "carRentals"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "bmo-can",
+          "label": "BMO Rewards points",
+          "detail": "Airfare, hotel and rental-car purchases qualifying under BMO's Canadian travel MCC rule, first C$25,000 each calendar year; transit is not expressly listed as an eligible 5x MCC in current terms.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "capMinor": 2500000,
+          "capGroup": "bmo-eclipse-vip-travel"
+        }
+      ],
+      "benefits": [
+        {
+          "id": "lifestyle-credit",
+          "title": "C$200 annual travel credit",
+          "detail": "Earn one C$200 statement credit each account anniversary year after one eligible airline, hotel or rental-car purchase of at least C$500 in the same annual period. Credit usually posts within 30 business days; eligibility follows Visa MCC.",
+          "capMinor": 20000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "pot-6-visa-airport-companion-lounge-visits",
+          "title": "10 Visa Airport Companion lounge visits",
+          "detail": "Enroll with Visa Airport Companion; get 10 complimentary visits per membership year, usable by enrolled cardholder and guests. Extra visits cost US$32 per person (subject to change); enrolment required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-priority-security",
+          "title": "Priority airport security",
+          "detail": "Select Canadian airports offer eligible Visa Infinite Privilege priority security lanes and other ground-service offers.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-visa-rsvp-diamond-hotel-benefits",
+          "title": "Visa RSVP Diamond hotels",
+          "detail": "Access participating Visa RSVP properties with eligible Diamond hotel privileges and rates, subject to reservation terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-troon-rewards-platinum",
+          "title": "Troon Rewards Platinum",
+          "detail": "Eligible Visa Infinite Privilege golf offers and Troon Rewards Platinum savings at participating courses.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-200-nexus-rebate-first-year",
+          "title": "First-year NEXUS statement credit",
+          "detail": "Receive up to C$200 as a one-time statement credit for an eligible NEXUS application fee posted to the primary card in the first account year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-instacart-for-6-months",
+          "title": "Six months of Instacart+ and monthly offer",
+          "detail": "Activate before the stated October 31, 2027 deadline for 6 months of complimentary Instacart+ and a C$10 monthly Instacart credit while qualified; monthly credits do not roll over.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fee",
+          "title": "No foreign transaction fee",
+          "detail": "Eligible foreign-currency purchases are not charged BMO's usual foreign transaction surcharge under the November 2026 refresh.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://newsroom.bmo.com/2026-11-02-BMO-Elevates-Rewards-and-Travel-Experience-with-BMO-eclipse-Visa-Infinite-Privilege-Card-Enhancements",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-authorized-user-earning-bonus",
+          "title": "Authorized-user earning bonus",
+          "detail": "Adding an eligible authorized user boosts the 5x accelerated category earn rate by 25% to 6.25x for qualifying purchases by both primary and supplementary cardholders. BMO describes this as an introductory feature.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-private-banking-fee-rebate",
+          "title": "Private Banking fee rebate",
+          "detail": "Eligible BMO Private Banking Platinum Banking Plan clients may qualify for an annual fee rebate, subject to qualifying spend and account conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/popups/main/personal/credit-cards/wealth-terms-and-conditions-en/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5 million in emergency medical expenses per covered person; first 22 consecutive travel days when under age 65, and first 3 days at age 65 or older, subject to current certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Qualifying trip cancellation coverage is included, subject to the insurance certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Qualifying trip interruption coverage is included, subject to the insurance certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Up to C$1,000 per trip for eligible covered persons, subject to applicable waiting periods and exclusions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed and lost baggage insurance",
+          "detail": "Baggage delay, loss and damage coverage subject to current policy conditions and dollar limits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel burglary insurance",
+          "detail": "Up to C$2,500 per occurrence for eligible covered burglary losses.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Eligible rental car loss or collision protection; check duration and vehicle restrictions in the certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Common carrier travel accident insurance",
+          "detail": "Eligible common carrier accident coverage subject to current insurance certificate terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to C$1,000 for eligible lost, stolen or damaged mobile devices when eligible card charging requirements are met.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card purchases are protected from theft or accidental damage for 90 days per the public BMO product page; certificate terms control.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible original manufacturer warranties may be extended by up to one additional year per current public BMO product page; confirm the policy edition applicable to your account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-visa-infinite-privilege-concierge",
+          "title": "Visa Infinite Privilege Concierge",
+          "detail": "Visa Infinite Privilege concierge services are available to eligible cardholders; third-party purchases arranged through concierge are paid by cardholder.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-visa-infinite-luxury-hotels",
+          "title": "Visa Infinite Luxury Hotel Collection",
+          "detail": "Eligible bookings may receive participating-property benefits such as breakfast and upgrades when available.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-visa-dining-wine",
+          "title": "Visa Infinite dining and wine events",
+          "detail": "Access eligible dining and wine-country experiences through Visa Infinite privileges, subject to availability.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege/",
+          "kind": "benefit",
+          "priority": 100
+        }
+      ]
     }
   ],
   "removeCards": [],
