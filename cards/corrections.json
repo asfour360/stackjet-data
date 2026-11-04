@@ -16425,6 +16425,227 @@
           "priority": 100
         }
       ]
+    },
+    {
+      "id": "national-bank-world-elite-mastercard-can",
+      "name": "National Bank World Elite Mastercard CAN",
+      "issuer": "National Bank",
+      "market": "CAN",
+      "annualFeeMinor": 15000,
+      "feeNote": "Official standard annual fee C$150; second card C$50.",
+      "colorHex": "233D6A",
+      "secondaryHex": "10264B",
+      "artworkAsset": "Card-national-bank-world-elite-mastercard-can",
+      "programIDs": [
+        "nbc-rewards-can"
+      ],
+      "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 National Bank issuer and Montreal airport review: verified $150 expense reimbursement, age-based medical limits, 5x/2x earning, and YUL National Bank Lounge temporary location/gate/guest rules. No unverified lounge access for US/Canada domestic itineraries.",
+      "accountType": "personal",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true,
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "nbc-rewards-can",
+          "label": "National Bank rewards points",
+          "detail": "Eligible other purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html"
+        },
+        {
+          "id": "grocery-dining",
+          "categories": [
+            "groceries",
+            "dining",
+            "foodDelivery"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "nbc-rewards-can",
+          "label": "National Bank rewards points",
+          "detail": "5x eligible groceries/restaurants within first C$2,500 in all gross account purchases per billing month; 2x on eligible grocery and restaurants thereafter.",
+          "countries": [],
+          "capReset": "statement",
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "capMinor": 250000,
+          "capGroup": "nbc-world-elite-grocery-dining"
+        },
+        {
+          "id": "gas-bills-travel",
+          "categories": [
+            "gas",
+            "evCharging",
+            "recurringPayments",
+            "flightsPortal",
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "nbc-rewards-can",
+          "label": "National Bank rewards points",
+          "detail": "Eligible gas, EV charging, recurring bill payments and À la carte Travel bookings.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html"
+        }
+      ],
+      "benefits": [
+        {
+          "id": "travel-credit",
+          "title": "Annual travel expense reimbursement",
+          "detail": "Reimburse up to C$150 per calendar year for eligible airport parking, checked baggage, seat selection, lounge entry and airline upgrades charged to the card. Submit claim within 60 days of transaction with proof; unused annual balance does not carry forward.",
+          "capMinor": 15000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/help-centre/credit-card/cashback-rewards/how-get-travel-fee-rebate-with-world-elite-card.html",
+          "kind": "credit",
+          "priority": 95
+        },
+        {
+          "id": "nbc-lounge",
+          "title": "National Bank Lounge at YUL",
+          "detail": "Complimentary unlimited entry for eligible World Elite primary cardholders, one guest and two children 12 or younger, for international departures excluding the U.S. and domestic Canada. Present physical card and boarding pass. During renovations, temporary lounge is near Gate 53, international gates 50–68; reduced 2-hour limit as of October 5, 2026.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://yulsatisfaction.admtl.com/hc/en-ca/articles/360000984038-Where-is-the-National-Bank-Lounge-located",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-redeem-points",
+          "title": "Flexible National Bank rewards",
+          "detail": "Redeem points for travel, merchandise, gift cards, eligible account credit and other À la carte Rewards redemptions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5 million per covered person: first 60 days if 54 or younger, first 31 days if 55–64, and first 15 days if 65–75. Refer to full insurance eligibility conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Up to C$2,500 per covered person for eligible covered reasons and purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Up to C$5,000 per covered person for eligible covered interruptions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Up to C$500 per covered person for eligible departure delays longer than four hours.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed and stolen baggage insurance",
+          "detail": "Delayed baggage: up to C$500 per covered person after more than six hours; lost or stolen baggage: up to C$1,000 per covered person.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Vehicle rental insurance",
+          "detail": "Rental vehicle collision/loss protection for eligible rentals of 48 days or fewer.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to C$1,000 in covered accidental breakage, theft or loss during the first two years after eligible purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "national-bank-world-elite-mastercard-can-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible purchases protected from theft or damage for up to 180 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "national-bank-world-elite-mastercard-can-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible manufacturer warranties extended by up to two additional years, potentially tripling the original warranty.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "issuer-medical-legal-assistance",
+          "title": "Medical and legal assistance",
+          "detail": "Access to eligible assistance services while travelling under the card insurance program.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+          "kind": "protection",
+          "priority": 95
+        }
+      ]
     }
   ],
   "removeCards": [],
