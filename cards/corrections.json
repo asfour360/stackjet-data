@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -674,7 +674,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "issuer-marriott-bonvoy-gold-elite-status",
@@ -685,7 +686,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-hilton-honors-gold-status",
@@ -696,7 +697,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 21
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -707,7 +708,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 101
         },
         {
           "id": "issuer-global-dining-access-by-resy",
@@ -718,7 +719,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 102
         },
         {
           "id": "clear-plus",
@@ -1386,7 +1387,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "centurion",
@@ -1396,7 +1398,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 101
         },
         {
           "id": "priority-pass",
@@ -1406,7 +1409,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 20
         },
         {
           "id": "delta-skyclub",
@@ -1416,7 +1420,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 102
         },
         {
           "id": "fhr",
@@ -1426,7 +1431,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 103
         },
         {
           "id": "hotel-collection",
@@ -1436,7 +1442,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 104
         },
         {
           "id": "hilton-gold",
@@ -1446,7 +1453,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 21
         },
         {
           "id": "marriott-gold",
@@ -1456,7 +1464,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 22
         },
         {
           "id": "lhw-sterling",
@@ -1466,7 +1475,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 23
         },
         {
           "id": "avis",
@@ -1476,7 +1486,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 24
         },
         {
           "id": "hertz",
@@ -1486,7 +1497,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 25
         },
         {
           "id": "national",
@@ -1496,7 +1508,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 26
         },
         {
           "id": "concierge",
@@ -1506,7 +1519,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "global-dining",
@@ -1516,7 +1530,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 106
         },
         {
           "id": "amex-experiences",
@@ -1526,7 +1541,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 107
         },
         {
           "id": "amex-offers",
@@ -1536,7 +1552,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 108
         },
         {
           "id": "amex-morgan-stanley-platinum-us-trip-cancellation-interruption-insurance",
@@ -1961,7 +1978,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "centurion",
@@ -1971,7 +1989,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 101
         },
         {
           "id": "priority-pass",
@@ -1981,7 +2000,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 20
         },
         {
           "id": "delta-skyclub",
@@ -1991,7 +2011,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 102
         },
         {
           "id": "fhr",
@@ -2001,7 +2022,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 103
         },
         {
           "id": "hotel-collection",
@@ -2011,7 +2033,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 104
         },
         {
           "id": "hilton-gold",
@@ -2021,7 +2044,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 21
         },
         {
           "id": "marriott-gold",
@@ -2031,7 +2055,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 22
         },
         {
           "id": "lhw-sterling",
@@ -2041,7 +2066,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 23
         },
         {
           "id": "avis",
@@ -2051,7 +2077,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 24
         },
         {
           "id": "hertz",
@@ -2061,7 +2088,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 25
         },
         {
           "id": "national",
@@ -2071,7 +2099,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 26
         },
         {
           "id": "concierge",
@@ -2081,7 +2110,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "global-dining",
@@ -2091,7 +2121,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 106
         },
         {
           "id": "amex-experiences",
@@ -2101,7 +2132,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 107
         },
         {
           "id": "amex-offers",
@@ -2111,7 +2143,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 108
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -2122,7 +2155,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 109
         },
         {
           "id": "issuer-leaders-club-sterling-status-from-the-leading-hotels-of-the-world",
@@ -2133,7 +2166,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 27
         },
         {
           "id": "amex-platinum-us-trip-cancellation-interruption-insurance",
@@ -2558,7 +2591,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "centurion",
@@ -2568,7 +2602,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 101
         },
         {
           "id": "priority-pass",
@@ -2578,7 +2613,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 20
         },
         {
           "id": "delta-skyclub",
@@ -2588,7 +2624,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 102
         },
         {
           "id": "fhr",
@@ -2598,7 +2635,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 103
         },
         {
           "id": "hotel-collection",
@@ -2608,7 +2646,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 104
         },
         {
           "id": "hilton-gold",
@@ -2618,7 +2657,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 21
         },
         {
           "id": "marriott-gold",
@@ -2628,7 +2668,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 22
         },
         {
           "id": "lhw-sterling",
@@ -2638,7 +2679,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 23
         },
         {
           "id": "avis",
@@ -2648,7 +2690,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 24
         },
         {
           "id": "hertz",
@@ -2658,7 +2701,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 25
         },
         {
           "id": "national",
@@ -2668,7 +2712,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 26
         },
         {
           "id": "concierge",
@@ -2678,7 +2723,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "global-dining",
@@ -2688,7 +2734,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 106
         },
         {
           "id": "amex-experiences",
@@ -2698,7 +2745,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 107
         },
         {
           "id": "amex-offers",
@@ -2708,7 +2756,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 108
         },
         {
           "id": "amex-schwab-platinum-us-trip-cancellation-interruption-insurance",
@@ -3062,7 +3111,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 101
         },
         {
           "id": "hilton-gold",
@@ -3072,7 +3122,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 20
         },
         {
           "id": "marriott-gold",
@@ -3082,7 +3133,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 21
         },
         {
           "id": "issuer-fine-hotels-resorts",
@@ -3093,7 +3145,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 102
         },
         {
           "id": "issuer-the-hotel-collection",
@@ -3104,7 +3156,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 103
         },
         {
           "id": "issuer-hotel-status-benefit",
@@ -3115,7 +3167,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 104
         },
         {
           "id": "issuer-amex-experiencestm",
@@ -3126,7 +3178,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 105
         },
         {
           "id": "issuer-front-of-the-line-amex-presale-and-reserved-ticketstm-33",
@@ -3137,7 +3189,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 106
         },
         {
           "id": "issuer-amex-offers",
@@ -3148,7 +3200,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 107
         },
         {
           "id": "issuer-platinum-concierge",
@@ -3159,7 +3211,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 108
         },
         {
           "id": "pot-international-airline-program",
@@ -3169,7 +3221,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/business-platinum-card-from-american-express/",
-          "priority": 50
+          "priority": 100
         },
         {
           "id": "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
@@ -3473,7 +3525,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-the-hotel-collection",
@@ -3484,7 +3536,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 101
         },
         {
           "id": "issuer-hertz-car-rental-benefit",
@@ -3495,7 +3547,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 21
         },
         {
           "id": "issuer-special-offers-on-american-express-travel-online",
@@ -3506,7 +3558,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 102
         },
         {
           "id": "issuer-front-of-the-line-amex-presale-and-reserved-ticketstm",
@@ -3517,7 +3569,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 103
         },
         {
           "id": "issuer-onsite-benefits-with-amex-experiencestm",
@@ -3528,7 +3580,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 104
         },
         {
           "id": "issuer-amex-offers",
@@ -3539,7 +3591,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 105
         },
         {
           "id": "nexus",
@@ -3823,7 +3875,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 101
         },
         {
           "id": "fhr",
@@ -3833,7 +3886,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 102
         },
         {
           "id": "hotel-collection",
@@ -3843,7 +3897,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 103
         },
         {
           "id": "pearson",
@@ -3853,7 +3908,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 104
         },
         {
           "id": "hilton-gold",
@@ -3863,7 +3919,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 20
         },
         {
           "id": "marriott-gold",
@@ -3873,7 +3930,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 21
         },
         {
           "id": "front-line",
@@ -3883,7 +3941,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "amex-offers",
@@ -3893,7 +3952,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 106
         },
         {
           "id": "concierge",
@@ -3904,7 +3964,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 107
         },
         {
           "id": "global-dining",
@@ -3915,7 +3975,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 108
         },
         {
           "id": "member-extras",
@@ -3926,7 +3986,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 109
         },
         {
           "id": "avis",
@@ -3937,7 +3997,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 110
         },
         {
           "id": "hertz",
@@ -3948,7 +4008,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 111
         },
         {
           "id": "issuer-special-offers-on-american-express-travel-online",
@@ -3959,7 +4019,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 112
         },
         {
           "id": "issuer-dining-with-amex-experiencestm",
@@ -3970,7 +4030,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 113
         },
         {
           "id": "issuer-onsite-benefits-with-amex-experiencestm",
@@ -3981,7 +4041,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 114
         },
         {
           "id": "issuer-the-american-express-experiences-app",
@@ -3992,7 +4052,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 115
         },
         {
           "id": "issuer-hotel-status-benefit",
@@ -4003,7 +4063,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/travel/hotels/the-platinum-card/marriott-bonvoy/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 116
         },
         {
           "id": "pot-transfer-to-airline-and-hotel-partners",
@@ -4013,7 +4073,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-platinum-card/",
-          "priority": 50
+          "priority": 100
         },
         {
           "id": "travel-medical",
@@ -11647,7 +11707,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
           "kind": "benefit",
-          "priority": 100
+          "priority": 101
         },
         {
           "id": "issuer-avis-president-s-club",
@@ -11658,7 +11718,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
           "kind": "benefit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -11669,7 +11729,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
           "kind": "benefit",
-          "priority": 100
+          "priority": 102
         },
         {
           "id": "issuer-visa-infinite-concierge-services",
@@ -11680,7 +11740,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
           "kind": "benefit",
-          "priority": 100
+          "priority": 103
         },
         {
           "id": "issuer-up-to-200-in-credits-for-renowned-hotels-and-resorts-for-united-cardmembers",
@@ -12627,7 +12687,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
           "kind": "benefit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -12638,7 +12698,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
           "kind": "benefit",
-          "priority": 100
+          "priority": 101
         },
         {
           "id": "issuer-visa-concierge",
@@ -12649,7 +12709,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
           "kind": "benefit",
-          "priority": 100
+          "priority": 102
         },
         {
           "id": "avis-budget-credit",
@@ -13128,7 +13188,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
           "kind": "benefit",
-          "priority": 100
+          "priority": 101
         },
         {
           "id": "issuer-merchant-offers",
@@ -13139,7 +13199,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
           "kind": "benefit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "hyatt-credit",
@@ -13227,7 +13287,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
           "kind": "benefit",
-          "priority": 105,
+          "priority": 102,
           "spendMilestoneMinor": 1000000,
           "spendPeriod": "calendarYear"
         },
@@ -13240,7 +13300,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
           "kind": "benefit",
-          "priority": 105,
+          "priority": 103,
           "spendMilestoneMinor": 5000000,
           "spendPeriod": "calendarYear"
         }
@@ -14935,7 +14995,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "issuer-dragonpass-visits",
@@ -14946,7 +15006,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
-          "priority": 30
+          "priority": 20
         },
         {
           "id": "issuer-shell-rewards",
@@ -14957,7 +15017,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
-          "priority": 35
+          "priority": 21
         },
         {
           "id": "issuer-annual-spend-bonus",
@@ -14968,7 +15028,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
-          "priority": 36
+          "priority": 101
         },
         {
           "id": "issuer-roaming",
@@ -14979,7 +15039,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
-          "priority": 40
+          "priority": 22
         },
         {
           "id": "issuer-mastercard-perks",
@@ -14990,7 +15050,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
-          "priority": 50
+          "priority": 102
         },
         {
           "id": "issuer-tax-filing",
@@ -15001,7 +15061,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
-          "priority": 55
+          "priority": 103
         },
         {
           "id": "issuer-fubo",
@@ -15012,7 +15072,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.tangerine.ca/en/personal/spend/credit-cards/world-elite-mastercard",
           "kind": "benefit",
-          "priority": 60
+          "priority": 104
         },
         {
           "id": "ins-emergency-medical",
@@ -16847,7 +16907,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "airline-incidental",
@@ -16980,7 +17040,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-airfare-points-discount",
@@ -16991,7 +17051,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 101
         },
         {
           "id": "issuer-concierge",
@@ -17002,7 +17062,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 102
         }
       ],
       "statuses": [],
@@ -18061,7 +18121,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://pay.cathaypacific.com/en_CA/offers/cathay-neo-15-off.html",
-          "priority": 50,
+          "priority": 100,
           "endsBefore": "2027-01-01",
           "kind": "benefit"
         },
@@ -18073,7 +18133,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://cathay.neofinancial.com/",
-          "priority": 51,
+          "priority": 101,
           "kind": "benefit"
         },
         {
@@ -18184,7 +18244,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://cathay.neofinancial.com/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 102
         },
         {
           "id": "issuer-cathay-baggage-redemption",
@@ -18195,7 +18255,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://cathay.neofinancial.com/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 103
         },
         {
           "id": "issuer-cathay-lounge-redemption",
@@ -18206,7 +18266,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://cathay.neofinancial.com/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 104
         },
         {
           "id": "issuer-dragonpass",
@@ -18217,7 +18277,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://support.neofinancial.com/en/articles/14009967-dragonpass-lounge-access",
           "kind": "benefit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-airport-transfer",
@@ -18228,7 +18288,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://cathay.neofinancial.com/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 105
         },
         {
           "id": "issuer-airport-security",
@@ -18239,7 +18299,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://cathay.neofinancial.com/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 106
         },
         {
           "id": "issuer-mastercard-travel-rewards",
@@ -18250,7 +18310,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://cathay.neofinancial.com/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 107
         },
         {
           "id": "issuer-priceless",
@@ -18261,7 +18321,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://cathay.neofinancial.com/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 108
         },
         {
           "id": "issuer-neo-build",
@@ -18272,7 +18332,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.neofinancial.com/memberships",
           "kind": "benefit",
-          "priority": 100
+          "priority": 109
         },
         {
           "id": "issuer-rental-adnd",
@@ -18401,7 +18461,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 113
         },
         {
           "id": "air-canada-priority",
@@ -18411,7 +18472,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 114
         },
         {
           "id": "instacart",
@@ -18433,7 +18495,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 20
         },
         {
           "id": "aeroplan-2027-flight-discount",
@@ -18445,7 +18508,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": null,
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-hotel-night",
@@ -18457,7 +18520,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": null,
           "kind": "benefit",
-          "priority": 25
+          "priority": 104
         },
         {
           "id": "aeroplan-2027-car-day",
@@ -18469,7 +18532,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 25
+          "priority": 105
         },
         {
           "id": "aeroplan-2027-ac-wallet",
@@ -18493,7 +18556,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 20
+          "priority": 101
         },
         {
           "id": "aeroplan-2027-priority-security",
@@ -18505,7 +18568,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 25
+          "priority": 106
         },
         {
           "id": "aeroplan-2027-dining",
@@ -18529,7 +18592,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 20
+          "priority": 102
         },
         {
           "id": "aeroplan-2027-aspire-visits",
@@ -18541,7 +18604,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 20
+          "priority": 103
         },
         {
           "id": "pot-priority-travel-for-you-and-8-companions",
@@ -18551,7 +18614,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 50
+          "priority": 107
         },
         {
           "id": "pot-status-qualifying-credits-from-spending",
@@ -18561,7 +18624,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 51
+          "priority": 108
         },
         {
           "id": "pot-10-head-start-on-aeroplan-status",
@@ -18571,7 +18634,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 52
+          "priority": 109
         },
         {
           "id": "pot-eupgrade-credits-last-24-months",
@@ -18581,7 +18644,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 53
+          "priority": 110
         },
         {
           "id": "pot-annual-companion-flight",
@@ -18591,7 +18654,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 54
+          "priority": 111
         },
         {
           "id": "pot-priority-airport-services-at-toronto-pearson",
@@ -18601,7 +18664,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 55
+          "priority": 112
         },
         {
           "id": "ins-emergency-medical",
@@ -18857,7 +18920,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/business/credit-cards/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 113
         },
         {
           "id": "air-canada-priority",
@@ -18867,7 +18931,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/business/credit-cards/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 114
         },
         {
           "id": "instacart",
@@ -18889,7 +18954,8 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/business/credit-cards/",
-          "kind": "benefit"
+          "kind": "benefit",
+          "priority": 20
         },
         {
           "id": "aeroplan-2027-flight-discount",
@@ -18901,7 +18967,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": null,
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-hotel-night",
@@ -18913,7 +18979,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": null,
           "kind": "benefit",
-          "priority": 25
+          "priority": 104
         },
         {
           "id": "aeroplan-2027-car-day",
@@ -18925,7 +18991,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 25
+          "priority": 105
         },
         {
           "id": "aeroplan-2027-ac-wallet",
@@ -18949,7 +19015,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 20
+          "priority": 101
         },
         {
           "id": "aeroplan-2027-priority-security",
@@ -18961,7 +19027,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 25
+          "priority": 106
         },
         {
           "id": "aeroplan-2027-priority-pass-visits",
@@ -18973,7 +19039,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 20
+          "priority": 102
         },
         {
           "id": "aeroplan-2027-aspire-visits",
@@ -18985,7 +19051,7 @@
           "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 20
+          "priority": 103
         },
         {
           "id": "pot-priority-travel-for-you-and-8-companions",
@@ -18995,7 +19061,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 50
+          "priority": 107
         },
         {
           "id": "pot-status-qualifying-credits-from-spending",
@@ -19005,7 +19071,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 51
+          "priority": 108
         },
         {
           "id": "pot-10-head-start-on-aeroplan-status",
@@ -19015,7 +19081,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 52
+          "priority": 109
         },
         {
           "id": "pot-eupgrade-credits-last-24-months",
@@ -19025,7 +19091,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 53
+          "priority": 110
         },
         {
           "id": "pot-annual-worldwide-companion-pass",
@@ -19035,7 +19101,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 54
+          "priority": 111
         },
         {
           "id": "pot-priority-airport-services-at-toronto-pearson",
@@ -19045,7 +19111,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 55
+          "priority": 112
         },
         {
           "id": "ins-emergency-medical",
@@ -19522,7 +19588,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "mqd-headstart",
@@ -19533,7 +19599,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 101
         },
         {
           "id": "mqd-boost",
@@ -19544,7 +19610,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 102
         },
         {
           "id": "resy",
@@ -19602,7 +19668,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 103
         },
         {
           "id": "centurion",
@@ -19613,7 +19679,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 104
         },
         {
           "id": "takeoff15",
@@ -19624,7 +19690,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 105
         },
         {
           "id": "checked-bag",
@@ -19635,7 +19701,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 106
         },
         {
           "id": "boarding",
@@ -19646,7 +19712,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 107
         },
         {
           "id": "upgrade",
@@ -19657,7 +19723,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 108
         },
         {
           "id": "inflight",
@@ -19668,7 +19734,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 109
         },
         {
           "id": "hertz",
@@ -19679,7 +19745,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 110
         },
         {
           "id": "issuer-boost-your-earning-potential",
@@ -19690,7 +19756,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 105,
+          "priority": 113,
           "spendMilestoneMinor": 15000000,
           "spendPeriod": "calendarYear"
         },
@@ -19703,7 +19769,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 111
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -19714,7 +19780,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 112
         },
         {
           "id": "issuer-global-dining-access-by-resy",
@@ -19725,7 +19791,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-trip-cancellation-interruption-insurance",
@@ -20508,7 +20574,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "redeem-anytime",
@@ -20518,7 +20584,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 20
+          "priority": 101
         },
         {
           "id": "shell-fuel",
@@ -20528,7 +20594,7 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 30
+          "priority": 20
         },
         {
           "id": "avis-budget",
@@ -20538,7 +20604,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 40
+          "priority": 102
         },
         {
           "id": "selectpay",
@@ -20548,7 +20614,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 50
+          "priority": 103
         },
         {
           "id": "no-fee-supplementary",
@@ -20558,7 +20624,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 60
+          "priority": 104
         },
         {
           "id": "no-insurance",
@@ -20653,7 +20719,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "redeem-anytime",
@@ -20663,7 +20729,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 20
+          "priority": 101
         },
         {
           "id": "shell-fuel",
@@ -20673,7 +20739,7 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 30
+          "priority": 20
         },
         {
           "id": "avis-budget",
@@ -20683,7 +20749,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 40
+          "priority": 102
         },
         {
           "id": "selectpay",
@@ -20693,7 +20759,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 50
+          "priority": 103
         },
         {
           "id": "no-fee-supplementary",
@@ -20703,7 +20769,7 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-no-fee-card.html",
-          "priority": 60
+          "priority": 104
         },
         {
           "id": "no-insurance",
@@ -21417,6 +21483,2584 @@
       "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2020/08/305-23655-653_TD_Aeroplan_Platinum_Eng_879x494_tcm341-332512.png",
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
+    },
+    {
+      "id": "amex-delta-skymiles-platinum-business-us",
+      "name": "Amex Delta SkyMiles Platinum Business US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 35000,
+      "feeNote": "Current standard annual fee snapshot from American Express; verify your account agreement.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-delta-skymiles-platinum-business-us",
+      "programIDs": [
+        "delta"
+      ],
+      "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Core earning categories verified from American Express. Delta-direct, U.S. shipping and $5,000+ single-purchase accelerators have merchant-specific rules that are not fully representable in the current category model.",
+      "benefits": [
+        {
+          "id": "issuer-resy-credit",
+          "title": "$120 Resy Credit",
+          "detail": "Up to US$10/month at eligible U.S. Resy restaurants. Enrollment required.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-delta-stays-statement-credit",
+          "title": "$200 Delta Stays Statement Credit",
+          "detail": "Up to US$200/calendar year on eligible prepaid Delta Stays bookings, across one or more purchases.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-rideshare-credit",
+          "title": "$120 Rideshare Credit",
+          "detail": "Up to US$10/month on eligible U.S. rideshare purchases. Enrollment required.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-medallion-qualification-dollars-mqd-boost",
+          "title": "MQD Headstart and Boost",
+          "detail": "$2,500 MQDs each Medallion Qualification Year, plus $1 MQD for every $20 in purchases on the card in a calendar year toward next year's Medallion status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-annual-companion-certificate-upon-renewal",
+          "title": "Annual Companion Certificate",
+          "detail": "A round-trip Companion Certificate each year after renewal for Delta Main on domestic, Caribbean or Central American flights (taxes and fees of $22–$250 apply).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "issuer-zone-5-priority-boarding",
+          "title": "Zone 5 Priority Boarding",
+          "detail": "Zone 5 priority boarding on Delta flights: board early and stow your carry-on.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "benefit",
+          "priority": 103
+        },
+        {
+          "id": "issuer-hertz-five-star-status",
+          "title": "Hertz Five Star status",
+          "detail": "Complimentary Hertz Five Star status; enroll in Hertz Gold Plus Rewards and add your number through your Amex account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "global-entry-credit",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "A US$120 statement credit for Global Entry, or up to US$85 for a five-year TSA PreCheck membership, every 4 years when the fee is charged to the card.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "intervalYears": 4,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "priority": 100
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-business-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$300 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-business-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-business-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft or accidental damage, up to US$1,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-business-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-business-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 emergency assistance and coordination when more than 100 miles from home, including medical and legal referrals, emergency cash wires and missing-luggage help. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "protection",
+          "priority": 204
+        }
+      ],
+      "statuses": [
+        {
+          "id": "mqd-headstart-2500",
+          "programID": "delta",
+          "tier": "2,500 MQDs toward Medallion",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
+          "automatic": true,
+          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
+        },
+        {
+          "id": "hertz-five-star",
+          "programID": "hertz",
+          "tier": "Five Star",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "SkyMiles",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/"
+        },
+        {
+          "id": "hotels",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "SkyMiles",
+          "detail": "Eligible purchases made directly with hotels worldwide.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/"
+        },
+        {
+          "id": "transit",
+          "categories": [
+            "transit"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "SkyMiles",
+          "detail": "Eligible transit purchases. U.S. shipping and single purchases of $5,000+ are not represented by the current Best Card categories.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "capMinor": 10000000,
+          "capGroup": "delta-plat-biz-1-5x"
+        },
+        {
+          "id": "delta",
+          "categories": [
+            "flightsDirect"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "3X Delta",
+          "detail": "Eligible purchases made directly with Delta.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+      "artworkSearchTerms": "Amex Delta SkyMiles Platinum Business",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/platinum-delta-skymiles-business.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "amex-gold-us",
+      "name": "Amex Gold US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 32500,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-gold-us",
+      "programIDs": [
+        "amex-mr-us"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Selected official-source rules only. Unmodeled merchant-specific bonuses, travel protections, activation rules and credits are not asserted. This is not a complete benefits guide.",
+      "benefits": [
+        {
+          "id": "dining",
+          "title": "Dining-partner credit",
+          "detail": "Eligible purchases at listed dining partners; up to USD 10 monthly. Check current partners and enroll at Amex.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "credit"
+        },
+        {
+          "id": "dunkin",
+          "title": "Dunkin credit",
+          "detail": "Eligible U.S. Dunkin purchases after enrollment.",
+          "capMinor": 700,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "credit"
+        },
+        {
+          "id": "uber",
+          "title": "Uber Cash",
+          "detail": "USD 10 monthly in U.S. Uber account after adding card; pay with an eligible Amex. This is not a statement credit.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "credit"
+        },
+        {
+          "id": "resy",
+          "title": "Resy dining credit",
+          "detail": "Qualifying U.S. Resy restaurants after enrollment; USD 50 in each January-June and July-December period.",
+          "capMinor": 5000,
+          "reset": "semiannual",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "credit"
+        },
+        {
+          "id": "issuer-hertz-five-star-status",
+          "title": "Hertz Five Star status",
+          "detail": "Complimentary Hertz Five Star status; enroll in Hertz Gold Plus Rewards and add your number through your Amex account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-the-hotel-collection",
+          "title": "The Hotel Collection",
+          "detail": "Book two nights or more through Amex Travel at 1,300+ Hotel Collection hotels for a $100 credit toward eligible charges and a room upgrade at check-in when available.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "benefit",
+          "priority": 21
+        },
+        {
+          "id": "amex-gold-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 12 hours for a covered reason: up to US$300 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-gold-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-gold-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-gold-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories; up to US$10,000 per item and US$50,000 per account per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-gold-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "amex-gold-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 emergency assistance and coordination when more than 100 miles from home, including medical and legal referrals, emergency cash wires and missing-luggage help. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "kind": "protection",
+          "priority": 205
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hertz-five-star",
+          "programID": "hertz",
+          "tier": "Five Star",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "Amex MR US",
+          "detail": "Standard eligible-purchase rate; issuer definitions and account eligibility apply. Welcome and relationship bonuses are not included.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "dining",
+          "categories": [
+            "dining"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "Amex MR US",
+          "detail": "Restaurants worldwide; 4x on first USD 50,000 per calendar year, then base 1x.",
+          "countries": [],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "capGroup": "dining",
+          "capMinor": 5000000
+        },
+        {
+          "id": "groceries",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "Amex MR US",
+          "detail": "U.S. supermarkets only; first USD 25,000 per calendar year, then 1x.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+          "capGroup": "groceries",
+          "capMinor": 2500000
+        },
+        {
+          "id": "flights",
+          "categories": [
+            "flightsDirect",
+            "flightsPortal"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "Amex MR US",
+          "detail": "Airline-direct or Amex Travel flights only.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "prepaid-hotels",
+          "categories": [
+            "hotelsPortal"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "amex-mr-us",
+          "label": "Amex MR US",
+          "detail": "Prepaid hotels through Amex Travel only.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+      "artworkSearchTerms": "Amex Gold",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/category/cardarts/gold-card.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "amex-delta-skymiles-platinum-us",
+      "name": "Amex Delta SkyMiles Platinum US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 35000,
+      "feeNote": "Current annual fee: $350.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-delta-skymiles-platinum-us",
+      "programIDs": [
+        "delta"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Current issuer-sourced benefits and earning rules are modeled where the app can represent them safely. Issuer terms control eligibility, exclusions and changes.",
+      "benefits": [
+        {
+          "id": "companion",
+          "title": "Annual companion certificate",
+          "detail": "Annual Main Cabin companion certificate after renewal, subject to current eligible routes, taxes, fees and booking rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "mqd-headstart",
+          "title": "MQD Headstart",
+          "detail": "Receive $2,500 Medallion Qualification Dollars each qualification year under current Delta terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "rideshare",
+          "title": "Rideshare credit",
+          "detail": "Up to $10 per month on eligible U.S. rideshare purchases after enrollment.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "credit"
+        },
+        {
+          "id": "resy",
+          "title": "Resy credit",
+          "detail": "Up to $10 per month on eligible U.S. Resy purchases after enrollment.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "credit"
+        },
+        {
+          "id": "delta-stays",
+          "title": "Delta Stays credit",
+          "detail": "Up to $150 per calendar year on eligible prepaid Delta Stays bookings.",
+          "capMinor": 15000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "credit"
+        },
+        {
+          "id": "delta-earn",
+          "title": "3X Delta purchases",
+          "detail": "Earn 3 SkyMiles per dollar on eligible purchases made directly with Delta.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "issuer-mqd-boost",
+          "title": "MQD Boost",
+          "detail": "$1 Medallion Qualification Dollar for every $20 in purchases on the card in a calendar year toward next year's Medallion status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-takeoff-15",
+          "title": "TakeOff 15",
+          "detail": "15% off Award Travel booked with miles on Delta-operated flights on delta.com and the Fly Delta app (not taxes and fees).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 103
+        },
+        {
+          "id": "issuer-first-bag-free-and-new-second-bag-free",
+          "title": "Free first (and second) checked bag",
+          "detail": "First checked bag free on Delta flights worldwide; on domestic Delta flights the second bag is free too.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 104
+        },
+        {
+          "id": "issuer-zone-5-priority-boarding",
+          "title": "Zone 5 Priority Boarding",
+          "detail": "Zone 5 priority boarding on Delta flights: board early and stow your carry-on.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 105
+        },
+        {
+          "id": "issuer-hertz-five-star-status",
+          "title": "Hertz Five Star status",
+          "detail": "Complimentary Hertz Five Star status; enroll in Hertz Gold Plus Rewards and add your number through your Amex account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 21
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "priority": 106
+        },
+        {
+          "id": "global-entry-credit",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "A US$120 statement credit for Global Entry, or up to US$85 for a five-year TSA PreCheck membership, every 4 years when the fee is charged to the card.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "intervalYears": 4,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 12 hours for a covered reason: up to US$300 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft or accidental damage, up to US$1,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 emergency assistance and coordination when more than 100 miles from home, including medical and legal referrals, emergency cash wires and missing-luggage help. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "protection",
+          "priority": 206
+        }
+      ],
+      "statuses": [
+        {
+          "id": "mqd-headstart-2500",
+          "programID": "delta",
+          "tier": "2,500 MQDs toward Medallion",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
+          "automatic": true,
+          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
+        },
+        {
+          "id": "hertz-five-star",
+          "programID": "hertz",
+          "tier": "Five Star",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "SkyMiles",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
+        },
+        {
+          "id": "hotels",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "SkyMiles",
+          "detail": "Eligible purchases made directly with hotels.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
+        },
+        {
+          "id": "dining-grocery",
+          "categories": [
+            "dining",
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "SkyMiles",
+          "detail": "Eligible restaurants worldwide and U.S. supermarkets.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
+        },
+        {
+          "id": "delta",
+          "categories": [
+            "flightsDirect"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "3X Delta",
+          "detail": "Eligible purchases made directly with Delta.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+      "artworkSearchTerms": "Amex Delta SkyMiles Platinum",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000384_480x304_straight_withname.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
+      ]
+    },
+    {
+      "id": "amex-hilton-honors-us",
+      "name": "Amex Hilton Honors US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "No annual fee.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-hilton-honors-us",
+      "programIDs": [
+        "hilton"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Current issuer-sourced benefits and earning rules are modeled where the app can represent them safely. Issuer terms control eligibility, exclusions and changes.",
+      "benefits": [
+        {
+          "id": "issuer-hilton-honors-silver-status",
+          "title": "Hilton Honors Silver status",
+          "detail": "Complimentary Silver status: a 20% bonus on base points you earn on every stay.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "issuer-earn-more-with-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Add Amex Offers to the card in your account to earn extra rewards on qualifying purchases at select brands.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "amex-hilton-honors-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft or accidental damage, up to US$1,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-hilton-honors-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-hilton-honors-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 emergency assistance and coordination when more than 100 miles from home, including medical and legal referrals, emergency cash wires and missing-luggage help. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "gold-spend",
+          "title": "Hilton Gold status",
+          "detail": "Upgrade to Hilton Honors Gold through the end of the next calendar year after spending $20,000 on eligible purchases in a calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+          "kind": "benefit",
+          "priority": 102,
+          "spendMilestoneMinor": 2000000,
+          "spendPeriod": "calendarYear"
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hilton-silver",
+          "programID": "hilton",
+          "tier": "Silver",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "Automatic while the qualifying card remains open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
+        },
+        {
+          "id": "included-hilton-status",
+          "programID": "hilton",
+          "tier": "Silver",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "Hilton points",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
+        },
+        {
+          "id": "dining-grocery-gas",
+          "categories": [
+            "dining",
+            "groceries",
+            "gas"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "Hilton points",
+          "detail": "Eligible U.S. restaurants, U.S. supermarkets and U.S. gas stations.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
+        },
+        {
+          "id": "hilton",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 7,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "7X Hilton",
+          "detail": "Eligible purchases directly with Hilton portfolio hotels and resorts.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/",
+      "artworkSearchTerms": "Amex Hilton Honors",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000327_480x304_straight_withname.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/hilton-honors/"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "citi-aadvantage-executive-us",
+      "name": "Citi AAdvantage Executive US",
+      "issuer": "Citi",
+      "market": "US",
+      "annualFeeMinor": 69500,
+      "feeNote": "$695 annual fee; verified from Citi current Executive card listing.",
+      "colorHex": "417AAF",
+      "secondaryHex": "143859",
+      "artworkAsset": "Card-citi-aadvantage-executive-us",
+      "programIDs": [
+        "american"
+      ],
+      "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Card-by-card Citi audit checked 2026-10-10 against current issuer/card terms for annual fee, core earning categories, major statement credits, travel/lounge benefits and published protections. Detailed benefit terms, exclusions and eligibility remain controlled by Citi and the card-specific guide. Citi currently markets the Executive product on the World Legend Mastercard tier.",
+      "benefits": [
+        {
+          "id": "issuer-120-back-on-eligible-prepaid-avis-and-budget-car-rentals",
+          "title": "Up to $120 Avis/Budget credit",
+          "detail": "Up to $120 back each calendar year on eligible prepaid Avis and Budget car rentals booked through the eligible channel in Citi terms.",
+          "capMinor": 12000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+          "kind": "credit",
+          "priority": 50,
+          "endsBefore": null,
+          "monthOverrides": null
+        },
+        {
+          "id": "issuer-180-in-lyft-credits",
+          "title": "Up to $180 in Lyft credits",
+          "detail": "After taking 3 eligible Lyft rides in a calendar month, earn a $15 Lyft credit for that month, up to $180 in Lyft credits per calendar year under current Citi terms.",
+          "capMinor": 1500,
+          "reset": "monthly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "credit",
+          "priority": 50,
+          "endsBefore": null,
+          "monthOverrides": null
+        },
+        {
+          "id": "aaexec-inflight-25",
+          "title": "25% inflight savings",
+          "detail": "25% savings on eligible American Airlines inflight food and beverage purchases when paid with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "aaexec-admirals",
+          "title": "Admirals Club membership",
+          "detail": "Primary cardmembers receive Admirals Club membership subject to same-day eligible travel and American Airlines access rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "issuer-first-checked-bag-free-on-domestic-american-airlines-itineraries",
+          "title": "Free first checked bag",
+          "detail": "First checked bag free on domestic American Airlines itineraries.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "benefit",
+          "priority": 103
+        },
+        {
+          "id": "issuer-omni-hotels-champion-status",
+          "title": "Omni Champion status",
+          "detail": "Enroll in Omni Hotels & Resorts Champion status: early check-in, late check-out and upgrades when available, plus an Omni Free Night Award once a calendar year after a qualifying stay of two or more nights.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "aaexec-preferred-boarding",
+          "title": "Preferred boarding",
+          "detail": "Preferred boarding on eligible American Airlines flights for the primary cardmember and eligible companions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+          "kind": "benefit",
+          "priority": 104
+        },
+        {
+          "id": "citi-aadvantage-executive-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Common-carrier trip cancellation and interruption protection. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "citi-aadvantage-executive-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Trip delay protection when the trip is paid with the card. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "citi-aadvantage-executive-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost or damaged luggage coverage on trips paid with the card. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "citi-aadvantage-executive-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "MasterRental car rental coverage when you decline the rental company's collision waiver. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "citi-aadvantage-executive-us-id-theft-protection",
+          "title": "ID theft protection",
+          "detail": "Mastercard ID Theft Protection monitoring and resolution help; enrollment required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "global-entry-credit",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "Up to a US$120 statement credit every 4 years for a Global Entry or TSA PreCheck application fee charged to the card.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "intervalYears": 4,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "priority": 100
+        },
+        {
+          "id": "aa-5x-150k",
+          "title": "5X on American at $150,000",
+          "detail": "After $150,000 in purchases in a calendar year, earn 5 AAdvantage miles per $1 on eligible American Airlines purchases for the rest of the year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard",
+          "kind": "benefit",
+          "spendMilestoneMinor": 15000000,
+          "spendPeriod": "calendarYear",
+          "priority": 105
+        }
+      ],
+      "statuses": [
+        {
+          "id": "card-status-progress",
+          "programID": "american",
+          "tier": "AAdvantage Loyalty Point progress",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "automatic": false,
+          "sourceURL": "https://www.aa.com/web/i18n/aadvantage-program/discover/loyalty-points-status.html"
+        },
+        {
+          "id": "omni-champion",
+          "programID": "omni",
+          "tier": "Champion",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-world-legend-mastercard"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "aaexec-aa",
+          "categories": [
+            "americanAirlines",
+            "flightsDirect"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "4x eligible American Airlines purchases",
+          "detail": "4 AAdvantage miles per $1 on eligible American Airlines purchases. After $150,000 in card purchases in a calendar year, eligible American Airlines purchases earn a total of 5x for the rest of that year.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+          "calculationNote": "Best Card uses 4x by default because the $150,000 calendar-year threshold is not inferred automatically."
+        },
+        {
+          "id": "aaexec-hotels",
+          "categories": [
+            "hotelsPortal"
+          ],
+          "rate": 10,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "10x eligible AAdvantage Hotels",
+          "detail": "10 AAdvantage miles per $1 on eligible AAdvantage Hotels bookings.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+          "calculationNote": null
+        },
+        {
+          "id": "aaexec-cars",
+          "categories": [
+            "carRentalsPortal"
+          ],
+          "rate": 10,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "10x eligible AAdvantage car rentals",
+          "detail": "10 AAdvantage miles per $1 on eligible AAdvantage Cars bookings.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+          "calculationNote": null
+        },
+        {
+          "id": "aaexec-all",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "1x other purchases",
+          "detail": "1 AAdvantage mile per $1 on other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card",
+      "artworkSearchTerms": "Citi AAdvantage Executive",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "loungeAccess": [
+        {
+          "id": "aa-executive-club",
+          "provider": "Admirals Club",
+          "title": "Admirals Club membership",
+          "detail": "Primary cardmember receives Admirals Club membership; current guest/partner-lounge rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card"
+        }
+      ],
+      "artworkURL": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-executive-world-legend-mastercard/citi-aadvantage-executive-world-legend-mastercard_306x192.webp",
+      "benefitSourceURLs": [
+        "https://www.citi.com/credit-cards/citi-aadvantage-executive-credit-card"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "amex-marriott-bonvoy-bevy-us",
+      "name": "Amex Marriott Bonvoy Bevy US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 25000,
+      "feeNote": "Current standard primary-card annual fee; account-specific or promotional terms may differ.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-marriott-bonvoy-bevy-us",
+      "programIDs": [
+        "marriott"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-marriott-bonvoy-gold-elite-status",
+          "title": "Marriott Bonvoy Gold Elite status",
+          "detail": "Complimentary Gold Elite status, with 25% bonus points on stays.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-elite-night-credits",
+          "title": "15 Elite Night Credits",
+          "detail": "15 Elite Night Credits each calendar year toward the next Marriott Bonvoy elite level.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "issuer-earn-more-with-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Add Amex Offers to the card in your account to earn extra rewards on qualifying purchases at select brands.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "amex-marriott-bonvoy-bevy-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 12 hours for a covered reason: up to US$300 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-marriott-bonvoy-bevy-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-marriott-bonvoy-bevy-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-marriott-bonvoy-bevy-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-marriott-bonvoy-bevy-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "amex-marriott-bonvoy-bevy-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 emergency assistance and coordination when more than 100 miles from home, including medical and legal referrals, emergency cash wires and missing-luggage help. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "free-night-15k",
+          "title": "Marriott Free Night Award",
+          "detail": "1 Free Night Award after spending $15,000 on eligible purchases in a calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "benefit",
+          "priority": 103,
+          "spendMilestoneMinor": 1500000,
+          "spendPeriod": "calendarYear"
+        }
+      ],
+      "statuses": [
+        {
+          "id": "included-marriott-status",
+          "programID": "marriott",
+          "tier": "Gold Elite",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "2X Marriott points",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "calculationNote": null
+        },
+        {
+          "id": "marriott",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 6,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "6X Marriott",
+          "detail": "Eligible Marriott Bonvoy hotel purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "calculationNote": null
+        },
+        {
+          "id": "food",
+          "categories": [
+            "dining",
+            "groceries"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "4X dining and groceries",
+          "detail": "Up to $15,000 combined per calendar year, then 2X.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "bevy-food",
+          "capMinor": 1500000,
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+      "artworkSearchTerms": "Amex Marriott Bonvoy Bevy",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000311_480x304_straight_withname.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "amex-marriott-bonvoy-brilliant-us",
+      "name": "Amex Marriott Bonvoy Brilliant US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 65000,
+      "feeNote": "Current standard primary-card annual fee; account-specific or promotional terms may differ.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-marriott-bonvoy-brilliant-us",
+      "programIDs": [
+        "marriott"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-brilliant-dining-credit",
+          "title": "$300 Brilliant Dining Credit",
+          "detail": "Up to US$25/month on eligible restaurant purchases worldwide; US$300 annual total.",
+          "capMinor": 2500,
+          "reset": "monthly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "credit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-marriott-bonvoy-brilliant-free-night-award",
+          "title": "Annual Free Night Award",
+          "detail": "A Free Night Award every year after your card renewal month, at hotels costing up to 85,000 points.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-marriott-bonvoy-platinum-elite-status",
+          "title": "Marriott Bonvoy Platinum Elite status",
+          "detail": "Complimentary Platinum Elite status, including room upgrades (enhanced views or suites) when available.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "issuer-elite-night-credits",
+          "title": "25 Elite Night Credits",
+          "detail": "25 Elite Night Credits each calendar year toward the next Marriott Bonvoy elite level.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "benefit",
+          "priority": 103
+        },
+        {
+          "id": "issuer-priority-passtm",
+          "title": "Priority Pass Select",
+          "detail": "Enroll in Priority Pass for unlimited visits to 1,300+ airport lounges in 130+ countries.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Add Amex Offers to the card in your account to earn extra rewards on qualifying purchases at select brands.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "benefit",
+          "priority": 104
+        },
+        {
+          "id": "global-entry-credit",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "A US$120 statement credit for Global Entry, or up to US$85 for a five-year TSA PreCheck membership, every 4 years when the fee is charged to the card.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "intervalYears": 4,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "priority": 100
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Round trip paid entirely with the card: non-refundable expenses reimbursed up to US$10,000 per trip and US$20,000 per card per 12 months when a covered reason cancels or interrupts the trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$500 per trip for additional expenses, max 2 claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "When the entire common-carrier fare is charged to the card: up to US$2,000 for checked baggage and a combined US$3,000 for checked and carry-on baggage, in excess of the carrier's coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-return-protection",
+          "title": "Return protection",
+          "detail": "If the seller won't take back an eligible purchase within 90 days, Amex may refund up to US$300 per item and US$1,000 per calendar year (U.S. purchases).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 207
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 medical, legal, financial and other emergency coordination and assistance when travelling more than 100 miles from home. Third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "protection",
+          "priority": 208
+        },
+        {
+          "id": "property-credit",
+          "title": "$100 Marriott Bonvoy Property Credit",
+          "detail": "Up to a US$100 property credit for qualifying charges at The Ritz-Carlton or St. Regis when you book a qualifying stay with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "priority": 105
+        },
+        {
+          "id": "earned-choice-60k",
+          "title": "Brilliant Earned Choice Award",
+          "detail": "Choose a Brilliant Earned Choice Award benefit after spending $60,000 on eligible purchases in a calendar year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "benefit",
+          "priority": 106,
+          "spendMilestoneMinor": 6000000,
+          "spendPeriod": "calendarYear"
+        }
+      ],
+      "statuses": [
+        {
+          "id": "included-marriott-status",
+          "programID": "marriott",
+          "tier": "Platinum Elite",
+          "rank": 30,
+          "enrollmentRequired": false,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "2X Marriott points",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "calculationNote": null
+        },
+        {
+          "id": "marriott",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 6,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "6X Marriott",
+          "detail": "Eligible Marriott Bonvoy hotel purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "calculationNote": null
+        },
+        {
+          "id": "travel-food",
+          "categories": [
+            "dining",
+            "flightsDirect"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "3X dining and flights",
+          "detail": "Restaurants worldwide and flights booked directly with airlines.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+      "artworkSearchTerms": "Amex Marriott Bonvoy Brilliant",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "chase-ink-business-cash-us",
+      "name": "Chase Ink Business Cash US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "No annual fee.",
+      "colorHex": "2587B7",
+      "secondaryHex": "122A52",
+      "artworkAsset": "Card-chase-ink-business-cash-us",
+      "programIDs": [
+        "chase-ur-us"
+      ],
+      "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Current issuer-sourced benefits and earning rules are modeled where the app can represent them safely. Issuer terms control eligibility, exclusions and changes.",
+      "benefits": [
+        {
+          "id": "business-essentials",
+          "title": "5X / 5% business essentials",
+          "detail": "Earn 5% cash back, issued as Ultimate Rewards, on the first $25,000 in combined annual purchases at office supply stores and on internet, cable and phone services.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "lyft",
+          "title": "5% total on Lyft",
+          "detail": "Earn 5% total cash back on eligible Lyft rides through September 30, 2027 under current Chase terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "instacart",
+          "title": "Instacart+ business benefit",
+          "detail": "Eligible cardmembers can enroll in the current complimentary Instacart+ business benefit and monthly Instacart credit through the published end date.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "instacart-credit",
+          "title": "Instacart credit",
+          "detail": "Up to US$20/month on direct Instacart purchases with an active Instacart+ membership (Instacart Business account).",
+          "capMinor": 2000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "priority": 100
+        },
+        {
+          "id": "chase-ink-business-cash-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers your eligible new purchases for 120 days from the date of purchase against damage or theft up to $10,000 per item.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "chase-ink-business-cash-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends the time period of the manufacturer's U.S. warranty by an additional year, on eligible warranties of three years or less, up to four years from the date of purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "chase-ink-business-cash-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Decline the rental company's collision insurance and charge the entire rental cost to your card. Coverage is primary when renting for business purposes and provides reimbursement up to $60,000 for theft and collision damage for most rental vehicles with an MSRP of $125,000 or less.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "chase-ink-business-cash-us-roadside-assistance",
+          "title": "Roadside assistance",
+          "detail": "If you have a roadside emergency, call the service provider to dispatch the help you need. Roadside service fees will be billed to your card at time of dispatch.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "chase-ink-business-cash-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "If you run into a problem while traveling away from home, this benefit provides legal and medical referrals and access to other travel and emergency assistance services. (You will be responsible for the cost of any goods or services obtained.)",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "protection",
+          "priority": 204
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "chase-ur-us",
+          "label": "UR points",
+          "detail": "Rewards are marketed as 1% cash back and issued through Ultimate Rewards.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash"
+        },
+        {
+          "id": "gas-dining",
+          "categories": [
+            "gas",
+            "dining"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "chase-ur-us",
+          "label": "UR points",
+          "detail": "2% cash back / 2X Ultimate Rewards on the first $25,000 in combined gas-station and restaurant purchases each account anniversary year.",
+          "countries": [],
+          "capGroup": "ink-cash-gas-dining",
+          "capMinor": 2500000,
+          "capReset": "anniversary",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash"
+        },
+        {
+          "id": "office-telecom",
+          "categories": [
+            "officeSupplies",
+            "telecommunications",
+            "cableSatellite"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "chase-ur-us",
+          "label": "UR points",
+          "detail": "First $25,000 per anniversary year in combined office supply store and internet, cable and phone purchases.",
+          "countries": [],
+          "capReset": "anniversary",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "capMinor": 2500000,
+          "capGroup": "ink-cash-5"
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+      "artworkSearchTerms": "Chase Ink Business Cash",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/ink_cash_card.png",
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/business-credit-cards/ink/cash"
+      ],
+      "foreignTransactionFeePercent": 3
+    },
+    {
+      "id": "venture-x-us",
+      "name": "Venture X US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 39500,
+      "feeNote": "Standard primary-card fee snapshot. Override it with the amount on your statement.",
+      "colorHex": "2373AA",
+      "secondaryHex": "0F2945",
+      "artworkAsset": "Card-venture-x-us",
+      "programIDs": [
+        "capital-one-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Selected benefits and earning rules are modeled, not the complete product guide. Compare the issuer terms and your account before relying on a benefit.",
+      "benefits": [
+        {
+          "id": "travel",
+          "title": "Capital One Travel credit",
+          "detail": "Apply through Capital One Travel, not a general statement credit. Confirm your account-specific annual expiry.",
+          "sourceURL": "https://www.capitalone.com/learn-grow/more-than-money/all-about-venture-x/",
+          "capMinor": 30000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit"
+        },
+        {
+          "id": "anniversary-miles",
+          "title": "10,000 anniversary miles",
+          "detail": "After the first card anniversary. Points are not automatically added to your manual balance.",
+          "sourceURL": "https://www.capitalone.com/learn-grow/more-than-money/all-about-venture-x/",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "lounges",
+          "title": "Capital One & Priority Pass lounges",
+          "detail": "Primary-cardholder access; Priority Pass enrollment and current guest/access terms apply.",
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "premier",
+          "title": "Premier Collection",
+          "detail": "Eligible hotel bookings include breakfast for two, a US$100 experience credit and available upgrades.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "lifestyle",
+          "title": "Lifestyle Collection",
+          "detail": "Eligible bookings include a US$50 experience credit and available upgrades.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "hertz",
+          "title": "Hertz President’s Circle",
+          "detail": "Enroll for eligible rental-car status benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "kind": "benefit",
+          "priority": 103
+        },
+        {
+          "id": "global-entry",
+          "title": "Global Entry / TSA PreCheck credit",
+          "detail": "Up to US$120 per account every four years, starting when the reimbursement posts. Charge an eligible application fee to this card; the credit applies to the first eligible transaction.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "intervalYears": 4,
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "priority": 100,
+          "sourceURL": "https://www.capitalone.com/help-center/credit-cards/tsa-precheck-global-entry-benefits/"
+        },
+        {
+          "id": "issuer-capital-one-lounges",
+          "title": "Capital One Lounges + Priority Pass",
+          "detail": "Access to Capital One Lounges (show your card or digital lounge pass in the app) and enrollment in Priority Pass for participating lounges worldwide; access is subject to space.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "kind": "benefit",
+          "priority": 104
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "kind": "benefit",
+          "priority": 105
+        },
+        {
+          "id": "venture-x-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Up to US$2,000 per insured person for non-refundable common-carrier tickets.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "venture-x-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Up to US$500 per ticket when travel is delayed more than 6 hours or requires an overnight stay; one claim per covered trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "venture-x-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Up to US$3,000 per covered trip for luggage lost through theft or misdirection by the common carrier (secondary).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "venture-x-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Up to US$800 per claim, two claims and US$1,600 per 12 months, US$50 deductible, when the prior month's phone bill is paid with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "venture-x-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Up to US$10,000 per claim and US$50,000 per cardholder for damage or theft within 90 days of purchase (excess coverage).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "venture-x-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Adds one year to eligible warranties of three years or less; up to US$10,000 per claim and US$50,000 per cardholder.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "venture-x-us-return-protection",
+          "title": "Return protection",
+          "detail": "Up to US$300 per item and US$1,000 a year per account if the retailer won't accept a return within 90 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "venture-x-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Primary coverage up to the actual cash value of rental vehicles with an MSRP up to US$75,000; rentals up to 15 days in your country of residence or 31 days abroad.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 207
+        },
+        {
+          "id": "venture-x-us-travel-accident-insurance",
+          "title": "Travel accident insurance",
+          "detail": "Up to US$1,000,000 worldwide automatic common-carrier travel accident insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 208
+        },
+        {
+          "id": "venture-x-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 assistance and referral services; you pay for any goods or services.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+          "kind": "protection",
+          "priority": 209
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hertz-presidents-circle",
+          "programID": "hertz",
+          "tier": "President's Circle",
+          "rank": 30,
+          "enrollmentRequired": true,
+          "condition": "",
+          "automatic": true,
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "programID": "capital-one-us",
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "label": "Miles",
+          "detail": "Eligible purchases only. Issuer category definitions and account terms apply.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "flights",
+          "categories": [
+            "flightsPortal"
+          ],
+          "rate": 5,
+          "programID": "capital-one-us",
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "label": "Miles",
+          "detail": "Flights booked through Capital One Travel only. Credit-funded portions may not earn miles.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "hotels",
+          "categories": [
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 10,
+          "programID": "capital-one-us",
+          "sourceURL": "https://www.capitalone.com/credit-cards/venture-x/",
+          "label": "Miles",
+          "detail": "Hotels booked through Capital One Travel only. Credit-funded portions may not earn miles.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.capitalone.com/credit-cards/venture-x/",
+      "artworkSearchTerms": "Venture X",
+      "catalogLevel": "partial",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "loungeAccess": [
+        {
+          "id": "capital-one",
+          "provider": "Capital One Lounges",
+          "title": "Capital One Lounges & Landings",
+          "detail": "Access follows current Venture X eligibility, guest and account rules.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/learn-grow/money-management/airport-lounges/"
+        },
+        {
+          "id": "priority-pass",
+          "provider": "Priority Pass",
+          "title": "Priority Pass",
+          "detail": "Enrollment/activation and participating lounge rules apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.prioritypass.com/lounges"
+        }
+      ],
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/venturex-cg-static-card-1000x630-2.png",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/credit-cards/venture-x/",
+        "https://www.capitalone.com/learn-grow/more-than-money/all-about-venture-x/",
+        "https://ecm.capitalone.com/WCM/card/benefits-guide/visa-benefits-guides/visa-infinite-english.pdf",
+        "https://www.capitalone.com/help-center/credit-cards/tsa-precheck-global-entry-benefits/"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "wells-fargo-autograph-us",
+      "name": "Wells Fargo Autograph US",
+      "issuer": "Wells Fargo",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BD314C",
+      "secondaryHex": "513135",
+      "artworkAsset": "Card-wells-fargo-autograph-us",
+      "programIDs": [
+        "wells-us"
+      ],
+      "sourceURL": "https://creditcards.wellsfargo.com/autograph-visa-credit-card/",
+      "checkedOn": "2026-10-29",
+      "coverageNote": "Selected official-source rules only. Unmodeled merchant-specific bonuses, travel protections, activation rules and credits are not asserted. This is not a complete benefits guide.",
+      "benefits": [
+        {
+          "id": "issuer-rewards-points-transfer",
+          "title": "Points transfer",
+          "detail": "Transfer rewards points to select travel loyalty programs in any amount. Points never expire while the account is open.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.wellsfargo.com/autograph-visa-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-credit-close-up",
+          "title": "Credit Close-Up",
+          "detail": "Free monthly FICO Score updates and personalized credit insights for Wells Fargo Online customers.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.wellsfargo.com/autograph-visa-credit-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fee",
+          "title": "No foreign transaction fee",
+          "detail": "No fee for converting purchases to U.S. dollars.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.wellsfargo.com/autograph-visa-credit-card/",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "issuer-visa-signature-concierge-services",
+          "title": "Visa Signature Concierge",
+          "detail": "Complimentary Visa Signature Concierge for travel, dining and entertainment requests.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.wellsfargo.com/autograph-visa-credit-card/",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "issuer-visa-signature-luxury-hotel-collection",
+          "title": "Visa Signature Luxury Hotel Collection",
+          "detail": "Benefits such as upgrades when available at hotels in the Visa Signature Luxury Hotel Collection.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.wellsfargo.com/autograph-visa-credit-card/",
+          "priority": 103,
+          "kind": "benefit"
+        },
+        {
+          "id": "wells-fargo-autograph-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Up to US$600 per claim and US$1200 per 12 months for damage, theft when the monthly cell phone bill is paid with the card; US$25 deductible, max two paid claims per 12 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.wellsfargo.com/credit-cards/autograph-visa/guide-to-benefits/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "wells-fargo-autograph-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Reimbursement up to US$50,000 for covered damage to or theft of an eligible rental vehicle paid with the card when you decline the rental company's collision damage waiver.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.wellsfargo.com/credit-cards/autograph-visa/guide-to-benefits/",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "wells-fargo-autograph-us-roadside-assistance",
+          "title": "Roadside assistance",
+          "detail": "24/7 roadside dispatch in the United States; service fees are charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.wellsfargo.com/credit-cards/autograph-visa/guide-to-benefits/",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "wells-fargo-autograph-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 connection to local emergency and assistance resources while travelling; third-party costs are your responsibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.wellsfargo.com/credit-cards/autograph-visa/guide-to-benefits/",
+          "kind": "protection",
+          "priority": 203
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "wells-us",
+          "label": "Wells Fargo Rewards US",
+          "detail": "Standard eligible-purchase rate; issuer definitions and account eligibility apply. Welcome and relationship bonuses are not included.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://creditcards.wellsfargo.com/"
+        },
+        {
+          "id": "categories",
+          "categories": [
+            "dining",
+            "flightsDirect",
+            "gas",
+            "hotelsDirect",
+            "streaming",
+            "telecommunications",
+            "transit"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "wells-us",
+          "label": "Wells Fargo Rewards US",
+          "detail": "Eligible categories under Wells Fargo definitions. Streaming must be a listed eligible service. Phone plans do not make all utility purchases eligible.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://creditcards.wellsfargo.com/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://creditcards.wellsfargo.com/autograph-visa-credit-card/",
+      "artworkSearchTerms": "Wells Fargo Autograph",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://creditcards.wellsfargo.com/rv/bcs/production/autograph.B5C6nsw-_Z2rG3ci.webp",
+      "benefitSourceURLs": [
+        "https://creditcards.wellsfargo.com/autograph-visa-credit-card/"
+      ],
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
