@@ -25510,6 +25510,552 @@
       "artworkURL": "https://princeoftravel.com/images/cards/Business_Gold_Rewards_Card.png",
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
+    },
+    {
+      "id": "amex-marriott-bonvoy-can",
+      "name": "Amex Marriott Bonvoy CAN",
+      "issuer": "American Express",
+      "market": "CAN",
+      "annualFeeMinor": 12000,
+      "feeNote": "C$120 annual fee; supplementary cards have no annual fee. Foreign currency surcharge: 2.5%.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-marriott-bonvoy-can",
+      "programIDs": [
+        "marriott"
+      ],
+      "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/marriott-bonvoy-card/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Product benefits, September 2026 agreement and July 1, 2025 certificates checked November 4, 2026. Silver Elite is automatic; C$30,000 spend for Gold resets at the card's annual anniversary/reset date, not January 1. Canadian personal/business Amex cards share a maximum 15 Elite Night Credits/calendar year. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, eligible account and full-payment conditions apply. Rental/purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel written notice within 90 days where possible; certificate exclusions/proof requirements apply.",
+      "benefits": [
+        {
+          "id": "pot-marriott-silver-elite-15-elite-night-credits",
+          "title": "Marriott Silver Elite + 15 Elite Night Credits",
+          "detail": "Automatic Marriott Bonvoy Silver Elite for the basic Cardmember, plus 15 Elite Night Credits/calendar year. Link an active Bonvoy account in your name; account must be in good standing. Canadian personal/business Amex cards together provide at most 15 nights/year; these are qualifying credits, not free hotel nights. Initial deposit about eight weeks; later years by March 1.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "pot-annual-free-night-award",
+          "title": "Annual Free Night Award",
+          "detail": "After the first card anniversary and each renewal, receive one standard-room Free Night Award worth up to 35,000 points, normally 8–10 weeks after the annual reset date. Book and stay within one year of issue; taxes included, resort fees extra. Subject to availability/exclusions; top up with up to 25,000 Bonvoy points under current Marriott terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$500 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$500 with flight delay. Lost/stolen baggage has a separate C$500 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required. Delay essentials must be purchased within four days and before baggage return.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to C$500 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Scheduled accidental death/dismemberment benefits up to C$500,000 per covered person on a covered common-carrier trip. Charge the fare to the card before injury; eligible spouse/dependent children under 23 are included. Loss must occur within 100 days of the accident; exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "gold-30k",
+          "title": "Marriott Gold Elite at C$30,000",
+          "detail": "Reach C$30,000 of eligible net purchases before the card's annual reset date to earn at least one year of Marriott Bonvoy Gold Elite, unless already Gold or higher. Spend resets at the anniversary; additional-card purchases count. Enrollment may take up to ten days; returns can reverse qualification.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464117-50498176-0926-Marriott-Bonvoy-Online-CMA-EN.pdf",
+          "priority": 100,
+          "spendMilestoneMinor": 3000000,
+          "spendPeriod": "anniversary"
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Register for eligible targeted offers before spending; merchants, thresholds, expiry dates and reward types vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-experiences",
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible Front Of The Line presale and reserved tickets, events and experiences; availability, payment and ticket terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-replacement",
+          "title": "Fraud protection and emergency card replacement",
+          "detail": "Fraud protection requires reasonable care of account details and PIN and prompt notification of suspected misuse. Contact Amex for lost/stolen-card assistance and replacement.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-marriott-redemptions",
+          "title": "Marriott Bonvoy redemption options",
+          "detail": "Redeem points for participating hotel reward stays, airline transfers and Bonvoy Moments experiences. Availability, transfer ratios/minimums, room type, taxes and fees follow current Marriott program rules.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.marriott.com/loyalty/terms/default.mi",
+          "priority": 100
+        },
+        {
+          "id": "issuer-plan-it",
+          "title": "Plan It installment option",
+          "detail": "Split eligible purchases into equal monthly installments for a disclosed fixed monthly fee. Eligibility and payment terms apply. The issuer's current page excludes Quebec, Nova Scotia, PEI and Nunavut; confirm current account availability.",
+          "sourceURL": "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "marriott-silver",
+          "programID": "marriott",
+          "tier": "Silver Elite",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "automatic": true,
+          "condition": "Automatic for the basic Cardmember with an eligible account in good standing linked to their active Marriott Bonvoy account. Higher earned status can supersede Silver.",
+          "sourceURL": "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "Marriott Bonvoy points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464117-50498176-0926-Marriott-Bonvoy-Online-CMA-EN.pdf"
+        },
+        {
+          "id": "marriott",
+          "categories": [
+            "marriottPurchases"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "Marriott Bonvoy points",
+          "detail": "5 points/C$1 directly at eligible participating Marriott properties, standalone Marriott retail establishments and Marriott online stores, including eligible online gift cards; merchant ownership/coding and payment restrictions apply.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464117-50498176-0926-Marriott-Bonvoy-Online-CMA-EN.pdf"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/marriott-bonvoy-american-express-card/",
+      "artworkSearchTerms": "Amex Marriott Bonvoy",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/en-ca/credit-cards/marriott-bonvoy-card/",
+        "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464117-50498176-0926-Marriott-Bonvoy-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+        "https://www.marriott.com/loyalty/terms/default.mi"
+      ],
+      "artworkURL": "https://princeoftravel.com/images/cards/marriott-bonvoy-card.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
+    },
+    {
+      "id": "amex-marriott-bonvoy-business-can",
+      "name": "Amex Marriott Bonvoy Business CAN",
+      "issuer": "American Express",
+      "market": "CAN",
+      "annualFeeMinor": 15000,
+      "feeNote": "C$150 annual fee; supplementary cards C$50 each/year. Foreign currency surcharge: 2.5%.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-marriott-bonvoy-business-can",
+      "programIDs": [
+        "marriott"
+      ],
+      "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/marriott-bonvoy-business-card/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Product benefits, September 2026 agreement and July 1, 2025 certificates checked November 4, 2026. Silver Elite is automatic; C$30,000 spend for Gold resets at the card's annual anniversary/reset date, not January 1. Canadian personal/business Amex cards share a maximum 15 Elite Night Credits/calendar year. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, eligible account and full-payment conditions apply. Rental/purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel written notice within 90 days where possible; certificate exclusions/proof requirements apply. Employee-misuse full terms are not publicly linked; that protection remains partially verified.",
+      "benefits": [
+        {
+          "id": "pot-marriott-silver-elite-15-elite-night-credits",
+          "title": "Marriott Silver Elite + 15 Elite Night Credits",
+          "detail": "Automatic Marriott Bonvoy Silver Elite for the basic Cardmember, plus 15 Elite Night Credits/calendar year. Link an active Bonvoy account in your name; account must be in good standing. Canadian personal/business Amex cards together provide at most 15 nights/year; these are qualifying credits, not free hotel nights. Initial deposit about eight weeks; later years by March 1.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "pot-annual-free-night-award",
+          "title": "Annual Free Night Award",
+          "detail": "After the first card anniversary and each renewal, receive one standard-room Free Night Award worth up to 35,000 points, normally 8–10 weeks after the annual reset date. Book and stay within one year of issue; taxes included, resort fees extra. Subject to availability/exclusions; top up with up to 25,000 Bonvoy points under current Marriott terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$500 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$500 with flight delay. Lost/stolen baggage has a separate C$500 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required. Delay essentials must be purchased within four days and before baggage return.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to C$500 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Scheduled accidental death/dismemberment benefits up to C$500,000 per covered person on a covered common-carrier trip. Charge the fare to the card before injury; eligible spouse/dependent children under 23 are included. Loss must occur within 100 days of the accident; exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "gold-30k",
+          "title": "Marriott Gold Elite at C$30,000",
+          "detail": "Reach C$30,000 of eligible net purchases before the card's annual reset date to earn at least one year of Marriott Bonvoy Gold Elite, unless already Gold or higher. Spend resets at the anniversary; additional-card purchases count. Enrollment may take up to ten days; returns can reverse qualification.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50463899-50498176-0926-Marriott-Bonvoy-Business-Online-CMA-EN.pdf",
+          "priority": 100,
+          "spendMilestoneMinor": 3000000,
+          "spendPeriod": "anniversary"
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Register for eligible targeted offers before spending; merchants, thresholds, expiry dates and reward types vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-experiences",
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible Front Of The Line presale and reserved tickets, events and experiences; availability, payment and ticket terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-replacement",
+          "title": "Fraud protection and emergency card replacement",
+          "detail": "Fraud protection requires reasonable care of account details and PIN and prompt notification of suspected misuse. Contact Amex for lost/stolen-card assistance and replacement.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-marriott-redemptions",
+          "title": "Marriott Bonvoy redemption options",
+          "detail": "Redeem points for participating hotel reward stays, airline transfers and Bonvoy Moments experiences. Availability, transfer ratios/minimums, room type, taxes and fees follow current Marriott program rules.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.marriott.com/loyalty/terms/default.mi",
+          "priority": 100
+        },
+        {
+          "id": "employee-misuse",
+          "title": "Employee Card Misuse Protection",
+          "detail": "Issuer lists up to C$100,000/basic Cardmember for eligible unauthorized employee-card charges when the employee is terminated and the supplementary card cancelled within two business days. Administered by Belair. Separate full eligibility/exclusion/claim terms were not publicly linked; confirm them with Amex before relying on this protection.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "travel-emergency-assistance",
+          "title": "Travel emergency assistance",
+          "detail": "24/7 out-of-town medical/legal referral and coordination services. This is not medical insurance; third-party expenses are your responsibility and services must be arranged/authorized by the assistance provider.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-business-management",
+          "title": "Employee-card and expense controls",
+          "detail": "Set eligible supplementary-card spending amounts, freeze lost cards and review account expense reports. Employee card purchases earn rewards for the basic Cardmember; supplementary-card annual fees and account terms apply.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+          "priority": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "marriott-silver",
+          "programID": "marriott",
+          "tier": "Silver Elite",
+          "rank": 10,
+          "enrollmentRequired": false,
+          "automatic": true,
+          "condition": "Automatic for the basic Cardmember with an eligible account in good standing linked to their active Marriott Bonvoy account. Higher earned status can supersede Silver.",
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "Marriott Bonvoy points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50463899-50498176-0926-Marriott-Bonvoy-Business-Online-CMA-EN.pdf"
+        },
+        {
+          "id": "marriott",
+          "categories": [
+            "marriottPurchases"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "Marriott Bonvoy points",
+          "detail": "5 points/C$1 directly at eligible participating Marriott properties, standalone Marriott retail establishments and Marriott online stores, including eligible online gift cards; merchant ownership/coding and payment restrictions apply.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50463899-50498176-0926-Marriott-Bonvoy-Business-Online-CMA-EN.pdf"
+        },
+        {
+          "id": "business-bonus",
+          "categories": [
+            "gas",
+            "dining"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "Marriott Bonvoy points",
+          "detail": "3 points/C$1 at eligible stand-alone Canadian gas stations, restaurants, quick-service restaurants, coffee shops and bars. Merchant coding and intermediary/payment exclusions apply.",
+          "countries": [
+            "CA"
+          ],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50463899-50498176-0926-Marriott-Bonvoy-Business-Online-CMA-EN.pdf"
+        },
+        {
+          "id": "business-travel",
+          "categories": [
+            "flightsDirect",
+            "flightsPortal",
+            "hotelsDirect",
+            "hotelsPortal",
+            "carRentals",
+            "carRentalsPortal"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "Marriott Bonvoy points",
+          "detail": "Eligible travel-provider/travel-booking purchases, excluding local/commuter transport and merchants whose primary business is not travel. Coding and intermediary/electronic-wallet exclusions apply; eligible Marriott purchases earn 5X instead.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50463899-50498176-0926-Marriott-Bonvoy-Business-Online-CMA-EN.pdf"
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://www.americanexpress.com/en-ca/credit-cards/marriott-bonvoy-business-card/",
+      "artworkSearchTerms": "Amex Marriott Bonvoy Business",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/en-ca/credit-cards/marriott-bonvoy-business-card/",
+        "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50463899-50498176-0926-Marriott-Bonvoy-Business-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+        "https://www.marriott.com/loyalty/terms/default.mi"
+      ],
+      "artworkURL": "https://princeoftravel.com/images/cards/marriott-bonvoy-Business_Credit_Card.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
     }
   ],
   "removeCards": [],
@@ -25737,6 +26283,23 @@
     "No preset spending limit does not mean unlimited credit. Up to 55 interest-free days requires payment under the agreement; eligible Flexible Payment Option balances accrue interest if carried. Supplementary-card limits, expense reports, statements and account alerts help manage business spending.": "L’absence de limite préétablie ne signifie pas un crédit illimité. Jusqu’à 55 jours sans intérêt sous réserve des paiements prévus à la convention; les soldes admissibles de l’option de paiement flexible portent intérêt s’ils sont reportés. Limites de cartes supplémentaires, rapports de dépenses, relevés et alertes facilitent la gestion.",
     "24/7 out-of-town medical/legal referral and coordination services. This is not medical insurance; third-party expenses are your responsibility and services must be arranged/authorized by the assistance provider.": "Services de coordination et d’orientation médicale ou juridique hors domicile, 24 heures sur 24. Ce n’est pas une assurance médicale; frais de tiers à votre charge et services à faire organiser ou autoriser par le fournisseur.",
     "Issuer lists up to C$100,000/basic Cardmember for eligible unauthorized employee-card charges when the employee is terminated and the supplementary card cancelled within two business days. Administered by Belair. Separate full eligibility/exclusion/claim terms were not publicly linked; confirm them with Amex before relying on this protection.": "Amex indique jusqu’à 100 000 $ CA par titulaire principal pour les frais non autorisés admissibles d’un employé si l’emploi et la carte supplémentaire prennent fin dans les deux jours ouvrables. Administration par Belair. Modalités complètes d’admissibilité, d’exclusions et de réclamation sans lien public; les confirmer auprès d’Amex avant de compter sur cette protection.",
-    "Eligible Membership Rewards points can be transferred to participating airline/hotel loyalty programs at their current ratios, minimums and transfer terms. Transfers are normally final; partner availability and account matching apply.": "Transférer les points-privilèges admissibles aux programmes aériens ou hôteliers participants selon leurs ratios, minimums et modalités courants. Transferts normalement définitifs; disponibilité et concordance des comptes requises."
+    "Eligible Membership Rewards points can be transferred to participating airline/hotel loyalty programs at their current ratios, minimums and transfer terms. Transfers are normally final; partner availability and account matching apply.": "Transférer les points-privilèges admissibles aux programmes aériens ou hôteliers participants selon leurs ratios, minimums et modalités courants. Transferts normalement définitifs; disponibilité et concordance des comptes requises.",
+    "Marriott Gold Elite at C$30,000": "Statut Marriott Gold Elite à 30 000 $ CA",
+    "Marriott Bonvoy redemption options": "Options d’échange Marriott Bonvoy",
+    "Employee-card and expense controls": "Gestion des cartes d’employés et des dépenses",
+    "C$120 annual fee; supplementary cards have no annual fee. Foreign currency surcharge: 2.5%.": "Frais annuels de 120 $ CA; cartes supplémentaires sans frais annuels. Majoration de change : 2,5 %.",
+    "C$150 annual fee; supplementary cards C$50 each/year. Foreign currency surcharge: 2.5%.": "Frais annuels de 150 $ CA; cartes supplémentaires : 50 $ CA chacune par an. Majoration de change : 2,5 %.",
+    "Product benefits, September 2026 agreement and July 1, 2025 certificates checked November 4, 2026. Silver Elite is automatic; C$30,000 spend for Gold resets at the card's annual anniversary/reset date, not January 1. Canadian personal/business Amex cards share a maximum 15 Elite Night Credits/calendar year. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, eligible account and full-payment conditions apply. Rental/purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel written notice within 90 days where possible; certificate exclusions/proof requirements apply.": "Avantages, convention de septembre 2026 et certificats du 1er juillet 2025 vérifiés le 4 novembre 2026. Silver Elite automatique; le seuil de 30 000 $ CA pour Gold est renouvelé à la date annuelle du compte, sans lien avec le 1er janvier. Maximum partagé de 15 crédits de nuit Elite par année civile pour les cartes Amex personnelles et Entreprise canadiennes. Aucune assurance frais médicaux d’urgence, annulation ou interruption générale de voyage, ou appareils mobiles n’est indiquée. Résidence canadienne, compte admissible et paiement intégral requis. Déclaration : location et achats sous 48 heures; garantie sous 45 jours; accident par écrit sous 30 jours ou dès que raisonnablement possible. Autres sinistres de voyage : avis écrit sous 90 jours lorsque possible; exclusions et justificatifs applicables.",
+    "Product benefits, September 2026 agreement and July 1, 2025 certificates checked November 4, 2026. Silver Elite is automatic; C$30,000 spend for Gold resets at the card's annual anniversary/reset date, not January 1. Canadian personal/business Amex cards share a maximum 15 Elite Night Credits/calendar year. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, eligible account and full-payment conditions apply. Rental/purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel written notice within 90 days where possible; certificate exclusions/proof requirements apply. Employee-misuse full terms are not publicly linked; that protection remains partially verified.": "Avantages, convention de septembre 2026 et certificats du 1er juillet 2025 vérifiés le 4 novembre 2026. Silver Elite automatique; le seuil de 30 000 $ CA pour Gold est renouvelé à la date annuelle du compte. Maximum partagé de 15 crédits de nuit Elite par année civile pour les cartes Amex personnelles et Entreprise canadiennes. Aucune assurance frais médicaux d’urgence, annulation ou interruption générale de voyage, ou appareils mobiles n’est indiquée. Résidence canadienne, compte admissible et paiement intégral requis. Déclaration : location et achats sous 48 heures; garantie sous 45 jours; accident par écrit sous 30 jours ou dès que raisonnablement possible. Autres sinistres de voyage : avis écrit sous 90 jours lorsque possible. Modalités complètes de la protection contre l’utilisation abusive des cartes d’employés sans lien public; vérification partielle pour cette protection.",
+    "Automatic Marriott Bonvoy Silver Elite for the basic Cardmember, plus 15 Elite Night Credits/calendar year. Link an active Bonvoy account in your name; account must be in good standing. Canadian personal/business Amex cards together provide at most 15 nights/year; these are qualifying credits, not free hotel nights. Initial deposit about eight weeks; later years by March 1.": "Statut Marriott Bonvoy Silver Elite automatique pour le titulaire principal et 15 crédits de nuit Elite par année civile. Lier un compte Bonvoy actif à son nom; compte en règle requis. Maximum de 15 nuits pour l’ensemble des cartes Amex personnelles et Entreprise canadiennes : crédits de qualification, sans nuitée gratuite. Premier dépôt sous environ huit semaines; années suivantes au plus tard le 1er mars.",
+    "After the first card anniversary and each renewal, receive one standard-room Free Night Award worth up to 35,000 points, normally 8–10 weeks after the annual reset date. Book and stay within one year of issue; taxes included, resort fees extra. Subject to availability/exclusions; top up with up to 25,000 Bonvoy points under current Marriott terms.": "Après le premier anniversaire et chaque renouvellement, une nuit gratuite en chambre standard d’au plus 35 000 points, normalement 8 à 10 semaines après la date annuelle du compte. Réserver et séjourner dans l’année suivant l’émission; taxes incluses, frais de villégiature en sus. Disponibilité et exclusions applicables; complément possible d’au plus 25 000 points Bonvoy selon les modalités actuelles.",
+    "Reach C$30,000 of eligible net purchases before the card's annual reset date to earn at least one year of Marriott Bonvoy Gold Elite, unless already Gold or higher. Spend resets at the anniversary; additional-card purchases count. Enrollment may take up to ten days; returns can reverse qualification.": "Atteindre 30 000 $ CA d’achats nets admissibles avant la date annuelle du compte pour au moins un an de Marriott Bonvoy Gold Elite, sauf si ce statut ou un statut supérieur est déjà détenu. Compteur renouvelé à l’anniversaire; achats supplémentaires inclus. Activation sous dix jours; les retours peuvent annuler l’admissibilité.",
+    "Redeem points for participating hotel reward stays, airline transfers and Bonvoy Moments experiences. Availability, transfer ratios/minimums, room type, taxes and fees follow current Marriott program rules.": "Échanger les points contre des séjours-récompenses participants, des transferts aériens et des expériences Bonvoy Moments. Disponibilité, ratios, minimums, catégories de chambres, taxes et frais selon les modalités Marriott actuelles.",
+    "Split eligible purchases into equal monthly installments for a disclosed fixed monthly fee. Eligibility and payment terms apply. The issuer's current page excludes Quebec, Nova Scotia, PEI and Nunavut; confirm current account availability.": "Répartir les achats admissibles en versements mensuels égaux moyennant des frais mensuels fixes divulgués. Admissibilité et modalités de paiement applicables. La page actuelle exclut le Québec, la Nouvelle-Écosse, l’Île-du-Prince-Édouard et le Nunavut; confirmer la disponibilité pour le compte.",
+    "Set eligible supplementary-card spending amounts, freeze lost cards and review account expense reports. Employee card purchases earn rewards for the basic Cardmember; supplementary-card annual fees and account terms apply.": "Fixer les montants de dépenses admissibles des cartes supplémentaires, bloquer les cartes perdues et consulter les rapports de dépenses. Les achats d’employés rapportent des récompenses au titulaire principal; frais annuels supplémentaires et modalités du compte applicables.",
+    "Automatic for the basic Cardmember with an eligible account in good standing linked to their active Marriott Bonvoy account. Higher earned status can supersede Silver.": "Automatique pour le titulaire principal avec un compte admissible en règle lié à son compte Marriott Bonvoy actif. Un statut supérieur obtenu peut remplacer Silver.",
+    "3 points/C$1 at eligible stand-alone Canadian gas stations, restaurants, quick-service restaurants, coffee shops and bars. Merchant coding and intermediary/payment exclusions apply.": "3 points par dollar canadien dans les stations-service, restaurants, restaurants rapides, cafés et bars autonomes admissibles au Canada. Classement des commerçants et exclusions de paiement ou d’intermédiaire applicables.",
+    "Eligible travel-provider/travel-booking purchases, excluding local/commuter transport and merchants whose primary business is not travel. Coding and intermediary/electronic-wallet exclusions apply; eligible Marriott purchases earn 5X instead.": "Achats admissibles auprès de fournisseurs et agences de voyages, hors transport local ou de banlieue et commerçants dont l’activité principale n’est pas le voyage. Classement et exclusions de paiement par intermédiaire ou portefeuille électronique applicables; achats Marriott admissibles à 5X.",
+    "5 points/C$1 directly at eligible participating Marriott properties, standalone Marriott retail establishments and Marriott online stores, including eligible online gift cards; merchant ownership/coding and payment restrictions apply.": "5 points par dollar canadien directement auprès des établissements, boutiques autonomes et boutiques en ligne Marriott admissibles, y compris les cartes-cadeaux en ligne admissibles. Conditions de propriété, de classement et de paiement applicables."
   }
 }
