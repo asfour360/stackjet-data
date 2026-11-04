@@ -16646,6 +16646,184 @@
           "priority": 95
         }
       ]
+    },
+    {
+      "id": "national-bank-world-mastercard-can",
+      "name": "National Bank World Mastercard CAN",
+      "issuer": "National Bank",
+      "market": "CAN",
+      "annualFeeMinor": 11500,
+      "feeNote": "National Bank current annual fee C$115; additional World card C$35.",
+      "colorHex": "233D6A",
+      "secondaryHex": "10264B",
+      "artworkAsset": "Card-national-bank-world-mastercard-can",
+      "programIDs": [
+        "nbc-rewards-can"
+      ],
+      "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Issuer-page 2026-11-04 review: spending-tier earnings are 1.25x from $0 to $20,000 annual purchases, 2x from $20,001 to $30,000, then 1.25x. World Mastercard does NOT receive World Elite's complimentary YUL lounge access or World Elite-specific C$150 annual travel reimbursement. Insurance limits issuer-page based, certificate controls.",
+      "accountType": "personal",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true,
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.25,
+          "rewardKind": "points",
+          "programID": "nbc-rewards-can",
+          "label": "National Bank rewards points",
+          "detail": "1.25 points per C$1 up to C$20,000 gross annual eligible spend, then again over C$30,000. Rate is spend-tier dependent.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html"
+        },
+        {
+          "id": "middle-spend-tier",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "nbc-rewards-can",
+          "label": "National Bank rewards points",
+          "detail": "2 points per C$1 on eligible net annual spending from C$20,001 through C$30,000; after C$30,000 the rate drops to 1.25. The C$30,000 cap is the upper threshold for this tier; threshold starts only after C$20,000 spend.",
+          "countries": [],
+          "capReset": "anniversary",
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "capMinor": 3000000,
+          "capGroup": "nbc-world-annual-spend"
+        }
+      ],
+      "benefits": [
+        {
+          "id": "issuer-tiered-earning",
+          "title": "Tiered annual purchase earnings",
+          "detail": "1.25 points per dollar for first C$20,000 in annual purchases, 2 points for purchases from C$20,001 to C$30,000, then 1.25 points for purchases above C$30,000.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "issuer-redeem-points",
+          "title": "À la carte Rewards and Extras",
+          "detail": "Redeem points for travel, gift cards, merchandise, financial products, mortgage payments and eligible card-balance repayments.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "benefit",
+          "priority": 95
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5 million per insured person: first 60 days age 54 and younger, first 31 days ages 55–64, and first 15 days ages 65–75.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Up to C$2,500 per person for eligible covered cancellations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Up to C$5,000 per person for covered travel interruptions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Up to C$500 per person when eligible departure is delayed more than 4 hours.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Baggage insurance",
+          "detail": "Delayed baggage: up to C$500 per person when delayed over 6 hours; lost/stolen baggage: up to C$1,000 per person.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Vehicle rental loss and damage",
+          "detail": "Rental insurance for covered collision, theft or damage for eligible rentals up to 48 days, plus qualifying personal effects coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Protects eligible card purchases from qualifying theft and damage subject to certificate limits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible purchases can receive up to triple the original manufacturer warranty per issuer's applicable terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "protection",
+          "priority": 95
+        },
+        {
+          "id": "issuer-no-free-yul-world-lounge",
+          "title": "YUL lounge eligibility clarification",
+          "detail": "National Bank's complimentary National Bank Lounge access at YUL is for eligible World Elite cardholders, NOT standard World cardholders. Do not infer a free lounge visit from the issuer's broad travel comparison chart.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+          "kind": "benefit",
+          "priority": 95
+        }
+      ]
     }
   ],
   "removeCards": [],
