@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -6173,7 +6173,7 @@
         "aeroplan"
       ],
       "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility. The C$100,000 threshold is based on total annual account purchases across all merchant types; category-only tracking cannot fully enforce that global threshold. Hyatt earn is a separate time-limited offer through July 15, 2029.",
       "benefits": [
         {
@@ -6388,121 +6388,121 @@
         {
           "id": "ins-emergency-medical",
           "title": "Emergency medical insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$5,000,000 per insured person per covered trip. Emergency travel medical coverage lasts 31 days for insured people age 64 or under and 10 days for insured people age 65 or over. Call the assistance provider before treatment where required.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-trip-cancellation",
           "title": "Trip cancellation insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Trip cancellation coverage reimburses eligible non-refundable prepaid expenses up to C$2,500 per insured person and C$10,000 combined per trip.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-trip-interruption",
           "title": "Trip interruption insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible trip interruption/delay: up to C$5,000 per insured person and C$25,000 combined per trip for qualifying expenses.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-flight-delay",
           "title": "Flight delay insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible flight delay expenses: up to C$500 per insured person, with a C$1,000 combined per-occurrence maximum. Sub-limits apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-baggage",
           "title": "Delayed & lost baggage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Delayed baggage: up to C$500 per insured person and C$1,000 combined. Lost or stolen baggage: up to C$1,000 per insured person and C$2,500 combined per occurrence.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-hotel-burglary",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible hotel or motel room burglary: up to C$2,500 per occurrence combined for insured travelers.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible collision/loss damage protection on rental vehicles with MSRP up to C$100,000 and rental periods up to 48 days, when card payment and CDW-declining conditions are met.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-travel-accident",
           "title": "Travel accident insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Common-carrier accident coverage up to C$500,000 per insured person for qualifying accidental loss.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-mobile-device",
           "title": "Mobile device insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Mobile-device theft, accidental damage or loss: up to C$1,500 per occurrence per insured person on eligible purchases or financed devices, subject to claim terms.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible purchases are covered for loss, theft or damage up to 180 days from the date of purchase, subject to certificate restrictions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible original manufacturer warranties may be tripled, up to two additional years of extended protection on qualifying items.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/aeroplan-visa-infinite-privilege-card.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/agreements-and-insurance/aeroplan-infinite-privilege-certificate-en.pdf",
           "kind": "protection",
           "priority": 210
         }
@@ -10511,7 +10511,7 @@
         "aeroplan"
       ],
       "sourceURL": "https://www.td.com/ca/en/business-banking/small-business/credit-cards/aeroplan-visa-business-card",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
       "benefits": [
         {
@@ -10686,7 +10686,7 @@
         {
           "id": "ins-mobile-device",
           "title": "Mobile device insurance",
-          "detail": "Get mobile device protection of up to $1,000 in the event of loss, theft, accidental damage or mechanical breakdown for eligible mobile devices when you use your Card to pay all of your monthly mobile bill payments and any upfront costs, or",
+          "detail": "Up to C$1,000 for eligible mobile-device loss, theft, damage or mechanical breakdown when at least 75% of the device purchase or the required wireless payments are charged to the card; limits and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -10715,6 +10715,50 @@
           "sourceURL": "https://www.td.com/ca/en/business-banking/small-business/credit-cards/aeroplan-visa-business-card",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-lounge-guest-passes",
+          "title": "Earn Air Canada Maple Leaf Lounge guest passes",
+          "detail": "Earn eligible one-time Maple Leaf Lounge guest passes in North America for each C$10,000 in qualifying card purchases, up to the current published cap, subject to card and Air Canada terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/business-banking/small-business/credit-cards/aeroplan-visa-business-card",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "issuer-nexus-rebate",
+          "title": "NEXUS application fee rebate",
+          "detail": "Up to C$100 in statement credit toward an eligible NEXUS application fee once every 48 months.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/business-banking/small-business/credit-cards/aeroplan-visa-business-card",
+          "kind": "benefit",
+          "priority": 102
+        },
+        {
+          "id": "issuer-visa-savingsedge",
+          "title": "Visa SavingsEdge",
+          "detail": "Enroll eligible business card for merchant statement-credit savings through Visa SavingsEdge.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/business-banking/small-business/credit-cards/aeroplan-visa-business-card",
+          "kind": "benefit",
+          "priority": 103
+        },
+        {
+          "id": "issuer-management",
+          "title": "TD Card Management Tool",
+          "detail": "Use business reporting, spend controls, online expense review and management of existing credit limits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.td.com/ca/en/business-banking/small-business/credit-cards/aeroplan-visa-business-card",
+          "kind": "benefit",
+          "priority": 104
         }
       ],
       "statuses": [],
