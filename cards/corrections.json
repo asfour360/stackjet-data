@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-04",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -4660,13 +4660,13 @@
         "blue-can"
       ],
       "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
       "benefits": [
         {
           "id": "issuer-airport-lounge-access",
           "title": "Airport lounge access",
-          "detail": "Free Mastercard Travel Pass membership by DragonPass for 1,300+ airport lounges, with complimentary passes under BMO's current terms; extra visits cost US$32 a person.",
+          "detail": "Complimentary Mastercard Travel Pass membership through DragonPass and four complimentary lounge visits per calendar year. Further visits may be subject to the provider's per-person fee.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4677,7 +4677,7 @@
         {
           "id": "ins-emergency-medical",
           "title": "Emergency medical insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$5,000,000 per insured person in eligible out-of-province/country emergency medical expenses on covered trips up to 15 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4688,7 +4688,7 @@
         {
           "id": "ins-trip-cancellation",
           "title": "Trip cancellation insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,500 per insured person and C$5,000 per account toward eligible non-refundable and non-transferable prepaid trip costs after a covered cancellation.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4699,13 +4699,145 @@
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible vehicle damage or theft coverage on rentals of up to 48 consecutive days; terms and vehicle exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-maple-visits",
+          "title": "Five Maple virtual healthcare visits",
+          "detail": "Five complimentary virtual care visits with participating Canadian Maple healthcare providers under the card's offer terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 35
+        },
+        {
+          "id": "issuer-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "For qualifying delays over four hours, up to C$500 per account for eligible added accommodation and travel expenses.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-baggage-insurance",
+          "title": "Lost and delayed baggage insurance",
+          "detail": "Covered lost or damaged baggage: up to C$500 per insured person and C$1,000 per account. Essential items following checked baggage delays over six hours: up to C$500.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Up to C$2,000 per insured person toward eligible extra one-way economy airfare and unused non-refundable prepaid costs after a covered interruption.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-purchase-warranty",
+          "title": "Purchase protection and extended warranty",
+          "detail": "Eligible purchases charged to the card receive 90-day protection and up to one extra year of manufacturer's warranty coverage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-liability-waiver",
+          "title": "Employee card liability waiver",
+          "detail": "Protection against qualifying employee card misuse; subject to the business account terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-mastercard-easy-savings",
+          "title": "Mastercard Easy Savings",
+          "detail": "Automatic merchant rebates of 1%–25% at participating businesses under Mastercard Easy Savings.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-instacart",
+          "title": "Instacart+ and monthly credits",
+          "detail": "Six months of Instacart+ with C$10 monthly Instacart credit after eligible enrollment.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-roadside",
+          "title": "Roadside assistance",
+          "detail": "24/7 eligible roadside-assistance services, including battery boost, flat tire, lockout and towing.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-car-rental-discounts",
+          "title": "Rental car discounts",
+          "detail": "Discounts of up to 35% off qualifying prepaid Avis and Budget rental base rates at participating locations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-cirque",
+          "title": "Cirque du Soleil offers",
+          "detail": "Eligible savings of 20% on Canadian touring shows and 15% on selected Las Vegas resident shows.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-hrblock",
+          "title": "H&R Block tax offers",
+          "detail": "Eligible 30% discount on H&R Block DIY and assisted tax preparation channels.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bmo.com/en-ca/main/business/credit-cards/bmo-blue-rewards-world-elite-business-mastercard/",
+          "kind": "benefit",
+          "priority": 100
         }
       ],
       "statuses": [],
