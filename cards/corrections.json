@@ -26151,15 +26151,15 @@
         },
         {
           "id": "issuer-venue-concessions",
-          "title": "Venue Collection concessions credit",
-          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "title": "Venue concessions — 10% back, up to $250",
+          "detail": "Enroll one eligible card per Card Member: receive 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, capped at US$250 in statement credits per calendar year through December 31, 2026. Earning the full US$250 requires US$2,500 of qualifying spend. This shared one-card offer is not a separate US$250 allowance on every Amex card. Venue, payment and purchase exclusions apply.",
           "kind": "credit",
           "capMinor": 25000,
           "reset": "calendarYear",
           "enrollmentRequired": true,
           "endsBefore": "2027-01-01",
           "priority": 20,
-          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+          "sourceURL": "https://global.americanexpress.com/card-benefits/view-all/business-gold"
         }
       ],
       "statuses": [],
