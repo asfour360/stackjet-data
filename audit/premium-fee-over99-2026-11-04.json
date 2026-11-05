@@ -11,7 +11,7 @@
     "Reported 33 prior reviewed are not independently reconciled to exact card IDs in this ledger.",
     "The 2026-11-05 supplemental audit completed issuer-product verification for Venture X Business, AAdvantage Globe and Strata Elite; each retains an account-specific insurance certificate or other terms question.",
     "The 2026-11-05 supplemental audit completed the 16 flagged Chase issuer-product reviews. Card-specific insurance certificates and full exclusions remain unverified for these Chase cards.",
-    "A second 2026-11-05 detail pass expanded the 16 Chase corrections with published credit caps/reset periods, earn categories, spend milestones, enrollment and current travel-benefit terms. Cardholder insurance guides/certificates remain unverified.",
+    "A 2026-11-05 detail pass verified the current public Chase Sapphire Reserve for Business Guide to Benefits (BGC11585); guides/certificates for other reviewed Chase cards remain to be checked.",
     "A final 2026-11-05 Chase detail reconciliation added published membership, anniversary and status/earning terms. Public cardholder insurance guides/certificates remain unverified.",
     "A second final Chase pass added MileagePlus program redemption terms and exact checked-bag eligibility; insurance certificate conditions remain open."
   ],
@@ -854,11 +854,11 @@
       "annualFeeMinor": 79500,
       "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
       "appCatalogBenefitCount": 25,
-      "githubCorrectionBenefitCount": 29,
+      "githubCorrectionBenefitCount": 34,
       "genericBenefitCount": 0,
       "lastCorrectionCheck": "2026-11-05",
       "needsIssuerVerification": false,
-      "needsInsuranceCertificateVerification": true
+      "needsInsuranceCertificateVerification": false
     },
     {
       "id": "chase-sapphire-reserve-us",
