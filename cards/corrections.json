@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-05",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Final Chase detail reconciliation (2026-11-05): added documented membership and anniversary benefits, exact annual earn/status transitions, and United award/PQP conditions. Public guides/certificates remain unverified. A second final Chase pass added complete MileagePlus redemption/program terms and expanded checked-bag eligibility.",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Final Chase detail reconciliation (2026-11-05): added documented membership and anniversary benefits, exact annual earn/status transitions, and United award/PQP conditions. Public guides/certificates remain unverified. A second final Chase pass added complete MileagePlus redemption/program terms and expanded checked-bag eligibility. Chase Sapphire Reserve screenshot cross-check (2026-11-05): added separate The Edit stay-program benefits and DashPass membership; expanded current travel, dining, DoorDash, StubHub, Lyft, Peloton and lounge terms.",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -33761,7 +33761,7 @@
         {
           "id": "issuer-annual-dining-credit",
           "title": "$300 Annual Dining Credit",
-          "detail": "Up to $150 in statement credits January–June and another $150 July–December, up to $300 per year, for eligible dining at restaurants participating in Sapphire Reserve Exclusive Tables. Dining credit applies only to eligible restaurant transactions; check participating locations before purchase.",
+          "detail": "Up to $150 in statement credits January–June and another $150 July–December, maximum $300 per calendar year, for dining purchases identified by Chase as made directly at restaurants participating in Sapphire Reserve Exclusive Tables. Third-party delivery/payment platforms, gift cards and merchandise may not qualify; restaurant participation and transaction coding can change.",
           "capMinor": 15000,
           "reset": "semiannual",
           "enrollmentRequired": false,
@@ -33771,8 +33771,8 @@
         },
         {
           "id": "issuer-credit-for-stays-with-the-edit",
-          "title": "$500 Credit for stays with The Edit",
-          "detail": "Up to $500 in automatic statement credits per calendar year for prepaid The Edit stays, with a maximum of $250 per transaction and a two-night minimum. Each qualifying purchase earns no points; employee cards cannot use this benefit. Starting January 1, 2027, the Business card adds two $250 credits, increasing its annual total to $1,000.",
+          "title": "$500 credit for stays with The Edit",
+          "detail": "Up to $500 in automatic statement credits per calendar year for prepaid “Pay Now” stays booked through The Edit, with a maximum of $250 per qualifying purchase and a two-night minimum. The cardmember or an authorized user must pay with the card. Purchases that receive the credit do not earn points; credits can be reversed for canceled/returned/modified stays or if the account closes within 90 days. Account must be open and not in default when the credit is fulfilled.",
           "capMinor": 50000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -33783,7 +33783,7 @@
         {
           "id": "travel",
           "title": "Annual travel credit",
-          "detail": "Up to $300 annually toward eligible travel purchases; reimbursed purchases do not earn points.",
+          "detail": "Automatic statement credits for eligible purchases in the travel category, up to $300 per account year. The account year starts on the account-open date and renews after each anniversary through the first statement date thereafter (12 monthly billing cycles). The credited portion of qualifying purchases does not earn points; merchant category coding and posting date affect eligibility.",
           "capMinor": 30000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -33793,8 +33793,8 @@
         },
         {
           "id": "doordash-promos",
-          "title": "DoorDash promos",
-          "detail": "Activate the complimentary DashPass membership by December 31, 2029 for at least one year of $0 delivery fees/reduced service fees on eligible orders. Monthly promos total up to $35: a $15 promo for any qualifying order plus two $10 non-restaurant promos for groceries and everyday essentials. Promos expire each month and merchant/offer rules apply.",
+          "title": "Up to $420 in DoorDash promos",
+          "detail": "After activating the complimentary DashPass membership, get up to $35 per calendar month: one $15 promotion on a qualifying DoorDash order and two separate $10 promotions on qualifying non-restaurant orders (such as groceries or daily essentials). Each applies to order subtotal, not fees/tax/tip; unused value expires monthly and the two $10 offers require separate orders. Use the card that activated DashPass at checkout; offer and merchant exclusions apply.",
           "capMinor": 3500,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -33804,8 +33804,8 @@
         },
         {
           "id": "global-entry-credit",
-          "title": "Global Entry, TSA PreCheck or NEXUS credit",
-          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
+          "title": "Global Entry, TSA PreCheck or NEXUS fee credit",
+          "detail": "One statement credit every four years, up to $120, after the first eligible Global Entry, TSA PreCheck or NEXUS application fee is charged directly to the card by the cardmember or an authorized user. Third-party application services are excluded; only one program fee is reimbursed per four-year period.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
@@ -33816,8 +33816,8 @@
         },
         {
           "id": "lyft-credit",
-          "title": "Lyft credit",
-          "detail": "Up to $10 in monthly Lyft in-app credits, up to $120 annually, through September 30, 2027. Eligible rides and Lyft in-app redemption terms apply.",
+          "title": "$10 monthly Lyft ride credit",
+          "detail": "Add an eligible Reserve card to the Lyft app to receive one $10 in-app credit each calendar month through September 30, 2027 (up to $120 annually). Credit applies to qualifying rideshare ride modes; it is non-transferable, does not roll over, and may not combine with other Lyft credits. The separate 5X total-points offer on eligible Lyft purchases through September 30, 2027 is tracked in the earning rules.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -33828,8 +33828,8 @@
         },
         {
           "id": "peloton-credit",
-          "title": "Peloton credit",
-          "detail": "Up to $10 in monthly statement credits, maximum $120 per year, toward eligible Peloton memberships after activation/linking in Chase Benefits. The card also earns 10X points on eligible Peloton hardware/accessories, capped at 50,000 bonus points; separate points terms apply.",
+          "title": "$120 Peloton membership credits + 10X points",
+          "detail": "After one-time activation, receive up to $10 per month in statement credits on eligible Peloton memberships, up to $120 per calendar year through December 31, 2027. Enroll/link the card with Peloton; third-party app-store subscriptions and purchases outside the U.S. are excluded. Separately, earn 10X total points (9X bonus plus 1X base) on eligible Peloton equipment/accessories bought directly from Peloton for over $150, through December 31, 2027, on up to $5,000 in total purchases.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -33839,8 +33839,8 @@
         },
         {
           "id": "issuer-300-in-annual-credits",
-          "title": "Up to $300 in annual credits",
-          "detail": "Up to $150 in statement credits January–June and another $150 July–December for eligible StubHub and viagogo event-ticket purchases. Activation is required; purchases must post in the applicable half-year.",
+          "title": "$300 StubHub and viagogo credit",
+          "detail": "One-time activation required. Up to $150 in statement credits January–June and another $150 July–December, maximum $300 per calendar year through December 31, 2027, for eligible event-ticket purchases made directly on StubHub.com, the StubHub app, viagogo.com or the viagogo app. Gift cards and StubHub International/UK purchases are excluded; credits do not roll over and may take up to four weeks to post.",
           "capMinor": 15000,
           "reset": "semiannual",
           "enrollmentRequired": true,
@@ -33850,8 +33850,8 @@
         },
         {
           "id": "issuer-apple-tv-music",
-          "title": "Apple TV+ and Apple Music",
-          "detail": "Complimentary Apple TV+ and Apple Music subscriptions after activating both offers in the Chase Mobile app and linking an Apple ID; stated combined value up to $324. Existing subscriptions may be suspended while cardmember offers are active. Offer period and eligibility terms apply.",
+          "title": "Apple TV and Apple Music subscriptions",
+          "detail": "Activate each offer once through Chase.com or the Chase Mobile app by June 22, 2027 and link an Apple Account. The primary cardmember receives at least 12 months of complimentary Apple TV and Apple Music from activation (advertised combined value $324/year). Eligible existing direct Apple subscriptions are suspended during the offer; Apple One subscribers may receive a $7.50 monthly discount per activated service. Card must remain eligible; one offer per Apple Account.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -33861,8 +33861,19 @@
         },
         {
           "id": "issuer-ihg-one-rewards-platinum-elite-status",
-          "title": "IHG Platinum Elite status",
-          "detail": "Complimentary IHG One Rewards Platinum Elite through December 31, 2027 after linking/activating the IHG membership through Chase Benefits. Account and IHG program standing requirements apply.",
+          "title": "IHG One Rewards Platinum Elite status",
+          "detail": "Complimentary Platinum Elite status through December 31, 2027 for the primary cardmember after linking an IHG One Rewards account through Chase Benefits. Allow up to three weeks for activation; account must remain open and in good standing, and IHG account must remain in good standing. Status benefits vary by brand/region and availability.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
+          "id": "issuer-doordash-dashpass-membership",
+          "title": "Complimentary DashPass membership",
+          "detail": "*New Benefit* — Activate by December 31, 2029 to receive complimentary DashPass on DoorDash and Caviar until December 31, 2029 or for 12 months, whichever is longer (advertised value $120/year). Add the Reserve card to the app and use the same card at checkout; eligible orders receive $0 delivery fees and reduced service fees, subject to minimum subtotals, merchant/geographic availability and DoorDash terms. All users on the account share the activation period.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -33895,7 +33906,7 @@
         {
           "id": "issuer-reserve-travel-designers",
           "title": "Reserve Travel Designers",
-          "detail": "Personalized itinerary-planning and booking service with a stated value up to $300 per trip; itinerary services and any booked travel are subject to availability and applicable prices.",
+          "detail": "Personalized itinerary planning and booking service for eligible primary cardmembers, advertised at up to $300 per trip. No agency fee is charged for bookings through the program, but suppliers may charge their own fees; travel, pricing and availability are subject to supplier terms.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33916,8 +33927,8 @@
         },
         {
           "id": "issuer-chase-sapphire-reserve-lounge-network",
-          "title": "Sapphire Lounges + Priority Pass",
-          "detail": "Every Chase Sapphire Lounge by The Club with up to two guests, plus 1,300+ Priority Pass lounges and select Air Canada Maple Leaf Lounges.",
+          "title": "Chase Sapphire Reserve Lounge Network",
+          "detail": "Complimentary access to every Chase Sapphire Lounge by The Club with up to two guests, plus 1,300+ Priority Pass lounges worldwide. Primary cardmembers and authorized users receive Priority Pass Select access with up to two guests each; guest fees can apply beyond that. Eligible departing Star Alliance travelers also receive access to select Air Canada Maple Leaf Lounges and Air Canada Cafés with one guest. Chase advertises $850+ potential annual value; its terms calculate network value from Priority Pass membership plus four $100 lounge day passes. Capacity, itinerary and participating-lounge rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33929,6 +33940,17 @@
           "id": "issuer-sapphire-reserve-experiences",
           "title": "Sapphire Reserve Experiences",
           "detail": "Access to dining, events and curated experiences reserved for Sapphire Reserve cardmembers; availability, booking windows and event-specific pricing apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-the-edit-stay-benefits",
+          "title": "The Edit hotel stay benefits",
+          "detail": "*New Benefit* — Book an eligible property through The Edit by Chase Travel to receive per-room benefits for double occupancy, which may include a $100 property credit, daily breakfast, complimentary Wi‑Fi, welcome amenity, room upgrade, and early check-in/late check-out. Benefits vary by property and some depend on availability. Chase advertises $550+ in value for a two-night stay; this is an estimate based on program-benefit values and actual value varies with availability and use.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34237,7 +34259,8 @@
       "artworkURL": "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/reserve/card_sapphireRes_chip_RFID.jpg",
       "benefitSourceURLs": [
         "https://www.chase.com/sapphire-cards/personal/reserve",
-        "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve"
+        "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
+        "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire"
       ],
       "foreignTransactionFeePercent": 0
     },
