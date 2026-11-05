@@ -3023,7 +3023,7 @@
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
       "checkedOn": "2026-11-04",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. PARTIAL: separate employee-misuse policy was not publicly accessible; issuer summary only. Future 2027 lounge limits and spending unlock are descriptive and do not promise current unlimited guest access. App build 3 reset limitations are disclosed; no app code changes.",
       "benefits": [
         {
           "id": "travel-credit",
@@ -3033,18 +3033,20 @@
           "reset": "anniversary",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "nexus",
           "title": "NEXUS credit",
-          "detail": "Up to C$100 every four years for an eligible NEXUS application or renewal fee.",
+          "detail": "C$100 NEXUS application/renewal credit once per issuer-defined four-year account period, shared by basic/supplementary cards; not four years from first use. Existing-account initial window: September 26, 2023–September 25, 2027, followed by successive four-year windows; newer accounts use initial card anniversary. Declined application does not restore credit. Build 3 tracker uses manual reset at the actual issuer window; confirm your account dates.",
           "capMinor": 10000,
           "reset": "oneTime",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
           "intervalYears": 4,
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "indeed",
@@ -3056,18 +3058,21 @@
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
           "reminderOnPeriodStart": true,
           "endsBefore": "2027-01-01",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "wireless",
           "title": "Wireless credit",
-          "detail": "Up to C$10 each month on eligible wireless-service purchases under current terms.",
+          "detail": "Register and spend at least C$10/month with eligible Canadian wireless providers; up to C$10/month through December 31, 2026. Eligible direct service charges, merchant/payment exclusions and enrolled-card rules apply.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
           "reminderOnPeriodStart": true,
-          "kind": "credit"
+          "kind": "credit",
+          "endsBefore": "2027-01-01",
+          "priority": 20
         },
         {
           "id": "dell",
@@ -3079,40 +3084,33 @@
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
           "reminderOnPeriodStart": true,
           "endsBefore": "2027-01-01",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "instacart",
           "title": "Instacart credits",
-          "detail": "Up to C$240 annually through monthly qualifying-purchase credits under current terms.",
-          "capMinor": 1000,
+          "detail": "After registration: two separate eligible C$10+ Instacart Canada transactions can each earn C$10 per month (C$20 maximum), through December 31, 2027. Same enrolled basic card, CAD purchases shipped within Canada; excluded goods/services and timing rules apply.",
+          "capMinor": 2000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
           "reminderOnPeriodStart": true,
           "endsBefore": "2028-01-01",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "quickbooks",
           "title": "QuickBooks credit",
-          "detail": "Current eligible QuickBooks statement-credit offer, subject to enrollment and published terms.",
+          "detail": "One-time up to C$100 on eligible Canadian QuickBooks subscription purchases at quickbooks.ca/amex, charged to the registered basic card by February 28, 2027. Canadian CAD purchase; excluded products and third-party/reseller purchases do not qualify. Subscription auto-renews; supplementary purchases ineligible.",
           "capMinor": 10000,
           "reset": "oneTime",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
-          "kind": "credit"
-        },
-        {
-          "id": "global-lounge",
-          "title": "Global Lounge Collection",
-          "detail": "Access to participating lounges under current Business Platinum terms.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
-          "kind": "benefit",
-          "priority": 101
+          "kind": "credit",
+          "endsBefore": "2027-03-01",
+          "priority": 20
         },
         {
           "id": "hilton-gold",
@@ -3123,7 +3121,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "marriott-gold",
@@ -3134,7 +3132,40 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
           "kind": "benefit",
-          "priority": 21
+          "priority": 30
+        },
+        {
+          "id": "issuer-hertz-rental-privileges",
+          "title": "Hertz Five Star rental privileges",
+          "detail": "Enroll for Hertz Five Star; one-class upgrade subject to availability, additional-driver waiver and qualifying rental discounts under partner terms.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-avis-rental-privileges",
+          "title": "Avis rental privileges",
+          "detail": "Qualifying rentals with published AWD code may receive location-dependent discounts; taxes/extras excluded. Avis Preferred membership is an entry membership, not a higher earned elite tier.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "global-lounge",
+          "title": "Global Lounge Collection",
+          "detail": "Global Lounge Collection access subject to network, itinerary and guest rules; Priority Pass enrollment required. Through 2026, eligible Platinum cards have unlimited participating Priority Pass/Plaza Premium access. From January 1, 2027: basic card six visits/year to EACH network, eligible supplementary Platinum two/year to EACH; accompanying guests consume visits. C$20,000 eligible calendar-year account spend unlocks unlimited access for the rest of that year and the following year (2026 spend counts for 2027). Other network terms remain separate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "issuer-fine-hotels-resorts",
@@ -3145,7 +3176,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 102
+          "priority": 100
         },
         {
           "id": "issuer-the-hotel-collection",
@@ -3156,7 +3187,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 103
+          "priority": 100
         },
         {
           "id": "issuer-hotel-status-benefit",
@@ -3167,7 +3198,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 104
+          "priority": 100
         },
         {
           "id": "issuer-amex-experiencestm",
@@ -3178,7 +3209,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 105
+          "priority": 100
         },
         {
           "id": "issuer-front-of-the-line-amex-presale-and-reserved-ticketstm-33",
@@ -3189,7 +3220,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 106
+          "priority": 100
         },
         {
           "id": "issuer-amex-offers",
@@ -3200,7 +3231,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 107
+          "priority": 100
         },
         {
           "id": "issuer-platinum-concierge",
@@ -3211,7 +3242,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
           "kind": "benefit",
-          "priority": 108
+          "priority": 100
         },
         {
           "id": "pot-international-airline-program",
@@ -3224,147 +3255,160 @@
           "priority": 100
         },
         {
-          "id": "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
-          "title": "Emergency medical insurance",
-          "detail": "Up to C$5,000,000 per insured person per trip for eligible emergency medical expenses outside the home province or territory during the first 15 days, for insured persons age 64 or under.",
+          "id": "issuer-travel-emergency-assistance",
+          "title": "Travel emergency assistance",
+          "detail": "24-hour assistance and referrals under the card terms. Third-party costs are generally the cardmember’s responsibility unless a separate insurance benefit applies; this service is not an additional medical insurance policy.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
-          "kind": "protection",
+          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "kind": "benefit",
           "priority": 100
+        },
+        {
+          "id": "issuer-2027-unlimited-lounges",
+          "title": "Unlock unlimited Priority Pass & Plaza Premium visits",
+          "detail": "From January 1, 2027, C$20,000 in eligible calendar-year account spend restores unlimited participating Priority Pass and Plaza Premium access for the remainder of that year and the next. 2026 spend qualifies for 2027. Guest, supplementary-card, enrollment and network conditions apply.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 2000000,
+          "spendMilestoneReset": "calendarYear"
+        },
+        {
+          "id": "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5 million/person/trip outside the home province for the first 15 consecutive days, age 64 or under at departure. Canadian residency and government health plan required; eligible cardmember, spouse and dependants may travel separately. Generally 90-day medical stability; exclusions apply. Call Global Excel before treatment; otherwise a 20% share applies to the first C$25,000 of eligible expenses not recovered from the government plan.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
         },
         {
           "id": "issuer-trip-cancellation-insurance",
           "title": "Trip cancellation insurance",
-          "detail": "Eligible trip cancellation: up to C$1,500 per insured person and C$3,000 combined for covered prepaid non-refundable arrangements.",
+          "detail": "Covered cancellation reasons only: C$1,500/person and C$3,000/all insured persons/trip. Any portion of eligible prepaid arrangements must be card-paid before cancellation penalties, or eligible Membership Rewards redemption with taxes paid as required. Generally 90-day pre-existing medical stability; other reward redemptions excluded. Notify insurer promptly; claim within 90 days of return; exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-trip-interruption-insurance",
           "title": "Trip interruption insurance",
-          "detail": "Eligible trip interruption or trip delay: up to C$1,500 per insured person and C$6,000 for all insured persons combined.",
+          "detail": "Covered interruption: C$1,500/person, C$6,000/all insured persons/trip. Covered interruption/delay out-of-pocket costs C$100/day/person, C$1,000 combined. Eligible card/Membership Rewards prepaid arrangements required; generally 90-day pre-existing medical stability and defined causes. Notify insurer promptly; claim within 90 days of return; exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-flight-delay-insurance",
           "title": "Flight delay insurance",
-          "detail": "For flight delays of four hours or more, reimbursement of eligible necessary expenses is subject to a C$1,000 combined flight and baggage delay limit per occurrence.",
+          "detail": "Full airline fare charged to card: covered departure delay/denied boarding or missed connection with no alternative transport within four hours. Reasonable eligible living expenses/sundry items share C$1,000/occurrence with emergency baggage delay; not separate allowances. Receipts, exclusions and reporting requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-baggage-delay-insurance",
-          "title": "Delayed & lost baggage insurance",
-          "detail": "Eligible baggage delays of six hours or more may qualify for essentials; flight and baggage delay coverage shares a C$1,000 per-occurrence limit for all insured persons.",
+          "title": "Baggage delay & lost baggage insurance",
+          "detail": "Baggage delay: six hours at outbound destination; eligible essentials within four days and before baggage return, shared C$1,000/occurrence with flight delay/missed connection. No homeward delay cover. Lost/stolen baggage: separate C$1,000/occurrence for all insured persons combined, with jewellery C$300/golf C$250 sublimits. Full eligible fare card-paid, carrier/other insurance and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-hotel-burglary-insurance",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Covered theft or damage following a hotel room break-in: maximum C$1,000 per occurrence for all insured persons.",
+          "detail": "Covered accommodation reserved and fully charged to card: personal items lost/damaged in burglary up to C$1,000/occurrence. Proof of burglary, timely reporting, exclusions and other-insurance provisions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/summary-booklets/Business-Platinum-Card-Ins-Sum-Book-EN.pdf",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-car-rental-theft-and-damage-insurance",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Eligible rental-car theft or damage protection for rental periods of 48 days or less and vehicles with MSRP up to C$85,000 when the rental is charged in full to the card and the rental-company collision/loss waiver is declined.",
+          "detail": "Eligible rental theft/damage, not liability insurance. Entire rental card-paid or permitted Membership Rewards redemption; decline CDW where allowed. Original model-year MSRP not over C$85,000 before tax; maximum 48 consecutive days. Exceeding 48 days voids cover from day one. Eligible driver/vehicle, other-insurance and territorial terms apply; report loss/theft/damage within 48 hours.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/insurance/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-000-travel-accident-insurance",
           "title": "Travel accident insurance",
-          "detail": "Common-carrier accidental death or dismemberment insurance up to C$500,000 when qualifying plane, train, ship or bus tickets are fully paid with this card.",
+          "detail": "Scheduled common-carrier accidental death/dismemberment benefits up to C$500,000/covered person. Entire eligible passenger fare must be card-paid; not general medical insurance. Covered loss must occur within 100 days of injury; loss schedule, exclusions and maximum indemnity apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/insurance/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-mobile-device-insurance",
           "title": "Mobile device insurance",
-          "detail": "Up to C$1,500 per insured person against eligible mobile-device theft, loss or accidental damage when the device is charged or financed to the card; maximum two years of coverage, with a 90-day purchase-protection overlap rule.",
+          "detail": "Eligible mobile device bought/financed with card: theft/loss/accidental damage for up to two years, maximum C$1,500/occurrence/person, 2% monthly depreciation and 10% deductible. Timing depends on purchase/financing and event; outright-purchase theft/damage generally begins day 91 after purchase protection. Suspend wireless service within 48 hours of loss; theft police report within seven days. Exclusions and documentation apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/insurance/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-purchase-protection-plan",
           "title": "Purchase protection",
-          "detail": "Eligible new items fully purchased with the card are covered for accidental physical damage or theft for 90 days, up to C$1,000 per occurrence.",
+          "detail": "Eligible item partly or fully card-paid: theft/direct physical damage for 90 days, up to C$1,000/cardmember/occurrence including all affected items and limited to the card-paid portion. Excess of other cover; loss/mysterious disappearance excluded. Report within 48 hours; written notice preferably within 45 days and documentation within 90 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/insurance/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-buyer-s-assurance-protection-plan",
           "title": "Extended warranty",
-          "detail": "Doubles eligible original manufacturer warranty, adding up to one year when the entire purchase price is charged to the card.",
+          "detail": "Full eligible purchase charged to card: extends eligible manufacturer warranty by its duration, up to one additional year, on original warranties of five years or less valid in Canada or the US. C$10,000/item and C$25,000/cardmember/policy year; excess of other insurance. Exclusions and documentation requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/insurance/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-travel-emergency-assistance",
-          "title": "Travel emergency assistance",
-          "detail": "24/7 worldwide out-of-town emergency medical coordination and legal referrals. This assistance service is not itself travel insurance, and third-party costs may be payable.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/insurance/",
-          "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "issuer-employee-card-misuse-protection",
           "title": "Employee card misuse protection",
-          "detail": "Eligible unauthorized supplementary employee-card charges may be covered up to C$100,000 per cardmember when employment is terminated and the supplementary card is cancelled within two business days, subject to conditions.",
+          "detail": "Issuer advertises up to C$100,000/cardmember for eligible supplementary employee misuse, subject to terms and cancellation within two business days after termination. Complete separate misuse policy, reporting deadlines, exclusions and recovery conditions were not publicly available; confirm with Amex before relying on this protection.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/insurance/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         }
       ],
       "statuses": [
@@ -3445,18 +3489,18 @@
           "id": "priority-ca",
           "provider": "Priority Pass",
           "title": "Priority Pass",
-          "detail": "Enrollment required; participating lounge terms apply.",
+          "detail": "Global Lounge Collection access subject to network, itinerary and guest rules; Priority Pass enrollment required. Through 2026, eligible Platinum cards have unlimited participating Priority Pass/Plaza Premium access. From January 1, 2027: basic card six visits/year to EACH network, eligible supplementary Platinum two/year to EACH; accompanying guests consume visits. C$20,000 eligible calendar-year account spend unlocks unlimited access for the rest of that year and the following year (2026 spend counts for 2027). Other network terms remain separate.",
           "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
           "finderURLTemplate": "https://www.prioritypass.com/lounges/{IATA}"
         },
         {
           "id": "plaza-ca",
           "provider": "Plaza Premium",
           "title": "Plaza Premium",
-          "detail": "Eligible Plaza Premium access under current Platinum terms.",
+          "detail": "Global Lounge Collection access subject to network, itinerary and guest rules; Priority Pass enrollment required. Through 2026, eligible Platinum cards have unlimited participating Priority Pass/Plaza Premium access. From January 1, 2027: basic card six visits/year to EACH network, eligible supplementary Platinum two/year to EACH; accompanying guests consume visits. C$20,000 eligible calendar-year account spend unlocks unlimited access for the rest of that year and the following year (2026 spend counts for 2027). Other network terms remain separate.",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/"
+          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/"
         },
         {
           "id": "delta-skyclub",
@@ -3470,9 +3514,11 @@
       ],
       "foreignTransactionFeePercent": 2.5,
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+        "https://princeoftravel.com/credit-cards/business-platinum-card-from-american-express/",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
         "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
-        "https://princeoftravel.com/credit-cards/business-platinum-card-from-american-express/"
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/",
+        "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/"
       ],
       "artworkURL": "https://princeoftravel.com/images/cards/Business_Platinum_Card.png",
       "earningDataComplete": true
@@ -3492,18 +3538,64 @@
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
       "checkedOn": "2026-11-04",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. App build 3 reset limitations are disclosed; no app code changes.",
       "benefits": [
         {
           "id": "issuer-annual-travel-credit",
           "title": "$100 Annual Travel Credit",
-          "detail": "Up to C$100 each calendar year on eligible Amex Travel bookings; qualifying booking requirements apply.",
+          "detail": "C$100 per cardmembership anniversary year toward one C$100+ eligible booking charged to card through Amex Travel Online. No rollover; cancellation does not restore the used credit.",
           "capMinor": 10000,
-          "reset": "calendarYear",
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/support/gold-card/faqs/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "nexus",
+          "title": "NEXUS credit",
+          "detail": "C$50 NEXUS application/renewal credit once per issuer-defined four-year account period, shared by basic/supplementary cards; not four years from first use. Existing-account initial window: October 18, 2021–October 17, 2025, followed by successive four-year windows; newer accounts use initial card anniversary. Declined application does not restore credit. Build 3 tracker uses manual reset at the actual issuer window; confirm your account dates.",
+          "capMinor": 5000,
+          "reset": "oneTime",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "credit",
-          "priority": 100
+          "intervalYears": 4,
+          "priority": 20
+        },
+        {
+          "id": "issuer-instacart-credit",
+          "title": "Instacart credit",
+          "detail": "Register eligible basic card: up to C$10/month on a qualifying C$10+ single-retailer Instacart Canada transaction, through December 31, 2027. CAD purchases shipped within Canada; excluded goods/services and transaction timing rules apply.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/member-extras/",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": "2028-01-01"
+        },
+        {
+          "id": "issuer-worldwide-airport-lounge-access-with-priority-pass",
+          "title": "Worldwide Airport Lounge Access with Priority Pass",
+          "detail": "Priority Pass membership for 1,200+ lounges worldwide after you enrol. Each visit has an entry fee at Priority Pass's current rate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-hertz-car-rental-benefit",
+          "title": "Hertz Car Rental Benefit",
+          "detail": "Enrol in Hertz Gold Plus Rewards for a one-class upgrade when available on rentals of 5+ days in a row, and no fee for one additional driver.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
+          "kind": "benefit",
+          "priority": 30
         },
         {
           "id": "issuer-plaza-premium-lounge-visits",
@@ -3517,17 +3609,6 @@
           "priority": 100
         },
         {
-          "id": "issuer-worldwide-airport-lounge-access-with-priority-pass",
-          "title": "Worldwide Airport Lounge Access with Priority Pass",
-          "detail": "Priority Pass membership for 1,200+ lounges worldwide after you enrol. Each visit has an entry fee at Priority Pass's current rate.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "benefit",
-          "priority": 20
-        },
-        {
           "id": "issuer-the-hotel-collection",
           "title": "The Hotel Collection",
           "detail": "Stays of 2+ nights booked through Amex Travel: a US$100 hotel credit for dining, spa or room charges, a room upgrade when available, noon check-in and late checkout when available.",
@@ -3536,18 +3617,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 101
-        },
-        {
-          "id": "issuer-hertz-car-rental-benefit",
-          "title": "Hertz Car Rental Benefit",
-          "detail": "Enrol in Hertz Gold Plus Rewards for a one-class upgrade when available on rentals of 5+ days in a row, and no fee for one additional driver.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "benefit",
-          "priority": 21
+          "priority": 100
         },
         {
           "id": "issuer-special-offers-on-american-express-travel-online",
@@ -3558,7 +3628,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 102
+          "priority": 100
         },
         {
           "id": "issuer-front-of-the-line-amex-presale-and-reserved-ticketstm",
@@ -3569,7 +3639,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 103
+          "priority": 100
         },
         {
           "id": "issuer-onsite-benefits-with-amex-experiencestm",
@@ -3580,7 +3650,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 104
+          "priority": 100
         },
         {
           "id": "issuer-amex-offers",
@@ -3591,139 +3661,139 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
           "kind": "benefit",
-          "priority": 105
-        },
-        {
-          "id": "nexus",
-          "title": "NEXUS credit",
-          "detail": "C$50 statement credit when a NEXUS application or renewal fee is charged to the card.",
-          "capMinor": 5000,
-          "reset": "oneTime",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "credit",
-          "intervalYears": 4
-        },
-        {
-          "id": "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
-          "title": "Emergency medical insurance",
-          "detail": "Up to C$5,000,000 in eligible emergency medical coverage when an insured person under age 65 travels outside their home province or territory, for the first 15 consecutive days of a covered trip.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-trip-cancellation-insurance",
-          "title": "Trip cancellation insurance",
-          "detail": "Up to C$1,500 per insured person and C$3,000 total for eligible prepaid non-refundable travel arrangements when a trip is cancelled for a covered reason.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-trip-interruption-insurance",
-          "title": "Trip interruption insurance",
-          "detail": "Up to C$1,500 per insured person and C$6,000 combined for eligible unused non-refundable arrangements following a covered trip interruption or delay.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-flight-delay-insurance",
-          "title": "Flight delay insurance",
-          "detail": "Eligible flight delays of four hours or longer may qualify for reimbursement of necessary expenses, up to a C$500 combined maximum with baggage delay coverage.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-baggage-delay-insurance",
-          "title": "Delayed & lost baggage insurance",
-          "detail": "Flight-ticket purchases on the card may qualify for eligible baggage delay lasting at least six hours, up to C$500 combined with flight-delay coverage across insured travelers.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/benefits/gold-rewards-card/travel-coverage.html",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-hotel-burglary-insurance",
-          "title": "Hotel/motel burglary insurance",
-          "detail": "Up to C$500 for covered loss of most personal belongings, excluding cash, following a burglary of eligible accommodations charged to the card.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/benefits/gold-rewards-card/travel-coverage.html",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-car-rental-theft-and-damage-insurance",
-          "title": "Rental car collision/loss damage insurance",
-          "detail": "Eligible rental vehicle damage or theft coverage for rentals of 48 days or less, on qualifying vehicles with MSRP up to C$85,000, when paid in full using this card and the rental agency collision waiver is declined.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/benefits/gold-rewards-card/travel-coverage.html",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-000-travel-accident-insurance",
-          "title": "Travel accident insurance",
-          "detail": "Common-carrier accidental death or dismemberment insurance up to C$500,000 when eligible transportation tickets are fully charged to the card.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/benefits/gold-rewards-card/travel-coverage.html",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-purchase-protection-plan",
-          "title": "Purchase protection",
-          "detail": "Eligible new items charged to the card are protected against covered accidental damage or theft for 90 days, subject to the insurer's claim limits.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "issuer-buyer-s-assurance-protection-plan",
-          "title": "Extended warranty",
-          "detail": "Eligible original manufacturer's warranties can be extended for up to one additional year when the item is fully purchased with the card.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
-          "kind": "protection",
           "priority": 100
         },
         {
           "id": "issuer-travel-emergency-assistance",
           "title": "Travel emergency assistance",
-          "detail": "Travel medical and emergency assistance coordination through the insurer. Coverage and fees depend on the specific insured event.",
+          "detail": "24-hour assistance and referrals under the card terms. Third-party costs are generally the cardmember’s responsibility unless a separate insurance benefit applies; this service is not an additional medical insurance policy.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/benefits/gold-rewards-card/travel-coverage.html",
-          "kind": "protection",
+          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
+          "kind": "benefit",
           "priority": 100
+        },
+        {
+          "id": "issuer-plan-it",
+          "title": "Plan It installment option",
+          "detail": "Eligible large purchases may be split into installments with a fixed monthly fee and eligibility assessment. This is a borrowing option, not a statement credit or insurance.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5 million/person/trip outside the home province for the first 15 consecutive days, age 64 or under at departure. Canadian residency and government health plan required; eligible cardmember, spouse and dependants may travel separately. Generally 90-day medical stability; exclusions apply. Call Global Excel before treatment; otherwise a 20% share applies to the first C$25,000 of eligible expenses not recovered from the government plan.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-trip-cancellation-insurance",
+          "title": "Trip cancellation insurance",
+          "detail": "Covered cancellation reasons only: C$1,500/person and C$3,000/all insured persons/trip. Any portion of eligible prepaid arrangements must be card-paid before cancellation penalties, or eligible Membership Rewards redemption with taxes paid as required. Generally 90-day pre-existing medical stability; other reward redemptions excluded. Notify insurer promptly; claim within 90 days of return; exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-trip-interruption-insurance",
+          "title": "Trip interruption insurance",
+          "detail": "Covered interruption: C$1,500/person, C$6,000/all insured persons/trip. Covered interruption/delay out-of-pocket costs C$100/day/person, C$1,000 combined. Eligible card/Membership Rewards prepaid arrangements required; generally 90-day pre-existing medical stability and defined causes. Notify insurer promptly; claim within 90 days of return; exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-flight-delay-insurance",
+          "title": "Flight delay insurance",
+          "detail": "Full airline fare charged to card: covered departure delay/denied boarding or missed connection with no alternative transport within four hours. Reasonable eligible living expenses/sundry items share C$500/occurrence with emergency baggage delay; not separate allowances. Receipts, exclusions and reporting requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-baggage-delay-insurance",
+          "title": "Baggage delay & lost baggage insurance",
+          "detail": "Baggage delay: six hours at outbound destination; eligible essentials within four days and before baggage return, shared C$500/occurrence with flight delay/missed connection. No homeward delay cover. Lost/stolen baggage: separate C$500/occurrence for all insured persons combined, with jewellery C$300/golf C$250 sublimits. Full eligible fare card-paid, carrier/other insurance and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-hotel-burglary-insurance",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Covered accommodation reserved and fully charged to card: personal items lost/damaged in burglary up to C$500/occurrence. Proof of burglary, timely reporting, exclusions and other-insurance provisions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-car-rental-theft-and-damage-insurance",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Eligible rental theft/damage, not liability insurance. Entire rental card-paid or permitted Membership Rewards redemption; decline CDW where allowed. Original model-year MSRP not over C$85,000 before tax; maximum 48 consecutive days. Exceeding 48 days voids cover from day one. Eligible driver/vehicle, other-insurance and territorial terms apply; report loss/theft/damage within 48 hours.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-000-travel-accident-insurance",
+          "title": "Travel accident insurance",
+          "detail": "Scheduled common-carrier accidental death/dismemberment benefits up to C$500,000/covered person. Entire eligible passenger fare must be card-paid; not general medical insurance. Covered loss must occur within 100 days of injury; loss schedule, exclusions and maximum indemnity apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-purchase-protection-plan",
+          "title": "Purchase protection",
+          "detail": "Eligible item partly or fully card-paid: theft/direct physical damage for 90 days, up to C$1,000/cardmember/occurrence including all affected items and limited to the card-paid portion. Excess of other cover; loss/mysterious disappearance excluded. Report within 48 hours; written notice preferably within 45 days and documentation within 90 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-buyer-s-assurance-protection-plan",
+          "title": "Extended warranty",
+          "detail": "Full eligible purchase charged to card: extends eligible manufacturer warranty by its duration, up to one additional year, on original warranties of five years or less valid in Canada or the US. C$10,000/item and C$25,000/cardmember/policy year; excess of other insurance. Exclusions and documentation requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
         }
       ],
       "statuses": [],
@@ -3801,6 +3871,8 @@
       "availability": "confirm-with-issuer",
       "artworkURL": "https://princeoftravel.com/images/cards/Gold_Rewards_Card.png",
       "benefitSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/",
         "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/"
       ],
       "foreignTransactionFeePercent": 2.5,
@@ -3820,8 +3892,8 @@
         "amex-mr-can"
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. Future 2027 lounge limits and spending unlock are descriptive and do not promise current unlimited guest access. App build 3 reset limitations are disclosed; no app code changes.",
       "benefits": [
         {
           "id": "travel",
@@ -3831,7 +3903,8 @@
           "reset": "anniversary",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "dining",
@@ -3841,18 +3914,20 @@
           "reset": "calendarYear",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "nexus",
           "title": "NEXUS credit",
-          "detail": "Up to C$100 in statement credits every four years for an eligible NEXUS application or renewal fee.",
+          "detail": "C$100 NEXUS application/renewal credit once per issuer-defined four-year account period, shared by basic/supplementary cards; not four years from first use. Existing-account initial window: September 1, 2021–August 31, 2025, followed by successive four-year windows; newer accounts use initial card anniversary. Declined application does not restore credit. Build 3 tracker uses manual reset at the actual issuer window; confirm your account dates.",
           "capMinor": 10000,
           "reset": "oneTime",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "intervalYears": 4,
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "instacart",
@@ -3863,53 +3938,9 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "credit",
-          "priority": 100,
+          "priority": 20,
           "endsBefore": "2028-01-01",
           "reminderOnPeriodStart": true
-        },
-        {
-          "id": "lounges",
-          "title": "Global Lounge Collection",
-          "detail": "Access to participating lounges in the American Express Global Lounge Collection, subject to network rules.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit",
-          "priority": 101
-        },
-        {
-          "id": "fhr",
-          "title": "Fine Hotels + Resorts",
-          "detail": "Eligible FHR bookings receive current program benefits.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit",
-          "priority": 102
-        },
-        {
-          "id": "hotel-collection",
-          "title": "The Hotel Collection",
-          "detail": "Eligible Hotel Collection stays receive current program benefits and property credit; minimum stay rules apply.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit",
-          "priority": 103
-        },
-        {
-          "id": "pearson",
-          "title": "Toronto Pearson benefits",
-          "detail": "Access to eligible Platinum airport benefits at Toronto Pearson under current terms.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-          "kind": "benefit",
-          "priority": 104
         },
         {
           "id": "hilton-gold",
@@ -3920,7 +3951,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "marriott-gold",
@@ -3931,7 +3962,51 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 21
+          "priority": 30
+        },
+        {
+          "id": "lounges",
+          "title": "Global Lounge Collection",
+          "detail": "Global Lounge Collection access subject to network, itinerary and guest rules; Priority Pass enrollment required. Through 2026, eligible Platinum cards have unlimited participating Priority Pass/Plaza Premium access. From January 1, 2027: basic card six visits/year to EACH network, eligible supplementary Platinum two/year to EACH; accompanying guests consume visits. C$20,000 eligible calendar-year account spend unlocks unlimited access for the rest of that year and the following year (2026 spend counts for 2027). Other network terms remain separate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/travel/the-platinum-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "fhr",
+          "title": "Fine Hotels + Resorts",
+          "detail": "Eligible FHR bookings receive current program benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "hotel-collection",
+          "title": "The Hotel Collection",
+          "detail": "Eligible Hotel Collection stays receive current program benefits and property credit; minimum stay rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pearson",
+          "title": "Toronto Pearson benefits",
+          "detail": "Access to eligible Platinum airport benefits at Toronto Pearson under current terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "front-line",
@@ -3942,7 +4017,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 105
+          "priority": 100
         },
         {
           "id": "amex-offers",
@@ -3953,7 +4028,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 106
+          "priority": 100
         },
         {
           "id": "concierge",
@@ -3964,7 +4039,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 107
+          "priority": 100
         },
         {
           "id": "global-dining",
@@ -3975,7 +4050,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 108
+          "priority": 100
         },
         {
           "id": "member-extras",
@@ -3986,7 +4061,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 109
+          "priority": 100
         },
         {
           "id": "avis",
@@ -3997,7 +4072,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 110
+          "priority": 100
         },
         {
           "id": "hertz",
@@ -4008,7 +4083,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
           "kind": "benefit",
-          "priority": 111
+          "priority": 100
         },
         {
           "id": "issuer-special-offers-on-american-express-travel-online",
@@ -4019,7 +4094,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 112
+          "priority": 100
         },
         {
           "id": "issuer-dining-with-amex-experiencestm",
@@ -4030,7 +4105,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 113
+          "priority": 100
         },
         {
           "id": "issuer-onsite-benefits-with-amex-experiencestm",
@@ -4041,7 +4116,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 114
+          "priority": 100
         },
         {
           "id": "issuer-the-american-express-experiences-app",
@@ -4052,7 +4127,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
           "kind": "benefit",
-          "priority": 115
+          "priority": 100
         },
         {
           "id": "issuer-hotel-status-benefit",
@@ -4063,7 +4138,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/travel/hotels/the-platinum-card/marriott-bonvoy/",
           "kind": "benefit",
-          "priority": 116
+          "priority": 100
         },
         {
           "id": "pot-transfer-to-airline-and-hotel-partners",
@@ -4076,125 +4151,138 @@
           "priority": 100
         },
         {
-          "id": "travel-medical",
-          "title": "Emergency medical insurance",
-          "detail": "Up to C$5,000,000 in eligible out-of-province/country emergency medical expenses for insured people under 65 during the first 15 consecutive days of a covered trip. Policy conditions and exclusions apply.",
+          "id": "emergency-assistance",
+          "title": "Travel emergency assistance",
+          "detail": "24-hour assistance and referrals under the card terms. Third-party costs are generally the cardmember’s responsibility unless a separate insurance benefit applies; this service is not an additional medical insurance policy.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
-          "kind": "protection",
+          "kind": "benefit",
           "priority": 100
+        },
+        {
+          "id": "issuer-2027-unlimited-lounges",
+          "title": "Unlock unlimited Priority Pass & Plaza Premium visits",
+          "detail": "From January 1, 2027, C$20,000 in eligible calendar-year account spend restores unlimited participating Priority Pass and Plaza Premium access for the remainder of that year and the next. 2026 spend qualifies for 2027. Guest, supplementary-card, enrollment and network conditions apply.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/travel/the-platinum-card/",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 2000000,
+          "spendMilestoneReset": "calendarYear"
+        },
+        {
+          "id": "travel-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5 million/person/trip outside the home province for the first 15 consecutive days, age 64 or under at departure. Canadian residency and government health plan required; eligible cardmember, spouse and dependants may travel separately. Generally 90-day medical stability; exclusions apply. Call Global Excel before treatment; otherwise a 20% share applies to the first C$25,000 of eligible expenses not recovered from the government plan.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
         },
         {
           "id": "trip-cancel",
           "title": "Trip cancellation insurance",
-          "detail": "Up to C$2,500 per insured person; C$5,000 combined trip maximum, for covered cancellations.",
+          "detail": "Covered cancellation reasons only: C$2,500/person and C$5,000/all insured persons/trip. Any portion of eligible prepaid arrangements must be card-paid before cancellation penalties, or eligible Membership Rewards redemption with taxes paid as required. Generally 90-day pre-existing medical stability; other reward redemptions excluded. Notify insurer promptly; claim within 90 days of return; exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "trip-interruption",
           "title": "Trip interruption insurance",
-          "detail": "Covered interruptions: up to C$2,500 per person; C$6,000 combined trip maximum.",
+          "detail": "Covered interruption: C$2,500/person, C$6,000/all insured persons/trip. Covered interruption/delay out-of-pocket costs C$250/day/person, C$1,000 combined. Eligible card/Membership Rewards prepaid arrangements required; generally 90-day pre-existing medical stability and defined causes. Notify insurer promptly; claim within 90 days of return; exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "trip-delay",
           "title": "Flight delay insurance",
-          "detail": "Covered delays of four hours or more; C$1,000 shared limit with baggage delay.",
+          "detail": "Full airline fare charged to card: covered departure delay/denied boarding or missed connection with no alternative transport within four hours. Reasonable eligible living expenses/sundry items share C$1,000/occurrence with emergency baggage delay; not separate allowances. Receipts, exclusions and reporting requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "baggage-delay",
-          "title": "Delayed & lost baggage insurance",
-          "detail": "Covered baggage delays share the C$1,000 flight/baggage delay limit.",
+          "title": "Baggage delay & lost baggage insurance",
+          "detail": "Baggage delay: six hours at outbound destination; eligible essentials within four days and before baggage return, shared C$1,000/occurrence with flight delay/missed connection. No homeward delay cover. Lost/stolen baggage: separate C$1,000/occurrence for all insured persons combined, with jewellery C$300/golf C$250 sublimits. Full eligible fare card-paid, carrier/other insurance and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "hotel-burglary",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Eligible hotel theft; payment requirements and policy limits apply.",
+          "detail": "Covered accommodation reserved and fully charged to card: personal items lost/damaged in burglary up to C$1,000/occurrence. Proof of burglary, timely reporting, exclusions and other-insurance provisions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "rental",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Eligible vehicle rentals; full payment, vehicle value and rental duration restrictions apply.",
+          "detail": "Eligible rental theft/damage, not liability insurance. Entire rental card-paid or permitted Membership Rewards redemption; decline CDW where allowed. Original model-year MSRP not over C$85,000 before tax; maximum 48 consecutive days. Exceeding 48 days voids cover from day one. Eligible driver/vehicle, other-insurance and territorial terms apply; report loss/theft/damage within 48 hours.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "travel-accident",
           "title": "Travel accident insurance",
-          "detail": "Eligible common-carrier accident coverage up to C$500,000.",
+          "detail": "Scheduled common-carrier accidental death/dismemberment benefits up to C$500,000/covered person. Entire eligible passenger fare must be card-paid; not general medical insurance. Covered loss must occur within 100 days of injury; loss schedule, exclusions and maximum indemnity apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "purchase",
           "title": "Purchase protection",
-          "detail": "Eligible purchases receive covered theft/damage protection.",
+          "detail": "Eligible item partly or fully card-paid: theft/direct physical damage for 120 days, up to C$1,000/cardmember/occurrence including all affected items and limited to the card-paid portion. Excess of other cover; loss/mysterious disappearance excluded. Report within 48 hours; written notice preferably within 45 days and documentation within 90 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "warranty",
           "title": "Extended warranty",
-          "detail": "Extends an eligible original manufacturer warranty under the policy.",
+          "detail": "Full eligible purchase charged to card: extends eligible manufacturer warranty by its duration, up to one additional year, on original warranties of five years or less valid in Canada or the US. C$10,000/item and C$25,000/cardmember/policy year; excess of other insurance. Exclusions and documentation requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
-        },
-        {
-          "id": "emergency-assistance",
-          "title": "Travel emergency assistance",
-          "detail": "Travel referrals and assistance; third-party service costs may apply.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
-          "kind": "protection",
-          "priority": 100
+          "priority": 210
         }
       ],
       "statuses": [
@@ -4309,18 +4397,18 @@
           "id": "priority-ca",
           "provider": "Priority Pass",
           "title": "Priority Pass",
-          "detail": "Enrollment required; participating lounge terms apply.",
+          "detail": "Global Lounge Collection access subject to network, itinerary and guest rules; Priority Pass enrollment required. Through 2026, eligible Platinum cards have unlimited participating Priority Pass/Plaza Premium access. From January 1, 2027: basic card six visits/year to EACH network, eligible supplementary Platinum two/year to EACH; accompanying guests consume visits. C$20,000 eligible calendar-year account spend unlocks unlimited access for the rest of that year and the following year (2026 spend counts for 2027). Other network terms remain separate.",
           "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/travel/the-platinum-card/",
           "finderURLTemplate": "https://www.prioritypass.com/lounges/{IATA}"
         },
         {
           "id": "plaza-ca",
           "provider": "Plaza Premium",
           "title": "Plaza Premium",
-          "detail": "Eligible Plaza Premium access under current Platinum terms.",
+          "detail": "Global Lounge Collection access subject to network, itinerary and guest rules; Priority Pass enrollment required. Through 2026, eligible Platinum cards have unlimited participating Priority Pass/Plaza Premium access. From January 1, 2027: basic card six visits/year to EACH network, eligible supplementary Platinum two/year to EACH; accompanying guests consume visits. C$20,000 eligible calendar-year account spend unlocks unlimited access for the rest of that year and the following year (2026 spend counts for 2027). Other network terms remain separate.",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/"
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/travel/the-platinum-card/"
         },
         {
           "id": "delta-skyclub",
@@ -4334,9 +4422,11 @@
       ],
       "foreignTransactionFeePercent": 2.5,
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+        "https://princeoftravel.com/credit-cards/american-express-platinum-card/",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/",
         "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-        "https://princeoftravel.com/credit-cards/american-express-platinum-card/"
+        "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/"
       ],
       "earningDataComplete": true
     },
@@ -4346,16 +4436,29 @@
       "issuer": "American Express",
       "market": "CAN",
       "annualFeeMinor": 19188,
-      "feeNote": "CAD 15.99 per month outside Quebec, annualized to CAD 191.88. Quebec: CAD 191.88 yearly.",
+      "feeNote": "C$15.99/month (C$191.88 annually) outside Quebec; C$191.88 annual fee for Quebec residents. Additional cards have no annual fee, subject to account terms.",
       "colorHex": "17447B",
       "secondaryHex": "121C4E",
       "programIDs": [
         "amex-mr-can"
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. App build 3 reset limitations are disclosed; no app code changes.",
       "benefits": [
+        {
+          "id": "instacart",
+          "title": "Instacart credit",
+          "detail": "Up to C$5/month on eligible Canadian Instacart purchases after registration, through December 31, 2027.",
+          "capMinor": 500,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": "2028-01-01",
+          "reminderOnPeriodStart": true
+        },
         {
           "id": "earning",
           "title": "5× eats & drinks",
@@ -4375,20 +4478,8 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
-          "kind": "benefit"
-        },
-        {
-          "id": "instacart",
-          "title": "Instacart credit",
-          "detail": "Up to C$5/month on eligible Canadian Instacart purchases after registration, through December 31, 2027.",
-          "capMinor": 500,
-          "reset": "monthly",
-          "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
-          "kind": "credit",
-          "priority": 100,
-          "endsBefore": "2028-01-01",
-          "reminderOnPeriodStart": true
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "hotel-collection",
@@ -4436,8 +4527,8 @@
         },
         {
           "id": "issuer-amex-experiencestm",
-          "title": "Amex Experiences",
-          "detail": "Front Of The Line presale and reserved tickets for concerts, theatre and events, plus cardmember perks at events, in the Amex Experiences app.",
+          "title": "Amex ExperiencesTM",
+          "detail": "Included card benefit; eligibility, enrollment where required and issuer terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4448,99 +4539,101 @@
         {
           "id": "travel-medical",
           "title": "Emergency medical insurance",
-          "detail": "Up to C$5,000,000 for eligible emergency medical expenses outside the home province or country during the first 15 consecutive days of travel, for insured people under 65.",
+          "detail": "Up to C$5 million/person/trip outside the home province for the first 15 consecutive days, age 64 or under at departure. Canadian residency and government health plan required; eligible cardmember, spouse and dependants may travel separately. Generally 90-day medical stability; exclusions apply. Call Global Excel before treatment; otherwise a 20% share applies to the first C$25,000 of eligible expenses not recovered from the government plan.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/benefits/cobalt-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "trip-delay",
           "title": "Flight delay insurance",
-          "detail": "Covered delays of four hours or more; C$500 shared limit with baggage delay.",
+          "detail": "Full airline fare charged to card: covered departure delay/denied boarding or missed connection with no alternative transport within four hours. Reasonable eligible living expenses/sundry items share C$500/occurrence with emergency baggage delay; not separate allowances. Receipts, exclusions and reporting requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "baggage",
-          "title": "Delayed & lost baggage insurance",
-          "detail": "Covered baggage delay or lost/stolen luggage, subject to separate policy terms and shared limits.",
+          "title": "Baggage delay & lost baggage insurance",
+          "detail": "Baggage delay: six hours at outbound destination; eligible essentials within four days and before baggage return, shared C$500/occurrence with flight delay/missed connection. No homeward delay cover. Lost/stolen baggage: separate C$500/occurrence for all insured persons combined, with jewellery C$300/golf C$250 sublimits. Full eligible fare card-paid, carrier/other insurance and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "hotel-burglary",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Eligible hotel theft; up to C$500, subject to policy conditions.",
+          "detail": "Covered accommodation reserved and fully charged to card: personal items lost/damaged in burglary up to C$500/occurrence. Proof of burglary, timely reporting, exclusions and other-insurance provisions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "rental",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "Eligible vehicles up to C$85,000 MSRP, for rentals no longer than 48 days. Full payment and CDW waiver required.",
+          "detail": "Eligible rental theft/damage, not liability insurance. Entire rental card-paid or permitted Membership Rewards redemption; decline CDW where allowed. Original model-year MSRP not over C$85,000 before tax; maximum 48 consecutive days. Exceeding 48 days voids cover from day one. Eligible driver/vehicle, other-insurance and territorial terms apply; report loss/theft/damage within 48 hours.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "travel-accident",
           "title": "Travel accident insurance",
-          "detail": "Eligible common-carrier accident coverage up to C$250,000.",
+          "detail": "Scheduled common-carrier accidental death/dismemberment benefits up to C$250,000/covered person. Entire eligible passenger fare must be card-paid; not general medical insurance. Covered loss must occur within 100 days of injury; loss schedule, exclusions and maximum indemnity apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "mobile-device",
           "title": "Mobile device insurance",
-          "detail": "Eligible devices: up to C$1,000; maximum two-year coverage and policy conditions apply.",
+          "detail": "Eligible mobile device bought/financed with card: theft/loss/accidental damage for up to two years, maximum C$1,000/occurrence/person, 2% monthly depreciation and 10% deductible. Timing depends on purchase/financing and event; outright-purchase theft/damage generally begins day 91 after purchase protection. Suspend wireless service within 48 hours of loss; theft police report within seven days. Exclusions and documentation apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
           "kind": "protection",
-          "priority": 100
+          "priority": 210
         },
         {
           "id": "cobalt-can-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Eligible new items purchased with the card are protected against covered theft or accidental damage for 90 days, up to C$1,000 per occurrence.",
+          "detail": "Eligible item partly or fully card-paid: theft/direct physical damage for 90 days, up to C$1,000/cardmember/occurrence including all affected items and limited to the card-paid portion. Excess of other cover; loss/mysterious disappearance excluded. Report within 48 hours; written notice preferably within 45 days and documentation within 90 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/benefits/cobalt-card/",
-          "kind": "protection"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
         },
         {
           "id": "cobalt-can-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Adds up to one year to the original manufacturer's warranty for eligible purchases fully charged to the card.",
+          "detail": "Full eligible purchase charged to card: extends eligible manufacturer warranty by its duration, up to one additional year, on original warranties of five years or less valid in Canada or the US. C$10,000/item and C$25,000/cardmember/policy year; excess of other insurance. Exclusions and documentation requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/benefits/cobalt-card/",
-          "kind": "protection"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
         }
       ],
       "statuses": [],
@@ -4635,6 +4728,8 @@
       "reviewURL": "https://princeoftravel.com/credit-cards/",
       "artworkURL": "https://icm.aexp-static.com/Internet/internationalcardshop/en_ca/images/pdp-uplift/consumer/cobalt-card/Cobalt-card.webp",
       "benefitSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/",
         "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/"
       ],
       "foreignTransactionFeePercent": 2.5,
