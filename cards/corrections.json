@@ -24839,7 +24839,7 @@
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
       "checkedOn": "2026-11-04",
-      "coverageNote": "Product offer, October 2026 cardmember agreement and October 14, 2026 certificates checked November 4, 2026. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, account eligibility and full-payment requirements apply. Rental and purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel claims should be filed promptly, with written notice within 90 days where possible. Certificate exclusions and proof requirements apply.",
+      "coverageNote": "Product offer, October 2026 cardmember agreement and October 14, 2026 certificates checked November 4, 2026. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, account eligibility and full-payment requirements apply. Rental and purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel claims should be filed promptly, with written notice within 90 days where possible. Certificate exclusions and proof requirements apply. The overbroad direct-hotel earning mapping is retired; the genuine Hilton-only bonus is retained in Benefits and is not applied to unrelated hotels in Best Card.",
       "benefits": [
         {
           "id": "hilton-annual-50k",
@@ -25032,6 +25032,17 @@
           "reset": "none",
           "enrollmentRequired": false,
           "priority": 100
+        },
+        {
+          "id": "issuer-hilton-earn",
+          "title": "6X on eligible direct Hilton purchases",
+          "detail": "Earn 6 Hilton Honors points per eligible C$1 charged directly by participating Hilton portfolio properties. Eligible room charges and room-billed incidentals follow issuer merchant rules; third-party bookings do not qualify. This merchant-specific rate is shown here because build 3 has no Hilton-only hotel ranking category.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
         }
       ],
       "statuses": [
@@ -25089,10 +25100,11 @@
           "rewardKind": "points",
           "programID": "hilton",
           "label": "6X Hilton",
-          "detail": "Eligible purchases made directly with Hilton portfolio hotels and resorts (including Hilton Grand Vacations and incidentals charged to the room).",
+          "detail": "Retired broad hotel-category mapping on November 4, 2026. The 6X direct-Hilton bonus remains available and is described in Benefits; it does not apply to unrelated hotels. Build 3 cannot restrict this category to Hilton merchants.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/17626-50498176-1026-Hilton-Online-CMA-EN.pdf"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/17626-50498176-1026-Hilton-Online-CMA-EN.pdf",
+          "endsBefore": "2026-11-04"
         }
       ],
       "accountType": "personal",
@@ -26460,6 +26472,1105 @@
       ],
       "artworkURL": "https://princeoftravel.com/images/cards/marriott-bonvoy-Business_Credit_Card.png",
       "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
+    },
+    {
+      "id": "amex-hilton-honors-surpass-us",
+      "name": "Amex Hilton Honors Surpass US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 15000,
+      "feeNote": "US$150 annual fee; additional cards have no annual fee. No foreign transaction fee. Introductory offers may differ.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-hilton-honors-surpass-us",
+      "programIDs": [
+        "hilton"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No lounge-pass allocation, cell-phone, general trip cancellation/interruption or trip-delay insurance is listed. The overbroad direct-hotel earning mapping is retired; the genuine Hilton-only bonus is retained in Benefits and is not applied to unrelated hotels in Best Card.",
+      "benefits": [
+        {
+          "id": "issuer-hilton-honors-gold-status",
+          "title": "Hilton Honors Gold status",
+          "detail": "Complimentary Gold status: 80% bonus on base points and the 5th night free on standard-room stays of 5+ nights booked with points.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-hilton-credit",
+          "title": "$200 Hilton Credit",
+          "detail": "Up to US$50/calendar quarter for eligible purchases charged directly by Hilton portfolio properties, shared across the account. Book through Hilton-operated channels; third-party bookings excluded. Incidentals must be charged to the room and paid at checkout. No rollover; allow 8–12 weeks for credit.",
+          "capMinor": 5000,
+          "reset": "quarterly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-complimentary-national-car-rental-emerald-club-executive-status",
+          "title": "National Emerald Club Executive",
+          "detail": "Enroll through your Amex account with the card for complimentary National Emerald Club Executive status. Eligible full-size-or-above reservations can access the Executive Area in the U.S./Canada. National account, location, rental and program terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "amex-hilton-honors-surpass-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-surpass-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage; up to US$1,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-surpass-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-surpass-us-travel-emergency-assistance",
+          "title": "Global Assist hotline",
+          "detail": "24/7 medical/legal referrals, emergency cash-wire coordination and missing-luggage assistance when more than 100 miles from home. Third-party costs are your responsibility; this assistance service is not emergency-medical insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "free-night-15k",
+          "title": "Hilton Free Night Reward",
+          "detail": "One Hilton Free Night Reward after US$15,000 eligible net calendar-year spend, including additional cards. Basic member receives the reward, usually 8–12 weeks later. Standard-room availability/excluded-property terms apply; call Hilton to redeem, complete stay within 12 months of issue. Not an automatic anniversary night.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 1500000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "diamond-40k",
+          "title": "Hilton Diamond status",
+          "detail": "Spend US$40,000 in eligible net purchases/calendar year for Hilton Honors Diamond through the end of the following calendar year. Additional-card spend counts for the basic member; allow 10–12 weeks to activate. Returns/account closure can affect eligibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 4000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "amex-hilton-honors-surpass-us-car-rental-loss-damage-insurance",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary theft/damage cover up to US$50,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-send-split",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Send & Split",
+          "detail": "Enroll and use the Amex App to send eligible payments to PayPal/Venmo users and split eligible purchases; program limits, account eligibility and payment terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "issuer-hilton-reward-stays",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Hilton reward-stay benefits",
+          "detail": "Eligible Hilton elite members receive a fifth night free on eligible standard-room stays of five or more nights paid entirely with points. Fully points-paid reward stays have no resort fees. Program/property rules and availability apply; these are loyalty benefits, not annual free-night certificates.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.hilton.com/en/hilton-honors/terms/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-hilton-earn",
+          "title": "12X on eligible direct Hilton purchases",
+          "detail": "Earn 12 Hilton Honors points per eligible US$1 charged directly by participating Hilton portfolio properties. Eligible room charges and room-billed incidentals follow issuer merchant rules; third-party bookings do not qualify. This merchant-specific rate is shown here because build 3 has no Hilton-only hotel ranking category.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "national-executive",
+          "programID": "national",
+          "tier": "Executive",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Enroll through your Amex account; maintain eligible card and National membership. Rental and program terms apply.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/"
+        },
+        {
+          "id": "included-hilton-status",
+          "programID": "hilton",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "Automatic Hilton status for the basic Cardmember with an active linked Hilton Honors account and eligible card in good standing; cancellation ends card-provided status.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "3X Hilton points",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "calculationNote": null
+        },
+        {
+          "id": "hilton",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 12,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "12X Hilton",
+          "detail": "Retired broad hotel-category mapping on November 4, 2026. The 12X direct-Hilton bonus remains available and is described in Benefits; it does not apply to unrelated hotels. Build 3 cannot restrict this category to Hilton merchants.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": "2026-11-04",
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "calculationNote": null
+        },
+        {
+          "id": "everyday",
+          "categories": [
+            "dining",
+            "groceries",
+            "gas"
+          ],
+          "rate": 6,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "6X dining, groceries and gas",
+          "detail": "6X on eligible U.S. restaurants, U.S. supermarkets and U.S. gas stations; merchant coding and exclusions apply.",
+          "countries": [
+            "US"
+          ],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+          "calculationNote": null
+        },
+        {
+          "id": "online-retail",
+          "categories": [
+            "onlineShopping"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "4X U.S. online retail",
+          "detail": "U.S. online retail purchases.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+      "artworkSearchTerms": "Amex Hilton Honors Surpass",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000328_480x304_straight_withname.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+        "https://global.americanexpress.com/card-benefits/terms/hilton-surpass",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
+    },
+    {
+      "id": "amex-hilton-honors-aspire-us",
+      "name": "Amex Hilton Honors Aspire US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 55000,
+      "feeNote": "US$550 annual fee; additional cards have no annual fee. No foreign transaction fee. Introductory offers may differ.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-hilton-honors-aspire-us",
+      "programIDs": [
+        "hilton"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. A duplicate Hilton Diamond status entry was removed; the original diamond status ID is retained. Aspire has no current Priority Pass lounge-pass allocation. The overbroad direct-hotel earning mapping is retired; the genuine Hilton-only bonus is retained in Benefits and is not applied to unrelated hotels in Best Card.",
+      "benefits": [
+        {
+          "id": "resort",
+          "title": "Hilton resort credit",
+          "detail": "Up to US$200 January–June and US$200 July–December on eligible direct purchases at participating Hilton Resorts. Incidental charges must go to the room and be paid with Aspire. Advance-purchase/non-refundable rates and SLH properties excluded. Shared account cap; no rollover; allow 8–12 weeks.",
+          "capMinor": 20000,
+          "reset": "semiannual",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "free-night",
+          "title": "Annual free-night reward",
+          "detail": "Receive one Hilton Free Night Reward in the first card year and each renewal year. Standard-room availability and excluded-property terms apply; call Hilton to redeem and complete stay within 12 months of issue. This award is separate from calendar-year spend awards.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-hilton-honors-diamond-status",
+          "title": "Hilton Honors Diamond status",
+          "detail": "Complimentary Diamond status: 100% bonus on base points and Diamond on-property benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-flight-credit",
+          "title": "$200 Flight Credit",
+          "detail": "Up to US$50/calendar quarter on eligible scheduled passenger airfare bought directly with airlines or through AmexTravel.com/app, shared across the account. Charter/private jets, vacation packages and other third-party bookings excluded. No rollover; allow 8–12 weeks.",
+          "capMinor": 5000,
+          "reset": "quarterly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-clear-credit",
+          "title": "$219 CLEAR+ Credit",
+          "detail": "Up to US$219/calendar year toward CLEAR+ membership paid with the card, shared across the account. Taxes/fees are not covered; membership automatically renews. CLEAR eligibility and identity/enrollment requirements apply.",
+          "capMinor": 21900,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-global-dining-access-by-resy",
+          "title": "Global Dining Access by Resy",
+          "detail": "Add the eligible Aspire Card to your Resy profile for participating exclusive reservations, Priority Notify and premium experiences. Availability and event costs apply; this is access, not a dining statement credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Covered round-trip cancellation/interruption: up to US$10,000/trip and US$20,000/card/12 months for each coverage, excess of other benefits. Full common-carrier transport paid with card/allowed points or vouchers; only defined causes qualify, not any reason. Pre-existing conditions and supplier insolvency excluded. Notify insurer and supplier within required times; insurer notice 60 days, proof 180 days, subject to stated exceptions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Covered round trip delayed more than 6 hours: up to US$500/trip, two claims/card/12 months, excess of other benefits. Pay full common-carrier transport with the card/allowed points or vouchers and additional expenses with that card. Weather, equipment failure, hijacking/terrorism or lost travel documents may qualify; known delays excluded. Notify within 60 days; proof within 180 days, subject to stated exceptions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Covered loss/theft/damage: carry-on up to US$3,000, checked US$2,000, high-risk items US$1,000; combined US$3,000/person/trip. NY US$2,000/bag and US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards; other-program redemptions excluded. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Prior month's eligible wireless bill paid with card: covered theft/damage including cracked screens, up to US$800/claim after US$50 deductible, two claims/account/12 months; excess of other insurance. Lost/mysteriously disappeared phones and cosmetic damage excluded. Theft police report within 48 hours; notify claim within 90 days/as soon as reasonably possible, written proof within 120 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage/loss; up to US$10,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-return-protection",
+          "title": "Return protection",
+          "detail": "Eligible items paid entirely with the card in the US/covered territories: if the seller refuses a return within 90 days, up to US$300/item and US$1,000/account/calendar year, excluding original shipping. Item must be unused, undamaged and working; exclusions include jewellery, software and consumables. Notify within 90 days of purchase; requested documents and returned item normally within 30 days of the respective request.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary theft/damage cover up to US$75,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-travel-emergency-assistance",
+          "title": "Premium Global Assist hotline",
+          "detail": "24/7 emergency coordination more than 100 miles from home, including medical/legal referrals, cash wires, prescription replacement and missing-luggage help. Emergency medical transport may be provided at no cost only when approved and arranged by Premium Global Assist. Other third-party expenses may be yours; this is not general medical insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "property-credit",
+          "title": "$100 Property Credit",
+          "detail": "Book at least two nights at participating Waldorf Astoria/Conrad properties through HiltonHonorsAspireCard.com using the Aspire benefit rate, or the designated Hilton phone channel/reference. Up to US$100 of qualifying property charges per booking at checkout; room rate, taxes, gratuities and property fees excluded. No cash/carryover; back-to-back stays within 24 hours count as one.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "priority": 100
+        },
+        {
+          "id": "free-night-30k",
+          "title": "Free Night Reward at $30,000",
+          "detail": "Earn one additional Hilton Free Night Reward at US$30,000 total eligible calendar-year spend, shared across basic/additional cards. Standard-room availability and exclusions apply; reward must be used within 12 months of issue. Separate from the anniversary award.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 3000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "free-night-60k",
+          "title": "Second Free Night Reward at $60,000",
+          "detail": "Earn a second additional Hilton Free Night Reward at US$60,000 total eligible calendar-year spend, shared across basic/additional cards. Standard-room availability and exclusions apply; reward must be used within 12 months of issue. Separate from the anniversary award.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 6000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-rental-accident",
+          "title": "Rental-car accident protection",
+          "detail": "Eligible covered rental accidents: scheduled accidental death/dismemberment up to US$200,000/Cardmember or US$20,000/other eligible driver/passenger; accidental-injury treatment up to US$5,000/person. Shared US$300,000/accident aggregate. Only for eligible card-paid rentals, not general travel medical insurance. State provisions, authorization, timing and exclusions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "amex-hilton-honors-aspire-us-rental-personal-property",
+          "title": "Rental-car personal property",
+          "detail": "Eligible personal-property theft/damage during a covered rental: up to US$1,000/eligible person and US$2,000/rental accident aggregate. Full eligible rental payment and driver/rental conditions required. Excess coverage, exclusions and state-specific provisions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-send-split",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Send & Split",
+          "detail": "Enroll and use the Amex App to send eligible payments to PayPal/Venmo users and split eligible purchases; program limits, account eligibility and payment terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "issuer-national-executive",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "National Emerald Club Executive status",
+          "detail": "Enroll through your Amex account with the card for complimentary National Emerald Club Executive status. Eligible full-size-or-above reservations can access the Executive Area in the U.S./Canada. National account, location, rental and program terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-hilton-reward-stays",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Hilton reward-stay benefits",
+          "detail": "Eligible Hilton elite members receive a fifth night free on eligible standard-room stays of five or more nights paid entirely with points. Fully points-paid reward stays have no resort fees. Program/property rules and availability apply; these are loyalty benefits, not annual free-night certificates.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.hilton.com/en/hilton-honors/terms/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-hilton-earn",
+          "title": "14X on eligible direct Hilton purchases",
+          "detail": "Earn 14 Hilton Honors points per eligible US$1 charged directly by participating Hilton portfolio properties. Eligible room charges and room-billed incidentals follow issuer merchant rules; third-party bookings do not qualify. This merchant-specific rate is shown here because build 3 has no Hilton-only hotel ranking category.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "diamond",
+          "programID": "hilton",
+          "tier": "Diamond",
+          "rank": 30,
+          "enrollmentRequired": false,
+          "condition": "Automatic Hilton status for the basic Cardmember with an active linked Hilton Honors account and eligible card in good standing; cancellation ends card-provided status.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/"
+        },
+        {
+          "id": "national-executive",
+          "programID": "national",
+          "tier": "Executive",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Enroll through your Amex account; maintain eligible card and National membership. Rental and program terms apply.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "Hilton Honors",
+          "detail": "Standard eligible-purchase rate; issuer definitions and account eligibility apply. Welcome and relationship bonuses are not included.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/"
+        },
+        {
+          "id": "dining",
+          "categories": [
+            "dining"
+          ],
+          "rate": 7,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "Hilton Honors",
+          "detail": "Standard eligible-purchase rate; issuer definitions and account eligibility apply. Welcome and relationship bonuses are not included.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/"
+        },
+        {
+          "id": "flights",
+          "categories": [
+            "carRentals",
+            "flightsDirect",
+            "flightsPortal"
+          ],
+          "rate": 7,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "Hilton Honors",
+          "detail": "7X on eligible direct-airline/Amex Travel flight purchases and rentals made directly with select car-rental companies; not every car-rental booking channel qualifies.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/"
+        },
+        {
+          "id": "hilton",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 14,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "14X Hilton",
+          "detail": "Retired broad hotel-category mapping on November 4, 2026. The 14X direct-Hilton bonus remains available and is described in Benefits; it does not apply to unrelated hotels. Build 3 cannot restrict this category to Hilton merchants.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": "2026-11-04",
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+      "artworkSearchTerms": "Amex Hilton Honors Aspire",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000329_480x304_straight_withname.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+        "https://global.americanexpress.com/card-benefits/terms/hilton-aspire",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
+    },
+    {
+      "id": "amex-hilton-honors-business-us",
+      "name": "Amex Hilton Honors Business US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 19500,
+      "feeNote": "US$195 annual fee; an employee-card option with no annual fee is available, up to 99 total. No foreign transaction fee. Introductory offers may differ.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-hilton-honors-business-us",
+      "programIDs": [
+        "hilton"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No ongoing free-night spending award or lounge-pass allocation is listed; temporary welcome rewards are separate. No trip-delay, general trip cancellation/interruption or cell-phone insurance is listed. The overbroad direct-hotel earning mapping is retired; the genuine Hilton-only bonus is retained in Benefits and is not applied to unrelated hotels in Best Card.",
+      "benefits": [
+        {
+          "id": "issuer-hilton-credit",
+          "title": "$240 Hilton Credit",
+          "detail": "Up to US$60/calendar quarter for eligible purchases charged directly by Hilton portfolio properties, shared across the account. Book through Hilton-operated channels; third-party bookings excluded. Incidentals must be charged to the room and paid at checkout. No rollover; allow 8–12 weeks for credit.",
+          "capMinor": 6000,
+          "reset": "quarterly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-complimentary-hilton-honors-gold-status",
+          "title": "Hilton Honors Gold status",
+          "detail": "Complimentary Gold status with on-property perks at participating Hilton hotels and resorts.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "amex-hilton-honors-business-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-business-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage; up to US$1,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-business-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-business-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary theft/damage cover up to US$50,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-hilton-honors-business-us-travel-emergency-assistance",
+          "title": "Global Assist hotline",
+          "detail": "24/7 medical/legal referrals, emergency cash-wire coordination and missing-luggage assistance when more than 100 miles from home. Third-party costs are your responsibility; this assistance service is not emergency-medical insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "diamond-40k",
+          "title": "Hilton Diamond status",
+          "detail": "Spend US$40,000 in eligible net purchases/calendar year for Hilton Honors Diamond through the end of the following calendar year. Additional-card spend counts for the basic member; allow 10–12 weeks to activate. Returns/account closure can affect eligibility.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 4000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-national-executive",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "National Emerald Club Executive status",
+          "detail": "Enroll through your Amex account with the card for complimentary National Emerald Club Executive status. Eligible full-size-or-above reservations can access the Executive Area in the U.S./Canada. National account, location, rental and program terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-hilton-reward-stays",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Hilton reward-stay benefits",
+          "detail": "Eligible Hilton elite members receive a fifth night free on eligible standard-room stays of five or more nights paid entirely with points. Fully points-paid reward stays have no resort fees. Program/property rules and availability apply; these are loyalty benefits, not annual free-night certificates.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.hilton.com/en/hilton-honors/terms/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-business-tools",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Employee and expense management",
+          "detail": "Add up to 99 employee cards with a no-annual-fee option. Eligible spend earns points for the basic member; spending controls, account-manager access, statements and year-end reports assist expense management. QuickBooks integration may require enrollment and third-party fees.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-vendor-pay",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Vendor Pay by BILL",
+          "detail": "Enrollment required. Basic plan has no monthly fee for the first user and a second user for six months, then US$15/month for the second. Advanced plans and payment/integration methods can incur additional fees.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/"
+        },
+        {
+          "id": "issuer-hilton-earn",
+          "title": "12X on eligible direct Hilton purchases",
+          "detail": "Earn 12 Hilton Honors points per eligible US$1 charged directly by participating Hilton portfolio properties. Eligible room charges and room-billed incidentals follow issuer merchant rules; third-party bookings do not qualify. This merchant-specific rate is shown here because build 3 has no Hilton-only hotel ranking category.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        }
+      ],
+      "statuses": [
+        {
+          "id": "national-executive",
+          "programID": "national",
+          "tier": "Executive",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Enroll through your Amex account; maintain eligible card and National membership. Rental and program terms apply.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/"
+        },
+        {
+          "id": "included-hilton-status",
+          "programID": "hilton",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "Automatic Hilton status for the basic Cardmember with an active linked Hilton Honors account and eligible card in good standing; cancellation ends card-provided status.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "3X Hilton points",
+          "detail": "Eligible purchases after the first $100,000 annual spend threshold.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "calculationNote": null
+        },
+        {
+          "id": "first-100k",
+          "categories": [
+            "everything"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "5X first $100K",
+          "detail": "5X on the first US$100,000 of eligible non-Hilton purchases/calendar year, then 3X. Hilton purchases earn 12X separately and do not consume this non-Hilton cap.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "hilton-business-non-hilton",
+          "capMinor": 10000000,
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "calculationNote": null
+        },
+        {
+          "id": "hilton",
+          "categories": [
+            "hotelsDirect"
+          ],
+          "rate": 12,
+          "rewardKind": "points",
+          "programID": "hilton",
+          "label": "12X Hilton",
+          "detail": "Retired broad hotel-category mapping on November 4, 2026. The 12X direct-Hilton bonus remains available and is described in Benefits; it does not apply to unrelated hotels. Build 3 cannot restrict this category to Hilton merchants.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": "2026-11-04",
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+      "artworkSearchTerms": "Amex Hilton Honors Business",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/hilton-honors.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+        "https://global.americanexpress.com/card-benefits/terms/hilton-business",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "foreignTransactionFeePercent": 0,
       "earningDataComplete": true
     }
   ],
