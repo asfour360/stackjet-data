@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-05",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Final Chase detail reconciliation (2026-11-05): added documented membership and anniversary benefits, exact annual earn/status transitions, and United award/PQP conditions. Public guides/certificates remain unverified. A second final Chase pass added complete MileagePlus redemption/program terms and expanded checked-bag eligibility. Chase Sapphire Reserve screenshot cross-check (2026-11-05): added separate The Edit stay-program benefits and DashPass membership; expanded current travel, dining, DoorDash, StubHub, Lyft, Peloton and lounge terms.",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Final Chase detail reconciliation (2026-11-05): added documented membership and anniversary benefits, exact annual earn/status transitions, and United award/PQP conditions. Public guides/certificates remain unverified. A second final Chase pass added complete MileagePlus redemption/program terms and expanded checked-bag eligibility. Chase Sapphire Reserve screenshot cross-check (2026-11-05): added separate The Edit stay-program benefits and DashPass membership; expanded current travel, dining, DoorDash, StubHub, Lyft, Peloton and lounge terms. Capital One lower-fee cards: replaced seven generic coverage placeholders with card-network-specific rental coverage and current Discover-network guide limits where the issuer explicitly lists the product; exact student, secured and Good Credit variant eligibility remains identified as unconfirmed (2026-11-05).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -37286,6 +37286,633 @@
       "benefitSourceURLs": [
         "https://marriott.chase.com/ritz-carlton/benefits"
       ]
+    },
+    {
+      "id": "capital-one-quicksilver-for-good-credit-us",
+      "name": "Capital One Quicksilver for Good Credit US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-quicksilver-for-good-credit-us",
+      "programIDs": [
+        "capital-cash-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-good-credit/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-good-credit/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-cashback-rewards",
+          "title": "Rewards never expire",
+          "detail": "Rewards don't expire for the life of the account, and you can redeem cash back for any amount.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-good-credit/",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "capital-one-quicksilver-for-good-credit-us-coverage-not-listed",
+          "title": "Card network protections (eligibility varies)",
+          "detail": "Capital One says eligible Quicksilver cards may include rental-car protection when issued as World Elite Mastercard, Visa Signature, Visa Infinite or Discover. Eligible Quicksilver rental coverage is secondary when personal auto insurance applies; it can cover collision or theft damage, towing and loss-of-use charges. Decline the rental company's collision-damage waiver and pay the full rental with the card. Capital One does not identify the network or publish a coverage limit for this Good Credit version. Its Discover guide names Quicksilver but does not confirm this exact variant, so Discover-guide limits are not assigned here.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/help-center/credit-cards/rental-car-insurance/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "1.5% cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-good-credit/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.capitalone.com/credit-cards/quicksilver-good-credit/",
+      "artworkSearchTerms": "Capital One Quicksilver for Good Credit",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/credit-cards/quicksilver-good-credit/"
+      ],
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/quicksilver_cardart.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "capital-one-quicksilver-secured-us",
+      "name": "Capital One Quicksilver Secured US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-quicksilver-secured-us",
+      "programIDs": [
+        "capital-cash-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-secured/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-tools-to-help-you-along-your-credit-building-journey",
+          "title": "Deposit back and upgrade",
+          "detail": "With responsible use you could get your security deposit back and upgrade to an unsecured Quicksilver card. The minimum deposit can be paid all at once or over time.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-secured/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-credit-that-works-for-you",
+          "title": "No hidden fees",
+          "detail": "No foreign transaction fees, no replacement card fees and no authorized user fees.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-secured/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-love-earning-cash-back-rewards",
+          "title": "Rewards & card benefits",
+          "detail": "Unlimited 1.5% cash back on every purchase while you build credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-secured/",
+          "priority": 20,
+          "kind": "benefit"
+        },
+        {
+          "id": "capital-one-quicksilver-secured-us-coverage-not-listed",
+          "title": "Insurance terms not confirmed for this version",
+          "detail": "Capital One's public Quicksilver Secured page does not publish travel or purchase-insurance terms. Capital One's rental-insurance page lists eligible Quicksilver cards by network but does not confirm that this Secured version qualifies; the 2026 Discover guide does not name Quicksilver Secured. No card-specific insurance benefit or dollar limit is confirmed for this version from the public sources reviewed.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-secured/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "1.5% cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-secured/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.capitalone.com/credit-cards/quicksilver-secured/",
+      "artworkSearchTerms": "Capital One Quicksilver Secured",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/credit-cards/quicksilver-secured/"
+      ],
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/quicksilver_cardart.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "capital-one-quicksilver-student-us",
+      "name": "Capital One Quicksilver Student US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-quicksilver-student-us",
+      "programIDs": [
+        "capital-cash-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-student/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-student/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-quicksilver-student-us-coverage-not-listed",
+          "title": "Insurance terms not confirmed for this version",
+          "detail": "Capital One's public Quicksilver Student page describes rewards, redemptions and no foreign-transaction fees, but publishes no travel or purchase-insurance terms. Its network-based benefits pages do not confirm that the Student version qualifies, and the current Discover guide does not name Quicksilver Student. No card-specific insurance benefit or dollar limit is confirmed for this version from the public sources reviewed.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-student/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "1.5% cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-student/",
+          "calculationNote": null
+        },
+        {
+          "id": "portal",
+          "categories": [
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 5,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "1.5% cash back",
+          "detail": "Hotels, vacation rentals and rental cars booked through Capital One Travel.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver-student/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.capitalone.com/credit-cards/quicksilver-student/",
+      "artworkSearchTerms": "Capital One Quicksilver Student",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/credit-cards/quicksilver-student/"
+      ],
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/quicksilver_cardart.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "capital-one-quicksilverone-us",
+      "name": "Capital One QuicksilverOne US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 3900,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-quicksilverone-us",
+      "programIDs": [
+        "capital-cash-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-cashback-rewards",
+          "title": "Rewards never expire",
+          "detail": "Rewards don't expire for the life of the account, and you can redeem cash back for any amount.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver/",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "capital-one-quicksilverone-us-coverage-not-listed",
+          "title": "Rental and Discover-network protections (conditional)",
+          "detail": "Capital One lists eligible QuicksilverOne cards for secondary rental-car coverage on qualifying World Elite Mastercard, Visa Signature, Visa Infinite or Discover accounts. Rental coverage can include collision/theft damage, towing and loss-of-use; decline the rental company's collision-damage waiver and pay the full rental with the card. For eligible Discover-network accounts, Capital One's guide (effective Feb. 1, 2026) also lists purchase security up to $1,000 per claim/$25,000 per 12 months (theft or damage within 90 days); baggage delay over 4 hours at $100/day for up to 3 days ($300); lost luggage up to $3,000 per trip (New York: $2,000 per bag); trip cancellation/interruption up to $1,500 per insured person for nonrefundable common-carrier fares; travel accident up to $1,000,000; rental collision/theft up to actual cash value for most cars and rentals up to 31 days; and extended warranty up to one extra year, $10,000 per claim/$50,000 per cardholder. These guide limits apply only to eligible Discover-network accounts; card network, payment requirements, exclusions and policy terms control.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/discover-benefits-guides/discover-english.pdf",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "1.5% cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/quicksilver/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.capitalone.com/credit-cards/quicksilver/",
+      "artworkSearchTerms": "Capital One QuicksilverOne",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/credit-cards/quicksilver/"
+      ],
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/quicksilver_cardart.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "capital-one-savor-for-good-credit-us",
+      "name": "Capital One Savor for Good Credit US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-savor-for-good-credit-us",
+      "programIDs": [
+        "capital-cash-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/credit-cards/savor-good-credit/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/savor-good-credit/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-earn-unlimited-3-cash-back-at-grocery-stores-on-dining-entertainment-and-popular-streaming",
+          "title": "Rewards & card benefits",
+          "detail": "Unlimited 3% cash back at grocery stores (excluding superstores like Walmart and Target), on dining, entertainment and popular streaming services; 1% on everything else.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/savor-good-credit/",
+          "priority": 20,
+          "kind": "benefit"
+        },
+        {
+          "id": "capital-one-savor-for-good-credit-us-coverage-not-listed",
+          "title": "Card network protections (eligibility varies)",
+          "detail": "Capital One's public help page lists eligible Savor cards for rental-car coverage only when issued as World Elite Mastercard, Visa Signature, Visa Infinite or Discover. For eligible Savor accounts, rental coverage is secondary when personal auto insurance applies and can cover collision or theft damage, towing and loss-of-use; decline the rental company's collision-damage waiver and pay the full rental with the card. The public Savor for Good Credit page does not identify the network or publish insurance limits. The Discover guide names Savor but does not confirm this exact Good Credit version, so its limits are not assigned here.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/help-center/credit-cards/rental-car-insurance/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "1% cash back",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/savor-good-credit/",
+          "calculationNote": null
+        },
+        {
+          "id": "savor",
+          "categories": [
+            "dining",
+            "groceries",
+            "entertainment",
+            "streaming"
+          ],
+          "rate": 3,
+          "rewardKind": "cashback",
+          "programID": "capital-cash-us",
+          "label": "3% Savor categories",
+          "detail": "Eligible dining, grocery, entertainment and popular streaming purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/savor-good-credit/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.capitalone.com/credit-cards/savor-good-credit/",
+      "artworkSearchTerms": "Capital One Savor for Good Credit",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/credit-cards/savor-good-credit/"
+      ],
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/new-savor-card-art/mobile.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "capital-one-ventureone-for-good-credit-us",
+      "name": "Capital One VentureOne for Good Credit US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-ventureone-for-good-credit-us",
+      "programIDs": [
+        "capital-one-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/credit-cards/ventureone-good-credit/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/ventureone-good-credit/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-ventureone-for-good-credit-us-coverage-not-listed",
+          "title": "Card network protections (eligibility varies)",
+          "detail": "Capital One lists eligible VentureOne cards for rental-car protection only when issued as World Elite Mastercard, Visa Signature, Visa Infinite or Discover. Eligible VentureOne rental coverage is secondary when personal auto insurance applies and may cover collision or theft damage, towing and loss-of-use. Decline the rental company's collision-damage waiver and pay the full rental with the card. Capital One's public Good Credit page does not identify the network or publish a limit; its Discover guide names VentureOne but does not confirm this exact Good Credit version, so those guide limits are not assigned here.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/help-center/credit-cards/rental-car-insurance/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.25,
+          "rewardKind": "points",
+          "programID": "capital-one-us",
+          "label": "1.25X miles",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/ventureone-good-credit/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.capitalone.com/credit-cards/ventureone-good-credit/",
+      "artworkSearchTerms": "Capital One VentureOne for Good Credit",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/credit-cards/ventureone-good-credit/"
+      ],
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/ventureone_cardart_prim_323x203/mobile.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "capital-one-ventureone-us",
+      "name": "Capital One VentureOne US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-ventureone-us",
+      "programIDs": [
+        "capital-one-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/credit-cards/ventureone/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Selected official-source rules only. Unmodeled merchant-specific bonuses, travel protections, activation rules and credits are not asserted. This is not a complete benefits guide.",
+      "benefits": [
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/credit-cards/ventureone/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-ventureone-us-coverage-not-listed",
+          "title": "Rental and Discover-network protections (conditional)",
+          "detail": "Capital One lists eligible VentureOne cards for secondary rental-car coverage on qualifying World Elite Mastercard, Visa Signature, Visa Infinite or Discover accounts. Rental coverage can include collision/theft damage, towing and loss-of-use; decline the rental company's collision-damage waiver and pay the full rental with the card. For eligible Discover-network accounts, Capital One's guide (effective Feb. 1, 2026) also lists purchase security up to $1,000 per claim/$25,000 per 12 months (theft or damage within 90 days); baggage delay over 4 hours at $100/day for up to 3 days ($300); lost luggage up to $3,000 per trip (New York: $2,000 per bag); trip cancellation/interruption up to $1,500 per insured person for nonrefundable common-carrier fares; travel accident up to $1,000,000; rental collision/theft up to actual cash value for most cars and rentals up to 31 days; and extended warranty up to one extra year, $10,000 per claim/$50,000 per cardholder. These guide limits apply only to eligible Discover-network accounts; card network, payment requirements, exclusions and policy terms control.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/benefits-guide/discover-benefits-guides/discover-english.pdf",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.25,
+          "rewardKind": "points",
+          "programID": "capital-one-us",
+          "label": "Capital One Miles US",
+          "detail": "Standard eligible-purchase rate; issuer definitions and account eligibility apply. Welcome and relationship bonuses are not included.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/ventureone/"
+        },
+        {
+          "id": "portal",
+          "categories": [
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "capital-one-us",
+          "label": "Capital One Miles US",
+          "detail": "Hotels, vacation rentals and rental cars booked through Capital One Travel.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/credit-cards/ventureone/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.capitalone.com/credit-cards/ventureone/",
+      "artworkSearchTerms": "Capital One VentureOne",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/ventureone_cardart_prim_323x203/mobile.png",
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/credit-cards/ventureone/"
+      ],
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
