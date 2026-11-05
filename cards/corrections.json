@@ -19973,208 +19973,210 @@
       "issuer": "American Express",
       "market": "US",
       "annualFeeMinor": 65000,
-      "feeNote": "Current standard annual fee snapshot from American Express; verify your account agreement.",
+      "feeNote": "US$650 annual fee. Reserve additional-card and no-fee limited-benefit options follow the current fee schedule. No foreign transaction fee.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-delta-skymiles-reserve-business-us",
       "programIDs": [
         "delta"
       ],
-      "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
-      "checkedOn": "2026-10-29",
-      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Current issuer/Delta lounge text differs on layover timing; verify the live entry rule before travel. The erroneous MQD qualification-credit status-box entry was removed; Hertz status remains. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions.",
       "benefits": [
         {
           "id": "companion",
           "title": "Annual companion certificate",
-          "detail": "After renewal: eligible Delta First, Comfort or Main round-trip companion travel within the U.S., Mexico, Caribbean and Central America. Taxes, fees and fare restrictions apply.",
+          "detail": "One companion certificate after each card renewal for eligible Delta First, Delta Comfort or Delta Main paid round-trip itineraries originating in the U.S./Puerto Rico/USVI to covered U.S., Mexico, Caribbean/Central America destinations. Taxes/fees US$22–US$250 on up to four segments; fare-class/inventory rules and same-flight booking apply. Book and fly before expiry, normally one year. Delta Basic excluded; card/eCredit payment terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.delta.com/us/en/booking-information/companion-certificates",
           "kind": "benefit",
           "priority": 100
         },
         {
           "id": "mqd-headstart",
           "title": "MQD Headstart",
-          "detail": "US$2,500 MQDs each qualification year toward Medallion status.",
+          "detail": "Basic Cardmember receives 2,500 MQDs per qualifying product/qualification year; eligible Platinum, Platinum Business, Reserve and Reserve Business are distinct products, maximum four product Headstarts. Deposit normally 6–8 weeks after February 1 or new-card opening. Additional holders receive no Headstart; MQDs are qualification credit, not redeemable miles or an automatic Medallion tier.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 101
+          "priority": 100
         },
         {
           "id": "mqd-boost",
           "title": "MQD Boost",
-          "detail": "Earn US$1 MQD per US$10 in eligible card purchases.",
+          "detail": "Earn one MQD per US$10 eligible net purchases/calendar year, including additional-card spend, toward the basic member's qualification. Fees, interest, cash equivalents and returns excluded. No Medallion tier is automatically granted by holding this card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 102
+          "priority": 100
         },
         {
           "id": "resy",
           "title": "Resy credit",
-          "detail": "Up to US$20/month at eligible U.S. Resy restaurants after enrollment.",
+          "detail": "Enroll before eligible dining purchases at qualifying U.S. Resy restaurants: up to US$20/month, shared across the account. A reservation is not required; gift cards, non-dining purchases and transaction exclusions apply. No monthly rollover.",
           "capMinor": 2000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "credit",
-          "priority": 100,
+          "priority": 20,
           "reminderOnPeriodStart": true
         },
         {
           "id": "rideshare",
           "title": "Rideshare credit",
-          "detail": "Up to US$10/month with eligible U.S. rideshare providers after enrollment.",
+          "detail": "Enroll before eligible U.S. rideshare purchases with Uber, Lyft, Curb or Alto: up to US$10/month, shared across basic/additional cards. Current providers and transaction exclusions apply; no rollover. Not a credit for food delivery or gift cards.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "credit",
-          "priority": 100,
+          "priority": 20,
           "reminderOnPeriodStart": true
         },
         {
           "id": "delta-stays",
           "title": "Delta Stays credit",
-          "detail": "Eligible prepaid hotels and vacation rentals booked through Delta Stays. Track one purchase or multiple purchases against the annual total.",
+          "detail": "Up to US$250/calendar year in shared-account statement credits on eligible prepaid hotels/vacation rentals booked through Delta Stays on delta.com. Other hotel channels, pay-at-property stays and airfare do not qualify. Credit follows eligible charge/processing date; refunds can reverse it.",
           "capMinor": 25000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "global-entry",
           "title": "Global Entry / TSA PreCheck credit",
-          "detail": "Global Entry up to US$120 every four years, or eligible TSA PreCheck reimbursement under its separate interval.",
+          "detail": "One application-fee statement credit/account every four years for whichever is charged first: up to US$120 Global Entry or US$85 for a five-year TSA PreCheck plan through an official enrollment provider. Shared across basic/additional cards; government approval is separate.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "credit",
-          "priority": 100,
+          "priority": 20,
           "intervalYears": 4
         },
         {
           "id": "delta-skyclub",
-          "title": "Delta Sky Club visits & guest passes",
-          "detail": "15 visits per Medallion year; qualifying US$75,000 annual spending unlocks unlimited visits. Four one-time guest passes; travel restrictions apply.",
+          "title": "15 Sky Club visits; unlimited at US$75,000",
+          "detail": "Eligible basic/paid Reserve additional cards receive 15 visits each Medallion year (February 1–January 31). One visit spans up to 24 hours across eligible clubs; same-day Delta-marketed/operated travel required, Basic fares excluded. US$75,000 eligible calendar-year spend unlocks unlimited access for the rest of that calendar year, the following year and through January 31 after that. Further visits generally US$50.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.delta.com/us/en/delta-sky-club/access",
           "kind": "benefit",
-          "priority": 103
+          "priority": 100,
+          "spendMilestoneMinor": 7500000,
+          "spendPeriod": "calendarYear"
         },
         {
           "id": "centurion",
           "title": "Centurion Lounge access",
-          "detail": "Eligible same-day Delta flights paid with the Reserve Card; entry conditions apply.",
+          "detail": "Eligible basic/paid Reserve additional Cardmembers: participating Centurion/Sidecar lounges on same-day Delta-marketed/operated travel purchased with an eligible U.S. Amex card. Centurion entry within three hours of departure/five hours of connection; Sidecar within 90 minutes. Up to two same-flight guests, each US$50 (ages 2–17 US$30) at each location; capacity/entry rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://global.americanexpress.com/card-benefits/detail/complimentary-access-centurion-lounge/delta-reserve-business",
           "kind": "benefit",
-          "priority": 104
+          "priority": 100
         },
         {
           "id": "takeoff15",
           "title": "TakeOff 15",
-          "detail": "15% fewer miles for eligible Delta award flights; taxes and partner-operated flights excluded.",
+          "detail": "Log into the basic Cardmember's linked SkyMiles account and redeem miles for eligible Delta-operated award travel through delta.com/Fly Delta. 15% discount applies to miles only, not taxes/fees, partner-operated flights or Pay with Miles. Eligible card/account must remain open; current program rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 105
+          "priority": 100
         },
         {
           "id": "checked-bag",
-          "title": "First bag free / domestic second bag free",
-          "detail": "Eligible Delta baggage privileges; itinerary and cardmember terms apply.",
+          "title": "First bag free; basic member's domestic second bag",
+          "detail": "First standard checked bag: eligible basic Cardmember plus up to eight companions on the same reservation. Domestic second standard bag: only travelers who individually hold an eligible basic Delta Amex card, not ordinary companions/additional cardholders. Include each eligible SkyMiles number; Delta-marketed/operated eligible segments and Delta check-in required. No extra allowance above existing free bags; oversize/overweight fees remain.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
           "kind": "benefit",
-          "priority": 106
+          "priority": 100
         },
         {
           "id": "boarding",
           "title": "Zone 5 priority boarding",
-          "detail": "Eligible Delta itineraries receive priority boarding.",
+          "detail": "Zone 5 boarding for eligible basic Cardmember and up to eight passengers on the same Delta/Delta Connection reservation with the linked SkyMiles number. Boarding follows current fare, itinerary and Delta program rules.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 107
+          "priority": 100
         },
         {
           "id": "upgrade",
           "title": "Upgrade priority & complimentary upgrades",
-          "detail": "Eligible priority or upgrade-list access; fare restrictions and Medallion precedence apply.",
+          "detail": "Reserve can give upgrade priority over otherwise comparable Medallion members at the same tier, product/fare experience and Million Miler milestone. Eligible non-Medallion Reserve holders join after Medallions. Qualifying tickets, availability and Delta upgrade rules apply; no guaranteed upgrade or automatic Medallion status.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 108
+          "priority": 100
         },
         {
           "id": "inflight",
           "title": "20% in-flight savings",
-          "detail": "Statement credit on eligible Delta in-flight food and beverages.",
+          "detail": "20% back as a statement credit for eligible Delta-operated pre-purchased meals and in-flight food/beverage purchases paid with the card. Wi-Fi, airfare and other excluded purchases do not qualify; merchant coding and posting rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 109
+          "priority": 100
         },
         {
           "id": "hertz",
           "title": "Hertz President’s Circle",
-          "detail": "Enroll through the eligible Delta/Hertz promotion.",
+          "detail": "Complimentary Hertz President's Circle after enrolling in Hertz Gold+, adding its number to the linked SkyMiles account and enrolling at delta.com/hertz. Account, location and rental terms apply; this is the included status shown in the status box.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
+          "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 110
+          "priority": 30
         },
         {
           "id": "issuer-boost-your-earning-potential",
           "title": "1.5 miles on everything at $150,000",
-          "detail": "After $150,000 in purchases in a calendar year, earn 1.5 miles on all eligible purchases for the rest of the year (higher category rates still apply).",
+          "detail": "After US$150,000 eligible net purchases/calendar year, subsequent eligible purchases earn 1.5X through December 31; higher-rate categories keep their higher rate and do not stack. Additional-card spend counts. Build 3 does not automatically apply this account-spend-dependent base-rate change.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 113,
+          "priority": 100,
           "spendMilestoneMinor": 15000000,
           "spendPeriod": "calendarYear"
         },
         {
           "id": "issuer-complimentary-access-to-the-centurion-lounge-and-escape-lounge",
-          "title": "Centurion, Sidecar and Escape Lounges",
-          "detail": "Access to The Centurion Lounge (within 3 hours of departure), Sidecar by The Centurion Lounge (within 90 minutes) and Escape Lounges when flying on a Delta flight booked with the card.",
+          "title": "Escape Lounge access",
+          "detail": "Eligible Reserve basic/paid additional cardholders can access participating Escape Lounges on qualifying same-day Delta-marketed/operated travel booked with an eligible U.S. Amex card. Present card, boarding pass and ID; up to two guests at each lounge's prevailing guest fee. This is not unlimited free guest access.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://global.americanexpress.com/card-benefits/detail/complimentary-access-centurion-lounge/delta-reserve-business",
           "kind": "benefit",
-          "priority": 111
+          "priority": 100
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -20185,128 +20187,251 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 112
+          "priority": 100
         },
         {
           "id": "issuer-global-dining-access-by-resy",
           "title": "Global Dining Access by Resy",
-          "detail": "Access to hard-to-get reservations at participating restaurants, Priority Notify and a Resy profile badge when you add the card to Resy.",
+          "detail": "Add the Reserve Card to your Resy profile for eligible exclusive reservations, Priority Notify and dining experiences. Availability and event charges apply; this is access, separate from the monthly Resy statement credit.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-trip-cancellation-interruption-insurance",
           "title": "Trip cancellation & interruption insurance",
-          "detail": "Round trip paid entirely with the card: non-refundable expenses reimbursed up to US$10,000 per trip and US$20,000 per card per 12 months when a covered reason cancels or interrupts the trip.",
+          "detail": "Covered round-trip cancellation/interruption: up to US$10,000/trip and US$20,000/card/12 months for each coverage, excess of other benefits. Full common-carrier transport paid with card/allowed points or vouchers; only defined causes qualify, not any reason. Pre-existing conditions and supplier insolvency excluded. Notify insurer and supplier within required times; insurer notice 60 days, proof 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
           "kind": "protection",
-          "priority": 200
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-trip-delay-reimbursement",
           "title": "Trip delay reimbursement",
-          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$500 per trip for additional expenses, max 2 claims per 12 months.",
+          "detail": "Covered round trip delayed more than 6 hours: up to US$500/trip, two claims/card/12 months, excess of other benefits. Pay full common-carrier transport with the card/allowed points or vouchers and additional expenses with that card. Weather, equipment failure, hijacking/terrorism or lost travel documents may qualify; known delays excluded. Notify within 60 days; proof within 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
           "kind": "protection",
-          "priority": 201
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-lost-luggage-reimbursement",
           "title": "Lost luggage reimbursement",
-          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 202
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-cell-phone-protection",
           "title": "Cell phone protection",
-          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "detail": "Prior month's eligible wireless bill paid with card: covered theft/damage including cracked screens, up to US$800/claim after US$50 deductible, two claims/account/12 months; excess of other insurance. Lost/mysteriously disappeared phones and cosmetic damage excluded. Theft police report within 48 hours; notify claim within 90 days/as soon as reasonably possible, written proof within 120 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
           "kind": "protection",
-          "priority": 203
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage/loss; up to US$10,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-405_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 204
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 205
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-car-rental-loss-damage-insurance",
           "title": "Car rental loss & damage insurance",
-          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "detail": "Secondary theft/damage cover up to US$75,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
           "kind": "protection",
-          "priority": 206
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-business-us-travel-emergency-assistance",
-          "title": "Travel & emergency assistance",
-          "detail": "24/7 medical, legal, financial and other emergency coordination and assistance when travelling more than 100 miles from home. Third-party costs are your responsibility.",
+          "title": "Premium Global Assist hotline",
+          "detail": "24/7 emergency coordination more than 100 miles from home, including medical/legal referrals, cash wires, prescription replacement and missing-luggage help. Emergency medical transport may be provided at no cost only when approved and arranged by Premium Global Assist. Other third-party expenses may be yours; this is not general medical insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "amex-delta-skymiles-reserve-business-us-rental-accident",
+          "title": "Rental-car accident protection",
+          "detail": "Eligible covered rental accidents: scheduled accidental death/dismemberment up to US$200,000/Cardmember or US$20,000/other eligible driver/passenger; accidental-injury treatment up to US$5,000/person. Shared US$300,000/accident aggregate. Only for eligible card-paid rentals, not general travel medical insurance. State provisions, authorization, timing and exclusions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
           "kind": "protection",
-          "priority": 207
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "amex-delta-skymiles-reserve-business-us-rental-personal-property",
+          "title": "Rental-car personal property",
+          "detail": "Eligible personal-property theft/damage during a covered rental: up to US$1,000/eligible person and US$2,000/rental accident aggregate. Full eligible rental payment and driver/rental conditions required. Excess coverage, exclusions and state-specific provisions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "amex-delta-skymiles-reserve-business-us-return-protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "title": "Return protection",
+          "detail": "Eligible items paid entirely with the card in the US/covered territories: if the seller refuses a return within 90 days, up to US$300/item and US$1,000/account/calendar year, excluding original shipping. Item must be unused, undamaged and working; exclusions include jewellery, software and consumables. Notify within 90 days of purchase; requested documents and returned item normally within 30 days of the respective request.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-pay-with-miles",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Pay with Miles",
+          "detail": "Redeem eligible SkyMiles in 5,000-mile increments for up to US$50 off qualifying Delta flight purchases on delta.com. Linked basic-card account, itinerary and program terms apply; this is a redemption option, not an additional statement credit.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-delta-earn",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "3X on eligible direct Delta purchases",
+          "detail": "Earn 3 SkyMiles/US$1 on eligible purchases charged directly by Delta as merchant, including qualifying Delta airfare and other issuer-defined direct Delta charges. Third-party airline-ticket merchants do not qualify. The Delta-only rate is described here and is not applied to unrelated airlines in Best Card.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-skyclub-guest-passes",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Four Sky Club guest passes",
+          "detail": "Basic Reserve Cardmember receives four one-time guest passes per Medallion year; maximum two redeemed per visit. Basic member must accompany guests and enter using Reserve; eligible same-day flights and Basic-fare exclusions apply. Other guests generally US$50; child/house rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.delta.com/us/en/delta-sky-club/access",
+          "priority": 100
+        },
+        {
+          "id": "issuer-business-tools",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Employee and expense management",
+          "detail": "Employee cards, spending controls, alerts, account-manager access and year-end summaries support expense management. Eligible QuickBooks integration requires enrollment; account/card and third-party software charges may apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-vendor-pay",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Vendor Pay by BILL",
+          "detail": "Enroll for eligible invoice/payment and accounting tools. User count, service plans, payment methods and integrations can incur charges; current Vendor Pay terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/payments/vendor-pay/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-account-services",
+          "title": "Account tools and dispute assistance",
+          "detail": "Use eligible digital-card/app functions, alerts and year-end statements to manage the account. Contact Amex for suspected fraudulent/incorrect charges or lost-card assistance; identity checks, account eligibility and cardmember terms apply.",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
         }
       ],
       "statuses": [
-        {
-          "id": "mqd-headstart-2500",
-          "programID": "delta",
-          "tier": "2,500 MQDs toward Medallion",
-          "rank": 0,
-          "enrollmentRequired": false,
-          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
-          "automatic": true,
-          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
-        },
         {
           "id": "hertz-presidents-circle",
           "programID": "hertz",
           "tier": "President's Circle",
           "rank": 30,
           "enrollmentRequired": true,
-          "condition": "",
+          "condition": "Enroll in Hertz Gold+ and add its account number to the SkyMiles account linked to the eligible card, then enroll at delta.com/hertz. Current Hertz/Delta program, rental and account eligibility rules apply.",
           "automatic": true,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/"
+          "sourceURL": "https://www.delta.com/hertz"
         }
       ],
       "earningRules": [
@@ -20339,16 +20464,47 @@
           "rewardKind": "points",
           "programID": "delta",
           "label": "3X Delta",
-          "detail": "Eligible purchases made directly with Delta.",
+          "detail": "Retired broad airline-category mapping at audit: 3X is only for eligible direct Delta purchases, not all airlines. The actual Delta rate remains described in Benefits because build 3 has no Delta-only airline category.",
           "countries": [],
           "startsOn": null,
-          "endsBefore": null,
+          "endsBefore": "2026-11-04",
           "activationID": null,
           "capGroup": null,
           "capMinor": null,
           "capReset": "none",
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
           "calculationNote": null
+        },
+        {
+          "id": "transit",
+          "categories": [
+            "transit"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "1.5X transit",
+          "detail": "Eligible transit purchases; higher-rate purchases receive only the highest accelerator.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/"
+        },
+        {
+          "id": "us-shipping-office",
+          "categories": [
+            "shipping",
+            "officeSupplies"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "1.5X U.S. shipping/office supplies",
+          "detail": "Eligible U.S. shipping and U.S. office-supply-store purchases; higher accelerators do not stack.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/"
         }
       ],
       "accountType": "business",
@@ -20362,7 +20518,7 @@
           "id": "delta-sky-club",
           "provider": "Delta Sky Club",
           "title": "Delta Sky Club",
-          "detail": "Reserve Card access is subject to same-day Delta travel and current visit limits; spending can unlock unlimited access under current terms.",
+          "detail": "15 cardholder visits per February–January Medallion year; US$75,000 eligible calendar spend unlocks unlimited access under the card's benefit terms. Same-day eligible Delta travel, Basic-fare exclusions and current entry rules apply. Guest passes/charges are separate.",
           "enrollmentRequired": false,
           "sourceURL": "https://www.delta.com/us/en/delta-sky-club/locations"
         },
@@ -20370,16 +20526,34 @@
           "id": "centurion-escape",
           "provider": "American Express",
           "title": "Centurion & Escape Lounges",
-          "detail": "Eligible Reserve Card Members have access subject to current flight/payment and timing conditions.",
+          "detail": "Eligible same-day Delta-marketed/operated travel purchased with a U.S. Amex; Centurion/Sidecar timing rules and per-person guest fees apply. Escape guest fees vary by location.",
           "enrollmentRequired": false,
           "sourceURL": "https://travelloungefinder.americanexpress.com/en-us/travel/lounges/centurion-network/"
         }
       ],
       "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/delta-reserve-business.png",
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/"
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates",
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+        "https://www.delta.com/us/en/delta-sky-club/access",
+        "https://global.americanexpress.com/card-benefits/detail/complimentary-access-centurion-lounge/delta-reserve-business",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-405_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/business/payments/vendor-pay/"
       ],
-      "foreignTransactionFeePercent": 0
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
     },
     {
       "id": "cibc-aeroplan-visa-can",
@@ -20537,7 +20711,7 @@
       "issuer": "American Express",
       "market": "US",
       "annualFeeMinor": 65000,
-      "feeNote": "Current standard annual fee snapshot from American Express; verify your account agreement.",
+      "feeNote": "US$650 annual fee. Reserve additional-card and no-fee limited-benefit options follow the current fee schedule. No foreign transaction fee.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-delta-skymiles-reserve-us",
@@ -20545,115 +20719,117 @@
         "delta"
       ],
       "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
-      "checkedOn": "2026-10-29",
-      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Current issuer/Delta lounge text differs on layover timing; verify the live entry rule before travel. The erroneous MQD qualification-credit status-box entry was removed; Hertz status remains. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions.",
       "benefits": [
         {
           "id": "companion",
           "title": "Annual companion certificate",
-          "detail": "After renewal: eligible Delta First, Comfort or Main round-trip companion travel within the U.S., Mexico, Caribbean and Central America. Taxes, fees and fare restrictions apply.",
+          "detail": "One companion certificate after each card renewal for eligible Delta First, Delta Comfort or Delta Main paid round-trip itineraries originating in the U.S./Puerto Rico/USVI to covered U.S., Mexico, Caribbean/Central America destinations. Taxes/fees US$22–US$250 on up to four segments; fare-class/inventory rules and same-flight booking apply. Book and fly before expiry, normally one year. Delta Basic excluded; card/eCredit payment terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.delta.com/us/en/booking-information/companion-certificates",
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "mqd-headstart",
           "title": "MQD Headstart",
-          "detail": "US$2,500 MQDs each qualification year toward Medallion status.",
+          "detail": "Basic Cardmember receives 2,500 MQDs per qualifying product/qualification year; eligible Platinum, Platinum Business, Reserve and Reserve Business are distinct products, maximum four product Headstarts. Deposit normally 6–8 weeks after February 1 or new-card opening. Additional holders receive no Headstart; MQDs are qualification credit, not redeemable miles or an automatic Medallion tier.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "mqd-boost",
           "title": "MQD Boost",
-          "detail": "Earn US$1 MQD per US$10 in eligible card purchases.",
+          "detail": "Earn one MQD per US$10 eligible net purchases/calendar year, including additional-card spend, toward the basic member's qualification. Fees, interest, cash equivalents and returns excluded. No Medallion tier is automatically granted by holding this card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "resy",
           "title": "Resy credit",
-          "detail": "Up to US$20/month at eligible U.S. Resy restaurants after enrollment.",
+          "detail": "Enroll before eligible dining purchases at qualifying U.S. Resy restaurants: up to US$20/month, shared across the account. A reservation is not required; gift cards, non-dining purchases and transaction exclusions apply. No monthly rollover.",
           "capMinor": 2000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
           "kind": "credit",
-          "priority": 100,
+          "priority": 20,
           "reminderOnPeriodStart": true
         },
         {
           "id": "rideshare",
           "title": "Rideshare credit",
-          "detail": "Up to US$10/month with eligible U.S. rideshare providers after enrollment.",
+          "detail": "Enroll before eligible U.S. rideshare purchases with Uber, Lyft, Curb or Alto: up to US$10/month, shared across basic/additional cards. Current providers and transaction exclusions apply; no rollover. Not a credit for food delivery or gift cards.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
           "kind": "credit",
-          "priority": 100,
+          "priority": 20,
           "reminderOnPeriodStart": true
         },
         {
           "id": "delta-stays",
           "title": "Delta Stays credit",
-          "detail": "Eligible prepaid hotels and vacation rentals booked through Delta Stays. Track one purchase or multiple purchases against the annual total.",
+          "detail": "Up to US$200/calendar year in shared-account statement credits on eligible prepaid hotels/vacation rentals booked through Delta Stays on delta.com. Other hotel channels, pay-at-property stays and airfare do not qualify. Credit follows eligible charge/processing date; refunds can reverse it.",
           "capMinor": 20000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "global-entry",
           "title": "Global Entry / TSA PreCheck credit",
-          "detail": "Global Entry up to US$120 every four years, or eligible TSA PreCheck reimbursement under its separate interval.",
+          "detail": "One application-fee statement credit/account every four years for whichever is charged first: up to US$120 Global Entry or US$85 for a five-year TSA PreCheck plan through an official enrollment provider. Shared across basic/additional cards; government approval is separate.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
           "kind": "credit",
-          "priority": 100,
+          "priority": 20,
           "intervalYears": 4
         },
         {
           "id": "delta-skyclub",
-          "title": "Delta Sky Club visits & guest passes",
-          "detail": "15 visits per Medallion year; qualifying US$75,000 annual spending unlocks unlimited visits. Four one-time guest passes; travel restrictions apply.",
+          "title": "15 Sky Club visits; unlimited at US$75,000",
+          "detail": "Eligible basic/paid Reserve additional cards receive 15 visits each Medallion year (February 1–January 31). One visit spans up to 24 hours across eligible clubs; same-day Delta-marketed/operated travel required, Basic fares excluded. US$75,000 eligible calendar-year spend unlocks unlimited access for the rest of that calendar year, the following year and through January 31 after that. Further visits generally US$50.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.delta.com/us/en/delta-sky-club/access",
           "kind": "benefit",
-          "priority": 100
+          "priority": 100,
+          "spendMilestoneMinor": 7500000,
+          "spendPeriod": "calendarYear"
         },
         {
           "id": "centurion",
           "title": "Centurion Lounge access",
-          "detail": "Eligible same-day Delta flights paid with the Reserve Card; entry conditions apply.",
+          "detail": "Eligible basic/paid Reserve additional Cardmembers: participating Centurion/Sidecar lounges on same-day Delta-marketed/operated travel purchased with an eligible U.S. Amex card. Centurion entry within three hours of departure/five hours of connection; Sidecar within 90 minutes. Up to two same-flight guests, each US$50 (ages 2–17 US$30) at each location; capacity/entry rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://global.americanexpress.com/card-benefits/detail/complimentary-access-centurion-lounge/delta-reserve",
           "kind": "benefit",
           "priority": 100
         },
         {
           "id": "takeoff15",
           "title": "TakeOff 15",
-          "detail": "15% fewer miles for eligible Delta award flights; taxes and partner-operated flights excluded.",
+          "detail": "Log into the basic Cardmember's linked SkyMiles account and redeem miles for eligible Delta-operated award travel through delta.com/Fly Delta. 15% discount applies to miles only, not taxes/fees, partner-operated flights or Pay with Miles. Eligible card/account must remain open; current program rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -20663,19 +20839,19 @@
         },
         {
           "id": "checked-bag",
-          "title": "First bag free / domestic second bag free",
-          "detail": "Eligible Delta baggage privileges; itinerary and cardmember terms apply.",
+          "title": "First bag free; basic member's domestic second bag",
+          "detail": "First standard checked bag: eligible basic Cardmember plus up to eight companions on the same reservation. Domestic second standard bag: only travelers who individually hold an eligible basic Delta Amex card, not ordinary companions/additional cardholders. Include each eligible SkyMiles number; Delta-marketed/operated eligible segments and Delta check-in required. No extra allowance above existing free bags; oversize/overweight fees remain.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
           "kind": "benefit",
           "priority": 100
         },
         {
           "id": "boarding",
           "title": "Zone 5 priority boarding",
-          "detail": "Eligible Delta itineraries receive priority boarding.",
+          "detail": "Zone 5 boarding for eligible basic Cardmember and up to eight passengers on the same Delta/Delta Connection reservation with the linked SkyMiles number. Boarding follows current fare, itinerary and Delta program rules.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -20686,7 +20862,7 @@
         {
           "id": "upgrade",
           "title": "Upgrade priority & complimentary upgrades",
-          "detail": "Eligible priority or upgrade-list access; fare restrictions and Medallion precedence apply.",
+          "detail": "Reserve can give upgrade priority over otherwise comparable Medallion members at the same tier, product/fare experience and Million Miler milestone. Eligible non-Medallion Reserve holders join after Medallions. Qualifying tickets, availability and Delta upgrade rules apply; no guaranteed upgrade or automatic Medallion status.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -20697,7 +20873,7 @@
         {
           "id": "inflight",
           "title": "20% in-flight savings",
-          "detail": "Statement credit on eligible Delta in-flight food and beverages.",
+          "detail": "20% back as a statement credit for eligible Delta-operated pre-purchased meals and in-flight food/beverage purchases paid with the card. Wi-Fi, airfare and other excluded purchases do not qualify; merchant coding and posting rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -20708,13 +20884,13 @@
         {
           "id": "hertz",
           "title": "Hertz President’s Circle",
-          "detail": "Enroll through the eligible Delta/Hertz promotion.",
+          "detail": "Complimentary Hertz President's Circle after enrolling in Hertz Gold+, adding its number to the linked SkyMiles account and enrolling at delta.com/hertz. Account, location and rental terms apply; this is the included status shown in the status box.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
+          "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 30
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -20730,156 +20906,268 @@
         {
           "id": "issuer-global-dining-access",
           "title": "Global Dining Access by Resy",
-          "detail": "Access to hard-to-get reservations at participating restaurants, Priority Notify and a Resy profile badge when you add the card to Resy.",
+          "detail": "Add the Reserve Card to your Resy profile for eligible exclusive reservations, Priority Notify and dining experiences. Availability and event charges apply; this is access, separate from the monthly Resy statement credit.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
+          "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
           "kind": "benefit",
-          "priority": 100
+          "priority": 30
         },
         {
           "id": "issuer-complimentary-access-to-the-centurion-lounge",
-          "title": "Centurion and Sidecar lounges",
-          "detail": "Access to The Centurion Lounge and Sidecar by The Centurion Lounge when flying on a Delta flight booked with the card.",
+          "title": "Escape Lounge access",
+          "detail": "Eligible Reserve basic/paid additional cardholders can access participating Escape Lounges on qualifying same-day Delta-marketed/operated travel booked with an eligible U.S. Amex card. Present card, boarding pass and ID; up to two guests at each lounge's prevailing guest fee. This is not unlimited free guest access.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://global.americanexpress.com/card-benefits/detail/complimentary-access-centurion-lounge/delta-reserve",
           "kind": "benefit",
           "priority": 100
         },
         {
           "id": "issuer-first-bag-free-and-new-second-bag-free",
-          "title": "Free first (and second) checked bag",
-          "detail": "First checked bag free on Delta flights worldwide; on domestic Delta flights the second bag is free too.",
+          "title": "Domestic second-bag eligibility",
+          "detail": "The domestic second standard checked-bag waiver applies only to each eligible basic Cardmember, once per direction, not to all travel companions. U.S. origin/destination, Delta/Delta Connection operated and Delta-marketed itinerary, SkyMiles-number and non-oversize/non-overweight conditions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
           "kind": "benefit",
           "priority": 100
         },
         {
           "id": "amex-delta-skymiles-reserve-us-trip-cancellation-interruption-insurance",
           "title": "Trip cancellation & interruption insurance",
-          "detail": "Round trip paid entirely with the card: non-refundable expenses reimbursed up to US$10,000 per trip and US$20,000 per card per 12 months when a covered reason cancels or interrupts the trip.",
+          "detail": "Covered round-trip cancellation/interruption: up to US$10,000/trip and US$20,000/card/12 months for each coverage, excess of other benefits. Full common-carrier transport paid with card/allowed points or vouchers; only defined causes qualify, not any reason. Pre-existing conditions and supplier insolvency excluded. Notify insurer and supplier within required times; insurer notice 60 days, proof 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
           "kind": "protection",
-          "priority": 200
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-us-trip-delay-reimbursement",
           "title": "Trip delay reimbursement",
-          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$500 per trip for additional expenses, max 2 claims per 12 months.",
+          "detail": "Covered round trip delayed more than 6 hours: up to US$500/trip, two claims/card/12 months, excess of other benefits. Pay full common-carrier transport with the card/allowed points or vouchers and additional expenses with that card. Weather, equipment failure, hijacking/terrorism or lost travel documents may qualify; known delays excluded. Notify within 60 days; proof within 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
           "kind": "protection",
-          "priority": 201
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-us-lost-luggage-reimbursement",
           "title": "Lost luggage reimbursement",
-          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 202
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-us-cell-phone-protection",
           "title": "Cell phone protection",
-          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "detail": "Prior month's eligible wireless bill paid with card: covered theft/damage including cracked screens, up to US$800/claim after US$50 deductible, two claims/account/12 months; excess of other insurance. Lost/mysteriously disappeared phones and cosmetic damage excluded. Theft police report within 48 hours; notify claim within 90 days/as soon as reasonably possible, written proof within 120 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
           "kind": "protection",
-          "priority": 203
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-us-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage/loss; up to US$10,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 204
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-us-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
           "kind": "protection",
-          "priority": 205
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-us-return-protection",
           "title": "Return protection",
-          "detail": "If the seller won't take back an eligible purchase within 90 days, Amex may refund up to US$300 per item and US$1,000 per calendar year (U.S. purchases).",
+          "detail": "Eligible items paid entirely with the card in the US/covered territories: if the seller refuses a return within 90 days, up to US$300/item and US$1,000/account/calendar year, excluding original shipping. Item must be unused, undamaged and working; exclusions include jewellery, software and consumables. Notify within 90 days of purchase; requested documents and returned item normally within 30 days of the respective request.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
           "kind": "protection",
-          "priority": 206
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-us-car-rental-loss-damage-insurance",
           "title": "Car rental loss & damage insurance",
-          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "detail": "Secondary theft/damage cover up to US$75,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
           "kind": "protection",
-          "priority": 207
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-reserve-us-travel-emergency-assistance",
-          "title": "Travel & emergency assistance",
-          "detail": "24/7 medical, legal, financial and other emergency coordination and assistance when travelling more than 100 miles from home. Third-party costs are your responsibility.",
+          "title": "Premium Global Assist hotline",
+          "detail": "24/7 emergency coordination more than 100 miles from home, including medical/legal referrals, cash wires, prescription replacement and missing-luggage help. Emergency medical transport may be provided at no cost only when approved and arranged by Premium Global Assist. Other third-party expenses may be yours; this is not general medical insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "amex-delta-skymiles-reserve-us-rental-accident",
+          "title": "Rental-car accident protection",
+          "detail": "Eligible covered rental accidents: scheduled accidental death/dismemberment up to US$200,000/Cardmember or US$20,000/other eligible driver/passenger; accidental-injury treatment up to US$5,000/person. Shared US$300,000/accident aggregate. Only for eligible card-paid rentals, not general travel medical insurance. State provisions, authorization, timing and exclusions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
           "kind": "protection",
-          "priority": 208
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "amex-delta-skymiles-reserve-us-rental-personal-property",
+          "title": "Rental-car personal property",
+          "detail": "Eligible personal-property theft/damage during a covered rental: up to US$1,000/eligible person and US$2,000/rental accident aggregate. Full eligible rental payment and driver/rental conditions required. Excess coverage, exclusions and state-specific provisions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-send-split",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Send & Split",
+          "detail": "Enroll and use the Amex App to send eligible payments to PayPal/Venmo users and split eligible purchases; program limits, account eligibility and payment terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "issuer-pay-with-miles",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Pay with Miles",
+          "detail": "Redeem eligible SkyMiles in 5,000-mile increments for up to US$50 off qualifying Delta flight purchases on delta.com. Linked basic-card account, itinerary and program terms apply; this is a redemption option, not an additional statement credit.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-delta-earn",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "3X on eligible direct Delta purchases",
+          "detail": "Earn 3 SkyMiles/US$1 on eligible purchases charged directly by Delta as merchant, including qualifying Delta airfare and other issuer-defined direct Delta charges. Third-party airline-ticket merchants do not qualify. The Delta-only rate is described here and is not applied to unrelated airlines in Best Card.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-skyclub-guest-passes",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Four Sky Club guest passes",
+          "detail": "Basic Reserve Cardmember receives four one-time guest passes per Medallion year; maximum two redeemed per visit. Basic member must accompany guests and enter using Reserve; eligible same-day flights and Basic-fare exclusions apply. Other guests generally US$50; child/house rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.delta.com/us/en/delta-sky-club/access",
+          "priority": 100
+        },
+        {
+          "id": "issuer-plan-it",
+          "title": "Plan It installment option",
+          "detail": "Eligible purchases of US$100 or more may be split into fixed monthly payments for a disclosed fixed fee. Eligibility, plan limits, payment requirements and account terms apply; this borrowing feature is not a statement-credit benefit.",
+          "sourceURL": "https://www.delta.com/global/en/skymiles/airline-credit-cards/overview",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-account-services",
+          "title": "Account tools and dispute assistance",
+          "detail": "Use eligible digital-card/app functions, alerts and year-end statements to manage the account. Contact Amex for suspected fraudulent/incorrect charges or lost-card assistance; identity checks, account eligibility and cardmember terms apply.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
         }
       ],
       "statuses": [
-        {
-          "id": "mqd-headstart-2500",
-          "programID": "delta",
-          "tier": "2,500 MQDs toward Medallion",
-          "rank": 0,
-          "enrollmentRequired": false,
-          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
-          "automatic": true,
-          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
-        },
         {
           "id": "hertz-presidents-circle",
           "programID": "hertz",
           "tier": "President's Circle",
           "rank": 30,
           "enrollmentRequired": true,
-          "condition": "",
+          "condition": "Enroll in Hertz Gold+ and add its account number to the SkyMiles account linked to the eligible card, then enroll at delta.com/hertz. Current Hertz/Delta program, rental and account eligibility rules apply.",
           "automatic": true,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/"
+          "sourceURL": "https://www.delta.com/hertz"
         }
       ],
       "earningRules": [
@@ -20912,10 +21200,10 @@
           "rewardKind": "points",
           "programID": "delta",
           "label": "3X Delta",
-          "detail": "Eligible purchases made directly with Delta.",
+          "detail": "Retired broad airline-category mapping at audit: 3X is only for eligible direct Delta purchases, not all airlines. The actual Delta rate remains described in Benefits because build 3 has no Delta-only airline category.",
           "countries": [],
           "startsOn": null,
-          "endsBefore": null,
+          "endsBefore": "2026-11-04",
           "activationID": null,
           "capGroup": null,
           "capMinor": null,
@@ -20935,7 +21223,7 @@
           "id": "delta-sky-club",
           "provider": "Delta Sky Club",
           "title": "Delta Sky Club",
-          "detail": "Reserve Card access is subject to same-day Delta travel and current visit limits; spending can unlock unlimited access under current terms.",
+          "detail": "15 cardholder visits per February–January Medallion year; US$75,000 eligible calendar spend unlocks unlimited access under the card's benefit terms. Same-day eligible Delta travel, Basic-fare exclusions and current entry rules apply. Guest passes/charges are separate.",
           "enrollmentRequired": false,
           "sourceURL": "https://www.delta.com/us/en/delta-sky-club/locations"
         },
@@ -20943,16 +21231,33 @@
           "id": "centurion-escape",
           "provider": "American Express",
           "title": "Centurion & Escape Lounges",
-          "detail": "Eligible Reserve Card Members have access subject to current flight/payment and timing conditions.",
+          "detail": "Eligible same-day Delta-marketed/operated travel purchased with a U.S. Amex; Centurion/Sidecar timing rules and per-person guest fees apply. Escape guest fees vary by location.",
           "enrollmentRequired": false,
           "sourceURL": "https://travelloungefinder.americanexpress.com/en-us/travel/lounges/centurion-network/"
         }
       ],
       "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000383_480x304_straight_withname.png",
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/"
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates",
+        "https://www.delta.com/us/en/delta-sky-club/access",
+        "https://global.americanexpress.com/card-benefits/detail/complimentary-access-centurion-lounge/delta-reserve",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
       ],
-      "foreignTransactionFeePercent": 0
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
     },
     {
       "id": "scotia-momentum-no-fee-visa-can",
@@ -21895,7 +22200,7 @@
       "issuer": "American Express",
       "market": "US",
       "annualFeeMinor": 35000,
-      "feeNote": "Current standard annual fee snapshot from American Express; verify your account agreement.",
+      "feeNote": "US$350 annual fee. Additional cards have no annual fee. No foreign transaction fee.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-delta-skymiles-platinum-business-us",
@@ -21903,46 +22208,46 @@
         "delta"
       ],
       "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
-      "checkedOn": "2026-10-29",
-      "coverageNote": "Core earning categories verified from American Express. Delta-direct, U.S. shipping and $5,000+ single-purchase accelerators have merchant-specific rules that are not fully representable in the current category model.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No Delta Sky Club access or general trip cancellation/interruption coverage is listed. The erroneous MQD qualification-credit status-box entry was removed; Hertz status remains. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions.",
       "benefits": [
         {
           "id": "issuer-resy-credit",
           "title": "$120 Resy Credit",
-          "detail": "Up to US$10/month at eligible U.S. Resy restaurants. Enrollment required.",
+          "detail": "Enroll before eligible dining purchases at qualifying U.S. Resy restaurants: up to US$10/month, shared across the account. A reservation is not required; gift cards, non-dining purchases and transaction exclusions apply. No monthly rollover.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-delta-stays-statement-credit",
           "title": "$200 Delta Stays Statement Credit",
-          "detail": "Up to US$200/calendar year on eligible prepaid Delta Stays bookings, across one or more purchases.",
+          "detail": "Up to US$200/calendar year in shared-account statement credits on eligible prepaid hotels/vacation rentals booked through Delta Stays on delta.com. Other hotel channels, pay-at-property stays and airfare do not qualify. Credit follows eligible charge/processing date; refunds can reverse it.",
           "capMinor": 20000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-rideshare-credit",
           "title": "$120 Rideshare Credit",
-          "detail": "Up to US$10/month on eligible U.S. rideshare purchases. Enrollment required.",
+          "detail": "Enroll before eligible U.S. rideshare purchases with Uber, Lyft, Curb or Alto: up to US$10/month, shared across basic/additional cards. Current providers and transaction exclusions apply; no rollover. Not a credit for food delivery or gift cards.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-medallion-qualification-dollars-mqd-boost",
           "title": "MQD Headstart and Boost",
-          "detail": "$2,500 MQDs each Medallion Qualification Year, plus $1 MQD for every $20 in purchases on the card in a calendar year toward next year's Medallion status.",
+          "detail": "Basic Cardmember receives 2,500 MQDs per qualifying product/qualification year; eligible Platinum, Platinum Business, Reserve and Reserve Business are distinct products, maximum four product Headstarts. Deposit normally 6–8 weeks after February 1 or new-card opening. Additional holders receive no Headstart; MQDs are qualification credit, not redeemable miles or an automatic Medallion tier. Earn one MQD per US$20 eligible net purchases/calendar year, including additional-card spend, toward the basic member's qualification. Fees, interest, cash equivalents and returns excluded. No Medallion tier is automatically granted by holding this card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -21953,24 +22258,24 @@
         {
           "id": "issuer-annual-companion-certificate-upon-renewal",
           "title": "Annual Companion Certificate",
-          "detail": "A round-trip Companion Certificate each year after renewal for Delta Main on domestic, Caribbean or Central American flights (taxes and fees of $22–$250 apply).",
+          "detail": "One companion certificate after each card renewal for eligible Delta Main paid round-trip itineraries originating in the U.S./Puerto Rico/USVI to covered U.S., Mexico, Caribbean/Central America destinations. Taxes/fees US$22–US$250 on up to four segments; fare-class/inventory rules and same-flight booking apply. Book and fly before expiry, normally one year. Delta Basic excluded; card/eCredit payment terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "sourceURL": "https://www.delta.com/us/en/booking-information/companion-certificates",
           "kind": "benefit",
-          "priority": 101
+          "priority": 100
         },
         {
           "id": "issuer-zone-5-priority-boarding",
           "title": "Zone 5 Priority Boarding",
-          "detail": "Zone 5 priority boarding on Delta flights: board early and stow your carry-on.",
+          "detail": "Zone 5 boarding for eligible basic Cardmember and up to eight passengers on the same Delta/Delta Connection reservation with the linked SkyMiles number. Boarding follows current fare, itinerary and Delta program rules.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
           "kind": "benefit",
-          "priority": 102
+          "priority": 100
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -21981,107 +22286,263 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
           "kind": "benefit",
-          "priority": 103
+          "priority": 100
         },
         {
           "id": "issuer-hertz-five-star-status",
           "title": "Hertz Five Star status",
-          "detail": "Complimentary Hertz Five Star status; enroll in Hertz Gold Plus Rewards and add your number through your Amex account.",
+          "detail": "Complimentary Hertz Five Star after enrolling in Hertz Gold+, adding its number to the linked SkyMiles account and enrolling at delta.com/hertz. Account, location and rental terms apply; this is the included status shown in the status box.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "global-entry-credit",
           "title": "Global Entry / TSA PreCheck credit",
-          "detail": "A US$120 statement credit for Global Entry, or up to US$85 for a five-year TSA PreCheck membership, every 4 years when the fee is charged to the card.",
+          "detail": "One application-fee statement credit/account every four years for whichever is charged first: up to US$120 Global Entry or US$85 for a five-year TSA PreCheck plan through an official enrollment provider. Shared across basic/additional cards; government approval is separate.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
           "kind": "credit",
           "intervalYears": 4,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "amex-delta-skymiles-platinum-business-us-trip-delay-reimbursement",
           "title": "Trip delay reimbursement",
-          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$300 per trip for additional expenses, max 2 claims per 12 months.",
+          "detail": "Covered round trip delayed more than 12 hours: up to US$300/trip, two claims/card/12 months, excess of other benefits. Pay full common-carrier transport with the card/allowed points or vouchers and additional expenses with that card. Weather, equipment failure, hijacking/terrorism or lost travel documents may qualify; known delays excluded. Notify within 60 days; proof within 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
           "kind": "protection",
-          "priority": 200
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-business-us-lost-luggage-reimbursement",
           "title": "Lost luggage reimbursement",
-          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 201
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-business-us-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Covers eligible purchases for up to 90 days against theft or accidental damage, up to US$1,000 per covered purchase and US$50,000 per calendar year.",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage; up to US$1,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 202
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-business-us-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 203
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-business-us-travel-emergency-assistance",
-          "title": "Travel & emergency assistance",
-          "detail": "24/7 emergency assistance and coordination when more than 100 miles from home, including medical and legal referrals, emergency cash wires and missing-luggage help. Third-party costs are your responsibility.",
+          "title": "Global Assist hotline",
+          "detail": "24/7 medical/legal referrals, emergency cash-wire coordination and missing-luggage assistance when more than 100 miles from home. Third-party costs are your responsibility; this assistance service is not emergency-medical insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-business-us-car-rental-loss-damage-insurance",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary theft/damage cover up to US$50,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
           "kind": "protection",
-          "priority": 204
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-platinum-business-us-cell-phone-protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "title": "Cell phone protection",
+          "detail": "Prior month's eligible wireless bill paid with card: covered theft/damage including cracked screens, up to US$800/claim after US$50 deductible, two claims/account/12 months; excess of other insurance. Lost/mysteriously disappeared phones and cosmetic damage excluded. Theft police report within 48 hours; notify claim within 90 days/as soon as reasonably possible, written proof within 120 days.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-checked-bags",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "First bag free; basic member's domestic second bag",
+          "detail": "First standard checked bag: eligible basic Cardmember plus up to eight companions on the same reservation. Domestic second standard bag: only travelers who individually hold an eligible basic Delta Amex card, not ordinary companions/additional cardholders. Include each eligible SkyMiles number; Delta-marketed/operated eligible segments and Delta check-in required. No extra allowance above existing free bags; oversize/overweight fees remain.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+          "priority": 100
+        },
+        {
+          "id": "issuer-takeoff-15",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "TakeOff 15",
+          "detail": "Log into the basic Cardmember's linked SkyMiles account and redeem miles for eligible Delta-operated award travel through delta.com/Fly Delta. 15% discount applies to miles only, not taxes/fees, partner-operated flights or Pay with Miles. Eligible card/account must remain open; current program rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-inflight-savings",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "20% in-flight savings",
+          "detail": "20% back as a statement credit on eligible Delta-operated pre-purchased meals and in-flight food/beverage purchases paid with the card. Wi-Fi, airfare and other exclusions apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-pay-with-miles",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Pay with Miles",
+          "detail": "Redeem eligible SkyMiles in 5,000-mile increments for up to US$50 off qualifying Delta flight purchases on delta.com. Linked basic-card account, itinerary and program terms apply; this is a redemption option, not an additional statement credit.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-delta-earn",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "3X on eligible direct Delta purchases",
+          "detail": "Earn 3 SkyMiles/US$1 on eligible purchases charged directly by Delta as merchant, including qualifying Delta airfare and other issuer-defined direct Delta charges. Third-party airline-ticket merchants do not qualify. The Delta-only rate is described here and is not applied to unrelated airlines in Best Card.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-complimentary-upgrades",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Complimentary upgrade list",
+          "detail": "Eligible non-Medallion basic Cardmembers with qualifying Delta tickets can join the complimentary upgrade list after Medallion members and Reserve cardholders. Availability, fare and program rules apply; this does not grant Medallion status.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-large-purchase-earn",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "1.5X large purchases, shared cap",
+          "detail": "Eligible individual purchases of US$5,000+ earn 1.5X, sharing a US$100,000/calendar-year cap with eligible transit and U.S. shipping, then 1X. Higher accelerators do not stack. Build 3 cannot automatically test transaction-size eligibility.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-business-tools",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Employee and expense management",
+          "detail": "Employee cards, spending controls, alerts, account-manager access and year-end summaries support expense management. Eligible QuickBooks integration requires enrollment; account/card and third-party software charges may apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-vendor-pay",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Vendor Pay by BILL",
+          "detail": "Enroll for eligible invoice/payment and accounting tools. User count, service plans, payment methods and integrations can incur charges; current Vendor Pay terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/payments/vendor-pay/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-account-services",
+          "title": "Account tools and dispute assistance",
+          "detail": "Use eligible digital-card/app functions, alerts and year-end statements to manage the account. Contact Amex for suspected fraudulent/incorrect charges or lost-card assistance; identity checks, account eligibility and cardmember terms apply.",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
         }
       ],
       "statuses": [
-        {
-          "id": "mqd-headstart-2500",
-          "programID": "delta",
-          "tier": "2,500 MQDs toward Medallion",
-          "rank": 0,
-          "enrollmentRequired": false,
-          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
-          "automatic": true,
-          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
-        },
         {
           "id": "hertz-five-star",
           "programID": "hertz",
           "tier": "Five Star",
           "rank": 20,
           "enrollmentRequired": true,
-          "condition": "",
+          "condition": "Enroll in Hertz Gold+ and add its account number to the SkyMiles account linked to the eligible card, then enroll at delta.com/hertz. Current Hertz/Delta program, rental and account eligibility rules apply.",
           "automatic": true,
-          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/"
+          "sourceURL": "https://www.delta.com/hertz"
         }
       ],
       "earningRules": [
@@ -22122,10 +22583,8 @@
           "rewardKind": "points",
           "programID": "delta",
           "label": "SkyMiles",
-          "detail": "Eligible transit purchases. U.S. shipping and single purchases of $5,000+ are not represented by the current Best Card categories.",
-          "countries": [
-            "US"
-          ],
+          "detail": "1.5X eligible transit, sharing US$100,000/calendar year with U.S. shipping and eligible single purchases of US$5,000+; then 1X. Only the highest applicable accelerator applies.",
+          "countries": [],
           "capReset": "calendarYear",
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
           "capMinor": 10000000,
@@ -22140,29 +22599,60 @@
           "rewardKind": "points",
           "programID": "delta",
           "label": "3X Delta",
-          "detail": "Eligible purchases made directly with Delta.",
+          "detail": "Retired broad airline-category mapping at audit: 3X is only for eligible direct Delta purchases, not all airlines. The actual Delta rate remains described in Benefits because build 3 has no Delta-only airline category.",
           "countries": [],
           "startsOn": null,
-          "endsBefore": null,
+          "endsBefore": "2026-11-04",
           "activationID": null,
           "capGroup": null,
           "capMinor": null,
           "capReset": "none",
           "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
           "calculationNote": null
+        },
+        {
+          "id": "us-shipping",
+          "categories": [
+            "shipping"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "SkyMiles",
+          "detail": "1.5X U.S. shipping, sharing the US$100,000 annual cap with transit and eligible US$5,000+ purchases.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+          "capMinor": 10000000,
+          "capGroup": "delta-plat-biz-1-5x"
         }
       ],
       "accountType": "business",
       "artworkPageURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
       "artworkSearchTerms": "Amex Delta SkyMiles Platinum Business",
       "reviewURL": "https://thepointsguy.com/credit-cards/",
-      "catalogLevel": "partial",
+      "catalogLevel": "verified",
       "availability": "confirm-with-issuer",
       "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/platinum-delta-skymiles-business.png",
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/"
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/business/payments/vendor-pay/"
       ],
-      "foreignTransactionFeePercent": 0
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
     },
     {
       "id": "amex-gold-us",
@@ -22524,7 +23014,7 @@
       "issuer": "American Express",
       "market": "US",
       "annualFeeMinor": 35000,
-      "feeNote": "Current annual fee: $350.",
+      "feeNote": "US$350 annual fee. Additional cards have no annual fee. No foreign transaction fee.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-delta-skymiles-platinum-us",
@@ -22532,13 +23022,24 @@
         "delta"
       ],
       "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
-      "checkedOn": "2026-10-29",
-      "coverageNote": "Current issuer-sourced benefits and earning rules are modeled where the app can represent them safely. Issuer terms control eligibility, exclusions and changes.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No Delta Sky Club access or general trip cancellation/interruption coverage is listed. The erroneous MQD qualification-credit status-box entry was removed; Hertz status remains. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions.",
       "benefits": [
         {
           "id": "companion",
           "title": "Annual companion certificate",
-          "detail": "Annual Main Cabin companion certificate after renewal, subject to current eligible routes, taxes, fees and booking rules.",
+          "detail": "One companion certificate after each card renewal for eligible Delta Main paid round-trip itineraries originating in the U.S./Puerto Rico/USVI to covered U.S., Mexico, Caribbean/Central America destinations. Taxes/fees US$22–US$250 on up to four segments; fare-class/inventory rules and same-flight booking apply. Book and fly before expiry, normally one year. Delta Basic excluded; card/eCredit payment terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.delta.com/us/en/booking-information/companion-certificates",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "mqd-headstart",
+          "title": "MQD Headstart",
+          "detail": "Basic Cardmember receives 2,500 MQDs per qualifying product/qualification year; eligible Platinum, Platinum Business, Reserve and Reserve Business are distinct products, maximum four product Headstarts. Deposit normally 6–8 weeks after February 1 or new-card opening. Additional holders receive no Headstart; MQDs are qualification credit, not redeemable miles or an automatic Medallion tier.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -22547,45 +23048,37 @@
           "priority": 100
         },
         {
-          "id": "mqd-headstart",
-          "title": "MQD Headstart",
-          "detail": "Receive $2,500 Medallion Qualification Dollars each qualification year under current Delta terms.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
-          "kind": "benefit",
-          "priority": 101
-        },
-        {
           "id": "rideshare",
           "title": "Rideshare credit",
-          "detail": "Up to $10 per month on eligible U.S. rideshare purchases after enrollment.",
+          "detail": "Enroll before eligible U.S. rideshare purchases with Uber, Lyft, Curb or Alto: up to US$10/month, shared across basic/additional cards. Current providers and transaction exclusions apply; no rollover. Not a credit for food delivery or gift cards.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "resy",
           "title": "Resy credit",
-          "detail": "Up to $10 per month on eligible U.S. Resy purchases after enrollment.",
+          "detail": "Enroll before eligible dining purchases at qualifying U.S. Resy restaurants: up to US$10/month, shared across the account. A reservation is not required; gift cards, non-dining purchases and transaction exclusions apply. No monthly rollover.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "delta-stays",
           "title": "Delta Stays credit",
-          "detail": "Up to $150 per calendar year on eligible prepaid Delta Stays bookings.",
+          "detail": "Up to US$150/calendar year in shared-account statement credits on eligible prepaid hotels/vacation rentals booked through Delta Stays on delta.com. Other hotel channels, pay-at-property stays and airfare do not qualify. Credit follows eligible charge/processing date; refunds can reverse it.",
           "capMinor": 15000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "delta-earn",
@@ -22596,62 +23089,62 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
           "kind": "benefit",
-          "priority": 102
+          "priority": 100
         },
         {
           "id": "issuer-mqd-boost",
           "title": "MQD Boost",
-          "detail": "$1 Medallion Qualification Dollar for every $20 in purchases on the card in a calendar year toward next year's Medallion status.",
+          "detail": "Earn one MQD per US$20 eligible net purchases/calendar year, including additional-card spend, toward the basic member's qualification. Fees, interest, cash equivalents and returns excluded. No Medallion tier is automatically granted by holding this card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "issuer-takeoff-15",
           "title": "TakeOff 15",
-          "detail": "15% off Award Travel booked with miles on Delta-operated flights on delta.com and the Fly Delta app (not taxes and fees).",
+          "detail": "Log into the basic Cardmember's linked SkyMiles account and redeem miles for eligible Delta-operated award travel through delta.com/Fly Delta. 15% discount applies to miles only, not taxes/fees, partner-operated flights or Pay with Miles. Eligible card/account must remain open; current program rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
           "kind": "benefit",
-          "priority": 103
+          "priority": 100
         },
         {
           "id": "issuer-first-bag-free-and-new-second-bag-free",
-          "title": "Free first (and second) checked bag",
-          "detail": "First checked bag free on Delta flights worldwide; on domestic Delta flights the second bag is free too.",
+          "title": "First bag free; basic member's domestic second bag",
+          "detail": "First standard checked bag: eligible basic Cardmember plus up to eight companions on the same reservation. Domestic second standard bag: only travelers who individually hold an eligible basic Delta Amex card, not ordinary companions/additional cardholders. Include each eligible SkyMiles number; Delta-marketed/operated eligible segments and Delta check-in required. No extra allowance above existing free bags; oversize/overweight fees remain.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "sourceURL": "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
           "kind": "benefit",
-          "priority": 104
+          "priority": 100
         },
         {
           "id": "issuer-zone-5-priority-boarding",
           "title": "Zone 5 Priority Boarding",
-          "detail": "Zone 5 priority boarding on Delta flights: board early and stow your carry-on.",
+          "detail": "Zone 5 boarding for eligible basic Cardmember and up to eight passengers on the same Delta/Delta Connection reservation with the linked SkyMiles number. Boarding follows current fare, itinerary and Delta program rules.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
           "kind": "benefit",
-          "priority": 105
+          "priority": 100
         },
         {
           "id": "issuer-hertz-five-star-status",
           "title": "Hertz Five Star status",
-          "detail": "Complimentary Hertz Five Star status; enroll in Hertz Gold Plus Rewards and add your number through your Amex account.",
+          "detail": "Complimentary Hertz Five Star after enrolling in Hertz Gold+, adding its number to the linked SkyMiles account and enrolling at delta.com/hertz. Account, location and rental terms apply; this is the included status shown in the status box.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
           "kind": "benefit",
-          "priority": 21
+          "priority": 30
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -22662,118 +23155,219 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
           "kind": "benefit",
-          "priority": 106
+          "priority": 100
         },
         {
           "id": "global-entry-credit",
           "title": "Global Entry / TSA PreCheck credit",
-          "detail": "A US$120 statement credit for Global Entry, or up to US$85 for a five-year TSA PreCheck membership, every 4 years when the fee is charged to the card.",
+          "detail": "One application-fee statement credit/account every four years for whichever is charged first: up to US$120 Global Entry or US$85 for a five-year TSA PreCheck plan through an official enrollment provider. Shared across basic/additional cards; government approval is separate.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
           "kind": "credit",
           "intervalYears": 4,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "amex-delta-skymiles-platinum-us-trip-delay-reimbursement",
           "title": "Trip delay reimbursement",
-          "detail": "Round trip paid entirely with the card and delayed more than 12 hours for a covered reason: up to US$300 per trip for additional expenses, max 2 claims per 12 months.",
+          "detail": "Covered round trip delayed more than 12 hours: up to US$300/trip, two claims/card/12 months, excess of other benefits. Pay full common-carrier transport with the card/allowed points or vouchers and additional expenses with that card. Weather, equipment failure, hijacking/terrorism or lost travel documents may qualify; known delays excluded. Notify within 60 days; proof within 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
           "kind": "protection",
-          "priority": 200
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-us-lost-luggage-reimbursement",
           "title": "Lost luggage reimbursement",
-          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 201
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-us-cell-phone-protection",
           "title": "Cell phone protection",
-          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "detail": "Prior month's eligible wireless bill paid with card: covered theft/damage including cracked screens, up to US$800/claim after US$50 deductible, two claims/account/12 months; excess of other insurance. Lost/mysteriously disappeared phones and cosmetic damage excluded. Theft police report within 48 hours; notify claim within 90 days/as soon as reasonably possible, written proof within 120 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
           "kind": "protection",
-          "priority": 202
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-us-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Covers eligible purchases for up to 90 days against theft or accidental damage, up to US$1,000 per covered purchase and US$50,000 per calendar year.",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage; up to US$1,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 203
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-us-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
           "kind": "protection",
-          "priority": 204
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-us-car-rental-loss-damage-insurance",
           "title": "Car rental loss & damage insurance",
-          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "detail": "Secondary theft/damage cover up to US$50,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
           "kind": "protection",
-          "priority": 205
+          "priority": 210
         },
         {
           "id": "amex-delta-skymiles-platinum-us-travel-emergency-assistance",
-          "title": "Travel & emergency assistance",
-          "detail": "24/7 emergency assistance and coordination when more than 100 miles from home, including medical and legal referrals, emergency cash wires and missing-luggage help. Third-party costs are your responsibility.",
+          "title": "Global Assist hotline",
+          "detail": "24/7 medical/legal referrals, emergency cash-wire coordination and missing-luggage assistance when more than 100 miles from home. Third-party costs are your responsibility; this assistance service is not emergency-medical insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
-          "kind": "protection",
-          "priority": 206
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-send-split",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Send & Split",
+          "detail": "Enroll and use the Amex App to send eligible payments to PayPal/Venmo users and split eligible purchases; program limits, account eligibility and payment terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "issuer-inflight-savings",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "20% in-flight savings",
+          "detail": "20% back as a statement credit on eligible Delta-operated pre-purchased meals and in-flight food/beverage purchases paid with the card. Wi-Fi, airfare and other exclusions apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-pay-with-miles",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Pay with Miles",
+          "detail": "Redeem eligible SkyMiles in 5,000-mile increments for up to US$50 off qualifying Delta flight purchases on delta.com. Linked basic-card account, itinerary and program terms apply; this is a redemption option, not an additional statement credit.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-delta-earn",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "3X on eligible direct Delta purchases",
+          "detail": "Earn 3 SkyMiles/US$1 on eligible purchases charged directly by Delta as merchant, including qualifying Delta airfare and other issuer-defined direct Delta charges. Third-party airline-ticket merchants do not qualify. The Delta-only rate is described here and is not applied to unrelated airlines in Best Card.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-complimentary-upgrades",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Complimentary upgrade list",
+          "detail": "Eligible non-Medallion basic Cardmembers with qualifying Delta tickets can join the complimentary upgrade list after Medallion members and Reserve cardholders. Availability, fare and program rules apply; this does not grant Medallion status.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-plan-it",
+          "title": "Plan It installment option",
+          "detail": "Eligible purchases of US$100 or more may be split into fixed monthly payments for a disclosed fixed fee. Eligibility, plan limits, payment requirements and account terms apply; this borrowing feature is not a statement-credit benefit.",
+          "sourceURL": "https://www.delta.com/global/en/skymiles/airline-credit-cards/overview",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-account-services",
+          "title": "Account tools and dispute assistance",
+          "detail": "Use eligible digital-card/app functions, alerts and year-end statements to manage the account. Contact Amex for suspected fraudulent/incorrect charges or lost-card assistance; identity checks, account eligibility and cardmember terms apply.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
         }
       ],
       "statuses": [
-        {
-          "id": "mqd-headstart-2500",
-          "programID": "delta",
-          "tier": "2,500 MQDs toward Medallion",
-          "rank": 0,
-          "enrollmentRequired": false,
-          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
-          "automatic": true,
-          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
-        },
         {
           "id": "hertz-five-star",
           "programID": "hertz",
           "tier": "Five Star",
           "rank": 20,
           "enrollmentRequired": true,
-          "condition": "",
+          "condition": "Enroll in Hertz Gold+ and add its account number to the SkyMiles account linked to the eligible card, then enroll at delta.com/hertz. Current Hertz/Delta program, rental and account eligibility rules apply.",
           "automatic": true,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
+          "sourceURL": "https://www.delta.com/hertz"
         }
       ],
       "earningRules": [
@@ -22808,14 +23402,13 @@
         {
           "id": "dining-grocery",
           "categories": [
-            "dining",
-            "groceries"
+            "dining"
           ],
           "rate": 2,
           "rewardKind": "points",
           "programID": "delta",
           "label": "SkyMiles",
-          "detail": "Eligible restaurants worldwide and U.S. supermarkets.",
+          "detail": "2X on eligible restaurants worldwide, including U.S. takeout/delivery.",
           "countries": [],
           "capReset": "none",
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
@@ -22829,29 +23422,58 @@
           "rewardKind": "points",
           "programID": "delta",
           "label": "3X Delta",
-          "detail": "Eligible purchases made directly with Delta.",
+          "detail": "Retired broad airline-category mapping at audit: 3X is only for eligible direct Delta purchases, not all airlines. The actual Delta rate remains described in Benefits because build 3 has no Delta-only airline category.",
           "countries": [],
           "startsOn": null,
-          "endsBefore": null,
+          "endsBefore": "2026-11-04",
           "activationID": null,
           "capGroup": null,
           "capMinor": null,
           "capReset": "none",
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
           "calculationNote": null
+        },
+        {
+          "id": "us-supermarkets",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "SkyMiles",
+          "detail": "2X at eligible U.S. supermarkets only.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
         }
       ],
       "accountType": "personal",
       "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
       "artworkSearchTerms": "Amex Delta SkyMiles Platinum",
       "reviewURL": "https://thepointsguy.com/credit-cards/",
-      "catalogLevel": "partial",
+      "catalogLevel": "verified",
       "availability": "confirm-with-issuer",
       "foreignTransactionFeePercent": 0,
       "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000384_480x304_straight_withname.png",
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/"
-      ]
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+      ],
+      "earningDataComplete": true
     },
     {
       "id": "amex-hilton-honors-us",
@@ -28078,6 +28700,693 @@
       "benefitSourceURLs": [
         "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
         "https://www.marriott.com/loyalty/terms/default.mi",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/business/payments/vendor-pay/"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
+    },
+    {
+      "id": "amex-delta-skymiles-gold-us",
+      "name": "Amex Delta SkyMiles Gold US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 15000,
+      "feeNote": "US$150 standard annual fee; current introductory offer waives the first year. No foreign transaction fee. Additional-card terms follow the account fee schedule.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-delta-skymiles-gold-us",
+      "programIDs": [
+        "delta"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Gold rideshare eligibility starts after first renewal. No lounge access, MQD Headstart/Boost, trip-delay, general trip cancellation/interruption or cell-phone insurance is listed. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions.",
+      "benefits": [
+        {
+          "id": "issuer-rideshare-credit",
+          "title": "After first renewal: rideshare credit",
+          "detail": "Available only after the first card renewal. Enroll before eligible U.S. rideshare purchases with Uber, Lyft, Curb or Alto: up to US$10/month, shared across basic/additional cards. Current providers and transaction exclusions apply; no rollover. Not a credit for food delivery or gift cards.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-delta-stays-credit",
+          "title": "$100 Delta Stays Credit",
+          "detail": "Up to US$100/calendar year in shared-account statement credits on eligible prepaid hotels/vacation rentals booked through Delta Stays on delta.com. Other hotel channels, pay-at-property stays and airfare do not qualify. Credit follows eligible charge/processing date; refunds can reverse it.",
+          "capMinor": 10000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-first-bag-free-and-new-second-bag-free",
+          "title": "First bag free; basic member's domestic second bag",
+          "detail": "First standard checked bag: eligible basic Cardmember plus up to eight companions on the same reservation. Domestic second standard bag: only travelers who individually hold an eligible basic Delta Amex card, not ordinary companions/additional cardholders. Include each eligible SkyMiles number; Delta-marketed/operated eligible segments and Delta check-in required. No extra allowance above existing free bags; oversize/overweight fees remain.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-takeoff-15",
+          "title": "TakeOff 15",
+          "detail": "Log into the basic Cardmember's linked SkyMiles account and redeem miles for eligible Delta-operated award travel through delta.com/Fly Delta. 15% discount applies to miles only, not taxes/fees, partner-operated flights or Pay with Miles. Eligible card/account must remain open; current program rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-zone-5-priority-boarding",
+          "title": "Zone 5 Priority Boarding",
+          "detail": "Zone 5 boarding for eligible basic Cardmember and up to eight passengers on the same Delta/Delta Connection reservation with the linked SkyMiles number. Boarding follows current fare, itinerary and Delta program rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "delta-flight-credit",
+          "title": "US$200 Delta eCredit at US$10,000",
+          "detail": "Earn one US$200 Delta Flight eCredit after US$10,000 in eligible net calendar-year purchases, including additional-card spend. Usually emailed/posted to Delta Wallet in 6–8 weeks. Use under eCredit flight/expiry terms; this is a spend-earned Delta eCredit, not an automatic annual statement credit. The eCredit expires within one year of issue and must be redeemed by its stated expiry; not valid for baggage/change fees or upgrades.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "priority": 100,
+          "spendMilestoneMinor": 1000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "amex-delta-skymiles-gold-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-gold-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage; up to US$1,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-gold-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-gold-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary theft/damage cover up to US$50,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-gold-us-travel-emergency-assistance",
+          "title": "Global Assist hotline",
+          "detail": "24/7 medical/legal referrals, emergency cash-wire coordination and missing-luggage assistance when more than 100 miles from home. Third-party costs are your responsibility; this assistance service is not emergency-medical insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-send-split",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Send & Split",
+          "detail": "Enroll and use the Amex App to send eligible payments to PayPal/Venmo users and split eligible purchases; program limits, account eligibility and payment terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "issuer-inflight-savings",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "20% in-flight savings",
+          "detail": "20% back as a statement credit on eligible Delta-operated pre-purchased meals and in-flight food/beverage purchases paid with the card. Wi-Fi, airfare and other exclusions apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-pay-with-miles",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Pay with Miles",
+          "detail": "Redeem eligible SkyMiles in 5,000-mile increments for up to US$50 off qualifying Delta flight purchases on delta.com. Linked basic-card account, itinerary and program terms apply; this is a redemption option, not an additional statement credit.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-delta-earn",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "2X on eligible direct Delta purchases",
+          "detail": "Earn 2 SkyMiles/US$1 on eligible purchases charged directly by Delta as merchant, including qualifying Delta airfare and other issuer-defined direct Delta charges. Third-party airline-ticket merchants do not qualify. The Delta-only rate is described here and is not applied to unrelated airlines in Best Card.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-plan-it",
+          "title": "Plan It installment option",
+          "detail": "Eligible purchases of US$100 or more may be split into fixed monthly payments for a disclosed fixed fee. Eligibility, plan limits, payment requirements and account terms apply; this borrowing feature is not a statement-credit benefit.",
+          "sourceURL": "https://www.delta.com/global/en/skymiles/airline-credit-cards/overview",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-account-services",
+          "title": "Account tools and dispute assistance",
+          "detail": "Use eligible digital-card/app functions, alerts and year-end statements to manage the account. Contact Amex for suspected fraudulent/incorrect charges or lost-card assistance; identity checks, account eligibility and cardmember terms apply.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "1X SkyMiles",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "bonus",
+          "categories": [
+            "dining"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "2X bonus categories",
+          "detail": "2X at eligible restaurants worldwide, including U.S. takeout/delivery; merchant definitions apply.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "us-supermarkets",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "2X bonus categories",
+          "detail": "2X at eligible U.S. supermarkets; not foreign supermarkets or excluded warehouse/superstore merchants.",
+          "countries": [
+            "US"
+          ],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+      "artworkSearchTerms": "Amex Delta SkyMiles Gold",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000385_480x304_straight_withname.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
+    },
+    {
+      "id": "amex-delta-skymiles-gold-business-us",
+      "name": "Amex Delta SkyMiles Gold Business US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 15000,
+      "feeNote": "US$150 standard annual fee; current introductory offer waives the first year. No foreign transaction fee. Additional-card terms follow the account fee schedule.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-delta-skymiles-gold-business-us",
+      "programIDs": [
+        "delta"
+      ],
+      "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Gold rideshare eligibility starts after first renewal. No lounge access, MQD Headstart/Boost, trip-delay, general trip cancellation/interruption or cell-phone insurance is listed. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions.",
+      "benefits": [
+        {
+          "id": "issuer-zone-5-priority-boarding",
+          "title": "Zone 5 Priority Boarding",
+          "detail": "Zone 5 boarding for eligible basic Cardmember and up to eight passengers on the same Delta/Delta Connection reservation with the linked SkyMiles number. Boarding follows current fare, itinerary and Delta program rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-rideshare-credit",
+          "title": "After first renewal: rideshare credit",
+          "detail": "Available only after the first card renewal. Enroll before eligible U.S. rideshare purchases with Uber, Lyft, Curb or Alto: up to US$10/month, shared across basic/additional cards. Current providers and transaction exclusions apply; no rollover. Not a credit for food delivery or gift cards.",
+          "capMinor": 1000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-delta-stays-credit",
+          "title": "$150 Delta Stays Credit",
+          "detail": "Up to US$150/calendar year in shared-account statement credits on eligible prepaid hotels/vacation rentals booked through Delta Stays on delta.com. Other hotel channels, pay-at-property stays and airfare do not qualify. Credit follows eligible charge/processing date; refunds can reverse it.",
+          "capMinor": 15000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "delta-flight-credit",
+          "title": "US$200 Delta eCredit at US$10,000",
+          "detail": "Earn one US$200 Delta Flight eCredit after US$10,000 in eligible net calendar-year purchases, including additional-card spend. Usually emailed/posted to Delta Wallet in 6–8 weeks. Use under eCredit flight/expiry terms; this is a spend-earned Delta eCredit, not an automatic annual statement credit. The eCredit expires within one year of issue and must be redeemed by its stated expiry; not valid for baggage/change fees or upgrades.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "priority": 100,
+          "spendMilestoneMinor": 1000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "amex-delta-skymiles-gold-business-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-gold-business-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage; up to US$1,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-gold-business-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-gold-business-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary theft/damage cover up to US$50,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-delta-skymiles-gold-business-us-travel-emergency-assistance",
+          "title": "Global Assist hotline",
+          "detail": "24/7 medical/legal referrals, emergency cash-wire coordination and missing-luggage assistance when more than 100 miles from home. Third-party costs are your responsibility; this assistance service is not emergency-medical insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-checked-bags",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "First bag free; basic member's domestic second bag",
+          "detail": "First standard checked bag: eligible basic Cardmember plus up to eight companions on the same reservation. Domestic second standard bag: only travelers who individually hold an eligible basic Delta Amex card, not ordinary companions/additional cardholders. Include each eligible SkyMiles number; Delta-marketed/operated eligible segments and Delta check-in required. No extra allowance above existing free bags; oversize/overweight fees remain.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+          "priority": 100
+        },
+        {
+          "id": "issuer-takeoff-15",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "TakeOff 15",
+          "detail": "Log into the basic Cardmember's linked SkyMiles account and redeem miles for eligible Delta-operated award travel through delta.com/Fly Delta. 15% discount applies to miles only, not taxes/fees, partner-operated flights or Pay with Miles. Eligible card/account must remain open; current program rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-inflight-savings",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "20% in-flight savings",
+          "detail": "20% back as a statement credit on eligible Delta-operated pre-purchased meals and in-flight food/beverage purchases paid with the card. Wi-Fi, airfare and other exclusions apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-pay-with-miles",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Pay with Miles",
+          "detail": "Redeem eligible SkyMiles in 5,000-mile increments for up to US$50 off qualifying Delta flight purchases on delta.com. Linked basic-card account, itinerary and program terms apply; this is a redemption option, not an additional statement credit.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-delta-earn",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "2X on eligible direct Delta purchases",
+          "detail": "Earn 2 SkyMiles/US$1 on eligible purchases charged directly by Delta as merchant, including qualifying Delta airfare and other issuer-defined direct Delta charges. Third-party airline-ticket merchants do not qualify. The Delta-only rate is described here and is not applied to unrelated airlines in Best Card.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-advertising-earn",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "2X U.S. advertising, separate US$50,000 cap",
+          "detail": "Earn 2X on eligible U.S. providers for advertising in select media, up to US$50,000/calendar year, then 1X. This cap is separate from the US$50,000 shipping cap. Build 3 has no dedicated advertising earning category.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "priority": 100
+        },
+        {
+          "id": "issuer-business-tools",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Employee and expense management",
+          "detail": "Employee cards, spending controls, alerts, account-manager access and year-end summaries support expense management. Eligible QuickBooks integration requires enrollment; account/card and third-party software charges may apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-vendor-pay",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "title": "Vendor Pay by BILL",
+          "detail": "Enroll for eligible invoice/payment and accounting tools. User count, service plans, payment methods and integrations can incur charges; current Vendor Pay terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/business/payments/vendor-pay/",
+          "priority": 30
+        },
+        {
+          "id": "issuer-account-services",
+          "title": "Account tools and dispute assistance",
+          "detail": "Use eligible digital-card/app functions, alerts and year-end statements to manage the account. Contact Amex for suspected fraudulent/incorrect charges or lost-card assistance; identity checks, account eligibility and cardmember terms apply.",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "1X SkyMiles",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "calculationNote": null
+        },
+        {
+          "id": "bonus",
+          "categories": [
+            "dining"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "2X bonus categories",
+          "detail": "2X at eligible restaurants worldwide, including U.S. takeout/delivery; merchant definitions apply.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "calculationNote": null
+        },
+        {
+          "id": "shipping-ads",
+          "categories": [
+            "shipping"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "delta",
+          "label": "2X U.S. shipping",
+          "detail": "2X at eligible U.S. shipping providers on up to US$50,000/calendar year, then 1X. Advertising has a separate cap and is described in Benefits.",
+          "countries": [
+            "US"
+          ],
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+          "capMinor": 5000000,
+          "capGroup": "delta-gold-biz-ship"
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+      "artworkSearchTerms": "Amex Delta SkyMiles Gold Business",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/gold-delta-skymiles-business.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates",
         "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
         "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
         "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
