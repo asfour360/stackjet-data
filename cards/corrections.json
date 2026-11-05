@@ -3773,7 +3773,7 @@
         {
           "id": "all-accor-gold-status",
           "title": "ALL Accor Gold status",
-          "detail": "Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
+          "detail": "*New Benefit* — Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -4650,7 +4650,7 @@
         {
           "id": "all-accor-gold-status",
           "title": "ALL Accor Gold status",
-          "detail": "Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
+          "detail": "*New Benefit* — Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
