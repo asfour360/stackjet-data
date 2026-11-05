@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-05",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked.",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster.",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -12463,6 +12463,88 @@
       "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
       "benefits": [
         {
+          "id": "avis-budget-credit",
+          "title": "Avis or Budget United travel credit",
+          "detail": "US$50 in United TravelBank cash on each of the first two Avis or Budget rentals booked through mileageplustravel each anniversary year (US$100 total).",
+          "capMinor": 10000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 20
+        },
+        {
+          "id": "global-entry-credit",
+          "title": "Global Entry, TSA PreCheck or NEXUS credit",
+          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "intervalYears": 4,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 20
+        },
+        {
+          "id": "rideshare",
+          "title": "Up to $150 in credits on rideshare purchases",
+          "detail": "Up to US$12/month January–November and US$18 in December for eligible rideshare purchases. Yearly enrollment required.",
+          "capMinor": 1200,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "monthOverrides": {
+            "12": 1800
+          },
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 20
+        },
+        {
+          "id": "issuer-up-to-200-in-credits-for-renowned-hotels-and-resorts-for-united-cardmembers",
+          "title": "Up to $200 in credits for Renowned Hotels and Resorts for United Cardmembers",
+          "detail": "Up to US$200/cardmember year on eligible prepaid Renowned Hotels and Resorts bookings.",
+          "capMinor": 20000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 20,
+          "kind": "credit"
+        },
+        {
+          "id": "issuer-up-to-200-in-credits-on-jsx-purchases-annually",
+          "title": "Up to $200 in credits on JSX purchases annually",
+          "detail": "Up to US$200/cardmember year on eligible direct JSX purchases.",
+          "capMinor": 20000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 20,
+          "kind": "credit"
+        },
+        {
+          "id": "issuer-up-to-240-in-instacart-credits",
+          "title": "Up to $240 in Instacart Credits",
+          "detail": "Two US$10 credits each month for eligible direct Instacart purchases through December 31, 2027.",
+          "capMinor": 2000,
+          "reset": "monthly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "priority": 20,
+          "kind": "credit",
+          "endsBefore": "2028-01-01"
+        },
+        {
+          "id": "issuer-avis-president-s-club",
+          "title": "Avis President's Club",
+          "detail": "Enroll in Avis President's Club at united.com/AvisChaseBenefit; include your Avis Preferred number when you book.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
           "id": "issuer-free-first-and-second-checked-bags-savings-of-up-to-440-per-roundtrip",
           "title": "Free first and second checked bags",
           "detail": "The primary cardmember and one companion each check a first and second standard bag free on United-operated flights (save up to $440 per roundtrip). Premier Access priority check-in, security and boarding where available.",
@@ -12485,17 +12567,6 @@
           "priority": 101
         },
         {
-          "id": "issuer-avis-president-s-club",
-          "title": "Avis President's Club",
-          "detail": "Enroll in Avis President's Club at united.com/AvisChaseBenefit; include your Avis Preferred number when you book.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": true,
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
-          "kind": "benefit",
-          "priority": 20
-        },
-        {
           "id": "issuer-no-foreign-transaction-fees",
           "title": "No foreign transaction fees",
           "detail": "You pay no foreign transaction fees on purchases made outside the United States.",
@@ -12516,77 +12587,6 @@
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
           "kind": "benefit",
           "priority": 103
-        },
-        {
-          "id": "issuer-up-to-200-in-credits-for-renowned-hotels-and-resorts-for-united-cardmembers",
-          "title": "Up to $200 in credits for Renowned Hotels and Resorts for United Cardmembers",
-          "detail": "Up to US$200/cardmember year on eligible prepaid Renowned Hotels and Resorts bookings.",
-          "capMinor": 20000,
-          "reset": "anniversary",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
-          "priority": 100,
-          "kind": "credit"
-        },
-        {
-          "id": "issuer-up-to-240-in-instacart-credits",
-          "title": "Up to $240 in Instacart Credits",
-          "detail": "Two US$10 credits each month for eligible direct Instacart purchases through December 31, 2027.",
-          "capMinor": 2000,
-          "reset": "monthly",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
-          "priority": 100,
-          "kind": "credit",
-          "endsBefore": "2028-01-01"
-        },
-        {
-          "id": "issuer-up-to-200-in-credits-on-jsx-purchases-annually",
-          "title": "Up to $200 in credits on JSX purchases annually",
-          "detail": "Up to US$200/cardmember year on eligible direct JSX purchases.",
-          "capMinor": 20000,
-          "reset": "anniversary",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
-          "priority": 100,
-          "kind": "credit"
-        },
-        {
-          "id": "avis-budget-credit",
-          "title": "Avis or Budget United travel credit",
-          "detail": "US$50 in United TravelBank cash on each of the first two Avis or Budget rentals booked through mileageplustravel each anniversary year (US$100 total).",
-          "capMinor": 10000,
-          "reset": "anniversary",
-          "enrollmentRequired": false,
-          "kind": "credit",
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
-          "priority": 100
-        },
-        {
-          "id": "rideshare",
-          "title": "Up to $150 in credits on rideshare purchases",
-          "detail": "Up to US$12/month January–November and US$18 in December for eligible rideshare purchases. Yearly enrollment required.",
-          "capMinor": 1200,
-          "reset": "monthly",
-          "enrollmentRequired": true,
-          "kind": "credit",
-          "monthOverrides": {
-            "12": 1800
-          },
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
-          "priority": 100
-        },
-        {
-          "id": "global-entry-credit",
-          "title": "Global Entry, TSA PreCheck or NEXUS credit",
-          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
-          "capMinor": 12000,
-          "reset": "oneTime",
-          "enrollmentRequired": false,
-          "kind": "credit",
-          "intervalYears": 4,
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/club-infinite",
-          "priority": 100
         },
         {
           "id": "chase-united-club-us-trip-cancellation-interruption-insurance",
@@ -13409,6 +13409,42 @@
       "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
       "benefits": [
         {
+          "id": "avis-budget-credit",
+          "title": "Avis or Budget United travel credit",
+          "detail": "US$50 in United TravelBank cash on each of the first two Avis or Budget rentals booked through mileageplustravel each anniversary year (US$100 total).",
+          "capMinor": 10000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "priority": 20
+        },
+        {
+          "id": "farelock-credit",
+          "title": "United FareLock credit",
+          "detail": "Up to US$50 back each anniversary year on United FareLock purchases.",
+          "capMinor": 5000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "priority": 20
+        },
+        {
+          "id": "rideshare",
+          "title": "Up to $150 in credits on rideshare purchases",
+          "detail": "Up to US$12/month January–November and US$18 in December for eligible rideshare purchases. Yearly enrollment required.",
+          "capMinor": 1200,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "monthOverrides": {
+            "12": 1800
+          },
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "priority": 20
+        },
+        {
           "id": "issuer-200-in-credits-for-renowned-hotels-and-resorts-for-united-cardmembers",
           "title": "Up to $200 in credits for Renowned Hotels and Resorts for United Cardmembers",
           "detail": "Up to US$200/cardmember year on eligible prepaid Renowned Hotels and Resorts bookings.",
@@ -13417,19 +13453,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
           "kind": "credit",
-          "priority": 100
-        },
-        {
-          "id": "issuer-240-in-instacart-credits",
-          "title": "Up to $240 in Instacart Credits",
-          "detail": "Two US$10 credits each month for eligible direct Instacart purchases through December 31, 2027.",
-          "capMinor": 2000,
-          "reset": "monthly",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
-          "kind": "credit",
-          "priority": 100,
-          "endsBefore": "2028-01-01"
+          "priority": 20
         },
         {
           "id": "issuer-200-in-credits-on-jsx-purchases-annually",
@@ -13440,7 +13464,30 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
+        },
+        {
+          "id": "issuer-240-in-instacart-credits",
+          "title": "Up to $240 in Instacart Credits",
+          "detail": "Two US$10 credits each month for eligible direct Instacart purchases through December 31, 2027.",
+          "capMinor": 2000,
+          "reset": "monthly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": "2028-01-01"
+        },
+        {
+          "id": "issuer-avis-president-s-club",
+          "title": "Avis President's Club",
+          "detail": "Enroll in Avis President's Club at united.com/AvisChaseBenefit; include your Avis Preferred number when you book.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
+          "kind": "benefit",
+          "priority": 40
         },
         {
           "id": "issuer-free-first-and-second-checked-bags",
@@ -13452,17 +13499,6 @@
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
           "kind": "benefit",
           "priority": 100
-        },
-        {
-          "id": "issuer-avis-president-s-club",
-          "title": "Avis President's Club",
-          "detail": "Enroll in Avis President's Club at united.com/AvisChaseBenefit; include your Avis Preferred number when you book.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": true,
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
-          "kind": "benefit",
-          "priority": 20
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -13485,42 +13521,6 @@
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
           "kind": "benefit",
           "priority": 102
-        },
-        {
-          "id": "avis-budget-credit",
-          "title": "Avis or Budget United travel credit",
-          "detail": "US$50 in United TravelBank cash on each of the first two Avis or Budget rentals booked through mileageplustravel each anniversary year (US$100 total).",
-          "capMinor": 10000,
-          "reset": "anniversary",
-          "enrollmentRequired": false,
-          "kind": "credit",
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
-          "priority": 100
-        },
-        {
-          "id": "farelock-credit",
-          "title": "United FareLock credit",
-          "detail": "Up to US$50 back each anniversary year on United FareLock purchases.",
-          "capMinor": 5000,
-          "reset": "anniversary",
-          "enrollmentRequired": false,
-          "kind": "credit",
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
-          "priority": 100
-        },
-        {
-          "id": "rideshare",
-          "title": "Up to $150 in credits on rideshare purchases",
-          "detail": "Up to US$12/month January–November and US$18 in December for eligible rideshare purchases. Yearly enrollment required.",
-          "capMinor": 1200,
-          "reset": "monthly",
-          "enrollmentRequired": true,
-          "kind": "credit",
-          "monthOverrides": {
-            "12": 1800
-          },
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-club-business",
-          "priority": 100
         },
         {
           "id": "chase-united-club-business-us-trip-cancellation-interruption-insurance",
@@ -13715,6 +13715,39 @@
       "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
       "benefits": [
         {
+          "id": "doordash-quarterly",
+          "title": "DoorDash non-restaurant discount",
+          "detail": "US$10 off one qualifying non-restaurant DoorDash order each calendar quarter after activating the card's DashPass membership.",
+          "capMinor": 1000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
+          "priority": 20
+        },
+        {
+          "id": "tqnc-5k",
+          "title": "2 tier-qualifying night credits per $5,000",
+          "detail": "2 more World of Hyatt tier-qualifying night credits every time you spend $5,000 on the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://world.hyatt.com/content/gp/en/rewards/business-card.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "tqnc-annual",
+          "title": "5 tier-qualifying night credits a year",
+          "detail": "5 World of Hyatt tier-qualifying night credits toward status each year you have the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://world.hyatt.com/content/gp/en/rewards/business-card.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
           "id": "issuer-get-a-free-night-every-year",
           "title": "Anniversary free night",
           "detail": "One free night at any Category 1–4 Hyatt hotel or resort every year after your cardmember anniversary.",
@@ -13737,37 +13770,17 @@
           "priority": 100
         },
         {
-          "id": "tqnc-annual",
-          "title": "5 tier-qualifying night credits a year",
-          "detail": "5 World of Hyatt tier-qualifying night credits toward status each year you have the card.",
+          "id": "free-night-15k",
+          "title": "Hyatt Free Night (Category 1–4)",
+          "detail": "A Category 1–4 Free Night Award after spending $15,000 in purchases in a calendar year (once a year).",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://world.hyatt.com/content/gp/en/rewards/business-card.html",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "tqnc-5k",
-          "title": "2 tier-qualifying night credits per $5,000",
-          "detail": "2 more World of Hyatt tier-qualifying night credits every time you spend $5,000 on the card.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://world.hyatt.com/content/gp/en/rewards/business-card.html",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "doordash-quarterly",
-          "title": "DoorDash non-restaurant discount",
-          "detail": "US$10 off one qualifying non-restaurant DoorDash order each calendar quarter after activating the card's DashPass membership.",
-          "capMinor": 1000,
-          "reset": "quarterly",
-          "enrollmentRequired": true,
-          "kind": "credit",
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
-          "priority": 100
+          "kind": "benefit",
+          "priority": 105,
+          "spendMilestoneMinor": 1500000,
+          "spendPeriod": "calendarYear"
         },
         {
           "id": "chase-world-of-hyatt-us-trip-cancellation-interruption-insurance",
@@ -13823,19 +13836,6 @@
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
           "kind": "protection",
           "priority": 204
-        },
-        {
-          "id": "free-night-15k",
-          "title": "Hyatt Free Night (Category 1–4)",
-          "detail": "A Category 1–4 Free Night Award after spending $15,000 in purchases in a calendar year (once a year).",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt-credit-card",
-          "kind": "benefit",
-          "priority": 105,
-          "spendMilestoneMinor": 1500000,
-          "spendPeriod": "calendarYear"
         }
       ],
       "statuses": [
@@ -13944,6 +13944,39 @@
       "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
       "benefits": [
         {
+          "id": "doordash-quarterly",
+          "title": "DoorDash non-restaurant discount",
+          "detail": "US$10 off one qualifying non-restaurant DoorDash order each calendar quarter after activating the card's DashPass membership.",
+          "capMinor": 1000,
+          "reset": "quarterly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "priority": 20
+        },
+        {
+          "id": "hyatt-credit",
+          "title": "Hyatt credit",
+          "detail": "US$50 statement credit per qualifying Hyatt purchase of US$50 or more, up to two times each anniversary year (US$100 total).",
+          "capMinor": 10000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "priority": 20
+        },
+        {
+          "id": "issuer-merchant-offers",
+          "title": "DashPass membership",
+          "detail": "One year of complimentary DashPass (DoorDash and Caviar) when activated by Dec 31, 2027; then it renews at the monthly rate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
           "id": "issuer-unlock-a-faster-way-to-elite-status-and-milestone-rewards",
           "title": "Hyatt Discoverist status",
           "detail": "World of Hyatt Discoverist status while the account is open, and you can gift Discoverist to up to five employees.",
@@ -13966,37 +13999,30 @@
           "priority": 101
         },
         {
-          "id": "issuer-merchant-offers",
-          "title": "DashPass membership",
-          "detail": "One year of complimentary DashPass (DoorDash and Caviar) when activated by Dec 31, 2027; then it renews at the monthly rate.",
+          "id": "tqnc-10k",
+          "title": "5 tier-qualifying night credits per $10,000",
+          "detail": "5 World of Hyatt tier-qualifying night credits for every $10,000 in purchases in a calendar year (first one shown).",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": true,
+          "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
           "kind": "benefit",
-          "priority": 20
+          "priority": 102,
+          "spendMilestoneMinor": 1000000,
+          "spendPeriod": "calendarYear"
         },
         {
-          "id": "hyatt-credit",
-          "title": "Hyatt credit",
-          "detail": "US$50 statement credit per qualifying Hyatt purchase of US$50 or more, up to two times each anniversary year (US$100 total).",
-          "capMinor": 10000,
-          "reset": "anniversary",
+          "id": "redemption-bonus-50k",
+          "title": "10% points back on redemptions",
+          "detail": "Spend $50,000 in a calendar year to get 10% of redeemed points back for the rest of the year, on up to 200,000 points redeemed.",
+          "capMinor": null,
+          "reset": "none",
           "enrollmentRequired": false,
-          "kind": "credit",
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
-          "priority": 100
-        },
-        {
-          "id": "doordash-quarterly",
-          "title": "DoorDash non-restaurant discount",
-          "detail": "US$10 off one qualifying non-restaurant DoorDash order each calendar quarter after activating the card's DashPass membership.",
-          "capMinor": 1000,
-          "reset": "quarterly",
-          "enrollmentRequired": true,
-          "kind": "credit",
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
-          "priority": 100
+          "kind": "benefit",
+          "priority": 103,
+          "spendMilestoneMinor": 5000000,
+          "spendPeriod": "calendarYear"
         },
         {
           "id": "chase-world-of-hyatt-business-us-trip-cancellation-interruption-insurance",
@@ -14052,32 +14078,6 @@
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
           "kind": "protection",
           "priority": 204
-        },
-        {
-          "id": "tqnc-10k",
-          "title": "5 tier-qualifying night credits per $10,000",
-          "detail": "5 World of Hyatt tier-qualifying night credits for every $10,000 in purchases in a calendar year (first one shown).",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
-          "kind": "benefit",
-          "priority": 102,
-          "spendMilestoneMinor": 1000000,
-          "spendPeriod": "calendarYear"
-        },
-        {
-          "id": "redemption-bonus-50k",
-          "title": "10% points back on redemptions",
-          "detail": "Spend $50,000 in a calendar year to get 10% of redeemed points back for the rest of the year, on up to 200,000 points redeemed.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/world-of-hyatt/hyatt-business-card",
-          "kind": "benefit",
-          "priority": 103,
-          "spendMilestoneMinor": 5000000,
-          "spendPeriod": "calendarYear"
         }
       ],
       "statuses": [
@@ -16042,7 +16042,7 @@
           "enrollmentRequired": true,
           "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "theme-park-credit",
@@ -16053,7 +16053,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/rewards-credit-cards/disney/inspire",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-disney-resort-bonus",
@@ -25491,6 +25491,28 @@
       "coverageNote": "Current issuer-sourced benefits and earning rules are modeled where the app can represent them safely. Issuer terms control eligibility, exclusions and changes.",
       "benefits": [
         {
+          "id": "instacart-credit",
+          "title": "Instacart credit",
+          "detail": "Up to US$20/month on direct Instacart purchases with an active Instacart+ membership (Instacart Business account).",
+          "capMinor": 2000,
+          "reset": "monthly",
+          "enrollmentRequired": true,
+          "kind": "credit",
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "priority": 20
+        },
+        {
+          "id": "instacart",
+          "title": "Instacart+ business benefit",
+          "detail": "Eligible cardmembers can enroll in the current complimentary Instacart+ business benefit and monthly Instacart credit through the published end date.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
           "id": "business-essentials",
           "title": "5X / 5% business essentials",
           "detail": "Earn 5% cash back, issued as Ultimate Rewards, on the first $25,000 in combined annual purchases at office supply stores and on internet, cable and phone services.",
@@ -25511,28 +25533,6 @@
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
           "kind": "benefit",
           "priority": 101
-        },
-        {
-          "id": "instacart",
-          "title": "Instacart+ business benefit",
-          "detail": "Eligible cardmembers can enroll in the current complimentary Instacart+ business benefit and monthly Instacart credit through the published end date.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": true,
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
-          "kind": "benefit",
-          "priority": 20
-        },
-        {
-          "id": "instacart-credit",
-          "title": "Instacart credit",
-          "detail": "Up to US$20/month on direct Instacart purchases with an active Instacart+ membership (Instacart Business account).",
-          "capMinor": 2000,
-          "reset": "monthly",
-          "enrollmentRequired": true,
-          "kind": "credit",
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/cash",
-          "priority": 100
         },
         {
           "id": "chase-ink-business-cash-us-purchase-protection",
@@ -31282,12 +31282,12 @@
       ],
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "air-canada-credit",
           "title": "Air Canada statement credits",
-          "detail": "Up to $50 twice each year in statement credits for eligible Air Canada transactions.",
+          "detail": "Receive up to $50 in statement credits in each half of the calendar year for eligible Air Canada transactions. Credits are delivered twice a year; eligible purchase rules, posting and reversal conditions apply.",
           "capMinor": 5000,
           "reset": "semiannual",
           "enrollmentRequired": false,
@@ -31298,7 +31298,7 @@
         {
           "id": "global-entry-credit",
           "title": "Global Entry, TSA PreCheck or NEXUS credit",
-          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
+          "detail": "One statement credit up to $120 every four years after the first eligible Global Entry, TSA PreCheck or NEXUS application fee charged to the card by the primary or an authorized user. Only qualifying program fees charged directly to DHS, an eligible partner or authorized enrollment provider qualify; third-party application services do not.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
@@ -31310,7 +31310,18 @@
         {
           "id": "issuer-fly15off-air-canada-award-redemptions",
           "title": "15% off eligible Air Canada award flights",
-          "detail": "Cardmembers save 15% on eligible Air Canada flight redemptions. Terms and eligible award inventory apply.",
+          "detail": "Save 15% on the points portion of eligible Air Canada flight rewards. Taxes, fees, cash portions, third-party partner purchases, travel insurance, cancellation insurance and carbon offsets are excluded; eligible reward space and program terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-24-7-fraud-monitoring",
+          "title": "24/7 fraud monitoring",
+          "detail": "Chase monitors card purchases for suspected fraud and may contact the cardmember by text, email or phone about unusual activity.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -31321,7 +31332,18 @@
         {
           "id": "issuer-enjoy-automatic-aeroplan-elite-status",
           "title": "Aeroplan 25K Status",
-          "detail": "Automatic Aeroplan 25K Status for the primary cardmember, with no spend requirement, while the account remains open.",
+          "detail": "The primary cardmember receives Aeroplan 25K Status without a spend requirement once the account is open and linked to an Aeroplan number. Status remains while the account is open and not in default; any higher earned Aeroplan status is retained.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-aeroplan-sqc-card-qualification",
+          "title": "Aeroplan Status Qualifying Credits",
+          "detail": "The primary cardmember can earn up to 25,000 Status Qualifying Credits each calendar year: 5,000 annual bonus SQC, 10,000 SQC after $25,000 spend and another 10,000 after $50,000 spend. Credits help toward Aeroplan elite qualification; they do not change the automatic 25K card status.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -31333,6 +31355,28 @@
           "id": "issuer-air-canada-free-first-checked-bag",
           "title": "Free first checked bags on Air Canada",
           "detail": "Primary cardmember and up to eight companions on the same reservation receive a first checked bag free on eligible Air Canada flights.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-mastercard-concierge",
+          "title": "Mastercard 24/7 Concierge",
+          "detail": "24/7 assistance with finding items, reservations and other requests. Call the number on the back of the card; cardmember pays for any purchases or services arranged.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fees on purchases made outside the United States.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -31569,12 +31613,12 @@
       ],
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/IHG/business",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "airline-credit",
           "title": "Airline statement credit",
-          "detail": "One $100 statement credit per calendar year after at least $250 in direct airline flight purchases; offer runs through 12/31/2027.",
+          "detail": "One automatic $100 statement credit per calendar year after at least $250 in eligible flight tickets booked directly with an airline. Offer currently runs through December 31, 2027. Credits may take up to four weeks; returns, cancellations, modifications or account closure within 90 days can reverse a credit.",
           "capMinor": 10000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -31585,8 +31629,8 @@
         },
         {
           "id": "doordash-quarterly",
-          "title": "DoorDash monthly non-restaurant promo",
-          "detail": "Up to $10 off each month on DoorDash grocery and everyday-essentials orders through December 31, 2027, for eligible cardmembers who enroll in the Chase DashPass offer on or after September 1, 2026.",
+          "title": "DoorDash non-restaurant monthly promo",
+          "detail": "For eligible cardmembers whose Chase DashPass activation is on or after September 1, 2026: up to $10 off a qualifying non-restaurant DoorDash order each month through December 31, 2027 while enrolled in the Chase DashPass membership. Discount applies to subtotal (not fees, taxes or gratuity), does not roll over, requires payment with the enrolled card and excludes gift cards; merchant restrictions apply.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -31597,7 +31641,7 @@
         {
           "id": "expensify-credit",
           "title": "Expensify credit",
-          "detail": "Up to US$100 in statement credits each calendar year on Expensify purchases.",
+          "detail": "Up to $100 in automatic statement credits each calendar year for purchases made directly through Expensify.com or the Expensify app. Credits may take up to four weeks, may post to the year the transaction posts, and can be reversed after a return or certain account closures.",
           "capMinor": 10000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -31608,7 +31652,7 @@
         {
           "id": "global-entry-credit",
           "title": "Global Entry, TSA PreCheck or NEXUS credit",
-          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
+          "detail": "One statement credit up to $120 every four years for the first eligible Global Entry, TSA PreCheck or NEXUS application fee charged to the card by the primary or an employee cardmember. Only program fees charged directly to DHS, an eligible partner or an authorized provider qualify; third-party application assistance does not.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
@@ -31620,7 +31664,7 @@
         {
           "id": "ihg-food-beverage",
           "title": "IHG Food & Beverage Rewards",
-          "detail": "$25 voucher each quarter, up to $100 each calendar year, for eligible food and beverage charges at participating IHG hotels.",
+          "detail": "Receive one $25 IHG One Rewards Food & Beverage Reward voucher each calendar quarter, up to $100 annually. Redeem against eligible food/beverage charges billed to the primary cardmember’s room at participating IHG hotels. Each voucher expires at quarter end; unused value is forfeited. Taxes, delivery, gift-shop and other excluded charges do not qualify; redeemed charges do not earn IHG points.",
           "capMinor": 2500,
           "reset": "quarterly",
           "enrollmentRequired": false,
@@ -31631,7 +31675,7 @@
         {
           "id": "instacart-credit",
           "title": "Instacart credit",
-          "detail": "$10 monthly Instacart credit for direct purchases through 12/31/2027; eligible card account and membership terms apply.",
+          "detail": "$10 Instacart credit each month, up to $120 per calendar year, for eligible direct Instacart purchases through December 31, 2027. Credit applies to eligible item subtotal, not tax, delivery/service fees, tips or other fees; one credit per order, restaurant orders excluded, and eligible account/membership terms apply.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -31641,8 +31685,8 @@
         },
         {
           "id": "issuer-doordash-dashpass-membership",
-          "title": "Complimentary DashPass",
-          "detail": "One year of DashPass after activation by December 31, 2027; afterward enrollment renews at the then-current monthly price.",
+          "title": "Complimentary DashPass membership",
+          "detail": "Activate by December 31, 2027 for one year of DashPass, with $0 delivery fees and reduced service fees on eligible DoorDash orders. After the complimentary year, membership automatically renews at the then-current monthly price unless canceled.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -31651,9 +31695,42 @@
           "priority": 40
         },
         {
+          "id": "issuer-ihg-15-elite-night-credits",
+          "title": "15 IHG Elite Night Credits",
+          "detail": "Receive 15 Elite Night Credits at account opening and at the start of each calendar year, helping toward IHG Milestone Rewards and status qualification.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/IHG/business",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-ihg-30-percent-points-purchase-savings",
+          "title": "30% off IHG points purchases",
+          "detail": "Save 30% when purchasing IHG One Rewards points with this card; IHG purchase limits and program terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/IHG/business",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
           "id": "issuer-enhanced-anniversary-free-night",
-          "title": "Anniversary Free Night",
-          "detail": "A Free Night each year after your card anniversary at an IHG hotel costing up to 50,000 points; you can top it up with points from your account.",
+          "title": "Annual IHG Anniversary Free Night",
+          "detail": "Receive one award each card anniversary for a standard room night at an eligible IHG hotel costing up to 50,000 points. You may top up with IHG points. The award is issued to the IHG account and is subject to availability, taxes, fees, booking and 12-month expiration rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/IHG/business",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-ihg-fourth-reward-night-free",
+          "title": "Fourth Reward Night free",
+          "detail": "When redeeming points for four consecutive nights at the same IHG hotel, the fourth Reward Night is free. IHG award availability and program terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -31664,7 +31741,7 @@
         {
           "id": "issuer-automatic-platinum-elite-status",
           "title": "IHG Platinum Elite status",
-          "detail": "Platinum Elite status for as long as you keep the card and your IHG One Rewards membership is in good standing.",
+          "detail": "Automatic IHG One Rewards Platinum Elite while the primary cardmember keeps this Business card and the IHG membership remains in good standing. Initial status may take 6–8 weeks to post.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -31685,8 +31762,8 @@
         },
         {
           "id": "bonus-25k",
-          "title": "20,000 points and 5 night credits",
-          "detail": "20,000 bonus points and 5 Elite Night Credits after $25,000 in purchases in a calendar year.",
+          "title": "20,000 points and 5 Elite Night Credits at $25,000 spend",
+          "detail": "Spend $25,000 in purchases during a calendar year to earn 20,000 bonus IHG One Rewards points and 5 Elite Night Credits. Allow up to 8 weeks for posting; qualifying purchases and account-in-good-standing rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -31698,8 +31775,8 @@
         },
         {
           "id": "free-night-60k",
-          "title": "Free Night at $60,000",
-          "detail": "1 Free Night after $60,000 in purchases in a calendar year.",
+          "title": "Additional IHG Free Night at $60,000 spend",
+          "detail": "Earn one additional IHG Free Night after $60,000 in purchases each calendar year. Current redemption cap is 50,000 points, with the option to add IHG points; award availability, expiry and booking conditions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -31711,8 +31788,8 @@
         },
         {
           "id": "diamond-50k",
-          "title": "IHG Diamond Elite (from 2027)",
-          "detail": "Starting January 1, 2027: Diamond Elite after $50,000 in purchases in a calendar year.",
+          "title": "IHG Diamond Elite at $50,000 spend (from 2027)",
+          "detail": "Beginning January 1, 2027, spend $50,000 in purchases in a calendar year to earn IHG One Rewards Diamond Elite for the remainder of that year and the next calendar year. Account must be open and not in default; allow up to 8 weeks for status posting.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -31755,6 +31832,16 @@
           "condition": "",
           "automatic": true,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/IHG/business"
+        },
+        {
+          "id": "spend-ihg-diamond-2027",
+          "programID": "ihg",
+          "tier": "Diamond Elite — $50,000 spend from 2027",
+          "rank": 30,
+          "enrollmentRequired": false,
+          "condition": "Starting January 1, 2027, the primary cardmember who spends $50,000 in a calendar year receives Diamond Elite through the remainder of that year and the following year. Account must be open and not in default; status can take up to 8 weeks to post.",
+          "automatic": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/IHG/business"
         }
       ],
       "earningRules": [
@@ -31787,7 +31874,7 @@
           "rewardKind": "points",
           "programID": "ihg",
           "label": "10X IHG",
-          "detail": "Qualifying purchases at IHG hotels and resorts.",
+          "detail": "10 points per dollar from the card at qualifying IHG hotels. IHG One Rewards membership earns up to 10 additional points per dollar, and Platinum Elite adds up to 6 more (varies by brand); the advertised 26X is a combined maximum, not all card-earned.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -31847,13 +31934,13 @@
       ],
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "airline-credit",
           "title": "Airline statement credit",
-          "detail": "One $100 statement credit per calendar year after at least $250 in direct airline flight purchases; offer runs through 12/31/2027.",
-          "capMinor": 10000,
+          "detail": "One automatic $200 statement credit per calendar year after at least $250 in eligible airline tickets booked directly with an airline, through December 31, 2027. Credits may take up to four weeks; returns/cancellations or early account closure may reverse credits.",
+          "capMinor": 20000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
           "kind": "credit",
@@ -31864,7 +31951,7 @@
         {
           "id": "doordash-quarterly",
           "title": "DoorDash monthly non-restaurant promo",
-          "detail": "Up to $10 off each month on DoorDash grocery and everyday-essentials orders through December 31, 2027, for eligible cardmembers who enroll in the Chase DashPass offer on or after September 1, 2026.",
+          "detail": "Up to $10 off a qualifying non-restaurant DoorDash order each month through December 31, 2027 for eligible members enrolled in the Chase DashPass membership on or after September 1, 2026. Applies to order subtotal only; fees, taxes, gratuity and gift cards are excluded. The promo does not roll over and requires payment with the card linked to the enrolled DashPass membership.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -31885,9 +31972,20 @@
           "priority": 20
         },
         {
+          "id": "ihg-food-beverage",
+          "title": "IHG Food & Beverage Rewards",
+          "detail": "Receive one $75 IHG One Rewards Food & Beverage Reward voucher each calendar quarter, up to $300 annually. Use it for eligible food/beverage posted to the primary cardmember’s room bill at participating IHG hotels. Each voucher expires at quarter-end, unused value is forfeited, and excluded charges (such as taxes, delivery and gift shop) do not qualify.",
+          "capMinor": 7500,
+          "reset": "quarterly",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
           "id": "instacart-credit",
           "title": "Instacart credit",
-          "detail": "$10 monthly Instacart credit for direct purchases through 12/31/2027; terms apply.",
+          "detail": "$10 Instacart credit per month, up to $120 per calendar year, on eligible direct Instacart purchases. Terms apply; unused monthly credit does not carry over.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -31898,7 +31996,7 @@
         {
           "id": "united-travelbank",
           "title": "United TravelBank cash",
-          "detail": "$25 United TravelBank deposit each half-year, up to $50 per calendar year, after registering the card with MileagePlus.",
+          "detail": "After one-time registration by linking the IHG account to United MileagePlus, receive $25 TravelBank cash around January 5 and another $25 around July 5 each calendar year. The first half’s balance expires July 15 and the second half’s balance expires January 15 of the following year; TravelBank rules apply.",
           "capMinor": 2500,
           "reset": "semiannual",
           "enrollmentRequired": true,
@@ -31909,7 +32007,7 @@
         {
           "id": "issuer-doordash-dashpass-membership",
           "title": "Complimentary DashPass",
-          "detail": "One year of DashPass after activation by December 31, 2027; afterward enrollment renews at the then-current monthly price.",
+          "detail": "Activate by December 31, 2027 for 12 months of DashPass, including $0 delivery fees and reduced service fees on eligible DoorDash orders. Then automatically renews at the current monthly price unless canceled.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -31918,15 +32016,81 @@
           "priority": 40
         },
         {
-          "id": "anniversary-free-night",
-          "title": "IHG Anniversary Free Night",
-          "detail": "One annual free night worth up to 60,000 IHG points; additional IHG points may be used to top up. A second night is earned after $40,000 calendar-year spend.",
+          "id": "issuer-ihg-20-elite-night-credits",
+          "title": "20 IHG Elite Night Credits",
+          "detail": "Receive 20 Elite Night Credits at account opening and at the start of each calendar year. The credits count toward IHG status and Milestone Rewards.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
           "kind": "benefit",
           "priority": 100
+        },
+        {
+          "id": "issuer-ihg-30-percent-points-purchase-savings",
+          "title": "30% off IHG points purchases",
+          "detail": "Save 30% when purchasing IHG One Rewards points with the card; IHG purchase limits and program terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-ihg-fourth-reward-night-free",
+          "title": "Fourth Reward Night free",
+          "detail": "On an IHG standard-room Reward Night stay of four or more consecutive nights at the same property, every fourth night is charged at zero points. Applies to points Reward Night bookings, not paid or Points & Cash stays. If the reservation is canceled or checkout occurs before the fourth night, that free night is forfeited; availability and incidental/resort charges apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "anniversary-free-night",
+          "title": "IHG Anniversary Free Night",
+          "detail": "One annual IHG Anniversary Free Night after the card anniversary, valid for one standard room night up to 60,000 points; additional IHG points can top up the award. A second 60,000-point-capped night is earned after $40,000 calendar-year spend. Nights are subject to availability, incidental charges/resort fees and the 12-month redemption/completion period.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-select-15k-points-elite-night-credits",
+          "title": "$20,000 points and 5 Elite Night Credits at $15,000 spend",
+          "detail": "After $15,000 in eligible purchases per calendar year, earn 20,000 IHG One Rewards points and 5 Elite Night Credits. In addition, the card earns 2 Elite Night Credits per $5,000 spend. Account must be open and in good standing; allow 6–8 weeks for posting.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+          "kind": "benefit",
+          "priority": 105
+        },
+        {
+          "id": "issuer-select-diamond-25k",
+          "title": "IHG Diamond Elite at $25,000 spend",
+          "detail": "Spend $25,000 in purchases in a calendar year to qualify for IHG One Rewards Diamond Elite through the remainder of that calendar year and the following calendar year. Primary cardmember; eligible purchases and account-in-good-standing requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+          "kind": "benefit",
+          "priority": 105
+        },
+        {
+          "id": "issuer-ihg-elite-night-spend-credits",
+          "title": "IHG Elite Night Credits from spend",
+          "detail": "Earn 2 Elite Night Credits for each $5,000 in eligible card purchases with no annual limit. At $15,000 spend in a calendar year, earn 5 additional Elite Night Credits and 20,000 bonus points on top of spend-based credits. Account must be open and not in default; allow 6–8 weeks to post.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "chase-ihg-one-rewards-premier-select-us-trip-cancellation-interruption-insurance",
@@ -31983,6 +32147,16 @@
           "condition": "",
           "automatic": true,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select"
+        },
+        {
+          "id": "spend-ihg-diamond-25k",
+          "programID": "ihg",
+          "tier": "Diamond Elite — $25,000 spend",
+          "rank": 30,
+          "enrollmentRequired": false,
+          "condition": "Primary cardmember earns Diamond Elite after $25,000 eligible purchases in a calendar year, for that calendar year plus the next. Account open/not in default; allow up to 8 weeks for posting.",
+          "automatic": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select"
         }
       ],
       "earningRules": [
@@ -32015,7 +32189,7 @@
           "rewardKind": "points",
           "programID": "ihg",
           "label": "12X IHG",
-          "detail": "Qualifying IHG purchases.",
+          "detail": "12 card points per dollar at qualifying IHG properties. IHG One Rewards membership earns up to 10 more points per dollar and Platinum Elite up to 6 more, for the advertised maximum of 28X total; partner-program points post to IHG, not the card statement.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -32071,12 +32245,12 @@
       ],
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "airline-credit",
           "title": "Airline statement credit",
-          "detail": "One $100 statement credit per calendar year after at least $250 in direct airline flight purchases; offer runs through 12/31/2027.",
+          "detail": "One automatic $100 statement credit per calendar year after at least $250 in eligible airline tickets booked directly with an airline, through December 31, 2027. Credits may take up to four weeks; returns/cancellations or early account closure may reverse credits.",
           "capMinor": 10000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -32088,7 +32262,7 @@
         {
           "id": "doordash-quarterly",
           "title": "DoorDash monthly non-restaurant promo",
-          "detail": "Up to $10 off each month on DoorDash grocery and everyday-essentials orders through December 31, 2027, for eligible cardmembers who enroll in the Chase DashPass offer on or after September 1, 2026.",
+          "detail": "Up to $10 off a qualifying non-restaurant DoorDash order each month through December 31, 2027 for eligible members enrolled in the Chase DashPass membership on or after September 1, 2026. Applies to subtotal only; fees, taxes, gratuity and gift cards are excluded. The promo does not roll over and requires payment with the enrolled card.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -32111,7 +32285,7 @@
         {
           "id": "ihg-food-beverage",
           "title": "IHG food & beverage reward",
-          "detail": "One food & beverage reward voucher of up to US$25 each calendar quarter in the IHG One Rewards wallet.",
+          "detail": "Receive one $25 IHG One Rewards Food & Beverage Reward voucher each calendar quarter, up to $100 annually. Redeem eligible food/beverage charges billed to the primary cardmember’s room at participating IHG hotels. Each voucher expires at quarter-end and unused value is forfeited; excluded taxes, delivery, gift-shop and other charges do not qualify.",
           "capMinor": 2500,
           "reset": "quarterly",
           "enrollmentRequired": false,
@@ -32122,7 +32296,7 @@
         {
           "id": "instacart-credit",
           "title": "Instacart credit",
-          "detail": "$10 monthly Instacart credit for direct purchases through 12/31/2027; terms apply.",
+          "detail": "$10 Instacart credit per month, up to $120 per calendar year, for eligible direct Instacart purchases through December 31, 2027. Excludes taxes, service/delivery fees, tips, other fees and restaurant orders; terms apply.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -32133,7 +32307,7 @@
         {
           "id": "united-travelbank",
           "title": "United TravelBank cash",
-          "detail": "$25 United TravelBank deposit each half-year, up to $50 per calendar year, after registering the card with MileagePlus.",
+          "detail": "After one-time registration by linking the IHG account to United MileagePlus, receive $25 TravelBank cash around January 5 and another $25 around July 5 each calendar year. First-half deposits expire July 15 and second-half deposits expire January 15 of the following year; TravelBank rules apply.",
           "capMinor": 2500,
           "reset": "semiannual",
           "enrollmentRequired": true,
@@ -32144,7 +32318,7 @@
         {
           "id": "issuer-doordash-dashpass-membership",
           "title": "Complimentary DashPass",
-          "detail": "One year of DashPass after activation by December 31, 2027; afterward enrollment renews at the then-current monthly price.",
+          "detail": "Activate by December 31, 2027 for 12 months of DashPass, including $0 delivery fees and reduced service fees on eligible DoorDash orders. Then automatically renews at the current monthly price unless canceled.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -32153,22 +32327,53 @@
           "priority": 40
         },
         {
-          "id": "diamond-40k",
-          "title": "IHG Diamond Elite",
-          "detail": "Diamond Elite through December 31 of the next year after $40,000 in purchases in a calendar year.",
+          "id": "issuer-ihg-15-elite-night-credits",
+          "title": "15 IHG Elite Night Credits",
+          "detail": "Receive 15 Elite Night Credits at account opening and at the start of each calendar year, helping toward IHG Milestone Rewards and status qualification.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
           "kind": "benefit",
-          "priority": 105,
-          "spendMilestoneMinor": 4000000,
-          "spendPeriod": "calendarYear"
+          "priority": 100
+        },
+        {
+          "id": "issuer-ihg-30-percent-points-purchase-savings",
+          "title": "30% off IHG points purchases",
+          "detail": "Save 30% when purchasing IHG One Rewards points with this card; IHG purchase limits and program terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-premier-anniversary-free-night",
+          "title": "Annual IHG Anniversary Free Night",
+          "detail": "Receive one award each card anniversary for a standard room night at an IHG hotel costing up to 50,000 points; additional IHG points can top up. The award must be redeemed and the stay completed within 12 months; availability, resort fees and incidental charges apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-ihg-fourth-reward-night-free",
+          "title": "Fourth Reward Night free",
+          "detail": "When redeeming IHG points for four consecutive nights at the same hotel, the fourth Reward Night is free. Subject to IHG award availability and program terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "platinum-15k",
-          "title": "Platinum Elite, 15,000 points and 5 night credits",
-          "detail": "At $15,000 in purchases in a calendar year: Platinum Elite through the next calendar year, 15,000 bonus points and 5 Elite Night Credits.",
+          "title": "15,000 points and 5 Elite Night Credits at $15,000 spend",
+          "detail": "At $15,000 in calendar-year purchases, earn 15,000 bonus IHG One Rewards points and 5 Elite Night Credits; separately, the primary cardmember earns Platinum Elite through December 31 of the following year at this spend threshold. Automatic card status is Gold Elite. Allow up to 8 weeks for awards/status to post.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32179,9 +32384,33 @@
           "spendPeriod": "calendarYear"
         },
         {
+          "id": "diamond-40k",
+          "title": "IHG Diamond Elite at $40,000 spend",
+          "detail": "Spend $40,000 in purchases in a calendar year to qualify for IHG One Rewards Diamond Elite through December 31 of the following year. Primary cardmember only; qualifying purchases and account-good-standing conditions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+          "kind": "benefit",
+          "priority": 105,
+          "spendMilestoneMinor": 4000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "issuer-ihg-elite-night-spend-credits",
+          "title": "IHG Elite Night Credits from spend",
+          "detail": "Earn 2 Elite Night Credits for each $5,000 in eligible card purchases. After $15,000 spend per calendar year, earn 5 additional Elite Night Credits on top of the spend-based credits, plus the separate 15,000 point award. Account must be open and in good standing; awards may take 6–8 weeks to post.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+          "kind": "benefit",
+          "priority": 105
+        },
+        {
           "id": "chase-ihg-one-rewards-premier-us-trip-cancellation-interruption-insurance",
           "title": "Trip cancellation & interruption insurance",
-          "detail": "If your trip is canceled or cut short by sickness, severe weather or other covered situations, you can be reimbursed up to $5,000 per covered traveler and $10,000 per trip for your pre-paid, non-refundable travel expenses, including passenger fares, tours, and hotels.",
+          "detail": "Reimburses up to $5,000 per covered traveler and $10,000 per trip for eligible prepaid, non-refundable travel expenses (including passenger fares, tours and hotels) when a covered reason cancels or interrupts the trip. Restrictions, covered traveler definitions and exclusions are in the cardholder Guide to Benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32227,11 +32456,31 @@
         {
           "id": "included-ihg-status",
           "programID": "ihg",
-          "tier": "Platinum Elite",
+          "tier": "Gold Elite",
           "rank": 20,
           "enrollmentRequired": false,
-          "condition": "",
+          "condition": "Automatic IHG One Rewards Gold Elite status while the primary member keeps the Premier card and the IHG membership remains in good standing. Status can take 6–8 weeks to post.",
           "automatic": true,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier"
+        },
+        {
+          "id": "spend-ihg-platinum-15k",
+          "programID": "ihg",
+          "tier": "Platinum Elite — $15,000 spend",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "Primary cardmember earns Platinum Elite after $15,000 eligible purchases in a calendar year, for that calendar year plus the next. This is in addition to the card’s automatic Gold Elite status; allow up to 8 weeks for posting.",
+          "automatic": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier"
+        },
+        {
+          "id": "spend-ihg-diamond-40k",
+          "programID": "ihg",
+          "tier": "Diamond Elite — $40,000 spend",
+          "rank": 30,
+          "enrollmentRequired": false,
+          "condition": "Primary cardmember earns Diamond Elite after $40,000 eligible purchases in a calendar year, for that year plus the next. Account open/not in default; allow up to 8 weeks for posting.",
+          "automatic": false,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier"
         }
       ],
@@ -32265,7 +32514,7 @@
           "rewardKind": "points",
           "programID": "ihg",
           "label": "10X IHG",
-          "detail": "Qualifying IHG purchases.",
+          "detail": "10 card points per dollar at qualifying IHG properties. IHG One Rewards membership earns up to 10 more points per dollar and Gold Elite up to 4 more, for the advertised maximum of 24X total; partner-program points post to IHG, not the card statement.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -32326,12 +32575,12 @@
       ],
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/premier",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "issuer-earn-25-cash-back-on-large-purchases",
-          "title": "2.5% cash back on large purchases",
-          "detail": "Earn 2.5% cash back on each eligible purchase of $5,000 or more. Card rewards are tracked as points and redeemed as cash back.",
+          "title": "2.5% cash back on purchases of $5,000+",
+          "detail": "Earn 2.5% total cash back on each eligible business purchase of at least $5,000. All other eligible business purchases earn 2%; the card is a pay-in-full product with a Flex for Business balance option subject to account terms.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32341,8 +32590,8 @@
         },
         {
           "id": "issuer-earn-5-total-cash-back-on-lyft-rides",
-          "title": "5% total on Lyft",
-          "detail": "Earn 5% total cash back on Lyft rides through September 30, 2027.",
+          "title": "5% total cash back on Lyft",
+          "detail": "Earn 5% total cash back on eligible Lyft rides through September 30, 2027. Rewards are tracked as Ultimate Rewards points and can be redeemed as cash back or other eligible rewards.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32508,12 +32757,12 @@
       ],
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "doordash-quarterly",
           "title": "DoorDash non-restaurant discount",
-          "detail": "US$10 off one qualifying non-restaurant DoorDash order each calendar quarter after activating the card's DashPass membership.",
+          "detail": "Activate DashPass with the card and receive a $10 discount each calendar quarter on one qualifying non-restaurant DoorDash order. Applies to qualifying subtotal, not fees, taxes or gratuity; non-restaurant and merchant restrictions apply.",
           "capMinor": 1000,
           "reset": "quarterly",
           "enrollmentRequired": true,
@@ -32522,9 +32771,42 @@
           "priority": 20
         },
         {
+          "id": "issuer-doordash-dashpass-membership",
+          "title": "Complimentary DashPass membership",
+          "detail": "Activate for the first time with the card between February 1, 2025 and December 31, 2027 to receive 12 months of complimentary DashPass for DoorDash and Caviar. After the free period, membership renews at the then-current price unless canceled.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
           "id": "marriott-bonvoy-1000-bonus-points-stay",
           "title": "1,000 bonus points per eligible stay",
-          "detail": "Earn 1,000 bonus Marriott Bonvoy points per eligible stay at participating hotels.",
+          "detail": "Earn 1,000 bonus Marriott Bonvoy points per eligible stay at participating hotels. Marriott Bonvoy stay definitions and eligible property rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fees on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-marriott-concierge",
+          "title": "Visa Signature Concierge",
+          "detail": "Access Visa Signature Concierge for assistance with reservations, travel and other requests; cardmember pays for goods and services booked.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32534,8 +32816,8 @@
         },
         {
           "id": "free-night-15k",
-          "title": "Annual Free Night Award after spending $15,000",
-          "detail": "Earn one Free Night Award each calendar year after $15,000 in purchases, valid for one night up to 50,000 points.",
+          "title": "Annual Free Night Award after $15,000 spend",
+          "detail": "Spend $15,000 in purchases during a calendar year to receive one Free Night Award for a one-night stay at a participating Marriott Bonvoy property costing up to 50,000 points. Award availability and resort fees apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32597,7 +32879,7 @@
           "tier": "Gold Elite",
           "rank": 20,
           "enrollmentRequired": false,
-          "condition": "",
+          "condition": "Automatic Gold Elite status each calendar year while the primary cardmember account is open and not in default. Includes 25% Elite Points bonus, 2 p.m. late checkout and enhanced room upgrades when available; initial status can take up to eight weeks to post.",
           "automatic": true,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful"
         }
@@ -32692,12 +32974,12 @@
       ],
       "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "issuer-credit-with-giftcards-com",
           "title": "$100 Credit with giftcards.com",
-          "detail": "Up to US$50 January–June and US$50 July–December on the curated collection at giftcards.com/reservebusiness.",
+          "detail": "Up to $50 in statement credits January–June and another $50 July–December on eligible purchases from the curated Giftcards.com collection at giftcards.com/reservebusiness. Registration and eligible merchant/transaction rules apply.",
           "capMinor": 5000,
           "reset": "semiannual",
           "enrollmentRequired": false,
@@ -32708,7 +32990,7 @@
         {
           "id": "issuer-in-ride-credits-with-lyft",
           "title": "$120 in ride credits with Lyft",
-          "detail": "Up to US$10/month toward eligible Lyft rides through September 30, 2027.",
+          "detail": "Up to $10 in monthly Lyft ride credits, up to $120 annually, through September 30, 2027. Eligible rides, in-app redemption and Lyft terms apply.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": false,
@@ -32720,7 +33002,7 @@
         {
           "id": "issuer-credit-with-google-workspace",
           "title": "$200 Credit with Google Workspace",
-          "detail": "Up to US$200/calendar year on eligible purchases made directly with Google Workspace.",
+          "detail": "Up to $200 in annual statement credits for eligible purchases made directly from Google Workspace. Purchases must post to the card account and meet merchant/offer terms.",
           "capMinor": 20000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -32731,7 +33013,7 @@
         {
           "id": "chase-travel-hotels-2026",
           "title": "$250 credit for select Chase Travel hotels",
-          "detail": "Up to $250 credit for qualifying Chase Travel hotel bookings in 2026.",
+          "detail": "Up to $250 in statement credits through December 31, 2026 for prepaid Chase Travel hotel bookings at participating IHG, Montage, Pendry, Omni, Virgin, Minor or Pan Pacific properties. Two-night minimum; qualifying purchases earn no points.",
           "capMinor": 25000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -32743,7 +33025,7 @@
         {
           "id": "issuer-credit-with-ziprecruiter",
           "title": "$400 Credit with ZipRecruiter",
-          "detail": "Up to US$200 January–June and US$200 July–December on eligible direct ZipRecruiter purchases.",
+          "detail": "Up to $200 in statement credits January–June and up to $200 July–December on eligible direct ZipRecruiter purchases, up to $400 per year. Terms, registration and qualifying transaction rules apply.",
           "capMinor": 20000,
           "reset": "semiannual",
           "enrollmentRequired": false,
@@ -32754,7 +33036,7 @@
         {
           "id": "issuer-credit-for-stays-with-the-edit",
           "title": "$500 credit for stays with The Edit",
-          "detail": "Up to $500 annually on prepaid The Edit hotel bookings, currently two credits of up to $250. Beginning January 1, 2027, two additional $250 credits are scheduled.",
+          "detail": "Up to $500 in automatic statement credits per calendar year for prepaid The Edit stays, with a maximum of $250 per transaction and a two-night minimum. Each qualifying purchase earns no points; employee cards cannot use this benefit. Starting January 1, 2027, the Business card adds two $250 credits, increasing its annual total to $1,000.",
           "capMinor": 50000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -32775,20 +33057,20 @@
           "priority": 20
         },
         {
+          "id": "issuer-ihg-one-rewards-platinum-elite-status",
+          "title": "IHG Platinum Elite status",
+          "detail": "Complimentary IHG One Rewards Platinum Elite through December 31, 2027; link the IHG membership through Chase Benefits to activate it. Continued eligibility depends on account and program standing.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
           "id": "issuer-expert-assistance-whenever-you-need-it",
           "title": "24/7 dedicated support",
           "detail": "24/7 support from advisors trained for travel and business needs.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "issuer-ihg-one-rewards-platinum-elite-status",
-          "title": "IHG Platinum Elite status",
-          "detail": "Complimentary IHG One Rewards Platinum Elite status through December 31, 2027.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32810,7 +33092,7 @@
         {
           "id": "issuer-points-boost",
           "title": "Points Boost",
-          "detail": "Points are worth up to 2x on top-booked hotels (including The Edit) and on flights with select airlines through Chase Travel.",
+          "detail": "Through Chase Travel, points can be worth up to 2x for top-booked hotels (including The Edit) and flights with select airlines. The boosted value depends on the specific itinerary shown at checkout.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32821,7 +33103,7 @@
         {
           "id": "issuer-visit-chase-sapphire-lounge-by-the-club",
           "title": "Sapphire Lounges + Priority Pass",
-          "detail": "Every Chase Sapphire Lounge by The Club with up to two guests, plus 1,300+ Priority Pass lounges and select Air Canada Maple Leaf Lounges (not for employee cards).",
+          "detail": "Complimentary access to Chase Sapphire Lounges by The Club with up to two guests, 1,300+ Priority Pass lounges, and select Air Canada Maple Leaf Lounges/Cafés with an eligible boarding pass. Sapphire Lounge and Priority Pass Select access is not available to employee cardmembers.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32842,8 +33124,8 @@
         },
         {
           "id": "issuer-explorist-status",
-          "title": "Top-tier benefits at $120,000",
-          "detail": "Spend $120,000 in a calendar year to unlock, for the rest of that year and the next: World of Hyatt Explorist, IHG Diamond Elite, Southwest A-List, up to $500 in Southwest flight credits through Chase Travel and up to $500 in The Shops at Chase credits.",
+          "title": "Status and credits after $120,000 annual spend",
+          "detail": "After $120,000 in calendar-year purchases, unlock for the remainder of that year and the following year: World of Hyatt Explorist, IHG Diamond Elite, Southwest A-List, up to $500 in Southwest flight credits through Chase Travel and up to $500 in The Shops at Chase credits. Loyalty-program linking/activation and program requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -32977,6 +33259,16 @@
       ],
       "statuses": [
         {
+          "id": "spend-southwest-alist",
+          "programID": "southwest",
+          "tier": "A-List — spend required",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Requires $75,000 annual spend on personal Reserve / $120,000 on Reserve for Business; cardholding alone does not grant A-List. Qualifying status is for the remainder of the year earned plus the next year and depends on Southwest account linkage.",
+          "automatic": false,
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve"
+        },
+        {
           "id": "included-ihg-platinum",
           "programID": "ihg",
           "tier": "Platinum Elite",
@@ -32991,8 +33283,8 @@
           "programID": "hyatt",
           "tier": "Explorist — spend required",
           "rank": 20,
-          "enrollmentRequired": false,
-          "condition": "Card spend threshold required; holding the card alone does not grant Explorist.",
+          "enrollmentRequired": true,
+          "condition": "Requires $75,000 annual spend on personal Reserve / $120,000 on Reserve for Business; the card alone does not grant Explorist. Qualifying status is for the remainder of the year earned plus the next year; Hyatt account activation/linking applies.",
           "automatic": false,
           "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve"
         },
@@ -33001,18 +33293,8 @@
           "programID": "ihg",
           "tier": "Diamond Elite — spend required",
           "rank": 30,
-          "enrollmentRequired": false,
-          "condition": "Card spend threshold required; holding the card alone does not grant Diamond Elite.",
-          "automatic": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve"
-        },
-        {
-          "id": "spend-southwest-alist",
-          "programID": "southwest",
-          "tier": "A-List — spend required",
-          "rank": 10,
-          "enrollmentRequired": false,
-          "condition": "Card spend threshold required; holding the card alone does not grant A-List.",
+          "enrollmentRequired": true,
+          "condition": "Requires $75,000 annual spend on personal Reserve / $120,000 on Reserve for Business; cardholding alone does not grant Diamond. Qualifying status is for the remainder of the year earned plus the next year; link/activate IHG account.",
           "automatic": false,
           "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve"
         }
@@ -33099,6 +33381,66 @@
           "capReset": "none",
           "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
           "calculationNote": null
+        },
+        {
+          "id": "lyft",
+          "categories": [
+            "transit"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "chase-ur-us",
+          "label": "5X total points on Lyft",
+          "detail": "Earn 5X total points on eligible Lyft rides through September 30, 2027: the standard 1X plus 4X bonus.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": "2027-10-01",
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "calculationNote": null
+        },
+        {
+          "id": "social-advertising",
+          "categories": [
+            "onlineShopping"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "chase-ur-us",
+          "label": "3X social media and search advertising",
+          "detail": "Earn 3X points on eligible advertising purchases with social media sites and search engines.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "calculationNote": null
+        },
+        {
+          "id": "anniversary-spend-3x",
+          "categories": [
+            "everything"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "chase-ur-us",
+          "label": "3X on first $1 million in purchases from November 15, 2026",
+          "detail": "Starting November 15, 2026, earn 3X on the first $1,000,000 of eligible purchases each cardmember anniversary year and 1X thereafter.",
+          "countries": [],
+          "startsOn": "2026-11-15",
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "reserve-business-annual-spend",
+          "capMinor": 100000000,
+          "capReset": "anniversary",
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "calculationNote": null
         }
       ],
       "accountType": "business",
@@ -33154,12 +33496,12 @@
       ],
       "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "chase-travel-hotels-2026",
           "title": "$250 credit for select Chase Travel hotels",
-          "detail": "Up to $250 credit for qualifying Chase Travel hotel bookings in 2026.",
+          "detail": "Up to $250 in statement credits through December 31, 2026 on prepaid Chase Travel hotel bookings at participating IHG, Montage, Pendry, Omni, Virgin, Minor or Pan Pacific properties. Two-night minimum; qualifying purchases earn no points.",
           "capMinor": 25000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -33171,7 +33513,7 @@
         {
           "id": "issuer-annual-dining-credit",
           "title": "$300 Annual Dining Credit",
-          "detail": "Up to US$150 January–June and US$150 July–December at eligible Sapphire Reserve Exclusive Tables restaurants.",
+          "detail": "Up to $150 in statement credits January–June and another $150 July–December, up to $300 per year, for eligible dining at restaurants participating in Sapphire Reserve Exclusive Tables. Dining credit applies only to eligible restaurant transactions; check participating locations before purchase.",
           "capMinor": 15000,
           "reset": "semiannual",
           "enrollmentRequired": false,
@@ -33182,7 +33524,7 @@
         {
           "id": "issuer-credit-for-stays-with-the-edit",
           "title": "$500 Credit for stays with The Edit",
-          "detail": "Up to $500 annually on prepaid The Edit hotel bookings, currently two credits of up to $250.",
+          "detail": "Up to $500 in automatic statement credits per calendar year for prepaid The Edit stays, with a maximum of $250 per transaction and a two-night minimum. Each qualifying purchase earns no points; employee cards cannot use this benefit. Starting January 1, 2027, the Business card adds two $250 credits, increasing its annual total to $1,000.",
           "capMinor": 50000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -33204,7 +33546,7 @@
         {
           "id": "doordash-promos",
           "title": "DoorDash promos",
-          "detail": "Up to US$35 each month on DoorDash: a US$15 promo on any qualifying order plus two US$10 non-restaurant promos, with the complimentary DashPass.",
+          "detail": "Activate the complimentary DashPass membership by December 31, 2029 for at least one year of $0 delivery fees/reduced service fees on eligible orders. Monthly promos total up to $35: a $15 promo for any qualifying order plus two $10 non-restaurant promos for groceries and everyday essentials. Promos expire each month and merchant/offer rules apply.",
           "capMinor": 3500,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -33227,7 +33569,7 @@
         {
           "id": "lyft-credit",
           "title": "Lyft credit",
-          "detail": "Up to US$10 in monthly in-app credits on Lyft rides through September 30, 2027.",
+          "detail": "Up to $10 in monthly Lyft in-app credits, up to $120 annually, through September 30, 2027. Eligible rides and Lyft in-app redemption terms apply.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -33239,7 +33581,7 @@
         {
           "id": "peloton-credit",
           "title": "Peloton credit",
-          "detail": "Up to US$10/month (US$120 per year) in statement credits toward eligible Peloton memberships.",
+          "detail": "Up to $10 in monthly statement credits, maximum $120 per year, toward eligible Peloton memberships after activation/linking in Chase Benefits. The card also earns 10X points on eligible Peloton hardware/accessories, capped at 50,000 bonus points; separate points terms apply.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -33250,7 +33592,7 @@
         {
           "id": "issuer-300-in-annual-credits",
           "title": "Up to $300 in annual credits",
-          "detail": "Up to US$150 January–June and US$150 July–December on eligible StubHub and viagogo event tickets. Activation required.",
+          "detail": "Up to $150 in statement credits January–June and another $150 July–December for eligible StubHub and viagogo event-ticket purchases. Activation is required; purchases must post in the applicable half-year.",
           "capMinor": 15000,
           "reset": "semiannual",
           "enrollmentRequired": true,
@@ -33259,9 +33601,31 @@
           "priority": 20
         },
         {
+          "id": "issuer-apple-tv-music",
+          "title": "Apple TV+ and Apple Music",
+          "detail": "Complimentary Apple TV+ and Apple Music subscriptions after activating both offers in the Chase Mobile app and linking an Apple ID; stated combined value up to $324. Existing subscriptions may be suspended while cardmember offers are active. Offer period and eligibility terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
           "id": "issuer-ihg-one-rewards-platinum-elite-status",
           "title": "IHG Platinum Elite status",
-          "detail": "Complimentary IHG One Rewards Platinum Elite status through December 31, 2027; activate by linking your IHG account in Benefits on chase.com.",
+          "detail": "Complimentary IHG One Rewards Platinum Elite through December 31, 2027 after linking/activating the IHG membership through Chase Benefits. Account and IHG program standing requirements apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
+          "id": "issuer-points-boost",
+          "title": "Points Boost",
+          "detail": "Through Chase Travel, points can be worth up to 2x on thousands of select top-booked hotels (including The Edit) and premium-cabin flights with select airlines. Boosted value varies by itinerary and is shown before booking.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33270,9 +33634,20 @@
           "priority": 100
         },
         {
-          "id": "issuer-points-boost",
-          "title": "Points Boost",
-          "detail": "Points are worth up to 2x on top-booked hotels (including The Edit) and on premium-cabin flights with select airlines through Chase Travel.",
+          "id": "issuer-reserve-rental-car-partners",
+          "title": "Premium rental-car program benefits",
+          "detail": "Access select partner benefits: Avis Preferred Plus enrollment and qualifying rate discounts, Hertz Gold Plus Rewards privileges, and National Emerald Club Executive membership with eligible upgrade/weekend benefits. Enrollment, rental rate, location and program terms vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-reserve-travel-designers",
+          "title": "Reserve Travel Designers",
+          "detail": "Personalized itinerary-planning and booking service with a stated value up to $300 per trip; itinerary services and any booked travel are subject to availability and applicable prices.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33294,7 +33669,7 @@
         {
           "id": "issuer-sapphire-reserve-experiences",
           "title": "Sapphire Reserve Experiences",
-          "detail": "Access to dining, events and experiences reserved for Sapphire Reserve cardmembers.",
+          "detail": "Access to dining, events and curated experiences reserved for Sapphire Reserve cardmembers; availability, booking windows and event-specific pricing apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33304,8 +33679,8 @@
         },
         {
           "id": "issuer-explorist-status",
-          "title": "Top-tier benefits at $75,000",
-          "detail": "Spend $75,000 in a calendar year to unlock, for the rest of that year and the next: World of Hyatt Explorist, IHG Diamond Elite, Southwest A-List, up to $500 in Southwest flight credits through Chase Travel and $250 in The Shops at Chase credits. Activation required.",
+          "title": "Status and credits after $75,000 annual spend",
+          "detail": "After $75,000 in calendar-year purchases, unlock for the rest of that year and the next: World of Hyatt Explorist, IHG Diamond Elite, Southwest A-List, up to $500 in Southwest flight credits through Chase Travel, and $250 in The Shops at Chase credits. Activate/ link loyalty accounts where required.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33417,6 +33792,16 @@
       ],
       "statuses": [
         {
+          "id": "spend-southwest-alist",
+          "programID": "southwest",
+          "tier": "A-List — spend required",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Requires $75,000 annual spend on personal Reserve / $120,000 on Reserve for Business; cardholding alone does not grant A-List. Qualifying status is for the remainder of the year earned plus the next year and depends on Southwest account linkage.",
+          "automatic": false,
+          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve"
+        },
+        {
           "id": "included-ihg-platinum",
           "programID": "ihg",
           "tier": "Platinum Elite",
@@ -33431,8 +33816,8 @@
           "programID": "hyatt",
           "tier": "Explorist — spend required",
           "rank": 20,
-          "enrollmentRequired": false,
-          "condition": "Card spend threshold required; holding the card alone does not grant Explorist.",
+          "enrollmentRequired": true,
+          "condition": "Requires $75,000 annual spend on personal Reserve / $120,000 on Reserve for Business; the card alone does not grant Explorist. Qualifying status is for the remainder of the year earned plus the next year; Hyatt account activation/linking applies.",
           "automatic": false,
           "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve"
         },
@@ -33441,18 +33826,8 @@
           "programID": "ihg",
           "tier": "Diamond Elite — spend required",
           "rank": 30,
-          "enrollmentRequired": false,
-          "condition": "Card spend threshold required; holding the card alone does not grant Diamond Elite.",
-          "automatic": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve"
-        },
-        {
-          "id": "spend-southwest-alist",
-          "programID": "southwest",
-          "tier": "A-List — spend required",
-          "rank": 10,
-          "enrollmentRequired": false,
-          "condition": "Card spend threshold required; holding the card alone does not grant A-List.",
+          "enrollmentRequired": true,
+          "condition": "Requires $75,000 annual spend on personal Reserve / $120,000 on Reserve for Business; cardholding alone does not grant Diamond. Qualifying status is for the remainder of the year earned plus the next year; link/activate IHG account.",
           "automatic": false,
           "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve"
         }
@@ -33515,6 +33890,46 @@
           "countries": [],
           "capReset": "none",
           "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve"
+        },
+        {
+          "id": "lyft",
+          "categories": [
+            "transit"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "chase-ur-us",
+          "label": "5X total points on Lyft",
+          "detail": "Earn 5X total points on eligible Lyft rides through September 30, 2027: 1X base plus 4X bonus.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": "2027-10-01",
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
+          "calculationNote": null
+        },
+        {
+          "id": "peloton",
+          "categories": [
+            "fitness"
+          ],
+          "rate": 10,
+          "rewardKind": "points",
+          "programID": "chase-ur-us",
+          "label": "10X Peloton purchases",
+          "detail": "Earn 10X points on eligible Peloton hardware and accessories, up to 50,000 total bonus points.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "peloton-points",
+          "capMinor": 5000000,
+          "capReset": "none",
+          "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
+          "calculationNote": null
         }
       ],
       "accountType": "personal",
@@ -33571,12 +33986,23 @@
       ],
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
+        {
+          "id": "issuer-southwest-inflight-purchases",
+          "title": "25% statement credit on inflight purchases",
+          "detail": "Receive 25% back as a statement credit on eligible drinks and Wi-Fi bought aboard Southwest-operated flights and charged to this card. Credit posts to the card account; exclusions and account eligibility apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
+          "kind": "credit",
+          "priority": 20
+        },
         {
           "id": "global-entry-credit",
           "title": "Global Entry, TSA PreCheck or NEXUS credit",
-          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
+          "detail": "One statement credit up to $120 every four years for Global Entry, TSA PreCheck or NEXUS application fees charged to the card; eligible government/authorized providers only.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
@@ -33586,20 +34012,9 @@
           "priority": 20
         },
         {
-          "id": "issuer-southwest-inflight-purchases",
-          "title": "25% back on inflight purchases",
-          "detail": "Receive 25% back on eligible inflight purchases.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
           "id": "issuer-000-anniversary-points-each-year",
           "title": "9,000 anniversary points",
-          "detail": "9,000 bonus points each year after your cardmember anniversary. Also: 2,500 A-List tier qualifying points for every $5,000 spent, a 10,000 Companion Pass qualifying points boost each year, and free employee cards.",
+          "detail": "Receive 9,000 Rapid Rewards bonus points each cardmember anniversary year; points deposit to the primary cardmember’s Rapid Rewards account.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33610,7 +34025,7 @@
         {
           "id": "issuer-southwest-group-five-boarding",
           "title": "Boarding benefit",
-          "detail": "Cardmember and up to eight companions board no later than Group 5.",
+          "detail": "Primary cardmember and up to eight companions on the same Southwest reservation board no later than Group 5 (or earlier if another fare/status benefit grants an earlier group). Cardmember must remain on the booking; not for employee cards/authorized users or partner itineraries.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33621,7 +34036,18 @@
         {
           "id": "issuer-southwest-preferred-seat-booking",
           "title": "Complimentary Preferred seat at booking",
-          "detail": "Select a Preferred seat at booking when available.",
+          "detail": "Primary cardmember can select an available Preferred seat at booking at no additional charge; account must be open and in good standing and the member must remain on the reservation.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-southwest-employee-cards",
+          "title": "Employee cards at no additional cost",
+          "detail": "Employee cards are available at no additional annual card fee; employee purchases earn Rapid Rewards points for the business account.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33632,7 +34058,7 @@
         {
           "id": "issuer-southwest-extra-legroom-upgrade",
           "title": "Extra Legroom seat upgrades",
-          "detail": "Unlimited upgrades to available Extra Legroom seats within 48 hours before departure.",
+          "detail": "Unlimited upgrades to available Extra Legroom seats within 48 hours before departure, at no additional charge, for the primary cardmember. Account must be open and in good standing.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33643,7 +34069,7 @@
         {
           "id": "issuer-southwest-first-checked-bag",
           "title": "First checked bag free",
-          "detail": "Cardmember and up to eight companions on the same reservation receive one checked bag each at no added cost.",
+          "detail": "Primary cardmember and up to eight companions on the same Southwest reservation each receive one standard checked bag free. The Rapid Rewards number must be on the reservation; partner flights, already-free bags, employee cards and authorized users are excluded. Oversize/overweight fees may apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33714,7 +34140,7 @@
           "tier": "A-List tier-qualifying-point progress",
           "rank": 0,
           "enrollmentRequired": false,
-          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "condition": "This card earns 2,500 tier qualifying points toward A-List for each $5,000 in purchases through December 31, 2026. It does not grant A-List by cardholding alone.",
           "automatic": false,
           "sourceURL": "https://www.southwest.com/rapid-rewards/tiers/a-list/"
         }
@@ -33763,16 +34189,16 @@
         {
           "id": "bonus",
           "categories": [
+            "hotelsDirect",
             "gas",
             "dining",
-            "transit",
-            "hotelsDirect"
+            "transit"
           ],
           "rate": 2,
           "rewardKind": "points",
           "programID": "southwest",
           "label": "2X hotels, gas, dining, local transit and commuting",
-          "detail": "Eligible hotels booked directly, gas stations, dining, local transit and commuting.",
+          "detail": "Hotels booked directly, gas stations, restaurants and local transit/commuting including rideshare each earn 2X.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -33811,12 +34237,23 @@
       ],
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
+        {
+          "id": "issuer-southwest-inflight-purchases",
+          "title": "25% statement credit on inflight purchases",
+          "detail": "Receive 25% back as a statement credit on eligible drinks and Wi-Fi bought aboard Southwest-operated flights and charged to this card. Credit posts to the card account; exclusions and account eligibility apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
+          "kind": "credit",
+          "priority": 20
+        },
         {
           "id": "issuer-000-anniversary-points-each-year",
           "title": "6,000 anniversary points",
-          "detail": "6,000 bonus points each year after your cardmember anniversary. Also: 2,000 A-List tier qualifying points for every $5,000 spent.",
+          "detail": "Receive 6,000 Rapid Rewards bonus points each cardmember anniversary year; points deposit to the primary cardmember’s Rapid Rewards account.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33827,7 +34264,7 @@
         {
           "id": "issuer-southwest-anniversary-flight-discount",
           "title": "Anniversary Flight Discount",
-          "detail": "Receive a 15% flight discount promo code annually on cardmember anniversary; Basic fare excluded.",
+          "detail": "Receive a 15% flight discount promo code each cardmember anniversary year. Basic fares are excluded; code and eligible booking terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33838,7 +34275,7 @@
         {
           "id": "issuer-southwest-first-checked-bag",
           "title": "First Checked Bag",
-          "detail": "Cardmember and up to eight companions on the same reservation receive one checked bag each at no added cost.",
+          "detail": "Primary cardmember and up to eight companions on the same reservation receive one standard checked bag free. Rapid Rewards number must be on the booking; partner-operated itineraries and employee/authorized-user cards are excluded; size/weight fees may apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33849,18 +34286,7 @@
         {
           "id": "issuer-southwest-group-five-boarding",
           "title": "Group Five Boarding",
-          "detail": "Cardmember and up to eight companions board no later than Group 5.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "issuer-southwest-inflight-purchases",
-          "title": "Inflight Purchases",
-          "detail": "Receive 25% back on eligible inflight purchases.",
+          "detail": "Primary cardmember and up to eight companions on one reservation board no later than Group 5 on eligible Southwest-operated flights. Member must remain on the reservation; employee cards/authorized users and partner itineraries do not qualify.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33882,13 +34308,24 @@
         {
           "id": "issuer-southwest-preferred-seat-48-hours",
           "title": "Preferred Seat 48 Hours",
-          "detail": "Select a Standard or Preferred seat within 48 hours before departure when available.",
+          "detail": "Primary cardmember may select an available Standard or Preferred seat within 48 hours before departure at no extra charge; account must be open and in good standing.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
           "kind": "benefit",
           "priority": 100
+        },
+        {
+          "id": "issuer-southwest-tqp-spend",
+          "title": "A-List Tier Qualifying Points from spend",
+          "detail": "Earn 2,000 TQPs toward A-List for each $5,000 in purchases through December 31, 2026. TQPs are qualification progress only; this does not grant A-List automatically.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "chase-southwest-premier-business-us-baggage-delay-insurance",
@@ -33942,7 +34379,7 @@
           "tier": "A-List tier-qualifying-point progress",
           "rank": 0,
           "enrollmentRequired": false,
-          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "condition": "This card earns 2,000 tier qualifying points toward A-List for each $5,000 in purchases through December 31, 2026. It does not grant A-List by cardholding alone.",
           "automatic": false,
           "sourceURL": "https://www.southwest.com/rapid-rewards/tiers/a-list/"
         }
@@ -33997,8 +34434,8 @@
           "rate": 2,
           "rewardKind": "points",
           "programID": "southwest",
-          "label": "2X gas and restaurants",
-          "detail": "First $8,000 in combined purchases per anniversary year; 1X thereafter.",
+          "label": "2X bonus categories",
+          "detail": "Southwest purchases earn 3X; gas and restaurants earn 2X on the first $8,000 combined purchases per anniversary year, then 1X.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -34037,8 +34474,19 @@
       ],
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
+        {
+          "id": "issuer-southwest-inflight-purchases",
+          "title": "25% statement credit on inflight purchases",
+          "detail": "Receive 25% back as a statement credit on eligible drinks and Wi-Fi bought aboard Southwest-operated flights and charged to this card. Credit posts to the card account; exclusions and account eligibility apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
+          "kind": "credit",
+          "priority": 20
+        },
         {
           "id": "doordash-quarterly",
           "title": "DoorDash non-restaurant discount",
@@ -34064,18 +34512,7 @@
         {
           "id": "issuer-southwest-anniversary-flight-discount",
           "title": "15% flight discount",
-          "detail": "Receive a 15% flight discount promo code annually on cardmember anniversary; Basic fare excluded.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "issuer-southwest-inflight-purchases",
-          "title": "25% back on inflight purchases",
-          "detail": "Receive 25% back on eligible inflight purchases.",
+          "detail": "Receive a 15% flight discount promo code each cardmember anniversary year. Basic fares are excluded; promo code and booking terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34086,7 +34523,7 @@
         {
           "id": "issuer-southwest-group-five-boarding",
           "title": "Boarding benefit",
-          "detail": "Cardmember and up to eight companions on the same reservation board with Group 5.",
+          "detail": "Primary cardmember and up to eight companions on the same Southwest reservation board with Group 5 (or earlier where fare/status/seat grants earlier access); eligible Southwest-operated flights only.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34097,7 +34534,7 @@
         {
           "id": "issuer-southwest-preferred-seat-48-hours",
           "title": "Complimentary Preferred seat",
-          "detail": "Select a Preferred seat within 48 hours before departure when available.",
+          "detail": "Primary cardmember may select an available Preferred seat within 48 hours before departure at no additional charge; account must remain open and in good standing.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34108,13 +34545,35 @@
         {
           "id": "issuer-southwest-first-checked-bag",
           "title": "First checked bag free",
-          "detail": "Cardmember and up to eight companions on the same reservation receive one checked bag each at no added cost.",
+          "detail": "Primary cardmember and up to eight passengers on the same reservation each receive one standard checked bag free on Southwest-operated flights. Include the primary member’s Rapid Rewards number; allow up to 14 days for account status to update. Partner itineraries, already-free bags, employee cards and authorized users are excluded; size/weight fees may apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
           "kind": "benefit",
           "priority": 100
+        },
+        {
+          "id": "issuer-southwest-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fees on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-southwest-tqp-spend",
+          "title": "A-List Tier Qualifying Points from spend",
+          "detail": "Earn 1,500 TQPs toward A-List for each $5,000 in purchases annually. TQPs count as qualification progress and do not confer status automatically.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "chase-southwest-rapid-rewards-premier-us-baggage-delay-insurance",
@@ -34168,7 +34627,7 @@
           "tier": "A-List tier-qualifying-point progress",
           "rank": 0,
           "enrollmentRequired": false,
-          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "condition": "This card earns 1,500 tier qualifying points toward A-List for each $5,000 in purchases each year. It does not grant A-List by cardholding alone.",
           "automatic": false,
           "sourceURL": "https://www.southwest.com/rapid-rewards/tiers/a-list/"
         }
@@ -34223,8 +34682,8 @@
           "rate": 2,
           "rewardKind": "points",
           "programID": "southwest",
-          "label": "2X grocery stores and restaurants",
-          "detail": "First $8,000 in combined purchases per anniversary year; 1X thereafter.",
+          "label": "2X bonus categories",
+          "detail": "Southwest purchases earn 3X; grocery stores and restaurants earn 2X on the first $8,000 combined purchases per anniversary year, then 1X.",
           "countries": [],
           "capReset": "anniversary",
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
@@ -34259,8 +34718,19 @@
       ],
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
+        {
+          "id": "issuer-southwest-inflight-purchases",
+          "title": "25% statement credit on inflight purchases",
+          "detail": "Receive 25% back as a statement credit on eligible drinks and Wi-Fi bought aboard Southwest-operated flights and charged to this card. Credit posts to the card account; exclusions and account eligibility apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
+          "kind": "credit",
+          "priority": 20
+        },
         {
           "id": "doordash-quarterly",
           "title": "DoorDash non-restaurant discount",
@@ -34284,20 +34754,9 @@
           "priority": 20
         },
         {
-          "id": "issuer-southwest-inflight-purchases",
-          "title": "25% back on inflight purchases",
-          "detail": "Receive 25% back on eligible inflight purchases.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
           "id": "issuer-southwest-group-five-boarding",
           "title": "Boarding benefit",
-          "detail": "Cardmember and up to eight companions on the same reservation board with Group 5.",
+          "detail": "Primary cardmember and up to eight companions on the same reservation board with Group 5 (or earlier if another fare/status/seat benefit applies) on eligible Southwest-operated flights.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34308,7 +34767,7 @@
         {
           "id": "issuer-southwest-preferred-seat-booking",
           "title": "Complimentary Preferred seat at booking",
-          "detail": "Select a Preferred seat at booking when available.",
+          "detail": "Primary cardmember can select an available Preferred seat at booking at no additional charge. Account must be open and not in default; benefit is not available to authorized users or employee cards.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34319,7 +34778,7 @@
         {
           "id": "issuer-southwest-extra-legroom-upgrade",
           "title": "Extra Legroom seat upgrades",
-          "detail": "Unlimited upgrades to available Extra Legroom seats within 48 hours before departure.",
+          "detail": "Primary cardmember can upgrade to an available Extra Legroom seat within 48 hours before departure, at no additional charge; account must be open and in good standing.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34330,13 +34789,35 @@
         {
           "id": "issuer-southwest-first-checked-bag",
           "title": "First checked bag free",
-          "detail": "Cardmember and up to eight companions on the same reservation receive one checked bag each at no added cost.",
+          "detail": "Primary cardmember and up to eight passengers on the same reservation each receive one standard checked bag free on Southwest-operated flights. Include the primary member’s Rapid Rewards number; allow up to 14 days for status to update. Partner itineraries, already-free bags, employee cards and authorized users are excluded; size/weight fees may apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
           "kind": "benefit",
           "priority": 100
+        },
+        {
+          "id": "issuer-southwest-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fees on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-southwest-tqp-spend",
+          "title": "A-List Tier Qualifying Points from spend",
+          "detail": "Earn 2,500 TQPs toward A-List for each $5,000 in purchases annually. This is status-qualifying progress, not automatic A-List status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "chase-southwest-rapid-rewards-priority-us-baggage-delay-insurance",
@@ -34390,7 +34871,7 @@
           "tier": "A-List tier-qualifying-point progress",
           "rank": 0,
           "enrollmentRequired": false,
-          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "condition": "This card earns 2,500 tier qualifying points toward A-List for each $5,000 in purchases each year. It does not grant A-List by cardholding alone.",
           "automatic": false,
           "sourceURL": "https://www.southwest.com/rapid-rewards/tiers/a-list/"
         }
@@ -34485,12 +34966,12 @@
       ],
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "united-travel-credit",
           "title": "$125 United TravelBank cash",
-          "detail": "Receive $125 United TravelBank cash after making five United flight purchases of $100 or more each calendar year.",
+          "detail": "Receive $125 United TravelBank cash after making five United flight purchases of at least $100 each in a calendar year. Cash posts to the primary member’s MileagePlus/TravelBank account, not the card statement.",
           "capMinor": 12500,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -34501,9 +34982,9 @@
         {
           "id": "avis-budget-credit",
           "title": "Avis or Budget United travel credit",
-          "detail": "$25 United TravelBank cash for each of the first two Avis or Budget rentals booked through MileagePlus Travel and paid with the card, up to $50 per anniversary year.",
+          "detail": "Receive $25 United TravelBank cash for each of the first two eligible Avis or Budget rentals per cardmember anniversary year. Book directly through MileagePlus Travel, pay with the card and meet rental requirements; cash is deposited to MileagePlus rather than credited to the card.",
           "capMinor": 2500,
-          "reset": "calendarYear",
+          "reset": "anniversary",
           "enrollmentRequired": false,
           "kind": "credit",
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
@@ -34512,9 +34993,9 @@
         {
           "id": "farelock-credit",
           "title": "United FareLock credit",
-          "detail": "Up to $25 statement credit each cardmember anniversary year for eligible United FareLock purchases.",
+          "detail": "Up to $25 in statement credits each cardmember anniversary year after purchasing eligible FareLock on a United- or United Express-operated flight.",
           "capMinor": 2500,
-          "reset": "calendarYear",
+          "reset": "anniversary",
           "enrollmentRequired": false,
           "kind": "credit",
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
@@ -34522,10 +35003,10 @@
         },
         {
           "id": "issuer-100-in-united-hotels-credits",
-          "title": "United Hotels statement credits",
-          "detail": "$50 statement credit for each of the first two prepaid hotel stays booked directly through United Hotels per cardmember anniversary year.",
-          "capMinor": 5000,
-          "reset": "calendarYear",
+          "title": "Up to $100 in United Hotels statement credits",
+          "detail": "Receive $50 on each of the first two prepaid United Hotels stays booked directly with United and paid with the card, up to $100 per cardmember anniversary year. Pay Now/prepayment and account eligibility rules apply.",
+          "capMinor": 10000,
+          "reset": "anniversary",
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
           "kind": "credit",
@@ -34534,9 +35015,9 @@
         {
           "id": "issuer-100-in-credits-on-jsx-purchases-annually",
           "title": "Up to $100 in credits on JSX purchases annually",
-          "detail": "Up to $100 in statement credits each cardmember anniversary year for JSX purchases.",
+          "detail": "Up to $100 back as statement credits each cardmember anniversary year for JSX flights bought directly with the card.",
           "capMinor": 10000,
-          "reset": "calendarYear",
+          "reset": "anniversary",
           "enrollmentRequired": false,
           "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
           "kind": "credit",
@@ -34545,8 +35026,8 @@
         {
           "id": "rideshare",
           "title": "Up to $100 in credits on rideshare purchases",
-          "detail": "Enroll each year to receive up to $8 monthly January–November and $12 in December, up to $100 each calendar year.",
-          "capMinor": 1000,
+          "detail": "Enroll each calendar year to receive up to $8 in statement credits each month January–November and up to $12 in December, maximum $100 per calendar year, on eligible rideshare purchases charged to the card.",
+          "capMinor": 800,
           "reset": "monthly",
           "enrollmentRequired": true,
           "kind": "credit",
@@ -34559,7 +35040,7 @@
         {
           "id": "issuer-120-in-instacart-credits",
           "title": "Up to $120 in Instacart credits",
-          "detail": "$10 Instacart credit monthly, up to $120 each calendar year; terms currently through 12/31/2027.",
+          "detail": "$10 Instacart credit per month (up to $120 per calendar year) on eligible direct Instacart purchases through December 31, 2027. Terms apply; eligible product subtotal only, excluding fees, taxes, tips and restaurant orders.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": false,
@@ -34571,7 +35052,7 @@
         {
           "id": "issuer-000-mile-better-together-anniversary-bonus",
           "title": "5,000-mile better-together bonus",
-          "detail": "5,000 bonus miles each card anniversary when you also have a personal Chase United card.",
+          "detail": "Earn 5,000 bonus United MileagePlus miles each cardmember anniversary when the primary member also holds an eligible personal United credit card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34637,7 +35118,7 @@
         {
           "id": "economy-plus-25k",
           "title": "2 Economy Plus upgrades at $25,000",
-          "detail": "2 continental U.S. Economy Plus seat upgrades after spending $25,000 in a calendar year.",
+          "detail": "After $25,000 in calendar-year card purchases, receive two continental U.S. Economy Plus seat upgrades. Subject to United booking, fare, availability and expiration terms.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34646,6 +35127,17 @@
           "priority": 105,
           "spendMilestoneMinor": 2500000,
           "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "issuer-united-pqp-spend",
+          "title": "United Premier Qualifying Points from spend",
+          "detail": "Earn 1 Premier qualifying point (PQP) per $20 in eligible purchases, up to 2,000 PQP per calendar year; PQP are progress toward United Premier status and cardholding alone does not grant status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
+          "kind": "benefit",
+          "priority": 105
         },
         {
           "id": "chase-united-business-us-trip-cancellation-interruption-insurance",
@@ -34732,9 +35224,9 @@
           "tier": "Premier qualifying-point progress",
           "rank": 0,
           "enrollmentRequired": false,
-          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "condition": "Earn 1 PQP for each $20 in eligible card purchases, up to 2,000 PQP in a calendar year. PQP count toward MileagePlus Premier qualification; holding this card alone does not grant Premier status.",
           "automatic": false,
-          "sourceURL": "https://www.united.com/en/us/fly/mileageplus/premier/qualify.html"
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-business-card"
         }
       ],
       "earningRules": [
@@ -34766,8 +35258,8 @@
           "rate": 2,
           "rewardKind": "points",
           "programID": "united",
-          "label": "2X United purchases",
-          "detail": "Eligible purchases directly from United; United-flight total miles may also include MileagePlus earnings.",
+          "label": "2X card miles on United purchases",
+          "detail": "Earn 2X card miles on eligible United purchases; MileagePlus earnings on the primary member’s eligible fare are separate and may bring eligible flight purchases to 8X total.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -34781,16 +35273,16 @@
         {
           "id": "bonus",
           "categories": [
-            "dining",
             "gas",
+            "dining",
             "officeSupplies",
             "transit"
           ],
           "rate": 2,
           "rewardKind": "points",
           "programID": "united",
-          "label": "2X gas, dining, office supplies and local transit",
-          "detail": "Eligible gas stations, dining, office supply stores and local transit, including rideshare.",
+          "label": "2X gas, dining, office supplies and transit",
+          "detail": "2X on eligible gas stations, dining (including eligible delivery), office-supply stores, and local transit including rideshare, taxis, trains, tolls and mass transit.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -34839,13 +35331,13 @@
       ],
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "avis-budget-credit",
           "title": "Avis or Budget United travel credit",
-          "detail": "US$25 in United TravelBank cash on each of the first two Avis or Budget rentals booked through mileageplustravel each anniversary year (US$50 total).",
-          "capMinor": 5000,
+          "detail": "Receive $25 United TravelBank cash for each of the first two eligible Avis or Budget rentals per anniversary year. Book directly through MileagePlus Travel and pay with the card; rental-length and account rules apply.",
+          "capMinor": 2500,
           "reset": "anniversary",
           "enrollmentRequired": false,
           "kind": "credit",
@@ -34867,7 +35359,7 @@
         {
           "id": "united-travel-credit",
           "title": "United travel credit",
-          "detail": "US$100 in United TravelBank cash after spending US$10,000 on purchases with the card in a calendar year.",
+          "detail": "Earn $100 in United TravelBank cash after spending $10,000 on purchases with the card in a calendar year. Cash is deposited to the primary member’s MileagePlus account, not issued as a card statement credit.",
           "capMinor": 10000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -34880,7 +35372,7 @@
         {
           "id": "issuer-up-to-100-in-united-hotels-credits",
           "title": "Up to $100 in United Hotels credits",
-          "detail": "US$50 back on the first and second eligible prepaid United Hotels stays each cardmember year; US$100 total.",
+          "detail": "Receive $50 as a statement credit on each of the first two eligible prepaid United Hotels stays booked directly with United and paid with the card, up to $100 per anniversary year. Pay Now and qualifying stay rules apply.",
           "capMinor": 10000,
           "reset": "anniversary",
           "enrollmentRequired": false,
@@ -34891,7 +35383,7 @@
         {
           "id": "issuer-up-to-100-in-credits-on-jsx-purchases-annually",
           "title": "Up to $100 in credits on JSX purchases annually",
-          "detail": "Up to US$100 per cardmember year on eligible direct JSX purchases.",
+          "detail": "Up to $100 in statement credits each cardmember anniversary year on flights bought directly through JSX with the card.",
           "capMinor": 10000,
           "reset": "anniversary",
           "enrollmentRequired": false,
@@ -34902,7 +35394,7 @@
         {
           "id": "issuer-up-to-120-in-instacart-credits",
           "title": "Up to $120 in Instacart credits",
-          "detail": "Up to US$10/month on eligible direct Instacart purchases through December 31, 2027.",
+          "detail": "$10 Instacart credit each month, up to $120 per calendar year, on eligible direct Instacart purchases through December 31, 2027; terms apply.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": false,
@@ -34914,7 +35406,7 @@
         {
           "id": "issuer-up-to-60-in-credits-on-rideshare-purchases",
           "title": "Up to $60 in credits on rideshare purchases",
-          "detail": "Up to US$5/month on eligible rideshare purchases. Yearly enrollment required.",
+          "detail": "Yearly enrollment is required. Receive up to $5 in statement credits per month, maximum $60 per calendar year, for eligible rideshare purchases charged to the card.",
           "capMinor": 500,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -34925,7 +35417,7 @@
         {
           "id": "issuer-free-first-checked-bag-save-up-to-200-per-roundtrip",
           "title": "Free first checked bag",
-          "detail": "The primary cardmember and one companion each check a first standard bag free on United-operated flights (save up to $200 per roundtrip). Group 2 boarding and 2 United Club one-time passes a year.",
+          "detail": "Primary cardmember and one companion on the same United reservation each receive one first standard checked bag free on eligible United-operated flights; maximum stated savings $200 per roundtrip. Account must be open and not in default; include MileagePlus numbers and pay for tickets with the card as required by the terms.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34980,7 +35472,7 @@
         {
           "id": "award-discount-20k",
           "title": "10,000-mile award flight discount",
-          "detail": "One 10,000-mile award flight discount after spending $20,000 in a calendar year.",
+          "detail": "Spend $20,000 in eligible purchases each calendar year to earn a 10,000-mile discount toward an eligible United award flight. Discount and award-booking rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -34993,7 +35485,7 @@
         {
           "id": "chase-united-explorer-us-trip-cancellation-interruption-insurance",
           "title": "Trip cancellation & interruption insurance",
-          "detail": "You can be reimbursed up to $1,500 per covered traveler and $6,000 per trip for your pre-paid, non-refundable passenger fares, if your trip is canceled or cut short by sickness, severe weather or other covered situations.",
+          "detail": "Reimbursement up to $1,500 per covered traveler and $6,000 per trip for prepaid, non-refundable passenger fares when a covered reason cancels or interrupts the trip. Covered traveler definitions and exclusions are in the Guide to Benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35075,9 +35567,9 @@
           "tier": "Premier qualifying-point progress",
           "rank": 0,
           "enrollmentRequired": false,
-          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "condition": "This card earns Premier qualifying points under MileagePlus program rules; the card alone does not grant Premier status. Check current cardmember terms for annual caps and any status-earning thresholds.",
           "automatic": false,
-          "sourceURL": "https://www.united.com/en/us/fly/mileageplus/premier/qualify.html"
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer"
         }
       ],
       "earningRules": [
@@ -35109,8 +35601,8 @@
           "rate": 3,
           "rewardKind": "points",
           "programID": "united",
-          "label": "3X United purchases",
-          "detail": "Eligible purchases with United in addition to MileagePlus miles.",
+          "label": "3X card miles on United purchases",
+          "detail": "Eligible United flights earn 9X total: 6X MileagePlus miles on the primary member’s fare plus 3X on the entire purchase from the card. Other eligible United purchases earn 3X card miles.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -35124,14 +35616,14 @@
         {
           "id": "bonus",
           "categories": [
-            "dining",
-            "hotelsDirect"
+            "hotelsDirect",
+            "dining"
           ],
           "rate": 2,
           "rewardKind": "points",
           "programID": "united",
-          "label": "2X dining and hotel stays",
-          "detail": "Eligible dining and hotel stays.",
+          "label": "2X hotels and dining",
+          "detail": "2X on hotel stays booked directly with the hotel and dining, including eligible delivery; 1X on other purchases.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -35180,13 +35672,13 @@
       ],
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "avis-budget-credit",
           "title": "Avis or Budget United travel credit",
-          "detail": "US$40 in United TravelBank cash on each of the first two Avis or Budget rentals booked through mileageplustravel each anniversary year (US$80 total).",
-          "capMinor": 8000,
+          "detail": "Receive $40 United TravelBank cash for each of the first two eligible Avis or Budget rentals, up to $80 per cardmember anniversary year. Book while logged in through MileagePlus Travel, include the primary member’s MileagePlus number, rent for at least two days and pay in full with the card; cash usually posts within 6–8 weeks after rental return.",
+          "capMinor": 4000,
           "reset": "anniversary",
           "enrollmentRequired": false,
           "kind": "credit",
@@ -35196,7 +35688,7 @@
         {
           "id": "global-entry-credit",
           "title": "Global Entry, TSA PreCheck or NEXUS credit",
-          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
+          "detail": "One statement credit up to $120 every four years for Global Entry, TSA PreCheck or NEXUS application fees charged to the card; eligible program and authorized-provider rules apply.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
@@ -35208,7 +35700,7 @@
         {
           "id": "instacart-credit",
           "title": "Instacart credit",
-          "detail": "One US$10 and one US$5 Instacart credit each month (up to US$180 per calendar year) with an active Instacart+ membership.",
+          "detail": "Up to $180 in Instacart credits per calendar year on eligible direct Instacart purchases. Chase’s offer summary currently states $180 annual maximum; the account-specific monthly credit schedule and Instacart membership conditions should be checked in the cardholder offer terms.",
           "capMinor": 1500,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -35219,7 +35711,7 @@
         {
           "id": "jsx-credit",
           "title": "JSX credit",
-          "detail": "Up to US$150 back each anniversary year on flights booked directly with JSX.",
+          "detail": "Up to $150 in statement credits each cardmember anniversary year for JSX flights purchased directly with the card.",
           "capMinor": 15000,
           "reset": "anniversary",
           "enrollmentRequired": false,
@@ -35230,9 +35722,9 @@
         {
           "id": "renowned-hotels",
           "title": "Renowned Hotels and Resorts credit",
-          "detail": "Up to US$150 back each anniversary year on prepaid stays booked directly through Renowned Hotels and Resorts for United Cardmembers.",
+          "detail": "Up to $150 in statement credits each calendar year on prepaid stays booked directly through Renowned Hotels and Resorts for United cardmembers. Qualifying stays also receive property benefits such as a $100 on-property credit, daily breakfast for two, Wi-Fi and possible room upgrade/early check-in/late checkout.",
           "capMinor": 15000,
-          "reset": "anniversary",
+          "reset": "calendarYear",
           "enrollmentRequired": false,
           "kind": "credit",
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
@@ -35241,7 +35733,7 @@
         {
           "id": "rideshare",
           "title": "Rideshare credit",
-          "detail": "Up to US$8/month January–November and US$12 in December on eligible rideshare purchases. Yearly enrollment required.",
+          "detail": "Enroll each year to receive up to $8 in statement credits monthly January–November and $12 in December, maximum $100 per calendar year, on eligible rideshare purchases charged to the card.",
           "capMinor": 800,
           "reset": "monthly",
           "enrollmentRequired": true,
@@ -35255,13 +35747,35 @@
         {
           "id": "united-travel-credit",
           "title": "United travel credit",
-          "detail": "US$200 in United TravelBank cash after account opening and on each account anniversary for a future United- or United Express-operated flight.",
+          "detail": "$200 in United TravelBank cash after account opening and again on each account anniversary for a future United- or United Express-operated flight. This is TravelBank cash, not a card statement credit.",
           "capMinor": 20000,
           "reset": "anniversary",
           "enrollmentRequired": false,
           "kind": "credit",
           "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
           "priority": 20
+        },
+        {
+          "id": "issuer-quest-pqp-annual",
+          "title": "1,000 annual Premier qualifying points",
+          "detail": "Starting the calendar year after account opening, receive 1,000 Card Bonus Premier qualifying points annually, typically within eight weeks of February 1.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-quest-annual-award-discount",
+          "title": "Annual 10,000-mile award flight discount",
+          "detail": "Beginning on the first card anniversary and each anniversary thereafter, receive a 10,000-mile discount for an eligible United award flight.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "issuer-united-annual-award-discount",
@@ -35321,7 +35835,7 @@
         {
           "id": "economy-plus-40k",
           "title": "2 Economy Plus upgrades at $40,000",
-          "detail": "2 global Economy Plus seat upgrades after spending $40,000 in a calendar year.",
+          "detail": "After $40,000 in eligible calendar-year purchases, receive two global Economy Plus seat upgrades; subject to United fare, booking, availability and redemption terms.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35332,9 +35846,20 @@
           "spendPeriod": "calendarYear"
         },
         {
+          "id": "issuer-quest-pqp-spend",
+          "title": "Premier qualifying points from spend",
+          "detail": "Earn 1 Premier qualifying point for every $20 in eligible card purchases, up to 18,000 PQP per year. PQP are status progress and do not grant elite status by cardholding alone.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
+          "kind": "benefit",
+          "priority": 105
+        },
+        {
           "id": "chase-united-quest-us-trip-cancellation-interruption-insurance",
           "title": "Trip cancellation & interruption insurance",
-          "detail": "You can be reimbursed up to $1,500 per covered traveler and $6,000 per trip for your pre-paid, non-refundable passenger fares, if your trip is canceled or cut short by sickness, severe weather or other covered situations.",
+          "detail": "Reimbursement up to $1,500 per covered traveler and $6,000 per trip for eligible prepaid, non-refundable passenger fares when a covered reason cancels or interrupts the trip. Covered travelers, covered reasons and exclusions are defined in the Guide to Benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35416,9 +35941,9 @@
           "tier": "Premier qualifying-point progress",
           "rank": 0,
           "enrollmentRequired": false,
-          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "condition": "Receive 1,000 Card Bonus PQP each year starting the calendar year after account opening, plus 1 PQP per $20 in eligible card purchases up to 18,000 PQP annually. PQP count toward Premier qualification; cardholding alone does not confer Premier status.",
           "automatic": false,
-          "sourceURL": "https://www.united.com/en/us/fly/mileageplus/premier/qualify.html"
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest"
         }
       ],
       "earningRules": [
@@ -35450,8 +35975,8 @@
           "rate": 4,
           "rewardKind": "points",
           "programID": "united",
-          "label": "4X United purchases",
-          "detail": "Eligible purchases with United in addition to MileagePlus miles.",
+          "label": "4X card miles on United purchases",
+          "detail": "Eligible United flights earn 10X total: 6X MileagePlus miles on the primary member’s fare plus 4X card miles on the entire United purchase. Other eligible United purchases earn 4X card miles.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -35465,17 +35990,38 @@
         {
           "id": "bonus",
           "categories": [
+            "flightsDirect",
+            "hotelsDirect",
             "carRentals",
             "dining",
-            "hotelsDirect",
-            "streaming",
-            "transit"
+            "transit",
+            "streaming"
           ],
           "rate": 2,
           "rewardKind": "points",
           "programID": "united",
-          "label": "2X dining, hotels, car rentals, streaming and transit",
-          "detail": "Eligible purchases in listed categories.",
+          "label": "2X travel, dining and select streaming",
+          "detail": "2X on other travel (airfare, trains, transit, cruises, hotels, car rentals, rideshare and tolls), dining including eligible delivery, and select streaming services.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
+          "calculationNote": null
+        },
+        {
+          "id": "renowned-hotels",
+          "categories": [
+            "hotelsPortal"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "united",
+          "label": "5X prepaid Renowned Hotels",
+          "detail": "Earn 5X miles on prepaid hotel stays booked directly through Renowned Hotels and Resorts for United cardmembers.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -35514,12 +36060,12 @@
       ],
       "sourceURL": "https://marriott.chase.com/ritz-carlton/benefits",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Reviewed against the current public card terms and benefits on the issuer page. Benefit-specific exclusions and the cardholder insurance certificate have not been independently verified; refer to the applicable benefit guide for binding coverage.",
+      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
       "benefits": [
         {
           "id": "travel",
           "title": "Airline incidental travel credit",
-          "detail": "Up to $300 per calendar year for qualifying airline incidental purchases; cardmember must request the credit under current terms.",
+          "detail": "Up to $300 per calendar year in statement credits for qualifying airline incidental purchases such as baggage fees, seat upgrades and preferred lounge memberships/passes. After purchase, call J.P. Morgan Priority Services at 1-855-896-2222 (or the number on the back of the card) within four billing cycles to request reimbursement.",
           "capMinor": 30000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -35542,7 +36088,7 @@
         {
           "id": "elite-nights",
           "title": "15 Elite Night Credits",
-          "detail": "15 Marriott Bonvoy Elite Night Credits each calendar year, subject to Marriott card stacking rules.",
+          "detail": "Receive 15 Marriott Bonvoy Elite Night Credits each calendar year toward the next status tier, subject to Marriott Bonvoy rules on stacking credits from multiple cards.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35586,7 +36132,18 @@
         {
           "id": "night",
           "title": "Anniversary free-night award",
-          "detail": "One annual Free Night Award valid for a standard room redemption up to 85,000 Marriott Bonvoy points; top-up rules and resort fees can apply.",
+          "detail": "One Free Night Award after each account anniversary for a standard room at a participating Marriott Bonvoy hotel costing up to 85,000 points; may top up with up to 25,000 Marriott points. Based on availability; incidental charges and resort fees remain payable; allow up to eight weeks for deposit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://marriott.chase.com/ritz-carlton/benefits",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-elite-status",
+          "title": "Automatic Marriott Bonvoy Gold Elite status",
+          "detail": "Automatic Gold Elite status each calendar year, with a 25% Elite Points bonus, 2 p.m. late checkout and enhanced room upgrades when available; Marriott Bonvoy terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35598,17 +36155,6 @@
           "id": "issuer-j-p-morgan-premier-concierge",
           "title": "J.P. Morgan Premier Concierge",
           "detail": "24/7 personal assistance with travel, dining and entertainment: 1-877-408-5537 or concierge.jpmorgan.com.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://marriott.chase.com/ritz-carlton/benefits",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "issuer-elite-status",
-          "title": "Marriott Gold Elite status",
-          "detail": "Automatic Marriott Bonvoy Gold Elite status each calendar year: 25% bonus points, 2 p.m. late checkout and enhanced room upgrades when available.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35630,7 +36176,7 @@
         {
           "id": "issuer-access-airport-lounges-worldwide",
           "title": "Priority Pass + Sapphire Lounges",
-          "detail": "Priority Pass Select membership (1,300+ lounges) plus Chase Sapphire Lounges; up to 2 guests per visit.",
+          "detail": "Priority Pass Select access to participating airport lounges and eligible airport experiences, plus Chase Sapphire Lounge access under current lounge-network terms. Guest allowance, enrollment card and location-specific access rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35641,7 +36187,7 @@
         {
           "id": "hotel-credit",
           "title": "Ritz-Carlton / St. Regis $100 hotel credit",
-          "detail": "A $100 property credit on qualifying paid stays of two nights or more; not an annual statement-credit bucket.",
+          "detail": "$100 property credit on eligible paid stays of at least two nights at The Ritz-Carlton or St. Regis, applicable to qualifying dining, spa or other hotel recreation charges. It is a stay-specific property credit, not an annual statement-credit allowance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35652,7 +36198,7 @@
         {
           "id": "club-upgrades",
           "title": "Ritz-Carlton Club Level upgrades",
-          "detail": "Three Club Level upgrade certificates each year on qualifying stays and rates.",
+          "detail": "Receive three Ritz-Carlton Club Level upgrade certificates each year for qualifying Ritz-Carlton Club stays/rates. To redeem, contact Ritz-Carlton Reservations at 1-800-542-8680; award availability and certificate terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -35806,22 +36352,22 @@
       ],
       "statuses": [
         {
-          "id": "marriott-gold",
-          "programID": "marriott",
-          "tier": "Gold Elite",
-          "rank": 20,
-          "enrollmentRequired": false,
-          "condition": "Automatic each calendar year while the qualifying card remains open and in good standing.",
-          "automatic": true,
-          "sourceURL": "https://marriott.chase.com/ritz-carlton/benefits"
-        },
-        {
           "id": "included-marriott-status",
           "programID": "marriott",
           "tier": "Gold Elite",
           "rank": 20,
           "enrollmentRequired": false,
           "condition": "",
+          "automatic": true,
+          "sourceURL": "https://marriott.chase.com/ritz-carlton/benefits"
+        },
+        {
+          "id": "marriott-gold",
+          "programID": "marriott",
+          "tier": "Gold Elite",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "Automatic each calendar year while the qualifying card remains open and in good standing.",
           "automatic": true,
           "sourceURL": "https://marriott.chase.com/ritz-carlton/benefits"
         }
