@@ -4112,7 +4112,7 @@
         },
         {
           "id": "all-accor-gold-status",
-          "programID": "all-accor",
+          "programID": "accor",
           "tier": "Gold",
           "rank": 20,
           "enrollmentRequired": true,
@@ -5044,7 +5044,7 @@
         },
         {
           "id": "all-accor-gold-status",
-          "programID": "all-accor",
+          "programID": "accor",
           "tier": "Gold",
           "rank": 20,
           "enrollmentRequired": true,
