@@ -1448,16 +1448,19 @@
             "dining",
             "flightsDirect",
             "hotelsDirect",
-            "transit"
+            "transit",
+            "flightsPortal",
+            "hotelsPortal",
+            "carRentalsPortal"
           ],
           "rate": 3,
           "rewardKind": "points",
           "programID": "amex-mr-us",
           "label": "Amex MR US",
-          "detail": "Travel (including flights, hotels, and stays like Airbnb booked directly on third-party sites), dining and transit. Issuer definitions apply.",
+          "detail": "3X on eligible travel, transit and restaurants worldwide under Classic Green terms. Car rental bonus requires Amex Travel booking; restaurants inside other establishments and third-party food delivery outside the US may not qualify.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://princeoftravel.com/news/amex-travel-airbnb/"
+          "sourceURL": "https://global.americanexpress.com/card-benefits/detail/earn-membership-rewards-points/amex-green"
         }
       ],
       "accountType": "personal",
@@ -3635,7 +3638,7 @@
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
       "checkedOn": "2026-11-04",
-      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. PARTIAL: separate employee-misuse policy was not publicly accessible; issuer summary only. Future 2027 lounge limits and spending unlock are descriptive and do not promise current unlimited guest access. App build 3 reset limitations are disclosed; no app code changes.",
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. PARTIAL: separate employee-misuse policy was not publicly accessible; issuer summary only. Future 2027 lounge limits and spending unlock are descriptive and do not promise current unlimited guest access. App build 3 reset limitations are disclosed; no app code changes. Current Canadian International Airline Program eligibility/discount terms remain unresolved.",
       "benefits": [
         {
           "id": "travel-credit",
@@ -3857,8 +3860,8 @@
         },
         {
           "id": "pot-international-airline-program",
-          "title": "International Airline Program",
-          "detail": "Savings on eligible international premium-cabin fares booked through American Express.",
+          "title": "International Airline Program — confirm eligibility",
+          "detail": "Historical Canadian Business Platinum airline-savings entry retained under its existing ID. Current Canadian card eligibility, participating airlines, cabin/fare and booking terms were not confirmed from a public issuer page during this review; verify with Platinum Travel before relying on a discount.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -4798,11 +4801,11 @@
         {
           "id": "pot-transfer-to-airline-and-hotel-partners",
           "title": "Transfer to airline and hotel partners",
-          "detail": "Move Membership Rewards points to airline and hotel programs such as Aeroplan, Flying Blue, British Airways and Marriott.",
+          "detail": "Transfer eligible Membership Rewards points to participating airline and hotel loyalty programs after registering the partner account. Current partners, ratios, minimums and transfer terms apply; confirm in Membership Rewards before moving points.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-platinum-card/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/rewards/membership-rewards/",
           "priority": 100
         },
         {
@@ -30725,8 +30728,8 @@
         },
         {
           "id": "no-preset-limit",
-          "title": "No preset spending limit",
-          "detail": "Spending power is flexible, not unlimited, and depends on purchase, payment and credit history. Payment terms apply.",
+          "title": "No preset spending limit — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Spending power is flexible, not unlimited, and depends on purchase, payment and credit history. Payment terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
