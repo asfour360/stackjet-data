@@ -33349,6 +33349,17 @@
           "priority": 40
         },
         {
+          "id": "issuer-car-rental-partner-benefits",
+          "title": "Avis, Hertz and National car rental benefits",
+          "detail": "Avis offers up to 30% off qualifying base rates at 5,000+ locations, automatic Preferred Plus enrollment, free weekend rentals and up to 10% off Select Series. Hertz offers savings, faster service, extra return hours on U.S. rentals and bonus points to enrolled Hertz Gold Plus Rewards members. National offers up to 25% off qualifying rentals at participating U.S., Canadian, Latin American and Caribbean locations, complimentary Emerald Club Executive membership, an eligible free weekend day and one-class upgrade. Rates, eligibility, locations and partner terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
           "id": "issuer-expert-assistance-whenever-you-need-it",
           "title": "24/7 dedicated support",
           "detail": "24/7 support from advisors trained for travel and business needs.",
@@ -33411,6 +33422,50 @@
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "chase-sapphire-reserve-for-business-us-emergency-evacuation-transportation",
+          "title": "Emergency evacuation & transportation",
+          "detail": "Emergency evacuation and transportation services for an eligible traveler who becomes seriously sick, injured or dies on a covered trip. Service must be medically necessary and authorized and arranged in advance by the service provider; covered trip must last 5–60 days and be more than 100 miles from the traveler’s primary residence. Unauthorized expenses and local first-responder services are not reimbursed. This is a service benefit, not insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "chase-sapphire-reserve-for-business-us-roadside-assistance",
+          "title": "Roadside assistance",
+          "detail": "24/7 roadside dispatch for towing, battery service, tire changes, lockout assistance or fuel delivery. Up to $50 per incident, four incidents per year; you pay charges above the allowance and any non-covered service. Availability and vehicle/access restrictions apply. This is not insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "chase-sapphire-reserve-for-business-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "24/7 travel and emergency assistance can arrange medical and legal referrals, emergency transportation, translation and other help while traveling. The service provides referrals and assistance; you are responsible for the cost of goods or services you obtain.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-transfer-points-to-travel-partners",
+          "title": "Transfer points to airline and hotel partners",
+          "detail": "Transfer Chase Ultimate Rewards points to participating airline and hotel loyalty programs at the card’s advertised 1:1 rate. Transfers are made in 1,000-point increments to eligible accounts belonging to the Authorizing Officer or an eligible company owner; transfers are final and program availability/terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
           "kind": "benefit",
           "priority": 100
         },
@@ -33516,39 +33571,6 @@
           "priority": 207
         },
         {
-          "id": "chase-sapphire-reserve-for-business-us-emergency-evacuation-transportation",
-          "title": "Emergency evacuation & transportation",
-          "detail": "Emergency evacuation and transportation services for an eligible traveler who becomes seriously sick, injured or dies on a covered trip. Service must be medically necessary and authorized and arranged in advance by the service provider; covered trip must last 5–60 days and be more than 100 miles from the traveler’s primary residence. Unauthorized expenses and local first-responder services are not reimbursed. This is a service benefit, not insurance.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "chase-sapphire-reserve-for-business-us-roadside-assistance",
-          "title": "Roadside assistance",
-          "detail": "24/7 roadside dispatch for towing, battery service, tire changes, lockout assistance or fuel delivery. Up to $50 per incident, four incidents per year; you pay charges above the allowance and any non-covered service. Availability and vehicle/access restrictions apply. This is not insurance.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "chase-sapphire-reserve-for-business-us-travel-emergency-assistance",
-          "title": "Travel & emergency assistance",
-          "detail": "24/7 travel and emergency assistance can arrange medical and legal referrals, emergency transportation, translation and other help while traveling. The service provides referrals and assistance; you are responsible for the cost of goods or services you obtain.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
           "id": "chase-sapphire-reserve-for-business-us-emergency-medical-dental",
           "title": "Emergency medical and dental benefit",
           "detail": "Reimburses eligible emergency medical and dental expenses up to $2,500 per covered traveler per trip, subject to a $50 deductible. If hospitalization is followed by a physician-directed hotel recovery before returning home, up to an additional $75 per day for five days may be available. Covered trips must meet the Guide to Benefits’ duration, distance, payment and eligibility rules; benefit is secondary to other valid insurance or reimbursement.",
@@ -33580,28 +33602,6 @@
           "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
           "kind": "protection",
           "priority": 213
-        },
-        {
-          "id": "issuer-car-rental-partner-benefits",
-          "title": "Avis, Hertz and National car rental benefits",
-          "detail": "Avis offers up to 30% off qualifying base rates at 5,000+ locations, automatic Preferred Plus enrollment, free weekend rentals and up to 10% off Select Series. Hertz offers savings, faster service, extra return hours on U.S. rentals and bonus points to enrolled Hertz Gold Plus Rewards members. National offers up to 25% off qualifying rentals at participating U.S., Canadian, Latin American and Caribbean locations, complimentary Emerald Club Executive membership, an eligible free weekend day and one-class upgrade. Rates, eligibility, locations and partner terms apply.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": true,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
-          "kind": "benefit",
-          "priority": 100
-        },
-        {
-          "id": "issuer-transfer-points-to-travel-partners",
-          "title": "Transfer points to airline and hotel partners",
-          "detail": "Transfer Chase Ultimate Rewards points to participating airline and hotel loyalty programs at the card’s advertised 1:1 rate. Transfers are made in 1,000-point increments to eligible accounts belonging to the Authorizing Officer or an eligible company owner; transfers are final and program availability/terms apply.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
-          "kind": "benefit",
-          "priority": 100
         }
       ],
       "statuses": [
