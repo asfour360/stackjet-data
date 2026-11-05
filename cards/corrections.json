@@ -30173,6 +30173,1099 @@
       ],
       "foreignTransactionFeePercent": 0,
       "earningDataComplete": true
+    },
+    {
+      "id": "capital-one-venture-x-business-us",
+      "name": "Capital One Venture X Business US",
+      "issuer": "Capital One",
+      "market": "US",
+      "annualFeeMinor": 39500,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "27599B",
+      "secondaryHex": "162B53",
+      "artworkAsset": "Card-capital-one-venture-x-business-us",
+      "programIDs": [
+        "capital-one-us"
+      ],
+      "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Issuer audit completed 2026-11-05 against Capital One’s current Venture X Business page and linked Business World Elite Mastercard Guide to Benefits. Product fee, base/portal earning, annual travel credit, enrollment perks, lounge access, hotel collection and Hertz status checked. The published Guide is a generic Business World Elite guide; its baggage-delay section says effective 2017 and states issuer eligibility controls, so confirm the current account-specific insurance certificate and any later endorsements before treating these coverage terms as definitive.",
+      "benefits": [
+        {
+          "id": "global-entry",
+          "title": "Up to $120 Global Entry or TSA PreCheck credit",
+          "detail": "One statement credit of up to US$120 per account every four years for an eligible application fee charged to this card. The first eligible application fee charged is covered; issuer says the credit usually posts within two billing cycles and the account must remain open and in good standing.",
+          "capMinor": 12000,
+          "reset": "none",
+          "intervalYears": 4,
+          "enrollmentRequired": false,
+          "kind": "credit",
+          "priority": 20,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
+        },
+        {
+          "id": "issuer-annual-travel-credit",
+          "title": "$300 annual Capital One Business Travel credit",
+          "detail": "Eligible primary Venture X Business accounts receive US$300 each account year for bookings through Capital One Business Travel. The credit expires at 11:59 p.m. ET on the day before the account anniversary, can be used across purchases, and earns no miles; account must be open and in good standing.",
+          "capMinor": 30000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "capital-one-venture-x-business-us-hertz-presidents-circle",
+          "title": "Hertz President’s Circle status",
+          "detail": "Eligible cardholders can enroll through the unique Benefits Tab link after signing in; Hertz Gold+ Rewards terms and rental qualifications apply. This is an enrollment-based status upgrade, not automatic elite status.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
+          "id": "capital-one-venture-x-business-us-lounge-access",
+          "title": "Capital One Lounges & Priority Pass",
+          "detail": "Eligible cardholders may enter Capital One Lounges and Landings with the physical card or a digital lounge pass, subject to capacity and access terms. Enroll in Priority Pass after card activation for participating lounges; network and guest rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
+          "id": "anniversary",
+          "title": "10,000 anniversary miles",
+          "detail": "Earn 10,000 bonus miles on each account anniversary, beginning with the first anniversary, according to Capital One’s product page.",
+          "capMinor": null,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-venture-x-business-us-business-tools",
+          "title": "Business Travel and expense tools",
+          "detail": "Includes complimentary access to Capital One Business Travel, free employee/virtual cards, employee spend controls, account managers, expense management and accounts-payable tools, subject to account and platform terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-venture-x-business-us-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "Capital One states there are no foreign transaction fees on purchases outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-venture-x-business-us-premier-collection",
+          "title": "Premier Collection hotel and vacation-rental benefits",
+          "detail": "Eligible bookings made through Capital One Business Travel in the cardholder’s name include up to US$100 per stay for qualifying hotel experiences (or vacation-rental experiences), plus property-dependent benefits such as breakfast for two on hotel stays, Wi-Fi and available upgrades/early check-in/late checkout. Qualifying charges, property participation, availability and minimum-stay terms vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-venture-x-business-us-transferable-miles",
+          "title": "Flexible miles redemption and transfer",
+          "detail": "Miles can be redeemed through Capital One Travel or used to reimburse eligible travel purchases within 90 days; eligible miles may be transferred to participating airline/hotel partners. Transfer-partner terms and redemption conditions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-venture-x-business-us-world-elite-concierge",
+          "title": "World Elite concierge",
+          "detail": "24/7 Mastercard concierge can help with travel, dining, events and lifestyle research/arrangements. Goods and services arranged by concierge are charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "travel",
+          "title": "Capital One Business Travel",
+          "detail": "Complimentary access to Capital One Business Travel for booking and managing business trips. The separate $300 annual Business Travel credit is listed below.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "capital-one-venture-x-business-us-baggage-delay-insurance",
+          "title": "Baggage delay insurance",
+          "detail": "Reimbursement for essential items after checked baggage is delayed or misdirected more than 4 hours after arrival: up to US$100 per day, US$300 total per covered person. Requires charging part or all of the covered trip to the card; excess coverage. The linked guide labels this benefit effective 2017 and says card eligibility is determined by the issuer.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "capital-one-venture-x-business-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost or damaged luggage coverage up to US$1,500 per incident, with two claims per 12-month period; secondary coverage. Eligibility, covered persons, exclusions and proof requirements in the linked guide apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "capital-one-venture-x-business-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Up to US$800 per claim and US$1,000 per covered card per 12 months, maximum two claims, US$50 deductible. Pay the eligible monthly wireless bill with the covered card; coverage is excess of other insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "capital-one-venture-x-business-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Purchase Assurance covers eligible items against covered theft or damage within the guide’s covered period; up to US$10,000 per loss and US$50,000 per covered card per 12 months. Coverage is secondary and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "capital-one-venture-x-business-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Doubles eligible manufacturer warranties for covered purchases, subject to the guide’s warranty-length and claim limits; up to US$10,000 per claim. Coverage and exclusions in the linked guide apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "capital-one-venture-x-business-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "MasterRental covers physical damage or theft for rentals of 31 consecutive days or less. The rental must be primarily for business or outside the cardholder’s country of residence for primary coverage; otherwise it is secondary. The entire rental must be charged to the card/eligible rewards and optional collision waiver declined when coverage is secondary. Loss of use is limited to US$500; exclusions and territory limits apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "capital-one-venture-x-business-us-travel-accident-insurance",
+          "title": "Travel accident insurance",
+          "detail": "Worldwide automatic travel accident insurance up to US$1,000,000 under the linked guide’s covered-trip, eligible-person, travel-ticket payment and exclusion terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 206
+        },
+        {
+          "id": "capital-one-venture-x-business-us-emergency-medical-dental",
+          "title": "Emergency medical & dental",
+          "detail": "MasterAssist Medical Protection provides secondary emergency medical/dental coverage up to US$2,500 per covered individual with a US$50 deductible; emergency transportation/repatriation limits and eligibility rules are in the guide. Separate MasterAssist referral/arrangement services are not insurance and their costs are paid by the cardholder.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 207
+        },
+        {
+          "id": "capital-one-venture-x-business-us-rideshare-protection",
+          "title": "Rideshare protection",
+          "detail": "Covered rideshare trips paid in full with the card are eligible for up to US$750 per trip, two claims and US$1,500 total per 12 months, subject to a US$100 deductible and the guide’s eligible-person, provider and exclusion rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 208
+        },
+        {
+          "id": "capital-one-venture-x-business-us-id-theft-protection",
+          "title": "ID theft protection",
+          "detail": "Mastercard ID Theft Protection monitoring and resolution assistance; cardholder must enroll with Mastercard. Monitoring service terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 209
+        },
+        {
+          "id": "capital-one-venture-x-business-us-trip-cancellation-interruption",
+          "title": "Common-carrier trip cancellation & interruption",
+          "detail": "Secondary reimbursement for qualifying covered losses when the full trip cost is charged to the covered card, eligible rewards or a combination: up to US$1,500 per covered trip and US$5,000 per eligible account per 12 consecutive months. Covered causes, eligible travelers and exclusions are defined in the guide.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "capital-one-venture-x-business-us-price-protection",
+          "title": "Price protection",
+          "detail": "For eligible U.S. purchases, claim the advertised price difference for the identical item if a qualifying U.S. retailer advertisement appears within 60 days: up to US$500 per item and US$2,500 per year. Secondary to retailer price guarantees; eligible-card status is determined by the issuer and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 211
+        },
+        {
+          "id": "capital-one-venture-x-business-us-masterassist-travel-assistance",
+          "title": "MasterAssist travel and emergency assistance",
+          "detail": "24-hour travel assistance can arrange referrals for medical/dental care, hospital admission, emergency evacuation, repatriation and replacement medication when eligible. It is a service, not insurance; the cardholder pays provider and emergency-service costs. Availability/eligibility restrictions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "protection",
+          "priority": 212
+        }
+      ],
+      "statuses": [
+        {
+          "id": "hertz-presidents-circle",
+          "programID": "hertz",
+          "tier": "President’s Circle",
+          "rank": 30,
+          "enrollmentRequired": true,
+          "condition": "Eligible Venture X Business cardholders must activate the offer through the unique Benefits Tab link and join/use Hertz Gold+ Rewards; Hertz terms and rental qualifications apply.",
+          "automatic": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "capital-one-us",
+          "label": "Capital One Miles US",
+          "detail": "Unlimited 2 miles per US$1 on every eligible purchase.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
+        },
+        {
+          "id": "flights",
+          "categories": [
+            "flightsPortal"
+          ],
+          "rate": 5,
+          "rewardKind": "points",
+          "programID": "capital-one-us",
+          "label": "Capital One Miles US",
+          "detail": "5 miles per US$1 on flights booked through Capital One Business Travel; Capital One also lists vacation rentals at 5X, but build 3 has no distinct vacation-rental earning category.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
+        },
+        {
+          "id": "hotels",
+          "categories": [
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 10,
+          "rewardKind": "points",
+          "programID": "capital-one-us",
+          "label": "Capital One Miles US",
+          "detail": "10 miles per US$1 on hotels and car rentals booked through Capital One Business Travel.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+      "artworkSearchTerms": "Capital One Venture X Business",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "loungeAccess": [
+        {
+          "id": "capital-one",
+          "provider": "Capital One Lounges",
+          "title": "Capital One Lounges & Landings",
+          "detail": "Eligible cardholders show the Venture X Business card or in-app digital lounge pass; access subject to capacity and current access terms.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
+        },
+        {
+          "id": "priority-pass",
+          "provider": "Priority Pass",
+          "title": "Priority Pass",
+          "detail": "Eligible cardholders enroll after card activation; participating lounge, guest and access rules apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/"
+        }
+      ],
+      "benefitSourceURLs": [
+        "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
+        "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf"
+      ],
+      "artworkURL": "https://ecm.capitalone.com/WCM/card/products/vxb-card-alt-at-2x.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "citi-aadvantage-globe-us",
+      "name": "Citi AAdvantage Globe US",
+      "issuer": "Citi",
+      "market": "US",
+      "annualFeeMinor": 35000,
+      "feeNote": "$350 annual fee; verified against Citi’s current product page and card terms.",
+      "colorHex": "417AAF",
+      "secondaryHex": "143859",
+      "artworkAsset": "Card-citi-aadvantage-globe-us",
+      "programIDs": [
+        "american"
+      ],
+      "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Issuer audit completed 2026-11-05 against Citi’s current Globe product page and FAQ. Fee, five earning rates, annual and enrolled credits, four annual lounge passes, companion certificate, baggage/boarding, Flight Streak, Loyalty Point earning and public protection categories checked. Citi’s public page confirms common-carrier trip cancellation/interruption, trip delay, lost/damaged baggage, MasterRental, extended warranty and Purchase Assurance Plus, but does not expose the current card-specific certificate or numeric coverage limits; verify the Guide to Protection Benefits supplied for the account.",
+      "benefits": [
+        {
+          "id": "globe-inflight-100",
+          "title": "Up to $100 American Airlines inflight credit",
+          "detail": "Up to US$100 in statement credits each calendar year for eligible inflight purchases when using the card on American Airlines flights.",
+          "capMinor": 10000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": null,
+          "monthOverrides": null
+        },
+        {
+          "id": "issuer-100-annual-splurge-credit",
+          "title": "Up to $100 Annual Splurge Credit",
+          "detail": "Up to US$100 in statement credits each calendar year across up to two selected eligible brands: 1stDibs, eligible AAdvantage Hotels bookings, Future Personal Training and Live Nation. Brand and transaction exclusions apply.",
+          "capMinor": 10000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": null,
+          "monthOverrides": null
+        },
+        {
+          "id": "issuer-additionally-up-to-120-global-entry-or-tsa-precheck-application-fee-credit",
+          "title": "Up to $120 Global Entry or TSA PreCheck credit",
+          "detail": "Statement credit up to US$120 once every four years for an eligible Global Entry or TSA PreCheck application fee; issuer terms apply.",
+          "capMinor": 12000,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": null,
+          "monthOverrides": null,
+          "intervalYears": 4
+        },
+        {
+          "id": "globe-turo-240",
+          "title": "Up to $240 in Turo statement credits",
+          "detail": "Earn up to US$30 in statement credits for each eligible completed Turo trip, up to US$240 each calendar year. Link the card at Turo.com/Globe and pay for the trip with the card; eligibility and transaction terms apply.",
+          "capMinor": 24000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "credit",
+          "priority": 40,
+          "endsBefore": null,
+          "monthOverrides": null
+        },
+        {
+          "id": "globe-admirals-passes",
+          "title": "4 Admirals Club Globe Passes",
+          "detail": "Four Admirals Club Globe Passes each calendar year; American Airlines lounge-entry terms and travel eligibility apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "globe-companion",
+          "title": "American Airlines Companion Certificate",
+          "detail": "Starting in the second cardmembership year after renewing the cardmembership, receive an eligible American Airlines Companion Certificate. Redemption costs US$99 plus applicable taxes and fees; itinerary and certificate terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "globe-flight-streak-loyalty-point-bonus",
+          "title": "Flight Streak bonus",
+          "detail": "The primary cardmember earns 5,000 additional AAdvantage Loyalty Points after each four qualifying American Airlines flights, up to 15,000 additional Loyalty Points each AAdvantage status qualification year (March 1–February 28/29). Qualifying-flight terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "globe-preferred-boarding",
+          "title": "Preferred boarding",
+          "detail": "Preferred boarding on eligible American Airlines flights for the primary cardmember and up to eight companions listed on the same reservation.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-first-checked-bag-free-on-domestic-american-airlines-itineraries",
+          "title": "Free first checked bag",
+          "detail": "First checked bag free on eligible domestic American Airlines itineraries for the primary cardmember and up to eight companions on the same reservation; preferred boarding is also available to the primary cardmember and up to eight listed companions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "citi-aadvantage-globe-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Enhanced trip cancellation and interruption protection. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "citi-aadvantage-globe-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Trip delay protection when the trip is paid with the card. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "citi-aadvantage-globe-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost or damaged luggage coverage on trips paid with the card. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "citi-aadvantage-globe-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Purchase Assurance Plus for eligible purchases that are damaged or stolen. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "citi-aadvantage-globe-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extended warranty on eligible purchases (secondary coverage). Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "citi-aadvantage-globe-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "MasterRental car rental coverage when you decline the rental company's collision waiver. Citi doesn't publish the limits; they are in the Guide to Protection Benefits sent with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "citi-aadvantage-globe-us-id-theft-protection",
+          "title": "ID theft protection",
+          "detail": "Mastercard ID Theft Protection monitoring and resolution help; enrollment required.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "kind": "protection",
+          "priority": 206
+        }
+      ],
+      "statuses": [
+        {
+          "id": "card-status-progress",
+          "programID": "american",
+          "tier": "AAdvantage Loyalty Point progress",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "Earn 1 AAdvantage Loyalty Point for every eligible AAdvantage mile earned from card purchases. The card does not grant an elite tier by itself; Flight Streak bonuses are listed separately and status qualification is set by AAdvantage.",
+          "automatic": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "aaglobe-aa",
+          "categories": [
+            "americanAirlines",
+            "flightsDirect"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "3x eligible American Airlines purchases",
+          "detail": "3 AAdvantage miles per $1 on eligible American Airlines purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "calculationNote": null
+        },
+        {
+          "id": "aaglobe-hotels",
+          "categories": [
+            "hotelsPortal"
+          ],
+          "rate": 6,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "6x eligible AAdvantage Hotels",
+          "detail": "6 AAdvantage miles per $1 on eligible hotels booked through AAdvantage Hotels.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "calculationNote": null
+        },
+        {
+          "id": "aaglobe-dining",
+          "categories": [
+            "dining"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "2x restaurants",
+          "detail": "2 AAdvantage miles per $1 at restaurants, including eligible takeout and delivery.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "calculationNote": null
+        },
+        {
+          "id": "aaglobe-transit",
+          "categories": [
+            "transit"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "2x eligible Rides and Rails",
+          "detail": "2 AAdvantage miles per $1 on eligible Rides and Rails purchases, including qualifying taxis, rideshares and public transit.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "calculationNote": null
+        },
+        {
+          "id": "aaglobe-all",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "american",
+          "label": "1x other purchases",
+          "detail": "1 AAdvantage mile per $1 on other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
+      "artworkSearchTerms": "Citi AAdvantage Globe",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "loungeAccess": [
+        {
+          "id": "aa-globe-passes",
+          "provider": "Admirals Club",
+          "title": "4 Admirals Club Globe Passes",
+          "detail": "Four passes per calendar year; current Citi/American Airlines Globe Pass access and same-day travel rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard"
+        }
+      ],
+      "artworkURL": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-aadvantage-globe-mastercard/citi-aadvantage-globe-mastercard_306x192.webp",
+      "benefitSourceURLs": [
+        "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "citi-strata-elite-us",
+      "name": "Citi Strata Elite US",
+      "issuer": "Citi",
+      "market": "US",
+      "annualFeeMinor": 59500,
+      "feeNote": "$595 annual fee; confirmed on Citi’s current Strata Elite product page and pricing terms.",
+      "colorHex": "417AAF",
+      "secondaryHex": "143859",
+      "artworkAsset": "Card-citi-strata-elite-us",
+      "programIDs": [
+        "citi-us"
+      ],
+      "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Issuer audit completed 2026-11-05 against Citi’s current Strata Elite product page, FAQ and benefits terms. Fee, five earning tiers, four statement-credit groups, Citigold relationship credits, transfer/redemption, lounge access, travel benefits and public protection types checked. Citi lists trip cancellation/interruption, trip delay, lost/damaged baggage, MasterRental, extended warranty and Purchase Assurance Plus; the public product page does not expose the current card-specific Guide to Protection Benefits or numeric coverage terms. Confirm certificate limits, eligibility and exclusions for the actual account; the two Citigold credits’ stacking rules are also unclear in public materials.",
+      "benefits": [
+        {
+          "id": "citi-elite-global-entry",
+          "title": "Up to $120 Global Entry or TSA PreCheck credit",
+          "detail": "Statement credit up to US$120 once every four years as reimbursement for an eligible Global Entry or TSA PreCheck application fee.",
+          "capMinor": 12000,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": null,
+          "monthOverrides": null,
+          "intervalYears": 4
+        },
+        {
+          "id": "citi-elite-hotel-300",
+          "title": "Up to $300 Annual Hotel Benefit",
+          "detail": "Once each calendar year, receive up to US$300 off one prepaid hotel stay of at least two nights booked through Citi Travel; taxes and fees are excluded and the discount is applied at booking. Pay with the card, ThankYou Points, or both under issuer terms.",
+          "capMinor": 30000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": null,
+          "monthOverrides": null
+        },
+        {
+          "id": "issuer-200-annual-blacklane-credit",
+          "title": "Up to $200 Annual Blacklane Credit",
+          "detail": "Up to US$200 in statement credits each calendar year for eligible Blacklane purchases: up to US$100 January–June and up to US$100 July–December.",
+          "capMinor": 10000,
+          "reset": "semiannual",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": null,
+          "monthOverrides": null
+        },
+        {
+          "id": "issuer-200-splurge-credit",
+          "title": "Up to $200 Splurge Credit",
+          "detail": "Up to US$200 in statement credits each calendar year across up to two selected eligible brands: 1stDibs, American Airlines, Best Buy, Future Personal Training and Live Nation. Merchant/transaction exclusions apply.",
+          "capMinor": 20000,
+          "reset": "calendarYear",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "credit",
+          "priority": 20,
+          "endsBefore": null,
+          "monthOverrides": null
+        },
+        {
+          "id": "issuer-citigold-private-client-relationship-credit",
+          "title": "Citigold Private Client relationship credit",
+          "detail": "Qualifying Citigold Private Clients receive a US$595 first-year banking relationship credit and US$145 in subsequent annual credits when the primary cardmember’s Strata Elite account is open/current and an annual fee is assessed. Citi’s public page does not explain whether this combines with the separate Citigold relationship credit; confirm account-specific eligibility.",
+          "capMinor": 59500,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-citigold-relationship-credit",
+          "title": "Citigold relationship credit",
+          "detail": "Qualifying Citigold clients receive a US$145 banking relationship annual credit when the primary cardmember’s Strata Elite account is open/current and an annual fee is assessed. Citi’s public page does not explain whether this combines with the separate Citigold Private Client credit; confirm account-specific eligibility.",
+          "capMinor": 14500,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
+          "id": "issuer-american-airlines-admirals-club-lounge-access-passes",
+          "title": "4 Admirals Club passes",
+          "detail": "Four digital Citi Strata Elite Admirals Club passes each calendar year. Each pass provides access subject to current American Airlines lounge terms; the primary cardmember must be present, and one pass is needed per accompanying adult.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-citi-entertainment-access",
+          "title": "Citi Entertainment access",
+          "detail": "Access to Citi Entertainment presales and select ticket offers/experiences for concerts, sports, arts and culture; inventory and offer terms vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-gift-cards-cash-back-and-more",
+          "title": "Redeem ThankYou Points",
+          "detail": "Redeem ThankYou Points for gift cards and other available options at thankyou.com; redemption availability and value vary by option.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "No foreign transaction fees on purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-points-transfer",
+          "title": "Points transfer",
+          "detail": "Transfer ThankYou Points to participating airline and hotel loyalty programs, including American Airlines, JetBlue, Virgin Atlantic, Cathay, EVA Air, Choice Hotels and The Leading Hotels of the World. Minimum transfer is 1,000 points; partner rates and terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-priority-pass-select-membership",
+          "title": "Priority Pass Select + Admirals Club passes",
+          "detail": "Complimentary Priority Pass Select membership, plus four Admirals Club Citi Strata Elite passes each calendar year. Priority Pass enrollment is not required for entry but digital registration is available; membership allows up to two guests per visit at participating lounges, subject to each lounge’s rules and capacity.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "citi-strata-elite-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Citi lists Enhanced Trip Cancellation and Trip Interruption for covered common-carrier trips. The public product page does not provide the current card-specific limits, covered persons, covered causes or exclusions; consult the Guide to Protection Benefits issued for the account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "citi-strata-elite-us-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Citi lists Trip Delay protection. The public product page does not provide the current card-specific delay threshold, reimbursement limit, eligible travelers or exclusions; consult the Guide to Protection Benefits issued for the account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "citi-strata-elite-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Citi lists Lost or Damaged Luggage protection. The public product page does not provide the current card-specific coverage limits, eligible property, travelers or exclusions; consult the Guide to Protection Benefits issued for the account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "citi-strata-elite-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Citi lists MasterRental Coverage (car rental insurance). The public product page does not provide the current card-specific coverage basis, vehicle/rental limits, covered persons or exclusions; consult the Guide to Protection Benefits issued for the account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "citi-strata-elite-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Citi lists Extended Warranty coverage for eligible purchases. The public product page does not provide the current card-specific added warranty term, claim limit, eligible warranties or exclusions; consult the Guide to Protection Benefits issued for the account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "citi-strata-elite-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Citi lists Purchase Assurance Plus for eligible purchases. The public product page does not provide the current card-specific time limit, claim maximum, covered events or exclusions; consult the Guide to Protection Benefits issued for the account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "protection",
+          "priority": 205
+        },
+        {
+          "id": "citi-strata-elite-us-id-theft-protection",
+          "title": "ID theft protection",
+          "detail": "Mastercard ID Theft Protection offers monitoring and identity-theft resolution assistance after free enrollment. Monitoring, eligibility and service terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "kind": "protection",
+          "priority": 206
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "elite-hotels-portal",
+          "categories": [
+            "hotelsPortal",
+            "carRentalsPortal",
+            "attractionsPortal"
+          ],
+          "rate": 12,
+          "rewardKind": "points",
+          "programID": "citi-us",
+          "label": "12x Citi Travel hotels, car rentals & attractions",
+          "detail": "12x on hotels, car rentals and attractions booked on Citi Travel.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "calculationNote": null
+        },
+        {
+          "id": "elite-flights-portal",
+          "categories": [
+            "flightsPortal"
+          ],
+          "rate": 6,
+          "rewardKind": "points",
+          "programID": "citi-us",
+          "label": "6x Citi Travel airfare",
+          "detail": "6x on air travel booked through Citi Travel.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "calculationNote": null
+        },
+        {
+          "id": "elite-citi-nights",
+          "categories": [
+            "citiNightsDining"
+          ],
+          "rate": 6,
+          "rewardKind": "points",
+          "programID": "citi-us",
+          "label": "6x Citi Nights restaurants",
+          "detail": "6x at restaurants during Citi Nights: Friday and Saturday, 6 p.m. to 6 a.m. Eastern Time, subject to Citi’s current terms. Use this category only when the purchase is inside the published Citi Nights window.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "calculationNote": "Time-window eligibility is user-selected; Best Card does not infer merchant local time."
+        },
+        {
+          "id": "elite-dining",
+          "categories": [
+            "dining"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "citi-us",
+          "label": "3x restaurants",
+          "detail": "3x at restaurants; eligible Citi Nights purchases earn 6x during the published Friday/Saturday window.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "calculationNote": null
+        },
+        {
+          "id": "elite-everything",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "citi-us",
+          "label": "1.5x everywhere else",
+          "detail": "1.5x on other purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+      "artworkSearchTerms": "Citi Strata Elite",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "loungeAccess": [
+        {
+          "id": "strata-elite-pp",
+          "provider": "Priority Pass",
+          "title": "Priority Pass Select",
+          "detail": "Complimentary Priority Pass Select membership; current guest rules apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/credit-card-rewards/airport-lounge-access"
+        },
+        {
+          "id": "strata-elite-aa-passes",
+          "provider": "Admirals Club",
+          "title": "4 Admirals Club passes",
+          "detail": "Four Admirals Club Citi Strata Elite passes per calendar year.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.citi.com/credit-cards/credit-card-rewards/airport-lounge-access"
+        }
+      ],
+      "artworkURL": "https://aemapi.citi.com/content/dam/cfs/uspb/usmkt/cards/en/static/images/citi-strata-elite-credit-card/citi-strata-elite-credit-card_306x192.webp",
+      "benefitSourceURLs": [
+        "https://www.citi.com/credit-cards/citi-strata-elite-credit-card"
+      ],
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
