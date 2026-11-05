@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-05",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Final Chase detail reconciliation (2026-11-05): added documented membership and anniversary benefits, exact annual earn/status transitions, and United award/PQP conditions. Public guides/certificates remain unverified. A second final Chase pass added complete MileagePlus redemption/program terms and expanded checked-bag eligibility. Chase Sapphire Reserve screenshot cross-check (2026-11-05): added separate The Edit stay-program benefits and DashPass membership; expanded current travel, dining, DoorDash, StubHub, Lyft, Peloton and lounge terms. Capital One lower-fee cards: replaced seven generic coverage placeholders with card-network-specific rental coverage and current Discover-network guide limits where the issuer explicitly lists the product; exact student, secured and Good Credit variant eligibility remains identified as unconfirmed (2026-11-05). Bank of America placeholder review: updated 11 card records; published terms added where TPG confirms them, while product-specific insurance limits absent from public issuer pages remain marked unconfirmed (2026-11-05). BofA Air France KLM Visa Signature: added current welcome offer and $0 Liability Guarantee; clarified XP milestones and issuer-optional Visa insurance terms (2026-11-05).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Final Chase detail reconciliation (2026-11-05): added documented membership and anniversary benefits, exact annual earn/status transitions, and United award/PQP conditions. Public guides/certificates remain unverified. A second final Chase pass added complete MileagePlus redemption/program terms and expanded checked-bag eligibility. Chase Sapphire Reserve screenshot cross-check (2026-11-05): added separate The Edit stay-program benefits and DashPass membership; expanded current travel, dining, DoorDash, StubHub, Lyft, Peloton and lounge terms. Capital One lower-fee cards: replaced seven generic coverage placeholders with card-network-specific rental coverage and current Discover-network guide limits where the issuer explicitly lists the product; exact student, secured and Good Credit variant eligibility remains identified as unconfirmed (2026-11-05). Bank of America placeholder review: updated 11 card records; published terms added where TPG confirms them, while product-specific insurance limits absent from public issuer pages remain marked unconfirmed (2026-11-05). BofA Air France KLM Visa Signature: added current welcome offer and $0 Liability Guarantee; clarified XP milestones and issuer-optional Visa insurance terms (2026-11-05). U.S. Mastercard verification: added Chase DoorDash/Freedom Flex cell phone protection, itemized Chase Instacart card benefits and services, and Wells Fargo Signify Business Cash baggage-delay reimbursement; issuer-guide gaps remain noted (2026-11-05).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -38990,6 +38990,742 @@
         "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/"
       ],
       "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cty_cshsigcm_v_250x157.png",
+      "foreignTransactionFeePercent": 3
+    },
+    {
+      "id": "chase-doordash-rewards-mastercard-us",
+      "name": "Chase DoorDash Rewards Mastercard US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "2587B7",
+      "secondaryHex": "122A52",
+      "artworkAsset": "Card-chase-doordash-rewards-mastercard-us",
+      "programIDs": [
+        "chase-cash-us"
+      ],
+      "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "benefits": [
+        {
+          "id": "issuer-dashpass-anniversary-bonus",
+          "title": "DashPass membership at $10,000",
+          "detail": "A complimentary DashPass membership ($96 value) every year with $10,000 in annual card spend: $0 delivery fees and reduced service fees on eligible orders.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 1000000,
+          "spendPeriod": "anniversary"
+        },
+        {
+          "id": "issuer-earn-4-cash-back-on-doordash-and-caviar-orders",
+          "title": "Rewards & card benefits",
+          "detail": "4% cash back on DoorDash and Caviar orders of every type (no cap), 3% on dining bought directly from restaurants, 2% at grocery stores online or in-store, 1% on everything else. No annual fee.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "priority": 20,
+          "kind": "benefit"
+        },
+        {
+          "id": "chase-doordash-rewards-mastercard-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "You can be reimbursed up to $1,500 per covered traveler and $6,000 per trip for your pre-paid, non-refundable passenger fares, if your trip is canceled or cut short by sickness, severe weather or other covered situations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "chase-doordash-rewards-mastercard-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers your eligible new purchases for 120 days from the date of purchase against damage or theft up to $500 per item.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "chase-doordash-rewards-mastercard-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends the time period of the manufacturer's U.S. warranty by an additional year, on eligible warranties of three years or less, up to four years from the date of purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "chase-doordash-rewards-mastercard-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Decline the rental company's collision insurance and charge the entire rental cost to your card. Coverage provides reimbursement for theft and collision damage for most rental vehicles. In the U.S., coverage is secondary to your personal insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "chase-doordash-rewards-mastercard-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Secondary cell phone coverage applies when you pay the monthly wireless bill with this card. Chase’s public page confirms the benefit but does not publish its per-claim limit, deductible, annual claim limit or exclusions; the account Guide to Benefits controls.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "kind": "protection",
+          "priority": 204
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "chase-cash-us",
+          "label": "1% cash back",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "calculationNote": null
+        },
+        {
+          "id": "dining",
+          "categories": [
+            "dining"
+          ],
+          "rate": 3,
+          "rewardKind": "cashback",
+          "programID": "chase-cash-us",
+          "label": "3% dining",
+          "detail": "Eligible dining purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "calculationNote": null
+        },
+        {
+          "id": "grocery",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "chase-cash-us",
+          "label": "2% grocery",
+          "detail": "Eligible grocery purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://creditcards.chase.com/cash-back-credit-cards/doordash",
+      "artworkSearchTerms": "Chase DoorDash Rewards Mastercard",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/doordash_card.png",
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/cash-back-credit-cards/doordash"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "chase-instacart-mastercard-us",
+      "name": "Chase Instacart Mastercard US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "2587B7",
+      "secondaryHex": "122A52",
+      "artworkAsset": "Card-chase-instacart-mastercard-us",
+      "programIDs": [
+        "chase-cash-us"
+      ],
+      "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/instacart",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants. Current issuer page confirms the listed protection categories and published limits; the full cardholder Guide to Benefits is provided after account opening, so remaining terms and exclusions are unresolved.",
+      "benefits": [
+        {
+          "id": "issuer-5-cash-back",
+          "title": "Rewards & card benefits",
+          "detail": "5% cash back on Instacart.com and app purchases (first $6,000 a year) and on Chase Travel; 2% at restaurants (including Instacart powered by Uber Eats), gas stations and select streaming; 1% on everything else. No annual fee.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/instacart",
+          "priority": 20,
+          "kind": "benefit"
+        },
+        {
+          "id": "chase-instacart-mastercard-us-roadside-assistance",
+          "title": "Roadside assistance",
+          "detail": "Roadside dispatch is available for eligible emergencies; charges for dispatched services are billed to the card. This is a service, not insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/instacart",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "chase-instacart-mastercard-us-travel-emergency-assistance",
+          "title": "Travel and emergency assistance",
+          "detail": "Access to legal and medical referrals and travel/emergency assistance while away from home; cardholders pay for services obtained. This is an assistance service, not medical insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/instacart",
+          "kind": "benefit",
+          "priority": 101
+        },
+        {
+          "id": "chase-instacart-mastercard-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible new purchases are covered for 120 days from purchase against damage or theft, up to $500 per item. New York residents: 90-day coverage period. Full Guide to Benefits terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/instacart",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "chase-instacart-mastercard-us-travel-accident-insurance",
+          "title": "Travel accident insurance",
+          "detail": "Up to $500,000 accidental death or dismemberment coverage when eligible air, bus, train or cruise transportation is paid with the card; covered persons and exclusions follow the cardholder guide.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/instacart",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "chase-instacart-mastercard-us-baggage-delay-insurance",
+          "title": "Baggage delay insurance",
+          "detail": "Up to $100 per day for up to three days for essential purchases when checked baggage is delayed more than six hours; guide conditions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/instacart",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "chase-instacart-mastercard-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Up to $3,000 per covered traveler to repair or replace baggage lost, damaged or stolen on a covered trip. New York: $2,000 per bag and $10,000 total per trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/instacart",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "chase-instacart-mastercard-us-extended-warranty",
+          "title": "Extended warranty protection",
+          "detail": "Adds one year to eligible U.S. manufacturer warranties of three years or less, up to four years total. Full Guide to Benefits terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/instacart",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "chase-instacart-mastercard-us-car-rental-loss-damage-insurance",
+          "title": "Auto rental coverage",
+          "detail": "Decline the rental company’s collision coverage and charge the full rental cost to the card. Covers theft and collision damage for most rental vehicles; secondary in the U.S. Full Guide to Benefits terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/instacart",
+          "kind": "protection",
+          "priority": 205
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "chase-cash-us",
+          "label": "1% cash back",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/instacart",
+          "calculationNote": null
+        },
+        {
+          "id": "dining-gas-streaming",
+          "categories": [
+            "dining",
+            "gas",
+            "streaming"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "chase-cash-us",
+          "label": "2% everyday categories",
+          "detail": "Eligible dining, gas and select streaming purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/instacart",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://creditcards.chase.com/cash-back-credit-cards/instacart",
+      "artworkSearchTerms": "Chase Instacart Mastercard",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/instacart_card.png",
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/cash-back-credit-cards/instacart",
+        "https://creditcards.chase.com/instacart"
+      ],
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "freedom-flex-us",
+      "name": "Freedom Flex US",
+      "issuer": "Chase",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "No annual fee. As of September 21, 2026, Chase states Freedom Flex has no foreign transaction fee.",
+      "colorHex": "2091CA",
+      "secondaryHex": "154372",
+      "artworkAsset": "Card-freedom-flex-us",
+      "programIDs": [
+        "chase-ur-us"
+      ],
+      "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Selected benefits and earning rules are modeled, not the complete product guide. Compare the issuer terms and your account before relying on a benefit.",
+      "benefits": [
+        {
+          "id": "rotation",
+          "title": "Q4 2026 rotating categories",
+          "detail": "Oct-Dec 2026: grocery stores (excluding Walmart and Target), dining, and eligible American Red Cross donations. Activate by Dec 14. Shared $1,500 quarterly purchase cap.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://media.chase.com/news/chase-freedom-2026-q4-categories",
+          "kind": "benefit"
+        },
+        {
+          "id": "points-boost",
+          "title": "Points Boost hotel offers",
+          "detail": "Eligible select Chase Travel hotel redemptions can receive up to 10% more value. Offer availability and booking terms vary.",
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "priority": 100,
+          "sourceURL": "https://media.chase.com/news/chase-freedom-flex-more-travel-value"
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "You pay no foreign transaction fees on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-chase-offers-opens-drawer-that-reveals-additional-content",
+          "title": "Chase Offers",
+          "detail": "Targeted cash-back offers in the Chase app or on chase.com: activate an offer, shop with the card and get a statement credit within 30 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-cash-back-rewards-do-not-expire",
+          "title": "Rewards never expire",
+          "detail": "Cash back rewards don't expire while the account is open, and there is no minimum to redeem.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "issuer-2-cash-back-on-lyft-rides",
+          "title": "2% total on Lyft",
+          "detail": "2% total cash back on Lyft rides through September 30, 2027.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "priority": 100,
+          "kind": "benefit"
+        },
+        {
+          "id": "freedom-flex-us-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "You can be reimbursed up to $1,500 per covered traveler and $6,000 per trip for your pre-paid, non-refundable passenger fares, if your trip is canceled or cut short by sickness, severe weather or other covered situations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "id": "freedom-flex-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers your eligible new purchases for 120 days from the date of purchase against damage or theft up to $500 per item.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "kind": "protection",
+          "priority": 201
+        },
+        {
+          "id": "freedom-flex-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends the time period of the manufacturer's U.S. warranty by an additional year, on eligible warranties of three years or less, up to four years from the date of purchase.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "kind": "protection",
+          "priority": 202
+        },
+        {
+          "id": "freedom-flex-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Decline the rental company's collision insurance and charge the entire rental cost to your card. Coverage provides reimbursement for theft and collision damage for most rental vehicles. In the U.S., coverage is secondary to your personal insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "kind": "protection",
+          "priority": 203
+        },
+        {
+          "id": "freedom-flex-us-travel-emergency-assistance",
+          "title": "Travel & emergency assistance",
+          "detail": "If you run into a problem while traveling away from home, this benefit provides legal and medical referrals and access to other travel and emergency assistance services. (You will be responsible for the cost of any goods or services obtained.)",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "kind": "protection",
+          "priority": 204
+        },
+        {
+          "id": "freedom-flex-us-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Up to $800 per claim and $1,000 per 12-month period, with a maximum of two claims and a $50 deductible. The phone must be listed on the monthly wireless bill, which must be paid with the card. Further exclusions and claim terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.chase.com/personal/credit-cards/education/chase-cards/chase-freedom-benefits-guide",
+          "kind": "protection",
+          "priority": 205
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "programID": "chase-ur-us",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "label": "UR points",
+          "detail": "Cash-back rewards are tracked as Ultimate Rewards points. Transfers require a separately eligible account.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "dining",
+          "categories": [
+            "dining"
+          ],
+          "rate": 3,
+          "programID": "chase-ur-us",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "label": "UR points",
+          "detail": "Eligible purchases only. Issuer category definitions and account terms apply.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "drugstore",
+          "categories": [
+            "drugstores"
+          ],
+          "rate": 3,
+          "programID": "chase-ur-us",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "label": "UR points",
+          "detail": "Eligible purchases only. Issuer category definitions and account terms apply.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "portal",
+          "categories": [
+            "flightsPortal",
+            "hotelsPortal"
+          ],
+          "rate": 5,
+          "programID": "chase-ur-us",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "label": "UR points",
+          "detail": "Bookings through Chase Travel only.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        },
+        {
+          "id": "q4-2026-grocery",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 5,
+          "programID": "chase-ur-us",
+          "sourceURL": "https://media.chase.com/news/chase-freedom-2026-q4-categories",
+          "label": "UR points",
+          "detail": "Grocery stores; excludes Walmart, Target and warehouse clubs. Shared quarterly cap; activate by December 14, 2026.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "quarterly",
+          "startsOn": "2026-10-01",
+          "endsBefore": "2027-01-01",
+          "activationID": "q4-2026",
+          "capGroup": "q4-2026",
+          "capMinor": 150000
+        },
+        {
+          "id": "q4-2026-redcross",
+          "categories": [
+            "redCross"
+          ],
+          "rate": 5,
+          "programID": "chase-ur-us",
+          "sourceURL": "https://media.chase.com/news/chase-freedom-2026-q4-categories",
+          "label": "UR points",
+          "detail": "Eligible American Red Cross donations only, not every charity. Shared quarterly cap.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "quarterly",
+          "startsOn": "2026-10-01",
+          "endsBefore": "2027-01-01",
+          "activationID": "q4-2026",
+          "capGroup": "q4-2026",
+          "capMinor": 150000
+        },
+        {
+          "id": "q4-2026-dining",
+          "categories": [
+            "dining"
+          ],
+          "rate": 7,
+          "programID": "chase-ur-us",
+          "sourceURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+          "label": "UR points",
+          "detail": "Eligible dining during the activated quarter. Shared cap with grocery and Red Cross purchases.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "quarterly",
+          "startsOn": "2026-10-01",
+          "endsBefore": "2027-01-01",
+          "activationID": "q4-2026",
+          "calculationNote": "Modeled total: 1x base + 2x regular dining + 4x quarterly bonus = 7x. This is a calculation from the published additive components, not a separately quoted 7x headline. Confirm stacking on your account.",
+          "capGroup": "q4-2026",
+          "capMinor": 150000
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+      "artworkSearchTerms": "Freedom Flex",
+      "catalogLevel": "partial",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "artworkURL": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/freedom_flex_card.png",
+      "foreignTransactionFeePercent": 0,
+      "benefitSourceURLs": [
+        "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+        "https://media.chase.com/news/chase-freedom-2026-q4-categories",
+        "https://media.chase.com/news/chase-freedom-flex-more-travel-value",
+        "https://www.chase.com/personal/credit-cards/education/chase-cards/chase-freedom-benefits-guide"
+      ]
+    },
+    {
+      "id": "wells-fargo-signify-business-cash-us",
+      "name": "Wells Fargo Signify Business Cash US",
+      "issuer": "Wells Fargo",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "No annual fee.",
+      "colorHex": "BD314C",
+      "secondaryHex": "513135",
+      "artworkAsset": "Card-wells-fargo-signify-business-cash-us",
+      "programIDs": [
+        "wells-cash-us"
+      ],
+      "sourceURL": "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn unlimited 2% cash rewards on eligible business purchases with no annual fee.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.wellsfargo.com/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Up to $250,000 of common carrier travel accident insurance when you buy the airline or other common carrier ticket with the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "MasterRental coverage",
+          "detail": "Coverage for damage to or theft of a vehicle rented with the card, in the U.S. or abroad.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "id-theft",
+          "title": "Mastercard ID Theft Protection",
+          "detail": "Identity theft monitoring, alerts and 24/7 resolution help.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.wellsfargo.com/business-credit-cards/signify-business-cash-credit-card/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "wells-fargo-signify-business-cash-us-baggage-delay-insurance",
+          "title": "Baggage delay reimbursement",
+          "detail": "Up to $300 per covered traveler per trip and $300 per card account in a 12-month period after checked baggage is delayed at least four hours. The entire common-carrier fare must be paid with the card or eligible rewards. Coverage is secondary and does not apply to baggage delayed on the return to the trip origin.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.wellsfargo.com/biz/business-credit/credit-cards/signify-business-cash-guide-to-benefits/",
+          "kind": "protection",
+          "priority": 211
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "wells-cash-us",
+          "label": "2% cash rewards",
+          "detail": "Eligible business purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://creditcards.wellsfargo.com/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://creditcards.wellsfargo.com/",
+      "artworkSearchTerms": "Wells Fargo Signify Business Cash",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://creditcards.wellsfargo.com/rv/bcs/production/signify.DTS20282_2mwSIw.webp",
+      "benefitSourceURLs": [
+        "https://creditcards.wellsfargo.com/",
+        "https://www.wellsfargo.com/biz/business-credit/credit-cards/signify-business-cash-guide-to-benefits/"
+      ],
       "foreignTransactionFeePercent": 3
     }
   ],
