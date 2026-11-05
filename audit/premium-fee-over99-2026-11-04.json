@@ -9,7 +9,8 @@
     "A remote correction does not prove complete issuer-benefit verification.",
     "Source URLs and insurance certificates require individual current-terms checks.",
     "Reported 33 prior reviewed are not independently reconciled to exact card IDs in this ledger.",
-    "The 2026-11-05 supplemental audit completed issuer-product verification for Venture X Business, AAdvantage Globe and Strata Elite; each retains an account-specific insurance certificate or other terms question."
+    "The 2026-11-05 supplemental audit completed issuer-product verification for Venture X Business, AAdvantage Globe and Strata Elite; each retains an account-specific insurance certificate or other terms question.",
+    "The 2026-11-05 supplemental audit completed the 16 flagged Chase issuer-product reviews. Card-specific insurance certificates and full exclusions remain unverified for these Chase cards."
   ],
   "cards": [
     {
@@ -752,11 +753,11 @@
       "annualFeeMinor": 19500,
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/aircanada/aeroplan",
       "appCatalogBenefitCount": 10,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 12,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-disney-inspire-visa-us",
@@ -780,11 +781,11 @@
       "annualFeeMinor": 20000,
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/IHG/business",
       "appCatalogBenefitCount": 13,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 15,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-ihg-one-rewards-premier-select-us",
@@ -794,11 +795,11 @@
       "annualFeeMinor": 35000,
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier-select",
       "appCatalogBenefitCount": 8,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 11,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-ihg-one-rewards-premier-us",
@@ -808,11 +809,11 @@
       "annualFeeMinor": 15000,
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
       "appCatalogBenefitCount": 11,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 13,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-ink-business-premier-us",
@@ -822,11 +823,11 @@
       "annualFeeMinor": 19500,
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/ink/premier",
       "appCatalogBenefitCount": 8,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 8,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-marriott-bonvoy-bountiful-us",
@@ -836,11 +837,11 @@
       "annualFeeMinor": 25000,
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bountiful",
       "appCatalogBenefitCount": 6,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 7,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-sapphire-reserve-for-business-us",
@@ -850,11 +851,11 @@
       "annualFeeMinor": 79500,
       "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
       "appCatalogBenefitCount": 25,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 25,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-sapphire-reserve-us",
@@ -864,11 +865,11 @@
       "annualFeeMinor": 79500,
       "sourceURL": "https://www.chase.com/sapphire-cards/personal/reserve",
       "appCatalogBenefitCount": 23,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 23,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-southwest-performance-business-us",
@@ -878,11 +879,11 @@
       "annualFeeMinor": 29900,
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/performance-business",
       "appCatalogBenefitCount": 7,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 12,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-southwest-premier-business-us",
@@ -892,11 +893,11 @@
       "annualFeeMinor": 14900,
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/southwest/premier-business",
       "appCatalogBenefitCount": 6,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 11,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-southwest-rapid-rewards-premier-us",
@@ -906,11 +907,11 @@
       "annualFeeMinor": 14900,
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/premier",
       "appCatalogBenefitCount": 6,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 11,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-southwest-rapid-rewards-priority-us",
@@ -920,11 +921,11 @@
       "annualFeeMinor": 22900,
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
       "appCatalogBenefitCount": 6,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 11,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-united-business-us",
@@ -934,11 +935,11 @@
       "annualFeeMinor": 15000,
       "sourceURL": "https://creditcards.chase.com/business-credit-cards/united/united-business-card",
       "appCatalogBenefitCount": 20,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 21,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-united-club-business-us",
@@ -976,11 +977,11 @@
       "annualFeeMinor": 15000,
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-explorer",
       "appCatalogBenefitCount": 18,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 20,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-united-quest-us",
@@ -990,11 +991,11 @@
       "annualFeeMinor": 35000,
       "sourceURL": "https://creditcards.chase.com/travel-credit-cards/united/united-quest",
       "appCatalogBenefitCount": 19,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 20,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "chase-world-of-hyatt-business-us",
@@ -1431,11 +1432,11 @@
       "annualFeeMinor": 45000,
       "sourceURL": "https://marriott.chase.com/ritz-carlton/benefits",
       "appCatalogBenefitCount": 26,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 26,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true
     },
     {
       "id": "scotia-gold-american-express-can",
