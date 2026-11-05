@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-05",
   "catalogVersion": "1.7.71",
-  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Final Chase detail reconciliation (2026-11-05): added documented membership and anniversary benefits, exact annual earn/status transitions, and United award/PQP conditions. Public guides/certificates remain unverified. A second final Chase pass added complete MileagePlus redemption/program terms and expanded checked-bag eligibility. Chase Sapphire Reserve screenshot cross-check (2026-11-05): added separate The Edit stay-program benefits and DashPass membership; expanded current travel, dining, DoorDash, StubHub, Lyft, Peloton and lounge terms. Capital One lower-fee cards: replaced seven generic coverage placeholders with card-network-specific rental coverage and current Discover-network guide limits where the issuer explicitly lists the product; exact student, secured and Good Credit variant eligibility remains identified as unconfirmed (2026-11-05).",
+  "note": "WestJet RBC World Elite cards (Status Lift 2027 changes, Business card first-year Silver, personal Status Lift progress); Amex US Platinum cards (Lodging credit with Airbnb Luxe, new Airbnb Experiences credit, Fine Hotels + Resorts 2-night rule from 2027, Airbnb earning through Amex Travel); Amex Green (Airbnb in 3x travel). Canadian cards: real details for benefits that only said 'Included card benefit…', junk web-page items removed, Neo World Elite benefits and earn rates corrected. Added cardholder VIPorter Passport/Venture grants and conditional first-year Breeze Easy Visa Breezy 1 status (2026-11-04). Atmos Rewards Ascent, Summit and Business: detailed card benefits, companion awards/fares, baggage, boarding, lounge benefits, status-point earning and travel protections verified against issuer sources (2026-11-04). Issuer-source verification: BMO CashBack World Elite lounge, rental, banking and redemption benefits; Canadian Amex Platinum emergency medical coverage; Scotiabank Passport Privilege warranty; CIBC Aeroplan Infinite partner offers; RBC WestJet companion annual spend requirement (2026-11-04). Expanded official benefit and insurance specifics for BMO Ascend Business, Amex Gold Canada, Amex Business Platinum Canada, CIBC Aeroplan Infinite and Scotia Passport Privilege (2026-11-04). BMO Blue Rewards World Elite Business: corrected exact four DragonPass visits, medical, trip and car coverage; added Maple, business and shopping perks (2026-11-04). Tangerine Rewards World Elite: lounge visits, travel coverage, partner benefits; Disney Inspire: anniversary Disney Rewards bonus, credits and enrollment (2026-11-04). Capital One Spark Cash Plus: anniversary fee waiver, cash back redemption, free employee cards, security and business management perks (2026-11-04). Amex Green US: CLEAR+ credit and travel/purchase protections verified with Amex benefit directory (2026-11-04). CIBC Aeroplan Infinite Privilege: numerical insurance limits from CIBC certificate. TD Aeroplan Business: mobile device requirements, earnable lounge passes and NEXUS/business benefits (2026-11-04). Verified Desjardins World Elite Odyssey, Odyssey Gold, and Cash Back World Elite insurance, mobile, purchase, warranty and travel features from official issuer product pages (2026-11-04). Exact protection maximums from BMO VIPorter World Elite and CIBC Aeroplan Visa Infinite issuer insurance certificates, and Amex Gold official travel-insurance coverage (2026-11-04). Issuer insurance certificates: CIBC Aeroplan Business 8 protections; TD Aeroplan Business 3 coverages; Canadian Amex Cobalt 3 protections, November 2026. Canadian Amex Business Platinum: all remaining 7 generic insurance and employee-card benefit entries updated from Amex insurance directory (2026-11-04). Cleared remaining generic protection descriptions in remote premium-card overrides: Amex Gold, Scotiabank Gold/Passport Business/Platinum/Passport Plus, TD Aeroplan Infinite, Neo World Elite (2026-11-04). Tangerine Rewards World Elite: clarified enrollment and partner terms, added certificate limits and hotel/motel burglary; all existing IDs retained (2026-11-04). BofA Premium Rewards Elite: verified lounge memberships, airfare redemptions and concierge; account-guide exclusions remain open (2026-11-04). Audit Bilt Palladium credit timing and 2027 transition terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Audit Brim co-brand insurance and Quebec restrictions; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Document Laurentian fee source and unresolved current terms; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Add verified MBNA purchase and unexpected-return-home protections; partial review, unresolved restrictions remain in coverage notes (2026-11-04). Cathay World Elite by Neo: preserved version 1.3 build 3 IDs; added 11 missing benefits and certificate limits, clarified paid lounge access and redemption privileges (2026-11-04). Display ordering: non-Bilt featured perks moved into Benefits so Statement credits appears first; Bilt controls and featured-benefit order preserved. Values, eligibility and tracked benefit IDs unchanged (2026-11-04). Compatibility fix: National Bank World/World Elite reward references use the exact build 3 program ID nbc-can, allowing the corrections feed to validate (2026-11-04). Build 3 decoder compatibility: National Bank World Elite uses supported billingMonth reset in place of unsupported statement; no earn rates or IDs changed (2026-11-04). Benefit ordering: statement-credit sliders remain first; enrollment-confirmation benefits precede other perks within Benefits. Bilt's exception, status boxes, insurance dropdowns, existing IDs and benefit terms are preserved. Priority-only changes against the exact version 1.3 build 3 baseline (2026-11-04). The 2026-11-05 Chase supplemental audit reviewed 16 flagged Chase cards against current official product pages. Credit sliders are ordered first, followed by enrollment-required benefits, other benefits, and protections. Card-specific insurance certificates remain to be checked. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Additional detail pass 2026-11-05: expanded issuer benefits, enrollment conditions, spend milestones, earning categories, credit caps/reset periods and public insurance summaries for the 16 Chase cards. Cardholder guides/certificates remain flagged in the audit roster. Final Chase detail reconciliation (2026-11-05): added documented membership and anniversary benefits, exact annual earn/status transitions, and United award/PQP conditions. Public guides/certificates remain unverified. A second final Chase pass added complete MileagePlus redemption/program terms and expanded checked-bag eligibility. Chase Sapphire Reserve screenshot cross-check (2026-11-05): added separate The Edit stay-program benefits and DashPass membership; expanded current travel, dining, DoorDash, StubHub, Lyft, Peloton and lounge terms. Capital One lower-fee cards: replaced seven generic coverage placeholders with card-network-specific rental coverage and current Discover-network guide limits where the issuer explicitly lists the product; exact student, secured and Good Credit variant eligibility remains identified as unconfirmed (2026-11-05). Bank of America placeholder review: updated 11 card records; published terms added where TPG confirms them, while product-specific insurance limits absent from public issuer pages remain marked unconfirmed (2026-11-05).",
   "cards": [
     {
       "id": "rbc-westjet-world-elite-mastercard-can",
@@ -37913,6 +37913,1061 @@
         "https://www.capitalone.com/credit-cards/ventureone/"
       ],
       "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "bofa-air-france-klm-world-elite-mastercard-us",
+      "name": "BofA Air France KLM Visa Signature US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 8900,
+      "feeNote": "Current annual fee: $89. No foreign transaction fee under current issuer terms.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "programIDs": [
+        "flying-blue"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Current issuer-sourced benefits and earning rules are modeled where the app can represent them safely. Issuer terms control eligibility, exclusions and changes.",
+      "benefits": [
+        {
+          "id": "anniversary-miles",
+          "title": "Anniversary miles",
+          "detail": "Earn 5,000 Flying Blue miles each account anniversary after at least $50 in purchases during the anniversary year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+          "kind": "benefit"
+        },
+        {
+          "id": "xp",
+          "title": "Flying Blue XP",
+          "detail": "Receive 20 Flying Blue XP on each account anniversary; earn an additional 80 XP (100 total) after at least $15,000 anniversary-year spend, plus another 60 XP (160 total) after at least $25,000 anniversary-year spend. Terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+          "kind": "benefit"
+        },
+        {
+          "id": "no-fx",
+          "title": "No foreign transaction fees",
+          "detail": "No Bank of America foreign transaction fees on eligible purchases outside the U.S.; card network conversion terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+          "kind": "benefit"
+        },
+        {
+          "id": "flying-blue-earn",
+          "title": "Flying Blue miles earning",
+          "detail": "3 miles per $1 on eligible Air France/KLM/SkyTeam airline purchases and eligible dining; 1.5 miles per $1 on other eligible purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+          "kind": "benefit"
+        },
+        {
+          "id": "bofa-air-france-klm-world-elite-mastercard-us-coverage-not-listed",
+          "title": "Public insurance terms not confirmed",
+          "detail": "Bank of America's current Air France KLM Visa Signature page describes its airline earning, anniversary miles and XP, and foreign-transaction terms, but does not publish travel or purchase-insurance limits or a public card-specific certificate. I could not verify an insurance amount for this product from current public issuer material, so no coverage is promised in this entry.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+          "kind": "protection",
+          "priority": 200
+        },
+        {
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+          "kind": "benefit",
+          "id": "xp-15k",
+          "title": "+80 Flying Blue XP",
+          "detail": "80 more XP (100 total) after at least $15,000 in anniversary-year spend.",
+          "spendMilestoneMinor": 1500000,
+          "spendPeriod": "anniversary",
+          "priority": 105
+        },
+        {
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+          "kind": "benefit",
+          "id": "xp-25k",
+          "title": "+60 more Flying Blue XP",
+          "detail": "Another 60 XP (160 total) after at least $25,000 in anniversary-year spend.",
+          "spendMilestoneMinor": 2500000,
+          "spendPeriod": "anniversary",
+          "priority": 106
+        }
+      ],
+      "statuses": [
+        {
+          "id": "card-status-progress",
+          "programID": "flying-blue",
+          "tier": "Flying Blue XP status progress",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "This card can earn qualification credit, but holding the card alone does not grant elite status. Track the program balance before claiming a tier.",
+          "automatic": false,
+          "sourceURL": "https://www.flyingblue.us/en/programme/more-info/status"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "flying-blue",
+          "label": "Flying Blue miles",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/"
+        },
+        {
+          "id": "dining",
+          "categories": [
+            "dining"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "flying-blue",
+          "label": "Flying Blue miles",
+          "detail": "Eligible dining purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/"
+        },
+        {
+          "id": "af-klm",
+          "categories": [
+            "airFranceKLM"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "flying-blue",
+          "label": "Flying Blue miles",
+          "detail": "Air France, KLM and SkyTeam member airline purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+      "artworkSearchTerms": "Air France KLM Visa Signature Bank of America credit card art",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "foreignTransactionFeePercent": 0,
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/"
+      ],
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/1bdx_cmsig_v-250.png",
+      "artworkAsset": "Card-bofa-air-france-klm-world-elite-mastercard-us"
+    },
+    {
+      "id": "bofa-business-advantage-unlimited-cash-rewards-secured-us",
+      "name": "BofA Business Advantage Unlimited Cash Rewards Secured US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "No annual fee.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "programIDs": [
+        "bofa-cash-us"
+      ],
+      "sourceURL": "https://business.bankofamerica.com/en/credit-cards/business-advantage-unlimited-cash-rewards-secured-business",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Unlimited 1.5% cash back while you build business credit. Opens with a $1,000 minimum security deposit; your credit line equals the deposit. Redeem to a Bank of America account, as a statement credit or by check. No annual fee.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://business.bankofamerica.com/en/credit-cards/business-advantage-unlimited-cash-rewards-secured-business",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "coverage-not-listed",
+          "title": "Travel accident insurance",
+          "detail": "The Points Guy reports up to $100,000 in travel accident insurance for the Bank of America Business Advantage Unlimited Cash Rewards Secured card. BofA's public secured-card page does not publish the insured-event definition, eligible travelers, fare-payment trigger or claim limits; those certificate details remain unverified.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://thepointsguy.com/credit-cards/secured/",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "1.5% cash back",
+          "detail": "Unlimited eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://business.bankofamerica.com/en/credit-cards",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://business.bankofamerica.com/en/credit-cards/business-advantage-unlimited-cash-rewards-secured-business",
+      "artworkSearchTerms": "BofA Business Advantage Unlimited Cash Rewards Secured",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://business.bankofamerica.com/en/credit-cards"
+      ],
+      "foreignTransactionFeePercent": 3,
+      "artworkURL": "https://business.bankofamerica.com/content/dam/consumer/credit-cards/unlimited_cash_rewards_336x213.png",
+      "artworkAsset": "Card-bofa-business-advantage-unlimited-cash-rewards-secured-us"
+    },
+    {
+      "id": "bofa-customized-cash-rewards-for-students-us",
+      "name": "BofA Customized Cash Rewards for Students US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "artworkAsset": "Card-bofa-customized-cash-rewards-for-students-us",
+      "programIDs": [
+        "bofa-cash-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn cash back in a selected choice category, at grocery stores and wholesale clubs, and on other eligible purchases; promotional and quarterly limits are shown by the issuer.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "bofa-customized-cash-rewards-for-students-us-coverage-not-listed",
+          "title": "Public insurance terms not confirmed",
+          "detail": "Bank of America's current student-card page lists the Customized Cash Rewards earning categories and student offer, but does not publish a protection certificate or travel/purchase-insurance limits for this student version. I could not verify a card-specific coverage amount from public issuer material, so no insurance coverage is promised in this entry.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "1% cash back",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "grocery",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "2% grocery",
+          "detail": "Grocery stores and wholesale clubs, subject to the shared quarterly cap.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "bofa-ccr",
+          "capMinor": 250000,
+          "capReset": "quarterly",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "choice",
+          "categories": [
+            "gas",
+            "evCharging",
+            "dining",
+            "flightsDirect",
+            "hotelsDirect",
+            "drugstores",
+            "streaming"
+          ],
+          "rate": 3,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "3% choice category",
+          "detail": "User-selected eligible category; actual category selection controls whether 3% applies.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "bofa-ccr",
+          "capMinor": 250000,
+          "capReset": "quarterly",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+          "calculationNote": "Best Card treats supported selectable categories as opportunities; confirm the active BofA choice category before paying."
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+      "artworkSearchTerms": "BofA Customized Cash Rewards for Students",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/"
+      ],
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshsigcm_v_250x158.png",
+      "foreignTransactionFeePercent": 3
+    },
+    {
+      "id": "bofa-customized-cash-rewards-secured-us",
+      "name": "BofA Customized Cash Rewards Secured US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "programIDs": [
+        "bofa-cash-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-secured-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Build credit while earning cash back in a selected choice category, at grocery stores and wholesale clubs, and on other eligible purchases; the quarterly category cap applies.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "bofa-customized-cash-rewards-secured-us-coverage-not-listed",
+          "title": "Public insurance terms not confirmed",
+          "detail": "Bank of America's current Secured Customized Cash Rewards page lists the cash-back categories and quarterly cap, but does not publish a protection certificate or travel/purchase-insurance limits for this secured version. I could not verify a card-specific coverage amount from public issuer material, so no insurance coverage is promised in this entry.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-secured-credit-card/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "1% cash back",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/",
+          "calculationNote": null
+        },
+        {
+          "id": "grocery",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "2% grocery",
+          "detail": "Grocery stores and wholesale clubs, subject to the shared quarterly cap.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "bofa-ccr",
+          "capMinor": 250000,
+          "capReset": "quarterly",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/",
+          "calculationNote": null
+        },
+        {
+          "id": "choice",
+          "categories": [
+            "gas",
+            "evCharging",
+            "dining",
+            "flightsDirect",
+            "hotelsDirect",
+            "drugstores",
+            "streaming"
+          ],
+          "rate": 3,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "3% choice category",
+          "detail": "User-selected eligible category; actual category selection controls whether 3% applies.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "bofa-ccr",
+          "capMinor": 250000,
+          "capReset": "quarterly",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/",
+          "calculationNote": "Best Card treats supported selectable categories as opportunities; confirm the active BofA choice category before paying."
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-secured-credit-card/",
+      "artworkSearchTerms": "BofA Customized Cash Rewards Secured",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/"
+      ],
+      "foreignTransactionFeePercent": 3,
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshcm_v_250x158.png",
+      "artworkAsset": "Card-bofa-customized-cash-rewards-secured-us"
+    },
+    {
+      "id": "bofa-customized-cash-rewards-us",
+      "name": "BofA Customized Cash Rewards US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "artworkAsset": "Card-bofa-customized-cash-rewards-us",
+      "programIDs": [
+        "bofa-cash-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn ongoing cash back in a selected choice category, at grocery stores and wholesale clubs, and on other purchases. The quarterly category cap and any first-year promotional rates are shown on the issuer page.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "bofa-customized-cash-rewards-us-coverage-not-listed",
+          "title": "Standard account protection details",
+          "detail": "The Points Guy describes account alerts, free FICO-score access and fraud protection as standard benefits on Customized Cash Rewards. It does not give travel or purchase-insurance limits for this card. The public issuer offer page likewise doesn't publish a card-specific insurance amount, so no travel or purchase coverage is asserted here.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://thepointsguy.com/credit-cards/reviews/customized-cash-rewards-card-review",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "1% cash back",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "grocery",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "2% grocery",
+          "detail": "Grocery stores and wholesale clubs, subject to the shared quarterly cap.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "bofa-ccr",
+          "capMinor": 250000,
+          "capReset": "quarterly",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "choice",
+          "categories": [
+            "gas",
+            "evCharging",
+            "dining",
+            "flightsDirect",
+            "hotelsDirect",
+            "drugstores",
+            "streaming"
+          ],
+          "rate": 3,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "3% choice category",
+          "detail": "User-selected eligible category; actual category selection controls whether 3% applies.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "bofa-ccr",
+          "capMinor": 250000,
+          "capReset": "quarterly",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+          "calculationNote": "Best Card treats supported selectable categories as opportunities; confirm the active BofA choice category before paying."
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/",
+      "artworkSearchTerms": "BofA Customized Cash Rewards",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/"
+      ],
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8ckn_cshsigcm_v_250x158.png",
+      "foreignTransactionFeePercent": 3
+    },
+    {
+      "id": "bofa-travel-rewards-for-students-us",
+      "name": "BofA Travel Rewards for Students US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "programIDs": [
+        "bofa-travel-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/student-rewards-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn travel points on eligible purchases with flexible travel redemptions and no annual fee; issuer redemption rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "bofa-travel-rewards-for-students-us-coverage-not-listed",
+          "title": "Public insurance terms not confirmed",
+          "detail": "Bank of America's current Travel Rewards for Students page describes the student travel-points offer and account terms but does not publish a protection certificate or travel/purchase-insurance limits for this student version. I could not verify a card-specific insurance amount from public issuer material, so no coverage is promised in this entry.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/student-rewards-credit-card/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "bofa-travel-us",
+          "label": "1.5X points",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/student-rewards-credit-card/",
+      "artworkSearchTerms": "BofA Travel Rewards for Students",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8blm_trvcm_v_250x158.png",
+      "artworkAsset": "Card-bofa-travel-rewards-for-students-us"
+    },
+    {
+      "id": "bofa-travel-rewards-secured-us",
+      "name": "BofA Travel Rewards Secured US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "artworkAsset": "Card-bofa-travel-rewards-secured-us",
+      "programIDs": [
+        "bofa-travel-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn travel points on eligible purchases while building credit. Points can offset eligible travel and dining purchases under current issuer redemption rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "bofa-travel-rewards-secured-us-coverage-not-listed",
+          "title": "Public insurance terms not confirmed",
+          "detail": "Bank of America's current Secured Travel Rewards page describes its secured-card and travel-points features but does not publish a protection certificate or travel/purchase-insurance limits for this secured version. The Points Guy's no-protection finding is for the regular Travel Rewards card and is not applied to this secured version. No card-specific insurance amount is confirmed here.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "bofa-travel-us",
+          "label": "1.5X points",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/",
+      "artworkSearchTerms": "BofA Travel Rewards Secured",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/"
+      ],
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8blm_trvcm_v_250x158.png",
+      "foreignTransactionFeePercent": 0
+    },
+    {
+      "id": "bofa-travel-rewards-us",
+      "name": "BofA Travel Rewards US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "programIDs": [
+        "bofa-travel-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Selected official-source rules only. Unmodeled merchant-specific bonuses, travel protections, activation rules and credits are not asserted. This is not a complete benefits guide.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn unlimited 1.5 points per US$1 on all purchases, with no annual fee and no foreign transaction fees; points can be redeemed for travel and dining.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "kind": "benefit",
+          "priority": 20,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/"
+        },
+        {
+          "id": "bofa-travel-rewards-us-coverage-not-listed",
+          "title": "No travel or purchase protection reported",
+          "detail": "The Points Guy's current Travel Rewards review says this card has no travel or purchase protections. It separately notes Visa Signature zero-fraud-liability and roadside-assistance features, but reports no travel or purchase-insurance limits. No trip, baggage or purchase coverage amount is asserted here.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://thepointsguy.com/credit-cards/reviews/bank-of-america-travel-rewards-card-simplicity-for-points-beginners/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "points",
+          "programID": "bofa-travel-us",
+          "label": "BofA Travel Rewards US",
+          "detail": "Standard ongoing rate. Introductory promotions and relationship-tier boosts are not included.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/"
+        },
+        {
+          "id": "portal",
+          "categories": [
+            "flightsPortal",
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "bofa-travel-us",
+          "label": "BofA Travel Rewards US",
+          "detail": "Travel booked through BofA Travel.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/travel-credit-cards/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/",
+      "artworkSearchTerms": "BofA Travel Rewards",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/travel-credit-cards/"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8blm_trvsigcm_v_250x158.png",
+      "artworkAsset": "Card-bofa-travel-rewards-us"
+    },
+    {
+      "id": "bofa-unlimited-cash-rewards-for-students-us",
+      "name": "BofA Unlimited Cash Rewards for Students US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "programIDs": [
+        "bofa-cash-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-student-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn unlimited cash back on eligible purchases with no annual fee; any introductory rate is separate from the ongoing rate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "bofa-unlimited-cash-rewards-for-students-us-coverage-not-listed",
+          "title": "Public insurance terms not confirmed",
+          "detail": "Bank of America's current Unlimited Cash Rewards for Students page describes the student card and cash-back offer but does not publish a protection certificate or travel/purchase-insurance limits for this student version. I could not verify a card-specific coverage amount from public issuer material, so no insurance coverage is promised in this entry.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-student-credit-card/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "1.5% cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-student-credit-card/",
+      "artworkSearchTerms": "BofA Unlimited Cash Rewards for Students",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/"
+      ],
+      "foreignTransactionFeePercent": 3,
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cty_cshsigcm_v_250x157.png",
+      "artworkAsset": "Card-bofa-unlimited-cash-rewards-for-students-us"
+    },
+    {
+      "id": "bofa-unlimited-cash-rewards-secured-us",
+      "name": "BofA Unlimited Cash Rewards Secured US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "artworkAsset": "Card-bofa-unlimited-cash-rewards-secured-us",
+      "programIDs": [
+        "bofa-cash-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-secured-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Earning rates are modeled for Best Card ranking from linked issuer/product sources. Other benefits, enrollment conditions and eligibility may still be incomplete; issuer terms control.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Build credit while earning unlimited cash back on eligible purchases. The security deposit and graduation terms are controlled by the issuer.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-secured-credit-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "bofa-unlimited-cash-rewards-secured-us-coverage-not-listed",
+          "title": "Public insurance terms not confirmed",
+          "detail": "Bank of America's current Secured Unlimited Cash Rewards page lists the flat-rate cash-back, security-deposit and secured-account terms, but does not publish a protection certificate or travel/purchase-insurance limits for this secured version. I could not verify a card-specific insurance amount from public issuer material, so no coverage is promised in this entry.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-secured-credit-card/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "1.5% cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-secured-credit-card/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-secured-credit-card/",
+      "artworkSearchTerms": "BofA Unlimited Cash Rewards Secured",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-secured-credit-card/"
+      ],
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cty_cshcm_v_250x157.png",
+      "foreignTransactionFeePercent": 3
+    },
+    {
+      "id": "bofa-unlimited-cash-rewards-us",
+      "name": "BofA Unlimited Cash Rewards US",
+      "issuer": "Bank of America",
+      "market": "US",
+      "annualFeeMinor": 0,
+      "feeNote": "Official standard fee snapshot; intro waivers, supplementary cards and account-specific terms can differ.",
+      "colorHex": "BC3455",
+      "secondaryHex": "173F73",
+      "artworkAsset": "Card-bofa-unlimited-cash-rewards-us",
+      "programIDs": [
+        "bofa-cash-us"
+      ],
+      "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Selected official-source rules only. Unmodeled merchant-specific bonuses, travel protections, activation rules and credits are not asserted. This is not a complete benefits guide.",
+      "benefits": [
+        {
+          "id": "official-card-highlights",
+          "title": "Rewards & card benefits",
+          "detail": "Earn unlimited ongoing cash back on eligible purchases, with no annual fee. First-year promotional rates and Preferred Rewards bonuses are separate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+          "kind": "benefit",
+          "priority": 20
+        },
+        {
+          "id": "bofa-unlimited-cash-rewards-us-coverage-not-listed",
+          "title": "Public insurance terms not confirmed",
+          "detail": "Bank of America's current Unlimited Cash Rewards page lists the flat-rate cash-back offer and account terms, but does not publish a protection certificate or travel/purchase-insurance limits for this card. I could not confirm a card-specific insurance amount from public issuer material, so no coverage is promised in this entry.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+          "kind": "protection",
+          "priority": 200
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1.5,
+          "rewardKind": "cashback",
+          "programID": "bofa-cash-us",
+          "label": "cash back",
+          "detail": "Standard ongoing rate. Introductory promotions and relationship-tier boosts are not included.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.bankofamerica.com/credit-cards/"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+      "artworkSearchTerms": "BofA Unlimited Cash Rewards",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/"
+      ],
+      "artworkURL": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/CreditCardArt/en_US/Approved_PCM/8cty_cshsigcm_v_250x157.png",
+      "foreignTransactionFeePercent": 3
     }
   ],
   "removeCards": [],
