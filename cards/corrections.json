@@ -33595,7 +33595,7 @@
         {
           "id": "issuer-transfer-points-to-travel-partners",
           "title": "Transfer points to airline and hotel partners",
-          "detail": "Transfer Chase Ultimate Rewards points to participating airline and hotel loyalty programs, generally at a 1:1 ratio in 1,000-point increments. Partner availability, account linking, minimums and transfer terms apply; transfers are final once completed.",
+          "detail": "Transfer Chase Ultimate Rewards points to participating airline and hotel loyalty programs at the card’s advertised 1:1 rate. Transfers are made in 1,000-point increments to eligible accounts belonging to the Authorizing Officer or an eligible company owner; transfers are final and program availability/terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
