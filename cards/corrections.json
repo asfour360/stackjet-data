@@ -29398,6 +29398,772 @@
       ],
       "foreignTransactionFeePercent": 0,
       "earningDataComplete": true
+    },
+    {
+      "id": "amex-centurion-can",
+      "name": "Amex Black Card (Centurion) Canada",
+      "issuer": "American Express",
+      "market": "CAN",
+      "annualFeeMinor": 500000,
+      "feeNote": "Invitation-only. C$5,000 a year plus a one-time initiation fee of up to C$10,000, per a 2026 Canadian review (Amex Canada does not publish it). Edit the fee to match your own agreement.",
+      "colorHex": "161719",
+      "secondaryHex": "34363B",
+      "artworkAsset": "Card-amex-centurion-can",
+      "programIDs": [
+        "amex-mr-can"
+      ],
+      "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/centurion-card/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "PARTIAL REVIEW 2026-11-04. Canadian July 1, 2025 Centurion insurance certificate and September 2026 cardmember agreement verified. Twelve insurance entries added. Historical US-derived lifestyle, credit, airline/hotel status and earning claims are retained under their existing IDs but explicitly unconfirmed for Canada; no unverified Saks/Resy credit sliders or automatic elite-status grants. Annual/initiation fees and base earning remain account/user-supplied, not issuer-verified. Current Canadian member benefit terms are required to complete the review.",
+      "benefits": [
+        {
+          "id": "resy-2026",
+          "title": "Resy dining credit (reported 2026) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported up to $250 in eligible Resy dining statement credits each quarter, totaling up to $1,000 per calendar year; enrollment required. Confirm current eligibility with Amex. No verified statement-credit slider is offered until current issuer terms for this account and market are available.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://upgradedpoints.com/news/amex-centurion-card-adds-1000-resy-credit/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "centurion-lounges",
+          "title": "Centurion Lounge Network",
+          "detail": "Access to eligible Amex Centurion Lounges and the Global Lounge Collection under cardmember, guest, itinerary and enrollment rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/travel/lounges/centurion-network/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "priority-pass",
+          "title": "Priority Pass access — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported Priority Pass airport-lounge access. Membership enrollment and participating lounge/guest rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "delta-skyclub",
+          "title": "Delta Sky Club access — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported Delta Sky Club access when flying on eligible Delta itineraries. Verify current visit restrictions and guest policy.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "delta-platinum",
+          "title": "Delta Platinum Medallion (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Business Insider reports complimentary Delta SkyMiles Platinum Medallion; verify enrollment and current validity in your Centurion account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "hotel-elite",
+          "title": "Hotel elite privileges (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported hotel relationships include Hilton Honors, IHG, Jumeirah, Shangri-La, Club Carlson/Radisson and Melia. Program names and eligibility may have changed since the 2025 article; confirm specific tiers with Amex.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "equinox",
+          "title": "Equinox Destination Access (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Business Insider describes complimentary Equinox Destination Access membership. Verify eligible locations, enrollment and current terms; 2025 published pricing is not a cash credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "saks-2025",
+          "title": "Saks Fifth Avenue credit (reported 2025) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Business Insider reported up to $250 per quarter ($1,000 per calendar year) in eligible Saks statement credits. Historical published terms: confirm this benefit remains active before relying on it. No verified statement-credit slider is offered until current issuer terms for this account and market are available.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "clear-family",
+          "title": "CLEAR Plus family membership credits — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Business Insider reported CLEAR Plus membership reimbursement for the cardmember and up to three family members. Reimbursement depends on eligible payments and current enrollment terms; no fixed cap modeled.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "centurion-concierge",
+          "title": "24/7 Centurion concierge — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported premium concierge assistance for travel arrangements, exclusive restaurants, events and gifts; requests and availability vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "international-arrival",
+          "title": "International arrival assistance — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Business Insider describes personal arrival/immigration assistance for eligible business- or first-class flights booked through American Express Travel. Airport/itinerary restrictions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "private-suite",
+          "title": "LAX private terminal arrangements — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Business Insider reports a membership arrangement for private terminal service at LAX. Visits carry substantial separate charges; not a complimentary airport transfer or statement credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "no-preset-limit",
+          "title": "No preset spending limit",
+          "detail": "Spending power is flexible, not unlimited, and depends on purchase, payment and credit history. Payment terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464113-50498176-0926-Centurion-Online-CMA-EN.pdf",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "saks-private-shopping",
+          "title": "Saks private shopping access (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported access to Saks appointments outside normal store hours; arrangements subject to availability.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "luxury-shopping",
+          "title": "VIP shopping (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported exclusive shopping privileges, including Net-a-Porter offers; availability changes.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "wine-services",
+          "title": "Specialist lifestyle services (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Business Insider reports wine consultations and buying offers; terms and availability vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "large-purchase-earn",
+          "title": "Large-purchase earning (user supplied) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported 1.5 Membership Rewards points per USD dollar for a qualifying purchase over $5,000, subject to a maximum of 1,000,000 bonus points each calendar year. Not applied automatically in Best Card because purchase-size and annual cap tracking are not supported.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "flight-rebate",
+          "title": "Amex Travel flight points rebate (user supplied) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Canadian eligibility is unconfirmed; this historical entry was copied from a US report. Reported 20% points back when redeeming Membership Rewards for eligible flights through American Express Travel. Applies to eligible redemptions only, not purchase rewards.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "centurion-ca-ins-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$5 million/person/trip outside the home province: first 31 consecutive days through age 64, first three days at age 65+. Canadian residency and government health coverage required; eligible cardmember, spouse and dependent children may travel separately. Pre-existing conditions must be stable for 90 days (180 at age 65+). Call Global Excel before treatment; otherwise a 20% share applies to the first C$25,000 of eligible uncovered expenses. Extensions, exclusions and authorization rules apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-trip-cancel",
+          "title": "Trip cancellation insurance",
+          "detail": "Covered reasons only: up to C$5,000/insured person and C$10,000/all insured persons per trip. Any portion of prepaid arrangements must be card-paid before cancellation penalties or eligible Membership Rewards redemption with required taxes paid; other reward programs excluded. Medical stability generally 90 days before effective date. Contact insurer promptly and file within 90 days of return; exclusions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-trip-interrupt",
+          "title": "Trip interruption & delayed-return expenses",
+          "detail": "Covered interruption: up to C$5,000/person and C$10,000/all insured persons/trip. Covered interruption/delay out-of-pocket expenses up to C$500/day/person, C$3,000 combined. Eligible card/Membership Rewards prepaid arrangements required; defined causes, 90-day medical stability, reimbursement limits and exclusions apply; not cancel-for-any-reason cover.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-flight-delay",
+          "title": "Flight delay & missed connection insurance",
+          "detail": "Full airline fare charged to card. Covered departure delay/denied boarding or missed connection with no alternative within four hours may reimburse reasonable living expenses and sundry items. Shared C$1,000/occurrence limit with emergency baggage delay; receipts, covered events and exclusions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-baggage-delay",
+          "title": "Emergency baggage delay insurance",
+          "detail": "Full airline fare charged to card; checked baggage delayed at least four hours on the outbound journey. Eligible essentials purchased within four days and before baggage return; no homeward delay cover. Shares C$1,000/occurrence with flight delay/missed connection; not a separate C$1,000 allowance.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-hotel-burglary",
+          "title": "Hotel burglary insurance",
+          "detail": "Up to C$3,000/burglary occurrence for eligible personal items while registered at covered accommodation reserved and fully charged to the card. Proof of burglary, reporting, exclusions and other-insurance provisions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-lost-baggage",
+          "title": "Lost or stolen baggage insurance",
+          "detail": "Full eligible common-carrier fare charged to card. Covered loss/theft up to C$1,000/person, C$3,000/all insured persons/occurrence; within that combined limit jewellery C$300 and golf clubs/bags C$250. Excess of carrier/other insurance; excluded items and written-notice/proof requirements apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Scheduled accidental death/dismemberment benefits up to C$1 million/covered person, not general medical insurance. Entire eligible common-carrier passenger fare must be charged to an eligible card account. Covered loss must occur within 100 days of injury; exclusions and maximum-indemnity rules apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-rental-damage",
+          "title": "Rental-car theft & damage insurance",
+          "detail": "Eligible rental vehicle with original model-year MSRP not over C$85,000 before tax; entire rental charged to card or permitted Membership Rewards redemption. Decline rental CDW; no liability cover. Maximum 48 consecutive days: exceeding it voids cover from day one. Driver/vehicle and other-insurance conditions apply; report theft/loss/damage within 48 hours.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-rental-effects",
+          "title": "Rental-car personal effects insurance",
+          "detail": "Covered personal effects stolen/damaged in an eligible fully card-paid rental: up to C$2,000/occurrence, subject to rental, accompanying family, exclusions and other-insurance rules. Rentals over 48 consecutive days excluded. Notify police immediately on discovery of loss and report insurer claim within 48 hours.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-warranty",
+          "title": "Buyer’s Assurance extended warranty",
+          "detail": "Entire eligible purchase charged to card. Adds a period equal to twice the original manufacturer warranty, capped at two additional years, for original warranties of five years or less valid in Canada or the US. Up to C$10,000/item and C$25,000/cardmember/policy year, excess of other cover; exclusions and claim documentation required.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        },
+        {
+          "id": "centurion-ca-ins-purchase",
+          "title": "Purchase protection",
+          "detail": "Eligible item partly or fully card-paid: theft/direct physical damage for 120 days, up to C$1,000/cardmember/occurrence, including all affected items combined and limited to the card-paid portion. Excess of other insurance; loss/mysterious disappearance is not theft cover. Report within 48 hours; written notice preferably within 45 days and documentation within 90 days.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+          "kind": "protection",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 210
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "programID": "amex-mr-can",
+          "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/centurion-card/",
+          "label": "Membership Rewards points",
+          "detail": "1x base rate, copied from the US Centurion card at the owner's request; Amex does not publish Canadian Centurion rates. $5,000+ purchase bonuses are not auto-calculated.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        }
+      ],
+      "earningDataComplete": false,
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/content/dam/amex/it/staticassets/pdf/card-member/Modulo_di_richiesta_CarteSupplementare_Centurion.pdf",
+      "availability": "Invitation only",
+      "benefitSourceURLs": [
+        "https://creditcardgenius.ca/blog/black-card-alternatives-canada",
+        "https://upgradedpoints.com/news/amex-centurion-card-adds-1000-resy-credit/",
+        "https://www.americanexpress.com/ca/en/credit-cards/centurion-card/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464113-50498176-0926-Centurion-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Centurion-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-us/travel/lounges/centurion-network/",
+        "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card"
+      ],
+      "loungeAccess": [
+        {
+          "id": "amex-centurion-network",
+          "provider": "American Express",
+          "title": "Centurion Lounge Network",
+          "detail": "Centurion members are eligible for the Centurion Lounge Network regardless of country of issue; same-day travel, location and guest terms apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/travel/lounges/centurion-network/",
+          "finderURLTemplate": "https://www.americanexpress.com/en-us/travel/lounges/centurion-network/"
+        }
+      ],
+      "foreignTransactionFeePercent": 2.5
+    },
+    {
+      "id": "amex-centurion-us",
+      "name": "Amex Black Card (Centurion) US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 500000,
+      "feeNote": "Business Insider reported a $5,000 annual fee and $10,000 initiation fee (May 2025). Invitation-only; confirm current, account-specific terms.",
+      "colorHex": "161719",
+      "secondaryHex": "34363B",
+      "artworkAsset": "Card-amex-centurion-us",
+      "programIDs": [
+        "amex-mr-us"
+      ],
+      "sourceURL": "https://global.americanexpress.com/card-benefits/terms/centurion",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "PARTIAL REVIEW 2026-11-04. Ten card-matched public insurance protections verified, including three additional warranty years, plus current Delta Sky Club rules for US Centurion. Member-only Centurion terms returned access denied. Fees, earning, Saks/Resy/CLEAR/Equinox, concierge and airline/hotel status package remain unconfirmed current account-specific terms. Historical/user-supplied entries and IDs retained with explicit labels; unverified quarterly credits no longer create sliders. No automatic elite-status grant is inferred from a third-party article.",
+      "benefits": [
+        {
+          "id": "resy-2026",
+          "title": "Resy dining credit (reported 2026) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Reported up to $250 in eligible Resy dining statement credits each quarter, totaling up to $1,000 per calendar year; enrollment required. Confirm current eligibility with Amex. No verified statement-credit slider is offered until current issuer terms for this account and market are available.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://upgradedpoints.com/news/amex-centurion-card-adds-1000-resy-credit/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "centurion-lounges",
+          "title": "Centurion Lounge Network",
+          "detail": "Access to eligible Amex Centurion Lounges and the Global Lounge Collection under cardmember, guest, itinerary and enrollment rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/travel/lounges/centurion-network/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "priority-pass",
+          "title": "Priority Pass access — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Reported Priority Pass airport-lounge access. Membership enrollment and participating lounge/guest rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "delta-skyclub",
+          "title": "Delta Sky Club access",
+          "detail": "Eligible US Centurion and Additional Platinum cards on Centurion accounts: same-day Delta-operated or Delta-marketed WestJet flight (006 ticket), valid card, matching boarding pass and ID; Delta Main Basic/equivalent excluded. Companion Centurion cards are ineligible. Two guests or immediate family may enter for US$50/person using the card (Grab and Go US$25). No annual visit allotment stated for Centurion; exempt from the three-hour entry window. Capacity and current Delta rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.delta.com/us/en/delta-sky-club/access",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "delta-platinum",
+          "title": "Delta Platinum Medallion (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Business Insider reports complimentary Delta SkyMiles Platinum Medallion; verify enrollment and current validity in your Centurion account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "hotel-elite",
+          "title": "Hotel elite privileges (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Reported hotel relationships include Hilton Honors, IHG, Jumeirah, Shangri-La, Club Carlson/Radisson and Melia. Program names and eligibility may have changed since the 2025 article; confirm specific tiers with Amex.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "equinox",
+          "title": "Equinox Destination Access (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Business Insider describes complimentary Equinox Destination Access membership. Verify eligible locations, enrollment and current terms; 2025 published pricing is not a cash credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "saks-2025",
+          "title": "Saks Fifth Avenue credit (reported 2025) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Business Insider reported up to $250 per quarter ($1,000 per calendar year) in eligible Saks statement credits. Historical published terms: confirm this benefit remains active before relying on it. No verified statement-credit slider is offered until current issuer terms for this account and market are available.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "clear-family",
+          "title": "CLEAR Plus family membership credits — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Business Insider reported CLEAR Plus membership reimbursement for the cardmember and up to three family members. Reimbursement depends on eligible payments and current enrollment terms; no fixed cap modeled.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "centurion-concierge",
+          "title": "24/7 Centurion concierge — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Reported premium concierge assistance for travel arrangements, exclusive restaurants, events and gifts; requests and availability vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "international-arrival",
+          "title": "International arrival assistance — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Business Insider describes personal arrival/immigration assistance for eligible business- or first-class flights booked through American Express Travel. Airport/itinerary restrictions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "private-suite",
+          "title": "LAX private terminal arrangements — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Business Insider reports a membership arrangement for private terminal service at LAX. Visits carry substantial separate charges; not a complimentary airport transfer or statement credit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "no-preset-limit",
+          "title": "No preset spending limit",
+          "detail": "Spending power is flexible, not unlimited, and depends on purchase, payment and credit history. Payment terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "saks-private-shopping",
+          "title": "Saks private shopping access (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Reported access to Saks appointments outside normal store hours; arrangements subject to availability.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "luxury-shopping",
+          "title": "VIP shopping (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Reported exclusive shopping privileges, including Net-a-Porter offers; availability changes.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "wine-services",
+          "title": "Specialist lifestyle services (reported) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Business Insider reports wine consultations and buying offers; terms and availability vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "large-purchase-earn",
+          "title": "Large-purchase earning (user supplied) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Reported 1.5 Membership Rewards points per USD dollar for a qualifying purchase over $5,000, subject to a maximum of 1,000,000 bonus points each calendar year. Not applied automatically in Best Card because purchase-size and annual cap tracking are not supported.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "flight-rebate",
+          "title": "Amex Travel flight points rebate (user supplied) — confirm current terms",
+          "detail": "CURRENT TERMS NOT CONFIRMED. Reported 20% points back when redeeming Membership Rewards for eligible flights through American Express Travel. Applies to eligible redemptions only, not purchase rewards.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "centurion-us-ins-trip-cancellation-interruption-insurance",
+          "title": "Trip cancellation & interruption insurance",
+          "detail": "Covered round-trip cancellation/interruption: up to US$10,000/trip and US$20,000/card/12 months for each coverage, excess of other benefits. Full common-carrier transport paid with card/allowed points or vouchers; only defined causes qualify, not any reason. Pre-existing conditions and supplier insolvency excluded. Notify insurer and supplier within required times; insurer notice 60 days, proof 180 days, subject to stated exceptions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "centurion-us-ins-trip-delay-reimbursement",
+          "title": "Trip delay reimbursement",
+          "detail": "Covered round trip delayed more than 6 hours: up to US$500/trip, two claims/card/12 months, excess of other benefits. Pay full common-carrier transport with the card/allowed points or vouchers and additional expenses with that card. Weather, equipment failure, hijacking/terrorism or lost travel documents may qualify; known delays excluded. Notify within 60 days; proof within 180 days, subject to stated exceptions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "centurion-us-ins-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Covered loss/theft/damage: carry-on up to US$3,000, checked US$2,000, high-risk items US$1,000; combined US$3,000/person/trip. NY US$2,000/bag and US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards; other-program redemptions excluded. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "centurion-us-ins-cell-phone-protection",
+          "title": "Cell phone protection",
+          "detail": "Prior month's eligible wireless bill paid with card: covered theft/damage including cracked screens, up to US$800/claim after US$50 deductible, two claims/account/12 months; excess of other insurance. Lost/mysteriously disappeared phones and cosmetic damage excluded. Theft police report within 48 hours; notify claim within 90 days/as soon as reasonably possible, written proof within 120 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "centurion-us-ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage/loss; up to US$10,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "centurion-us-ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to three additional years, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-331_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "centurion-us-ins-return-protection",
+          "title": "Return protection",
+          "detail": "Eligible items paid entirely with the card in the US/covered territories: if the seller refuses a return within 90 days, up to US$300/item and US$1,000/account/calendar year, excluding original shipping. Item must be unused, undamaged and working; exclusions include jewellery, software and consumables. Notify within 90 days of purchase; requested documents and returned item normally within 30 days of the respective request.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "centurion-us-ins-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary theft/damage cover up to US$75,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "centurion-us-ins-rental-accident",
+          "title": "Rental-car accident protection",
+          "detail": "Eligible covered rental accidents: scheduled accidental death/dismemberment up to US$200,000/Cardmember or US$20,000/other eligible driver/passenger; accidental-injury treatment up to US$5,000/person. Shared US$300,000/accident aggregate. Only for eligible card-paid rentals, not general travel medical insurance. State provisions, authorization, timing and exclusions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "centurion-us-ins-rental-personal-property",
+          "title": "Rental-car personal property",
+          "detail": "Eligible personal-property theft/damage during a covered rental: up to US$1,000/eligible person and US$2,000/rental accident aggregate. Full eligible rental payment and driver/rental conditions required. Excess coverage, exclusions and state-specific provisions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "programID": "amex-mr-us",
+          "sourceURL": "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+          "label": "MR points",
+          "detail": "1x base rate per user-provided Centurion terms; public issuer rates are not generally disclosed. $5,000+ purchase bonuses are not auto-calculated.",
+          "rewardKind": "points",
+          "countries": [],
+          "capReset": "none"
+        }
+      ],
+      "earningDataComplete": false,
+      "accountType": "personal",
+      "artworkPageURL": "https://www.americanexpress.com/content/dam/amex/it/staticassets/pdf/card-member/Modulo_di_richiesta_CarteSupplementare_Centurion.pdf",
+      "availability": "Invitation only",
+      "loungeAccess": [
+        {
+          "id": "amex-centurion-network",
+          "provider": "American Express",
+          "title": "Centurion Lounge Network",
+          "detail": "Centurion members are eligible for the Centurion Lounge Network regardless of country of issue; same-day travel, location and guest terms apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/travel/lounges/centurion-network/",
+          "finderURLTemplate": "https://www.americanexpress.com/en-us/travel/lounges/centurion-network/"
+        }
+      ],
+      "benefitSourceURLs": [
+        "https://global.americanexpress.com/card-benefits/terms/centurion",
+        "https://upgradedpoints.com/news/amex-centurion-card-adds-1000-resy-credit/",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-331_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/travel/lounges/centurion-network/",
+        "https://www.businessinsider.com/personal-finance/credit-cards/benefits-of-the-amex-centurion-black-card",
+        "https://www.delta.com/us/en/delta-sky-club/access"
+      ],
+      "foreignTransactionFeePercent": 0
     }
   ],
   "removeCards": [],
