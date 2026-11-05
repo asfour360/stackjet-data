@@ -33227,7 +33227,7 @@
         {
           "id": "chase-travel-hotels-2026",
           "title": "$250 credit for select Chase Travel hotels",
-          "detail": "Up to $250 in statement credits through December 31, 2026 for prepaid Chase Travel hotel bookings at participating IHG, Montage, Pendry, Omni, Virgin, Minor or Pan Pacific properties. Two-night minimum; qualifying purchases earn no points.",
+          "detail": "Automatic statement credits up to $250 through December 31, 2026 on prepaid “Pay Now” Chase Travel hotel stays of at least two nights at participating IHG, Montage, Pendry, Omni, Virgin, Minor or Pan Pacific properties. Qualifying purchases do not earn points; the credit must be available when the purchase posts and may be reversed for canceled/modified stays or account closure within 90 days.",
           "capMinor": 25000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -33238,8 +33238,8 @@
         },
         {
           "id": "global-entry-credit",
-          "title": "Global Entry, TSA PreCheck or NEXUS credit",
-          "detail": "One statement credit of up to $120 every four years for the Global Entry, TSA PreCheck or NEXUS application fee charged to the card.",
+          "title": "Global Entry, TSA PreCheck or NEXUS fee credit",
+          "detail": "One statement credit, up to $120, every four years after the first eligible application fee is charged to the card by the Authorizing Officer or an employee/authorized user. Only fees paid directly to the government or authorized enrollment providers qualify; third-party application services and other trusted-traveler programs are excluded. Credit generally posts within 1–2 billing cycles.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
@@ -33251,7 +33251,7 @@
         {
           "id": "issuer-credit-for-stays-with-the-edit",
           "title": "$500 credit for stays with The Edit",
-          "detail": "Up to $500 in automatic statement credits per calendar year for prepaid The Edit stays, with a maximum of $250 per transaction and a two-night minimum. Each qualifying purchase earns no points; employee cards cannot use this benefit. Starting January 1, 2027, the Business card adds two $250 credits, increasing its annual total to $1,000.",
+          "detail": "Up to $500 in statement credits per calendar year, with a maximum $250 per transaction, for prepaid “Pay Now” stays of two nights or more booked through The Edit by Chase Travel. Starting January 1, 2027, an additional $500 becomes available (two additional $250 credits), raising the annual maximum to $1,000. Qualifying purchases do not earn points; Employee Cardmembers are not eligible for The Edit program benefits. Credit must be available at purchase and account open/not in default at fulfillment.",
           "capMinor": 50000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -33261,19 +33261,19 @@
         },
         {
           "id": "issuer-credit-with-giftcards-com",
-          "title": "$100 Credit with giftcards.com",
-          "detail": "Automatic statement credits on eligible curated gift-card purchases made directly at giftcards.com/reservebusiness: up to $50 from January 1–June 30 and another $50 from July 1–December 31, maximum $100 per calendar year, through October 31, 2028. Purchases by the primary member or an authorized user qualify; credits usually post within 3 business days but can take up to 4 weeks. The offer must be available when the purchase is made and the account must remain open and not in default at fulfillment.",
+          "title": "$100 Curated Gift Card Credit",
+          "detail": "Automatic statement credits on eligible curated gift-card purchases made directly at giftcards.com/reservebusiness: up to $50 January–June and another $50 July–December, max $100 per calendar year through October 31, 2028. Purchases by the Authorizing Officer or employee/authorized user qualify; credit can take up to four weeks. The account must remain open and not in default; Chase may reverse credits for returns, cancellations or account closure within 90 days.",
           "capMinor": 5000,
           "reset": "semiannual",
           "enrollmentRequired": false,
-          "sourceURL": "https://creditcards.chase.com/a1/reservebusiness0626?CELL=6D4C&sitelink=1",
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
           "kind": "credit",
           "priority": 20
         },
         {
           "id": "issuer-credit-with-google-workspace",
           "title": "$200 Credit with Google Workspace",
-          "detail": "Up to $200 in annual statement credits for eligible purchases made directly from Google Workspace. Purchases must post to the card account and meet merchant/offer terms.",
+          "detail": "Up to $200 in automatic statement credits each calendar year through December 31, 2027 for purchases made directly with Google Workspace by the Authorizing Officer or an employee/authorized user. Third-party purchases do not qualify. Credits are allocated to the year the transaction posts; subscription renewals do not qualify once the offer expires or is fully used. Account must remain open and not in default.",
           "capMinor": 20000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
@@ -33284,7 +33284,7 @@
         {
           "id": "issuer-credit-with-ziprecruiter",
           "title": "$400 Credit with ZipRecruiter",
-          "detail": "Up to $200 in statement credits January–June and up to $200 July–December on eligible direct ZipRecruiter purchases, up to $400 per year. Terms, registration and qualifying transaction rules apply.",
+          "detail": "Up to $200 in statement credits January–June and another $200 July–December, for a maximum $400 each calendar year through December 31, 2027, on purchases made directly at ZipRecruiter.com by the Authorizing Officer or an employee/authorized user. Credits can take up to four weeks, may be reversed after returns/cancellations or account closure within 90 days, and must be available at purchase. Subscription renewals cease qualifying once the offer expires or is fully used.",
           "capMinor": 20000,
           "reset": "semiannual",
           "enrollmentRequired": false,
@@ -33295,7 +33295,7 @@
         {
           "id": "issuer-in-ride-credits-with-lyft",
           "title": "$120 in ride credits with Lyft",
-          "detail": "Up to $10 in monthly Lyft ride credits, up to $120 annually, through September 30, 2027. Eligible rides, in-app redemption and Lyft terms apply.",
+          "detail": "The first eligible cardholder/employee/authorized user to add the card to Lyft receives one $10 credit each calendar month through September 30, 2027 (up to $120 annually) for qualifying rides in Standard, Extra Comfort, XL, Black or Black SUV modes. Credits are ride-subtotal only, expire monthly, cannot be combined with other Lyft credits, and exclude fees, taxes, tips, memberships and gift cards. The separate 5X Lyft earning rule is listed with earning rates.",
           "capMinor": 1000,
           "reset": "monthly",
           "enrollmentRequired": false,
@@ -33305,13 +33305,35 @@
           "endsBefore": "2027-10-01"
         },
         {
+          "id": "issuer-doordash-promos",
+          "title": "$300 in DoorDash promos",
+          "detail": "After activating the included DashPass membership, receive up to $25 per month: one $5 discount on a qualifying restaurant order plus two $10 discounts on separate qualifying non-restaurant orders. Discounts apply to order subtotal, not fees/taxes/tips, and unused amounts expire at month end. Use the card that activated DashPass at checkout; eligible merchants, minimum subtotals, U.S. availability and exclusions apply. Offer terms run through December 31, 2027.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.chase.com/business/credit-cards/offerdetails/chaseforbusiness",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
           "id": "issuer-ihg-one-rewards-platinum-elite-status",
-          "title": "IHG Platinum Elite status",
-          "detail": "Complimentary IHG One Rewards Platinum Elite through December 31, 2027; link the IHG membership through Chase Benefits to activate it. Continued eligibility depends on account and program standing.",
+          "title": "IHG One Rewards Platinum Elite status",
+          "detail": "Complimentary IHG One Rewards Platinum Elite status for the Authorizing Officer through December 31, 2027. Activate by linking an IHG One Rewards account in Chase Benefits; allow up to three weeks. Status is not available to Employee Cardmembers, will not apply retroactively, and requires the card account to remain open and IHG membership in good standing. Present the IHG account number at booking/check-in; brand/region rules and availability apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "kind": "benefit",
+          "priority": 40
+        },
+        {
+          "id": "issuer-doordash-dashpass-membership",
+          "title": "Complimentary DashPass membership",
+          "detail": "Activate by December 31, 2027 to receive at least 12 months of complimentary DashPass on both DoorDash and Caviar; all users on the account share the period that starts with the first activation. Add the card as the default payment method and use that card at checkout on eligible DashPass orders. Minimum subtotals, U.S. address, merchant/geographic availability, fees, taxes and DoorDash/Caviar terms apply. Advertised membership value is $120.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.chase.com/business/credit-cards/offerdetails/chaseforbusiness",
           "kind": "benefit",
           "priority": 40
         },
@@ -33362,7 +33384,18 @@
         {
           "id": "issuer-visit-chase-sapphire-lounge-by-the-club",
           "title": "Sapphire Lounges + Priority Pass",
-          "detail": "Complimentary access to Chase Sapphire Lounges by The Club with up to two guests, 1,300+ Priority Pass lounges, and select Air Canada Maple Leaf Lounges/Cafés with an eligible boarding pass. Sapphire Lounge and Priority Pass Select access is not available to employee cardmembers.",
+          "detail": "Complimentary access to every Chase Sapphire Lounge by The Club with up to two guests, plus 1,300+ Priority Pass lounges worldwide. The Authorizing Officer’s Priority Pass Select membership is automatically activated and allows up to two guests (additional guests currently $27 each, subject to lounge capacity and program terms). Eligible cardmembers also access select Air Canada Maple Leaf Lounges/Cafés with an eligible boarding pass. Employee Cardmembers cannot use Sapphire Lounge or Priority Pass membership themselves, but may enter as a guest of the Primary Cardmember. Chase advertises $850+ potential annual value; actual value depends on visits and use.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-the-edit-stay-benefits",
+          "title": "The Edit hotel stay benefits",
+          "detail": "Book an eligible property through The Edit by Chase Travel for per-room benefits based on double occupancy, which may include a $100 property credit, daily breakfast, complimentary Wi‑Fi, a welcome amenity, room upgrade and early check-in/late checkout. Some benefits depend on availability and vary by property. Chase advertises $550+ value for a two-night stay, based on average 2025 program-benefit values; actual value varies by property, availability and use. Employee Cardmembers are not eligible for The Edit program benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33725,7 +33758,8 @@
       ],
       "artworkURL": "https://www.chase.com/content/dam/unified-assets/sapphire-cards/business/reserve/CSRB-Card-Art.png",
       "benefitSourceURLs": [
-        "https://www.chase.com/sapphire-cards/business/reserve"
+        "https://www.chase.com/sapphire-cards/business/reserve",
+        "https://www.chase.com/business/credit-cards/offerdetails/chaseforbusiness"
       ],
       "foreignTransactionFeePercent": 0
     },
