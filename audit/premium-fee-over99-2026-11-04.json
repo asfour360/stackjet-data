@@ -108,9 +108,9 @@
       "annualFeeMinor": 79900,
       "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
       "appCatalogBenefitCount": 34,
-      "githubCorrectionBenefitCount": 31,
+      "githubCorrectionBenefitCount": 38,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": "2026-11-04",
+      "lastCorrectionCheck": "2026-11-05",
       "needsIssuerVerification": false,
       "needsInsuranceCertificateVerification": false
     },
@@ -444,9 +444,9 @@
       "annualFeeMinor": 79900,
       "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
       "appCatalogBenefitCount": 36,
-      "githubCorrectionBenefitCount": 34,
+      "githubCorrectionBenefitCount": 38,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": "2026-11-03",
+      "lastCorrectionCheck": "2026-11-05",
       "needsIssuerVerification": false,
       "needsInsuranceCertificateVerification": false
     },
