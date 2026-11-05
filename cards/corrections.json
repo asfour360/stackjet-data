@@ -33316,6 +33316,17 @@
           "priority": 20
         },
         {
+          "id": "issuer-annual-travel-credit",
+          "title": "$300 Annual Travel Credit",
+          "detail": "Automatic statement credits up to $300 for eligible purchases in the travel category per account year. The account year starts on the account-open date and renews after each anniversary through the first statement date thereafter (12 monthly billing cycles). Credits are allocated by transaction posting year; merchant category coding and posting date affect eligibility. The credited portion of purchases does not earn points, and credits may be reversed for returns/cancellations or if the account closes within 90 days.",
+          "capMinor": 30000,
+          "reset": "anniversary",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.chase.com/business/credit-cards/offerdetails/chaseforbusiness",
+          "kind": "credit",
+          "priority": 20
+        },
+        {
           "id": "issuer-ihg-one-rewards-platinum-elite-status",
           "title": "IHG One Rewards Platinum Elite status",
           "detail": "Complimentary IHG One Rewards Platinum Elite status for the Authorizing Officer through December 31, 2027. Activate by linking an IHG One Rewards account in Chase Benefits; allow up to three weeks. Status is not available to Employee Cardmembers, will not apply retroactively, and requires the card account to remain open and IHG membership in good standing. Present the IHG account number at booking/check-in; brand/region rules and availability apply.",
