@@ -1,6 +1,6 @@
 {
   "format": "stackjet-premium-card-audit-v1",
-  "asOf": "2026-11-04",
+  "asOf": "2026-11-05",
   "source": "StackJet ver.1.3 (3).zip / Resources/catalog.json",
   "inclusion": "annualFeeMinor > 9900 in latest uploaded StackJet 1.3 (3) baseline",
   "count": 117,
@@ -8,7 +8,8 @@
     "This is a roster and data-gap ledger, not a declaration that every listed card has been fully reviewed.",
     "A remote correction does not prove complete issuer-benefit verification.",
     "Source URLs and insurance certificates require individual current-terms checks.",
-    "Reported 33 prior reviewed are not independently reconciled to exact card IDs in this ledger."
+    "Reported 33 prior reviewed are not independently reconciled to exact card IDs in this ledger.",
+    "The 2026-11-05 supplemental audit completed issuer-product verification for Venture X Business, AAdvantage Globe and Strata Elite; each retains an account-specific insurance certificate or other terms question."
   ],
   "cards": [
     {
@@ -719,11 +720,15 @@
       "annualFeeMinor": 39500,
       "sourceURL": "https://www.capitalone.com/small-business/credit-cards/venture-x-business/",
       "appCatalogBenefitCount": 14,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 24,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true,
+      "openTerms": [
+        "The issuer-linked generic Business World Elite guide says its baggage-delay terms are effective 2017 and that eligibility is determined by the financial institution; confirm the current Venture X Business account-specific certificate and endorsements.",
+        "Build 3 has no distinct vacation-rental earning category, so the issuer’s 5X portal vacation-rental rate is not separately modeled."
+      ]
     },
     {
       "id": "cathay-world-elite-mastercard-by-neo-can",
@@ -1139,11 +1144,14 @@
       "annualFeeMinor": 35000,
       "sourceURL": "https://www.citi.com/credit-cards/citi-aadvantage-globe-mastercard",
       "appCatalogBenefitCount": 16,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 17,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true,
+      "openTerms": [
+        "Citi’s public product page confirms protection types but does not expose the account-specific Guide to Protection Benefits or numerical limits, thresholds, eligible travelers and exclusions."
+      ]
     },
     {
       "id": "citi-strata-elite-us",
@@ -1153,11 +1161,15 @@
       "annualFeeMinor": 59500,
       "sourceURL": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
       "appCatalogBenefitCount": 17,
-      "githubCorrectionBenefitCount": null,
+      "githubCorrectionBenefitCount": 19,
       "genericBenefitCount": 0,
-      "lastCorrectionCheck": null,
-      "needsIssuerVerification": true,
-      "needsInsuranceCertificateVerification": false
+      "lastCorrectionCheck": "2026-11-05",
+      "needsIssuerVerification": false,
+      "needsInsuranceCertificateVerification": true,
+      "openTerms": [
+        "Citi’s public product page confirms protection types but does not expose the account-specific Guide to Protection Benefits or numerical limits, thresholds, eligible travelers and exclusions.",
+        "Citi’s public page lists separate Citigold and Citigold Private Client relationship credits but does not clarify if/how they combine."
+      ]
     },
     {
       "id": "cobalt-can",
