@@ -3773,7 +3773,7 @@
         {
           "id": "all-accor-gold-status",
           "title": "ALL Accor Gold status",
-          "detail": "*New Benefit* — Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
+          "detail": "Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -4650,7 +4650,7 @@
         {
           "id": "all-accor-gold-status",
           "title": "ALL Accor Gold status",
-          "detail": "*New Benefit* — Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
+          "detail": "Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -33873,7 +33873,7 @@
         {
           "id": "issuer-doordash-dashpass-membership",
           "title": "Complimentary DashPass membership",
-          "detail": "*New Benefit* — Activate by December 31, 2029 to receive complimentary DashPass on DoorDash and Caviar until December 31, 2029 or for 12 months, whichever is longer (advertised value $120/year). Add the Reserve card to the app and use the same card at checkout; eligible orders receive $0 delivery fees and reduced service fees, subject to minimum subtotals, merchant/geographic availability and DoorDash terms. All users on the account share the activation period.",
+          "detail": "Activate by December 31, 2029 to receive complimentary DashPass on DoorDash and Caviar until December 31, 2029 or for 12 months, whichever is longer (advertised value $120/year). Add the Reserve card to the app and use the same card at checkout; eligible orders receive $0 delivery fees and reduced service fees, subject to minimum subtotals, merchant/geographic availability and DoorDash terms. All users on the account share the activation period.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
@@ -33950,7 +33950,7 @@
         {
           "id": "issuer-the-edit-stay-benefits",
           "title": "The Edit hotel stay benefits",
-          "detail": "*New Benefit* — Book an eligible property through The Edit by Chase Travel to receive per-room benefits for double occupancy, which may include a $100 property credit, daily breakfast, complimentary Wi‑Fi, welcome amenity, room upgrade, and early check-in/late check-out. Benefits vary by property and some depend on availability. Chase advertises $550+ in value for a two-night stay; this is an estimate based on program-benefit values and actual value varies with availability and use.",
+          "detail": "Book an eligible property through The Edit by Chase Travel to receive per-room benefits for double occupancy, which may include a $100 property credit, daily breakfast, complimentary Wi‑Fi, welcome amenity, room upgrade, and early check-in/late check-out. Benefits vary by property and some depend on availability. Chase advertises $550+ in value for a two-night stay; this is an estimate based on program-benefit values and actual value varies with availability and use.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
