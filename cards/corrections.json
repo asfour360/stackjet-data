@@ -3637,7 +3637,7 @@
         "amex-mr-can"
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-05",
       "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. PARTIAL: separate employee-misuse policy was not publicly accessible; issuer summary only. Future 2027 lounge limits and spending unlock are descriptive and do not promise current unlimited guest access. App build 3 reset limitations are disclosed; no app code changes. Current Canadian International Airline Program eligibility/discount terms remain unresolved.",
       "benefits": [
         {
@@ -3767,6 +3767,17 @@
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "all-accor-gold-status",
+          "title": "ALL Accor Gold status",
+          "detail": "*New Benefit* — Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://americanexpress.mediaroom.com/2026-07-22-More-Ways-for-Canadians-to-Travel,-Earn-and-Be-Rewarded-American-Express-and-ALL-Accor-Announce-Global-Partnership",
           "kind": "benefit",
           "priority": 30
         },
@@ -4098,6 +4109,16 @@
           "condition": "Keep the qualifying card open and in good standing.",
           "automatic": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/"
+        },
+        {
+          "id": "all-accor-gold-status",
+          "programID": "all-accor",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Eligible Canadian Platinum Cardmembers must enroll through Amex Card Benefits and link an ALL Accor account. Status availability and continuation are subject to the qualifying Platinum card and Amex/ALL program terms.",
+          "automatic": false,
+          "sourceURL": "https://americanexpress.mediaroom.com/2026-07-22-More-Ways-for-Canadians-to-Travel,-Earn-and-Be-Rewarded-American-Express-and-ALL-Accor-Announce-Global-Partnership"
         }
       ],
       "earningRules": [
@@ -4165,7 +4186,11 @@
         "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
         "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
         "https://www.americanexpress.com/en-ca/benefits/member-extras/",
-        "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/"
+        "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/",
+        "https://americanexpress.mediaroom.com/2026-07-22-More-Ways-for-Canadians-to-Travel,-Earn-and-Be-Rewarded-American-Express-and-ALL-Accor-Announce-Global-Partnership",
+        "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+        "https://princeoftravel.com/news/amex-platinum-all-accor-gold-status/",
+        "https://global.americanexpress.com/card-benefits/enroll/accor-gold-status/platinum-charge"
       ],
       "artworkURL": "https://princeoftravel.com/images/cards/Business_Platinum_Card.png",
       "earningDataComplete": true
@@ -4550,7 +4575,7 @@
         "amex-mr-can"
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-05",
       "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. Future 2027 lounge limits and spending unlock are descriptive and do not promise current unlimited guest access. App build 3 reset limitations are disclosed; no app code changes.",
       "benefits": [
         {
@@ -4619,6 +4644,17 @@
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "all-accor-gold-status",
+          "title": "ALL Accor Gold status",
+          "detail": "*New Benefit* — Enrollment required through Amex Card Benefits; link your ALL Accor membership account. Eligible Platinum Cardmembers receive ALL Accor Gold status while qualifying for this benefit. Gold adds a 48% Reward-point bonus on eligible stays, a welcome amenity and welcome drink, room upgrade when available, early check-in or late check-out subject to availability, and Gold-level availability benefits under ALL terms. Hotel/brand participation and exclusions apply; status does not include Platinum-only lounge access or suite-upgrade benefits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://americanexpress.mediaroom.com/2026-07-22-More-Ways-for-Canadians-to-Travel,-Earn-and-Be-Rewarded-American-Express-and-ALL-Accor-Announce-Global-Partnership",
           "kind": "benefit",
           "priority": 30
         },
@@ -5005,6 +5041,16 @@
           "condition": "Keep the qualifying card open and in good standing.",
           "automatic": true,
           "sourceURL": "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/"
+        },
+        {
+          "id": "all-accor-gold-status",
+          "programID": "all-accor",
+          "tier": "Gold",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "condition": "Eligible Canadian Platinum Cardmembers must enroll through Amex Card Benefits and link an ALL Accor account. Status availability and continuation are subject to the qualifying Platinum card and Amex/ALL program terms.",
+          "automatic": false,
+          "sourceURL": "https://americanexpress.mediaroom.com/2026-07-22-More-Ways-for-Canadians-to-Travel,-Earn-and-Be-Rewarded-American-Express-and-ALL-Accor-Announce-Global-Partnership"
         }
       ],
       "earningRules": [
@@ -5106,7 +5152,11 @@
         "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
         "https://www.americanexpress.com/en-ca/benefits/member-extras/",
         "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
-        "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/"
+        "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/",
+        "https://americanexpress.mediaroom.com/2026-07-22-More-Ways-for-Canadians-to-Travel,-Earn-and-Be-Rewarded-American-Express-and-ALL-Accor-Announce-Global-Partnership",
+        "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+        "https://princeoftravel.com/news/amex-platinum-all-accor-gold-status/",
+        "https://global.americanexpress.com/card-benefits/enroll/accor-gold-status/platinum-charge"
       ],
       "earningDataComplete": true
     },
