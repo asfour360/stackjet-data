@@ -33222,7 +33222,7 @@
       ],
       "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
       "checkedOn": "2026-11-05",
-      "coverageNote": "Detailed public issuer benefit review completed 2026-11-05, including current earning terms, credits, enrollment, spend thresholds and public coverage summaries. The cardholder Guide to Benefits/certificate has not been verified; binding eligibility, exclusions, claim deadlines and account-specific terms may differ.",
+      "coverageNote": "Public issuer benefits and the current Chase Sapphire Reserve for Business Guide to Benefits (BGC11585, effective June 11, 2026) reviewed 2026-11-05. Published summary limits are recorded; binding eligibility, exclusions, claim deadlines, New York restrictions and account-specific terms remain controlled by the Guide/certificate and issuer. The public guide is available at the linked source.",
       "benefits": [
         {
           "id": "chase-travel-hotels-2026",
@@ -33395,7 +33395,7 @@
         {
           "id": "issuer-visit-chase-sapphire-lounge-by-the-club",
           "title": "Sapphire Lounges + Priority Pass",
-          "detail": "Complimentary access to every Chase Sapphire Lounge by The Club with up to two guests, plus 1,300+ Priority Pass lounges worldwide. The Authorizing Officer’s Priority Pass Select membership is automatically activated and allows up to two guests (additional guests currently $27 each, subject to lounge capacity and program terms). Eligible cardmembers also access select Air Canada Maple Leaf Lounges/Cafés with an eligible boarding pass. Employee Cardmembers cannot use Sapphire Lounge or Priority Pass membership themselves, but may enter as a guest of the Primary Cardmember. Chase advertises $850+ potential annual value; actual value depends on visits and use.",
+          "detail": "Complimentary access to Chase Sapphire Lounges by The Club with up to two guests and Priority Pass Select access to 1,300+ lounges worldwide with up to two guests; additional Priority Pass guests may be charged (currently $27 each), subject to lounge terms and capacity. Also access select Air Canada Maple Leaf Lounges and Air Canada Cafés in the U.S., Canada and Europe with an eligible same-day departing boarding pass on a Star Alliance airline, plus one guest. Employee Cardmembers cannot use the lounge benefits themselves, but may enter as guests of the Primary Cardmember. Priority Pass membership is activated for the Authorizing Officer.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -33430,33 +33430,33 @@
         {
           "id": "chase-sapphire-reserve-for-business-us-trip-cancellation-interruption-insurance",
           "title": "Trip cancellation & interruption insurance",
-          "detail": "If your trip is canceled or cut short by sickness, severe weather or other covered situations, you can be reimbursed up to $10,000 per covered traveler and $20,000 per trip for your pre-paid, non-refundable travel expenses, including passenger fares, tours and hotels.",
+          "detail": "Reimburses prepaid, non-refundable eligible trip costs up to $10,000 per covered traveler and $20,000 per trip when a covered reason causes a trip to be canceled or cut short. Covered costs include passenger fares, tours and hotels; eligibility, payment, covered-reason and claim conditions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
           "kind": "protection",
           "priority": 200
         },
         {
           "id": "chase-sapphire-reserve-for-business-us-trip-delay-reimbursement",
           "title": "Trip delay reimbursement",
-          "detail": "If your common carrier travel is delayed more than 6 hours or requires an overnight stay, you are covered for unreimbursed expenses, such as meals and lodging, up to $500 per covered traveler.",
+          "detail": "Reimburses reasonable, unreimbursed expenses up to $500 per covered traveler when common-carrier travel is delayed more than six hours or requires an overnight stay. Covered expenses can include meals and lodging; eligible cause, travel payment, secondary coverage and claim conditions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
           "kind": "protection",
           "priority": 201
         },
         {
           "id": "chase-sapphire-reserve-for-business-us-baggage-delay-insurance",
           "title": "Baggage delay insurance",
-          "detail": "Reimburses you up to $100 a day for up to 5 days for essential purchases like toiletries and clothing when baggage is delayed over 6 hours.",
+          "detail": "Reimburses eligible essential personal-item purchases up to $100 per day, for up to five days, when checked baggage is delayed or misdirected by a common carrier for more than six hours after arrival. Report the delay to the carrier; coverage is secondary to other reimbursement and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
           "kind": "protection",
           "priority": 202
         },
@@ -33507,46 +33507,101 @@
         {
           "id": "chase-sapphire-reserve-for-business-us-car-rental-loss-damage-insurance",
           "title": "Car rental loss & damage insurance",
-          "detail": "Decline the rental company's collision insurance and charge the entire rental cost to your card. Coverage is primary when renting for business purposes and provides reimbursement up to $75,000 for theft and collision damage for most rental vehicles in the U.S. and abroad.",
+          "detail": "Reimbursement up to $75,000 for theft or collision damage to eligible rental vehicles worldwide, for rentals up to 31 consecutive days. Pay the entire rental with the card and/or eligible rewards and decline the rental company’s collision damage waiver. In the U.S., coverage is primary for business rentals and secondary for personal rentals (primary if you have no other insurance); outside the U.S. it is primary where available. New York residents have the stated personal-auto-insurance limitation. It does not cover liability, injury, damage to other property or personal belongings; vehicle and claim exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
           "kind": "protection",
           "priority": 207
         },
         {
           "id": "chase-sapphire-reserve-for-business-us-emergency-evacuation-transportation",
           "title": "Emergency evacuation & transportation",
-          "detail": "If you or a covered traveler are injured or become sick during a trip 100 miles or more from home that results in an emergency evacuation, you can be covered for medical services and transportation up to $100,000.",
+          "detail": "Emergency evacuation and transportation services for an eligible traveler who becomes seriously sick, injured or dies on a covered trip. Service must be medically necessary and authorized and arranged in advance by the service provider; covered trip must last 5–60 days and be more than 100 miles from the traveler’s primary residence. Unauthorized expenses and local first-responder services are not reimbursed. This is a service benefit, not insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
-          "kind": "protection",
-          "priority": 208
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "chase-sapphire-reserve-for-business-us-roadside-assistance",
           "title": "Roadside assistance",
-          "detail": "If you have a roadside emergency, you can call for a tow, battery assistance, tire change, locksmith or gas.",
+          "detail": "24/7 roadside dispatch for towing, battery service, tire changes, lockout assistance or fuel delivery. Up to $50 per incident, four incidents per year; you pay charges above the allowance and any non-covered service. Availability and vehicle/access restrictions apply. This is not insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
-          "kind": "protection",
-          "priority": 209
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "chase-sapphire-reserve-for-business-us-travel-emergency-assistance",
           "title": "Travel & emergency assistance",
-          "detail": "If you run into a problem while traveling away from home, this benefit provides legal and medical referrals and access to other travel and emergency assistance services. (You will be responsible for the cost of any goods or services obtained.)",
+          "detail": "24/7 travel and emergency assistance can arrange medical and legal referrals, emergency transportation, translation and other help while traveling. The service provides referrals and assistance; you are responsible for the cost of goods or services you obtain.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "chase-sapphire-reserve-for-business-us-emergency-medical-dental",
+          "title": "Emergency medical and dental benefit",
+          "detail": "Reimburses eligible emergency medical and dental expenses up to $2,500 per covered traveler per trip, subject to a $50 deductible. If hospitalization is followed by a physician-directed hotel recovery before returning home, up to an additional $75 per day for five days may be available. Covered trips must meet the Guide to Benefits’ duration, distance, payment and eligibility rules; benefit is secondary to other valid insurance or reimbursement.",
+          "capMinor": 250000,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
           "kind": "protection",
-          "priority": 210
+          "priority": 211
+        },
+        {
+          "id": "chase-sapphire-reserve-for-business-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Reimburses repair or replacement of checked or carry-on baggage and personal property inside it, up to $3,000 per covered traveler per trip. New York residents are limited to $2,000 per bag and $10,000 for all covered travelers per trip. Jewelry/watches and camera/electronics have separate $500 sublimits. Report loss to the carrier; reimbursement is secondary to the carrier and other recovery. Covered-trip payment and claim requirements apply.",
+          "capMinor": 300000,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
+          "kind": "protection",
+          "priority": 212
+        },
+        {
+          "id": "chase-sapphire-reserve-for-business-us-travel-accident-insurance",
+          "title": "Travel accident insurance",
+          "detail": "Accidental death or dismemberment coverage up to $100,000 for 24-hour travel accident coverage and up to $1,000,000 for common-carrier travel per covered traveler. All or part of the common-carrier fare must be charged to the covered account and/or paid with eligible rewards; covered travelers need not travel with the cardmember. Trip duration, covered-loss definitions, exclusions and account-wide maximums apply.",
+          "capMinor": 100000000,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://static.chasecdn.com/content/services/structured-document/document.en.pdf/card/benefits-center/product-benefits-guide-pdf/BGC11585.pdf",
+          "kind": "protection",
+          "priority": 213
+        },
+        {
+          "id": "issuer-car-rental-partner-benefits",
+          "title": "Avis, Hertz and National car rental benefits",
+          "detail": "Avis offers up to 30% off qualifying base rates at 5,000+ locations, automatic Preferred Plus enrollment, free weekend rentals and up to 10% off Select Series. Hertz offers savings, faster service, extra return hours on U.S. rentals and bonus points to enrolled Hertz Gold Plus Rewards members. National offers up to 25% off qualifying rentals at participating U.S., Canadian, Latin American and Caribbean locations, complimentary Emerald Club Executive membership, an eligible free weekend day and one-class upgrade. Rates, eligibility, locations and partner terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-transfer-points-to-travel-partners",
+          "title": "Transfer points to airline and hotel partners",
+          "detail": "Transfer Chase Ultimate Rewards points to participating airline and hotel loyalty programs, generally at a 1:1 ratio in 1,000-point increments. Partner availability, account linking, minimums and transfer terms apply; transfers are final once completed.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://creditcards.chase.com/business-credit-cards/sapphire/reserve",
+          "kind": "benefit",
+          "priority": 100
         }
       ],
       "statuses": [
@@ -33566,7 +33621,7 @@
           "tier": "Platinum Elite",
           "rank": 20,
           "enrollmentRequired": true,
-          "condition": "",
+          "condition": "Complimentary for the Authorizing Officer through 12/31/2027; activate by linking the IHG account in Chase Benefits and allow up to three weeks. Not available to Employee Cardmembers; status requires the card account to remain open and IHG account in good standing.",
           "automatic": true,
           "sourceURL": "https://www.chase.com/sapphire-cards/business/reserve"
         },
