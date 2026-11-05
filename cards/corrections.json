@@ -18431,7 +18431,7 @@
       "issuer": "American Express",
       "market": "CAN",
       "annualFeeMinor": 59900,
-      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "feeNote": "Current annual fee C$599; eligible supplementary Reserve cards C$199 or no-fee limited-benefit cards. From January 12, 2027 annual fee billing: basic C$799, supplementary C$249, renamed Companion Card C$25. Foreign currency surcharge 2.5%.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-aeroplan-reserve-can",
@@ -18439,345 +18439,491 @@
         "aeroplan"
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
-      "checkedOn": "2026-11-01",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Current product benefits, September 2026 agreement, July 1, 2025 insurance and official January 2027 change terms reviewed November 4, 2026. New 2027 benefits are dated separately. Card and Aeroplan account must be eligible/in good standing; link the correct Aeroplan account and include it on bookings. Status qualification credits do not grant automatic Aeroplan Elite status. Insurance payment, Canadian-residency, exclusions and claim evidence requirements apply. NEXUS uses issuer-defined fixed four-year eligibility windows; its slider is manual because build 3's rolling-from-use timer cannot reproduce those windows. No mobile-device insurance is listed.",
       "benefits": [
         {
           "id": "nexus",
           "title": "NEXUS credit",
-          "detail": "Up to C$100 in statement credits every four years on an eligible NEXUS application or renewal fee.",
+          "detail": "Up to C$100/account for eligible NEXUS application/renewal fees in each issuer-defined four-year window, shared by basic/supplementary spend. New-card windows are anchored to the initial card anniversary; existing May 11, 2022 accounts use May 11–May 10 cycles. Rounded down to whole CAD; allow eight weeks. Track manually against Amex's fixed eligibility window.",
           "capMinor": 10000,
           "reset": "oneTime",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
-          "intervalYears": 4,
-          "kind": "credit"
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "checked-bag",
           "title": "Free first checked bag",
-          "detail": "Free first checked bag for the cardmember and eligible companions on qualifying Air Canada itineraries, subject to current terms.",
+          "detail": "First checked bag up to 23kg/50lb for the eligible Cardmember and up to eight companions on the same reservation when checking in with Air Canada for an Air Canada/Rouge/Express-operated flight. Include the linked Aeroplan number; not extra baggage allowance on an already included bag. Supplementary eligibility follows the card tier.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
           "kind": "benefit",
-          "priority": 113
+          "priority": 100
         },
         {
           "id": "air-canada-priority",
           "title": "Air Canada airport benefits",
-          "detail": "Eligible Air Canada priority airport benefits under current card terms.",
+          "detail": "Eligible basic and paid supplementary Reserve cardholders receive priority Air Canada check-in, boarding and baggage handling, with up to eight companions on the same reservation. Linked Aeroplan numbers and qualifying Air Canada/Rouge/Express flights required; no-fee supplementary cards lack these airline benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
           "kind": "benefit",
-          "priority": 114
+          "priority": 100
         },
         {
           "id": "instacart",
           "title": "Instacart credits",
-          "detail": "Current monthly Instacart statement-credit member extra through the published end date.",
-          "capMinor": 1000,
+          "detail": "Register in Amex Offers before purchase: two C$10 credits/month require two separate single-retailer Instacart Canada purchases of C$10 or more each. CAD and Canadian delivery required; gift cards, prescriptions, alcohol, international orders and listed Instacart programs excluded. Basic registered card only; through December 31, 2027, no rollover. Credit may take 150 days.",
+          "capMinor": 2000,
           "reset": "monthly",
           "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/member-extras/aeroplan-reserve/",
           "reminderOnPeriodStart": true,
           "endsBefore": "2028-01-01",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "priority-pass",
           "title": "Priority Pass membership",
-          "detail": "Priority Pass membership benefit; individual visits may have separate charges under current Canadian Aeroplan Reserve terms.",
+          "detail": "Enroll the basic Cardmember for Priority Pass membership; through January 11, 2027 all lounge visits/guests are paid at prevailing rates. Supplementary/no-fee cards do not get this membership. Same-day boarding pass, participating-lounge and guest rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "aeroplan-2027-flight-discount",
           "title": "15% off eligible Air Canada flight rewards",
-          "detail": "Ongoing from January 12, 2027, for eligible Aeroplan flight rewards containing an Air Canada flight. A limited-time promotion applies through January 11, 2027; check the displayed price and account terms.",
+          "detail": "From January 12, 2027: 15% fewer points on the base fare of eligible Air Canada flight rewards, compared with a non-cardholder's same itinerary. An entire outbound or inbound origin–destination journey must be operated by Air Canada/Rouge/Express. Log in and book through Air Canada; mixed-operated journeys may not qualify. Taxes/cash charges are not reduced.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-          "startsOn": null,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
+          "startsOn": "2027-01-12",
           "kind": "benefit",
           "priority": 100
         },
         {
           "id": "aeroplan-2027-hotel-night",
           "title": "Fourth night free on Aeroplan hotel redemptions",
-          "detail": "A current limited-time fourth-night-free offer applies to eligible Aeroplan hotel redemptions. From January 12, 2027, it becomes an ongoing card benefit for eligible four-night points stays booked through the Aeroplan hotel portal.",
+          "detail": "From January 12, 2027: each four consecutive hotel nights in one eligible Aeroplan hotel-portal booking paid entirely with points receive a reduction equal to the average points cost of one night. Cash/points bookings and combined separate reservations do not qualify; local/resort fees may remain payable.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-          "startsOn": null,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
+          "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 104
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-car-day",
           "title": "Fourth day free on Aeroplan car rental redemptions",
-          "detail": "From January 12, 2027, one day free for each eligible four consecutive rental days redeemed with Aeroplan points; check booking terms.",
+          "detail": "From January 12, 2027: each four consecutive rental days in one eligible Aeroplan car-portal booking paid entirely with points receive a reduction equal to one day's average points cost. Same vehicle/provider/reservation required; cash/points bookings excluded. Fuel, insurance and local fees may remain payable.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 105
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-ac-wallet",
           "title": "Air Canada AC Wallet flight credit",
-          "detail": "C$50 deposited January 15 and July 15 (up to C$100 per year) for the primary cardholder. Each deposit expires after six months; applies to eligible Air Canada bookings, not reward-ticket taxes and fees.",
+          "detail": "From January 15, 2027: basic Cardmember receives C$50 in AC Wallet January 15 and July 15, each expiring after six months. Aeroplan account must be linked at least 72 hours before issue. Use on a new direct Air Canada/Rouge/Express marketed-and-operated cash booking before expiry; not reward-ticket taxes, existing reservations or cash. Account closure cancels unused coupons.",
           "capMinor": 5000,
           "reset": "aeroplanWallet",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
           "startsOn": "2027-01-15",
           "kind": "credit",
-          "priority": 10
+          "priority": 20
         },
         {
           "id": "aeroplan-2027-global-mll",
           "title": "Worldwide Maple Leaf Lounge access",
-          "detail": "From January 12, 2027, eligible Air Canada Maple Leaf Lounges and Air Canada Cafés worldwide for the cardholder and one travel companion, subject to current itinerary and entry rules.",
+          "detail": "From January 12, 2027: eligible basic/paid supplementary cardholders plus one guest receive access to participating Maple Leaf Lounges and Air Canada Cafés worldwide with eligible same-day departing Air Canada/Star Alliance travel. Signature Suites and third-party lounges excluded; space, itinerary and entry rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 101
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-priority-security",
           "title": "Priority security at select airports",
-          "detail": "From January 12, 2027, dedicated priority security lanes where available for the cardholder and up to eight companions on the same reservation.",
+          "detail": "From January 12, 2027: priority security where available when checking in with Air Canada for Air Canada/Rouge/Express-operated travel; eligible Cardmember and up to eight companions on the same reservation. Linked matching Aeroplan number required.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 106
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-dining",
           "title": "EnRoute Best New Restaurants dining credit",
-          "detail": "Up to C$200 annually from January 12, 2027, at eligible restaurants on the EnRoute Best New Restaurants finalists list. Verify participating restaurants and credit terms before purchase.",
+          "detail": "From January 12, 2027: one C$200 statement credit/calendar year after C$200 cumulative eligible direct purchases at participating Amex-accepting Air Canada's Best New Restaurants. Basic/supplementary spend counts; no carryover. Gift cards, deposits, takeaway, delivery, no-show fees and third-party/hotel-room billing excluded. Restaurant lists rotate; allow up to 12 weeks.",
           "capMinor": 20000,
           "reset": "calendarYear",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "credit",
-          "priority": 10
+          "priority": 20
         },
         {
           "id": "aeroplan-2027-priority-pass-visits",
-          "title": "Six Priority Pass lounge visits",
-          "detail": "From January 12, 2027, six visits each year through Priority Pass. Enrollment and participating lounge terms apply.",
+          "title": "Two Priority Pass visits; up to six with spend",
+          "detail": "From January 12, 2027: enroll for two basic-cardholder passes/calendar year. C$25,000 eligible calendar-year spend unlocks four more in that year and four in the next, maximum six/year. Guests use passes; maximum one guest/visit; unused passes expire December 31. 2027 qualifying spend starts January 12; allow up to 12 weeks to issue earned passes.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 102
+          "priority": 30
         },
         {
           "id": "aeroplan-2027-aspire-visits",
           "title": "Eight Canadian Aspire lounge visits",
-          "detail": "From January 12, 2027, eight visits per year to eligible Amex Aspire lounges in Canada, subject to current terms.",
+          "detail": "From January 12, 2027: eight basic-Cardmember passes/calendar year at select Aspire Amex lounges in Canada, shared with a maximum one accompanying guest per visit. Present eligible card and same-day confirmed boarding pass; guest uses a pass. Further-guest charges and lounge rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 103
+          "priority": 100
         },
         {
           "id": "pot-priority-travel-for-you-and-8-companions",
           "title": "Priority travel for you and 8 companions",
-          "detail": "Priority check-in, boarding and baggage handling on Air Canada for you and up to 8 companions on the same booking.",
+          "detail": "Eligible basic and paid supplementary Reserve cardholders receive priority Air Canada check-in, boarding and baggage handling, with up to eight companions on the same reservation. Linked Aeroplan numbers and qualifying Air Canada/Rouge/Express flights required; no-fee supplementary cards lack these airline benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 107
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "pot-status-qualifying-credits-from-spending",
           "title": "Status Qualifying Credits from spending",
-          "detail": "Earn 1,000 SQC for every $5,000 spent, up to 25,000 SQC a year, toward Aeroplan Elite Status.",
+          "detail": "Earn 1,000 SQC per C$5,000 eligible net purchases posted to the account; combined maximum 25,000 SQC/member/calendar year across all Aeroplan credit cards/issuers. Additional-card spend counts for the basic Cardmember. These qualify toward elite status; they are not redeemable points or an automatic status grant.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 108
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478734-50498176-0926-Aeroplan-Reserve-Lend-Online-CMA-EN.pdf",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "pot-10-head-start-on-aeroplan-status",
           "title": "10% head start on Aeroplan status",
-          "detail": "From 2027, get a 10% head start toward Aeroplan Elite Status each year.",
+          "detail": "From 2027, eligible basic Cardmembers holding Aeroplan 25K or above receive 10% of their prior year's accumulated SQC by March 31. Card approval before December 15 of the prior year, account linkage and elite status on February 15 required. One head start/member/year; closure removes that year's awarded head-start SQC.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 109
+          "sourceURL": "https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/amex/personal.html",
+          "priority": 100,
+          "kind": "benefit",
+          "startsOn": "2027-01-01"
         },
         {
           "id": "pot-eupgrade-credits-last-24-months",
           "title": "eUpgrade credits last 24 months",
-          "detail": "Your Air Canada eUpgrade credits stay valid for 24 months.",
+          "detail": "New qualifying eUpgrade credits issued while the basic Cardmember holds Aeroplan Elite 25K+ and a linked eligible premium card are valid 24 months instead of 12. Promotional/goodwill and already rolled-over credits generally excluded; earlier credits are not retroactively extended.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 110
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "pot-annual-companion-flight",
-          "title": "Annual companion flight",
-          "detail": "An annual companion flight benefit on Air Canada, under current terms.",
+          "title": "Annual Worldwide Companion Pass at C$25,000",
+          "detail": "Spend C$25,000 in eligible net purchases before each card anniversary/reset date to earn one companion pass after renewal; allow 8–10 weeks. Companion economy base fare C$99–C$599 by region, plus taxes/fees/surcharges; basic Cardmember buys an eligible paid fare and travels on the same itinerary. Pass valid to book for 12 months; card must remain open/in good standing.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 111
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478734-50498176-0926-Aeroplan-Reserve-Lend-Online-CMA-EN.pdf",
+          "priority": 100,
+          "kind": "benefit",
+          "spendMilestoneMinor": 2500000,
+          "spendPeriod": "anniversary"
         },
         {
           "id": "pot-priority-airport-services-at-toronto-pearson",
           "title": "Priority airport services at Toronto Pearson",
-          "detail": "Priority airport services at YYZ.",
+          "detail": "Eligible basic/paid supplementary cards: Pearson priority security, complimentary valet service (parking charges remain), and 15% off eligible Express/Daily Park and car-care services under current booking/payment rules. No-fee supplementary cards excluded; services subject to availability.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
-          "priority": 112
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "ins-emergency-medical",
           "title": "Emergency medical insurance",
-          "detail": "Coverage up to a maximum of $5,000,000 for eligible emergency medical expenses incurred by you (if under age 65) while travelling outside your province or territory of residence for the first 15 consecutive days of a covered trip.",
+          "detail": "Up to C$5 million/person/trip for eligible insured persons age 64 or under, first 15 consecutive days outside the home province; government health coverage required. 90-day pre-existing-condition stability rules apply. Contact Global Excel before treatment or a 20% cost share can apply under the certificate; file claims within 90 days of return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-trip-cancellation",
           "title": "Trip cancellation insurance",
-          "detail": "Coverage for the non-refundable and non-transferable portion of travel arrangements charged to your American Express® Aeroplan®* Reserve Card before your departure date if you cancel your trip for a covered reason.",
+          "detail": "Covered cancellation: up to C$1,500/person and C$3,000/trip aggregate for eligible non-refundable prepaid costs paid with the card/its rewards. Only eligible payment amounts covered; other loyalty-program redemptions excluded. Defined covered causes, 90-day pre-existing-condition stability and prompt supplier/assistance notification apply; claims within 90 days of return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-trip-interruption",
           "title": "Trip interruption insurance",
-          "detail": "Coverage for the non-refundable and non-transferable unused portion of travel arrangements charged to your Card before your departure date if your trip is interrupted or delayed for a covered reason.",
+          "detail": "Covered interruption: up to C$1,500/person and C$6,000/trip aggregate. Eligible out-of-pocket expenses C$100/person/day, C$1,000 aggregate. Some prepaid travel must be paid with card/its rewards; other-program redemptions excluded. Covered-cause, stability and assistance-authorization rules apply; claims within 90 days of return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-flight-delay",
           "title": "Flight delay insurance",
-          "detail": "Coverage for when your flight is delayed or you are denied boarding for up to 4 hours or more and no alternate transportation is made available.",
+          "detail": "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$1,000 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-baggage",
           "title": "Delayed & lost baggage insurance",
-          "detail": "Coverage for when your checked baggage is delayed for 6 hours or more.",
+          "detail": "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$1,000 with flight delay. Lost/stolen baggage has a separate C$1,000 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required. Delay essentials must be purchased within four days and before baggage return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-hotel-burglary",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,000 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "You could be covered in the event of the theft, loss, and/or damage of your rental car with a Manufacturer’s Suggested Retail Price of up to $85,000 for rentals of 48 days or less.",
+          "detail": "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-travel-accident",
           "title": "Travel accident insurance",
-          "detail": "You can be covered up to $500,000 of Accidental Death and Dismemberment Insurance when you fully charge your plane, train, ship, or bus tickets to your Card.",
+          "detail": "Scheduled accidental death/dismemberment benefits up to C$500,000 per covered person on a covered common-carrier trip. Charge the fare to the card before injury; eligible spouse/dependent children under 23 are included. Loss must occur within 100 days of the accident; exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-purchase-protection",
           "title": "Purchase protection",
-          "detail": "When you charge eligible items to your Card, you could be insured for 90 days from the date of purchase in the event of accidental physical damage or theft for up to $1,000 per occurrence (even if the occurrence involves more than one insur",
+          "detail": "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "This coverage could extend the manufacturer’s warranty up to one additional year when you charge the entire purchase price of an eligible new item to your Card.",
+          "detail": "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Register for eligible targeted offers before spending; merchants, thresholds, expiry dates and reward types vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-experiences",
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible Front Of The Line presale and reserved tickets, events and experiences; availability, payment and ticket terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-replacement",
+          "title": "Fraud protection and emergency card replacement",
+          "detail": "Fraud protection requires reasonable care of account details and PIN and prompt notification of suspected misuse. Contact Amex for lost/stolen-card assistance and replacement.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "travel-emergency-assistance",
+          "title": "Travel emergency assistance",
+          "detail": "24/7 out-of-town medical/legal referral and coordination services. This is not medical insurance; third-party expenses are your responsibility and services must be arranged/authorized by the assistance provider.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-aeroplan-link",
+          "title": "Link Aeroplan and keep points active",
+          "detail": "Link your own Aeroplan number to the card and include it on eligible bookings. Airline benefits may take 72 hours to activate. Aeroplan points do not expire while you remain the eligible basic Cardmember and your Aeroplan account is in good standing.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/"
+        },
+        {
+          "id": "issuer-hyatt-bonus",
+          "title": "Additional World of Hyatt points",
+          "detail": "Link eligible Aeroplan and World of Hyatt accounts before purchase: two World of Hyatt bonus points/C$1 on eligible direct Hyatt purchases, separate from Aeroplan earnings. Basic Cardmember only; no retroactive points. Current linked-program terms run through June 30, 2029; accounts must be in good standing.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html",
+          "endsBefore": "2029-07-01"
+        },
+        {
+          "id": "issuer-avis-status",
+          "title": "Avis President's Club status",
+          "detail": "Enroll through the Aeroplan Avis form with an existing Avis account. Upgrade requires approval and follows current Avis status/rental terms; card eligibility and account good standing required.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/"
+        },
+        {
+          "id": "issuer-maple-leaf-current",
+          "title": "Maple Leaf Lounge and Air Canada Café access",
+          "detail": "Through January 11, 2027: eligible basic/paid supplementary Reserve Cardmember plus one guest at participating Maple Leaf Lounges/Air Canada Cafés in Canada/US with eligible same-day departing Air Canada/Star Alliance travel. No Signature Suites or third-party lounges; capacity and guest rules apply.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "endsBefore": "2027-01-12"
+        },
+        {
+          "id": "aeroplan-2027-spend-points",
+          "title": "Annual Aeroplan spending bonus",
+          "detail": "From January 12, 2027: 12,500 bonus Aeroplan points after C$125,000 eligible posted calendar-year spend, then 2,500 per additional C$25,000 up to C$400,000 total spend/40,000 bonus points. Basic member receives bonus; additional-card spend counts. Calendar reset, 2027 spend starts January 12; allow eight weeks.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
+          "startsOn": "2027-01-12",
+          "spendMilestoneMinor": 12500000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "issuer-hyatt-status",
+          "title": "World of Hyatt Discoverist and night credits",
+          "detail": "Link accounts: Discoverist status, five tier-qualifying nights after linking and each later year by January 31, plus eligibility to register for two status challenges/calendar year. Basic Cardmember only; these are qualifying nights, not free hotel nights. Current partner terms and challenge requirements apply.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/"
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "avis-presidents-club",
+          "programID": "avis",
+          "tier": "President's Club",
+          "rank": 30,
+          "enrollmentRequired": true,
+          "automatic": true,
+          "condition": "Basic Cardmember must register through Aeroplan with an existing Avis account; subject to approval and Avis terms. Maintain eligible card and account.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/"
+        },
+        {
+          "id": "hyatt-discoverist",
+          "programID": "hyatt",
+          "tier": "Discoverist",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "automatic": true,
+          "condition": "Basic Cardmember must link their eligible Aeroplan and World of Hyatt accounts; accounts/card in good standing. Partner eligibility and program terms apply.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -18791,7 +18937,7 @@
           "detail": "All other eligible purchases.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478734-50498176-0926-Aeroplan-Reserve-Lend-Online-CMA-EN.pdf"
         },
         {
           "id": "air-canada",
@@ -18805,7 +18951,7 @@
           "detail": "Eligible purchases made directly with Air Canada and Air Canada Vacations.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478734-50498176-0926-Aeroplan-Reserve-Lend-Online-CMA-EN.pdf"
         },
         {
           "id": "dining-delivery",
@@ -18822,7 +18968,7 @@
             "CA"
           ],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478734-50498176-0926-Aeroplan-Reserve-Lend-Online-CMA-EN.pdf"
         },
         {
           "id": "hyatt",
@@ -18833,17 +18979,19 @@
           "rewardKind": "points",
           "programID": "aeroplan",
           "label": "Aeroplan points",
-          "detail": "Eligible purchases at Hyatt hotels.",
+          "detail": "2 Aeroplan points/C$1 directly at participating Hyatt hotels/resorts, July 15, 2026–July 15, 2029. Third-party/other Hyatt transactions excluded; this is not the separate linked World of Hyatt bonus.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/"
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+          "startsOn": "2026-07-15",
+          "endsBefore": "2029-07-16"
         }
       ],
       "accountType": "personal",
       "artworkPageURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/",
       "artworkSearchTerms": "Amex Aeroplan Reserve",
       "reviewURL": "https://princeoftravel.com/credit-cards/",
-      "catalogLevel": "partial",
+      "catalogLevel": "verified",
       "availability": "confirm-with-issuer",
       "loungeAccess": [
         {
@@ -18875,9 +19023,13 @@
       ],
       "benefitSourceURLs": [
         "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-reserve/",
-        "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-        "https://www.aircanada.com/ca/en/aco/home/aeroplan/newcardbenefits.html",
-        "https://princeoftravel.com/credit-cards/american-express-aeroplan-reserve-card/"
+        "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/",
+        "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478734-50498176-0926-Aeroplan-Reserve-Lend-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/aeroplan-reserve/",
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/amex/personal.html",
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html"
       ],
       "artworkURL": "https://princeoftravel.com/images/cards/aeroplan-reserve-card.png",
       "foreignTransactionFeePercent": 2.5,
@@ -18890,7 +19042,7 @@
       "issuer": "American Express",
       "market": "CAN",
       "annualFeeMinor": 59900,
-      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "feeNote": "Current annual fee C$599; eligible supplementary Reserve cards C$199 or no-fee limited-benefit cards. From January 12, 2027 annual fee billing: basic C$799, supplementary C$249, renamed Expense Card C$25. Foreign currency surcharge 2.5%.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-aeroplan-business-reserve-can",
@@ -18898,333 +19050,476 @@
         "aeroplan"
       ],
       "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
-      "checkedOn": "2026-11-01",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Current product benefits, September 2026 agreement, July 1, 2025 insurance and official January 2027 change terms reviewed November 4, 2026. New 2027 benefits are dated separately. Card and Aeroplan account must be eligible/in good standing; link the correct Aeroplan account and include it on bookings. Status qualification credits do not grant automatic Aeroplan Elite status. Insurance payment, Canadian-residency, exclusions and claim evidence requirements apply. NEXUS uses issuer-defined fixed four-year eligibility windows; its slider is manual because build 3's rolling-from-use timer cannot reproduce those windows. No mobile-device insurance is listed. Employee-misuse full terms were not publicly linked and remain unresolved.",
       "benefits": [
         {
           "id": "nexus",
           "title": "NEXUS credit",
-          "detail": "Up to C$100 in statement credits every four years on an eligible NEXUS application or renewal fee.",
+          "detail": "Up to C$100/account for eligible NEXUS application/renewal fees in each issuer-defined four-year window, shared by basic/supplementary spend. New-card windows are anchored to the initial card anniversary; existing May 11, 2022 accounts use May 11–May 10 cycles. Rounded down to whole CAD; allow eight weeks. Track manually against Amex's fixed eligibility window.",
           "capMinor": 10000,
           "reset": "oneTime",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/business/credit-cards/",
-          "intervalYears": 4,
-          "kind": "credit"
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "checked-bag",
           "title": "Free first checked bag",
-          "detail": "Free first checked bag for the cardmember and eligible companions on qualifying Air Canada itineraries, subject to current terms.",
+          "detail": "First checked bag up to 23kg/50lb for the eligible Cardmember and up to eight companions on the same reservation when checking in with Air Canada for an Air Canada/Rouge/Express-operated flight. Include the linked Aeroplan number; not extra baggage allowance on an already included bag. Supplementary eligibility follows the card tier.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/business/credit-cards/",
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
           "kind": "benefit",
-          "priority": 113
+          "priority": 100
         },
         {
           "id": "air-canada-priority",
           "title": "Air Canada airport benefits",
-          "detail": "Eligible Air Canada priority airport benefits under current card terms.",
+          "detail": "Eligible basic and paid supplementary Reserve cardholders receive priority Air Canada check-in, boarding and baggage handling, with up to eight companions on the same reservation. Linked Aeroplan numbers and qualifying Air Canada/Rouge/Express flights required; no-fee supplementary cards lack these airline benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/business/credit-cards/",
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
           "kind": "benefit",
-          "priority": 114
+          "priority": 100
         },
         {
           "id": "instacart",
           "title": "Instacart credits",
-          "detail": "Current monthly Instacart statement-credit member extra through the published end date.",
-          "capMinor": 1000,
+          "detail": "Register in Amex Offers before purchase: two C$10 credits/month require two separate single-retailer Instacart Canada purchases of C$10 or more each. CAD and Canadian delivery required; gift cards, prescriptions, alcohol, international orders and listed Instacart programs excluded. Basic registered card only; through December 31, 2027, no rollover. Credit may take 150 days.",
+          "capMinor": 2000,
           "reset": "monthly",
           "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/business/credit-cards/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/benefits/member-extras/aeroplan-reserve/",
           "reminderOnPeriodStart": true,
           "endsBefore": "2028-01-01",
-          "kind": "credit"
+          "kind": "credit",
+          "priority": 20
         },
         {
           "id": "priority-pass",
           "title": "Priority Pass membership",
-          "detail": "Priority Pass membership benefit; individual visits may have separate charges under current Canadian Aeroplan Reserve terms.",
+          "detail": "Enroll the basic Cardmember for Priority Pass membership; through January 11, 2027 all lounge visits/guests are paid at prevailing rates. Supplementary/no-fee cards do not get this membership. Same-day boarding pass, participating-lounge and guest rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
-          "sourceURL": "https://www.americanexpress.com/en-ca/business/credit-cards/",
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "aeroplan-2027-flight-discount",
           "title": "15% off eligible Air Canada flight rewards",
-          "detail": "Ongoing from January 12, 2027, for eligible Aeroplan flight rewards containing an Air Canada flight. A limited-time promotion applies through January 11, 2027; check the displayed price and account terms.",
+          "detail": "From January 12, 2027: 15% fewer points on the base fare of eligible Air Canada flight rewards, compared with a non-cardholder's same itinerary. An entire outbound or inbound origin–destination journey must be operated by Air Canada/Rouge/Express. Log in and book through Air Canada; mixed-operated journeys may not qualify. Taxes/cash charges are not reduced.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-          "startsOn": null,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
+          "startsOn": "2027-01-12",
           "kind": "benefit",
           "priority": 100
         },
         {
           "id": "aeroplan-2027-hotel-night",
           "title": "Fourth night free on Aeroplan hotel redemptions",
-          "detail": "A current limited-time fourth-night-free offer applies to eligible Aeroplan hotel redemptions. From January 12, 2027, it becomes an ongoing card benefit for eligible four-night points stays booked through the Aeroplan hotel portal.",
+          "detail": "From January 12, 2027: each four consecutive hotel nights in one eligible Aeroplan hotel-portal booking paid entirely with points receive a reduction equal to the average points cost of one night. Cash/points bookings and combined separate reservations do not qualify; local/resort fees may remain payable.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-          "startsOn": null,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
+          "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 104
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-car-day",
           "title": "Fourth day free on Aeroplan car rental redemptions",
-          "detail": "From January 12, 2027, one day free for each eligible four consecutive rental days redeemed with Aeroplan points; check booking terms.",
+          "detail": "From January 12, 2027: each four consecutive rental days in one eligible Aeroplan car-portal booking paid entirely with points receive a reduction equal to one day's average points cost. Same vehicle/provider/reservation required; cash/points bookings excluded. Fuel, insurance and local fees may remain payable.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 105
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-ac-wallet",
           "title": "Air Canada AC Wallet flight credit",
-          "detail": "C$50 deposited January 15 and July 15 (up to C$100 per year) for the primary cardholder. Each deposit expires after six months; applies to eligible Air Canada bookings, not reward-ticket taxes and fees.",
+          "detail": "From January 15, 2027: basic Cardmember receives C$50 in AC Wallet January 15 and July 15, each expiring after six months. Aeroplan account must be linked at least 72 hours before issue. Use on a new direct Air Canada/Rouge/Express marketed-and-operated cash booking before expiry; not reward-ticket taxes, existing reservations or cash. Account closure cancels unused coupons.",
           "capMinor": 5000,
           "reset": "aeroplanWallet",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
           "startsOn": "2027-01-15",
           "kind": "credit",
-          "priority": 10
+          "priority": 20
         },
         {
           "id": "aeroplan-2027-global-mll",
           "title": "Worldwide Maple Leaf Lounge access",
-          "detail": "From January 12, 2027, eligible Air Canada Maple Leaf Lounges and Air Canada Cafés worldwide for the cardholder and one travel companion, subject to current itinerary and entry rules.",
+          "detail": "From January 12, 2027: eligible basic/paid supplementary cardholders plus one guest receive access to participating Maple Leaf Lounges and Air Canada Cafés worldwide with eligible same-day departing Air Canada/Star Alliance travel. Signature Suites and third-party lounges excluded; space, itinerary and entry rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 101
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-priority-security",
           "title": "Priority security at select airports",
-          "detail": "From January 12, 2027, dedicated priority security lanes where available for the cardholder and up to eight companions on the same reservation.",
+          "detail": "From January 12, 2027: priority security where available when checking in with Air Canada for Air Canada/Rouge/Express-operated travel; eligible Cardmember and up to eight companions on the same reservation. Linked matching Aeroplan number required.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 106
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-priority-pass-visits",
-          "title": "Six Priority Pass lounge visits",
-          "detail": "From January 12, 2027, six visits each year through Priority Pass. Enrollment and participating lounge terms apply.",
+          "title": "Two Priority Pass visits; up to six with spend",
+          "detail": "From January 12, 2027: enroll for two basic-cardholder passes/calendar year. C$25,000 eligible calendar-year spend unlocks four more in that year and four in the next, maximum six/year. Guests use passes; maximum one guest/visit; unused passes expire December 31. 2027 qualifying spend starts January 12; allow up to 12 weeks to issue earned passes.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 102
+          "priority": 30
         },
         {
           "id": "aeroplan-2027-aspire-visits",
           "title": "Eight Canadian Aspire lounge visits",
-          "detail": "From January 12, 2027, eight visits per year to eligible Amex Aspire lounges in Canada, subject to current terms.",
+          "detail": "From January 12, 2027: eight basic-Cardmember passes/calendar year at select Aspire Amex lounges in Canada, shared with a maximum one accompanying guest per visit. Present eligible card and same-day confirmed boarding pass; guest uses a pass. Further-guest charges and lounge rules apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 103
+          "priority": 100
         },
         {
           "id": "pot-priority-travel-for-you-and-8-companions",
           "title": "Priority travel for you and 8 companions",
-          "detail": "Priority check-in, boarding and baggage handling on Air Canada for you and up to 8 companions on the same booking.",
+          "detail": "Eligible basic and paid supplementary Reserve cardholders receive priority Air Canada check-in, boarding and baggage handling, with up to eight companions on the same reservation. Linked Aeroplan numbers and qualifying Air Canada/Rouge/Express flights required; no-fee supplementary cards lack these airline benefits.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 107
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "pot-status-qualifying-credits-from-spending",
           "title": "Status Qualifying Credits from spending",
-          "detail": "Earn 1,000 SQC for every $5,000 spent, up to 25,000 SQC a year, toward Aeroplan Elite Status.",
+          "detail": "Earn 1,000 SQC per C$5,000 eligible net purchases posted to the account; combined maximum 25,000 SQC/member/calendar year across all Aeroplan credit cards/issuers. Additional-card spend counts for the basic Cardmember. These qualify toward elite status; they are not redeemable points or an automatic status grant.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 108
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478738-50498176-0926-Aeroplan-Business-Reserve-Online-CMA-EN.pdf",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "pot-10-head-start-on-aeroplan-status",
           "title": "10% head start on Aeroplan status",
-          "detail": "From 2027, get a 10% head start toward Aeroplan Elite Status each year.",
+          "detail": "From 2027, eligible basic Cardmembers holding Aeroplan 25K or above receive 10% of their prior year's accumulated SQC by March 31. Card approval before December 15 of the prior year, account linkage and elite status on February 15 required. One head start/member/year; closure removes that year's awarded head-start SQC.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 109
+          "sourceURL": "https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/amex/personal.html",
+          "priority": 100,
+          "kind": "benefit",
+          "startsOn": "2027-01-01"
         },
         {
           "id": "pot-eupgrade-credits-last-24-months",
           "title": "eUpgrade credits last 24 months",
-          "detail": "Your Air Canada eUpgrade credits stay valid for 24 months.",
+          "detail": "New qualifying eUpgrade credits issued while the basic Cardmember holds Aeroplan Elite 25K+ and a linked eligible premium card are valid 24 months instead of 12. Promotional/goodwill and already rolled-over credits generally excluded; earlier credits are not retroactively extended.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 110
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "pot-annual-worldwide-companion-pass",
-          "title": "Annual Worldwide Companion Pass",
-          "detail": "An annual companion pass for Air Canada flights, under current terms.",
+          "title": "Annual Worldwide Companion Pass at C$25,000",
+          "detail": "Spend C$25,000 in eligible net purchases before each card anniversary/reset date to earn one companion pass after renewal; allow 8–10 weeks. Companion economy base fare C$99–C$599 by region, plus taxes/fees/surcharges; basic Cardmember buys an eligible paid fare and travels on the same itinerary. Pass valid to book for 12 months; card must remain open/in good standing.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 111
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478738-50498176-0926-Aeroplan-Business-Reserve-Online-CMA-EN.pdf",
+          "priority": 100,
+          "kind": "benefit",
+          "spendMilestoneMinor": 2500000,
+          "spendPeriod": "anniversary"
         },
         {
           "id": "pot-priority-airport-services-at-toronto-pearson",
           "title": "Priority airport services at Toronto Pearson",
-          "detail": "Priority airport services at YYZ.",
+          "detail": "Eligible basic/paid supplementary cards: Pearson priority security, complimentary valet service (parking charges remain), and 15% off eligible Express/Daily Park and car-care services under current booking/payment rules. No-fee supplementary cards excluded; services subject to availability.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/",
-          "priority": 112
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "ins-emergency-medical",
           "title": "Emergency medical insurance",
-          "detail": "Coverage up to a maximum of $5,000,000 for eligible emergency medical expenses incurred by you (if under age 65) while travelling outside your province or territory of residence for the first 15 consecutive days of a covered trip.",
+          "detail": "Up to C$5 million/person/trip for eligible insured persons age 64 or under, first 15 consecutive days outside the home province; government health coverage required. 90-day pre-existing-condition stability rules apply. Contact Global Excel before treatment or a 20% cost share can apply under the certificate; file claims within 90 days of return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-trip-cancellation",
           "title": "Trip cancellation insurance",
-          "detail": "Coverage for the non-refundable and non-transferable portion of travel arrangements charged to your American Express® Aeroplan®* Business Reserve Card before your departure date if you cancel your trip for a covered reason.",
+          "detail": "Covered cancellation: up to C$1,500/person and C$3,000/trip aggregate for eligible non-refundable prepaid costs paid with the card/its rewards. Only eligible payment amounts covered; other loyalty-program redemptions excluded. Defined covered causes, 90-day pre-existing-condition stability and prompt supplier/assistance notification apply; claims within 90 days of return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-trip-interruption",
           "title": "Trip interruption insurance",
-          "detail": "Coverage for the non-refundable and non-transferable unused portion of travel arrangements charged to your Card before your departure date if your trip is interrupted or delayed for a covered reason.",
+          "detail": "Covered interruption: up to C$1,500/person and C$6,000/trip aggregate. Eligible out-of-pocket expenses C$100/person/day, C$1,000 aggregate. Some prepaid travel must be paid with card/its rewards; other-program redemptions excluded. Covered-cause, stability and assistance-authorization rules apply; claims within 90 days of return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-flight-delay",
           "title": "Flight delay insurance",
-          "detail": "Coverage for when your flight is delayed or you are denied boarding for up to 4 hours or more and no alternate transportation is made available.",
+          "detail": "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$1,000 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-baggage",
           "title": "Delayed & lost baggage insurance",
-          "detail": "Coverage for when your checked baggage is delayed for six hours or more.",
+          "detail": "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$1,000 with flight delay. Lost/stolen baggage has a separate C$1,000 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required. Delay essentials must be purchased within four days and before baggage return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-hotel-burglary",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$1,000 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "You could be covered in the event of the theft, loss, and/or damage of your rental car with a Manufacturer’s Suggested Retail Price of up to $85,000 for rentals of 48 days or less.",
+          "detail": "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-travel-accident",
           "title": "Travel accident insurance",
-          "detail": "You can be covered up to $500,000 of Accidental Death and Dismemberment Insurance when you fully charge your plane, train, ship, or bus tickets to your Card.",
+          "detail": "Scheduled accidental death/dismemberment benefits up to C$500,000 per covered person on a covered common-carrier trip. Charge the fare to the card before injury; eligible spouse/dependent children under 23 are included. Loss must occur within 100 days of the accident; exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-purchase-protection",
           "title": "Purchase protection",
-          "detail": "When you charge eligible items to your Card, you could be insured for 90 days from the date of purchase in the event of accidental physical damage or theft for up to $1,000 per occurrence (even if the occurrence involves more than one insur",
+          "detail": "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "This coverage could extend the manufacturer’s warranty up to one additional year when you charge the entire purchase price of an eligible new item to your Card.",
+          "detail": "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Register for eligible targeted offers before spending; merchants, thresholds, expiry dates and reward types vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-experiences",
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible Front Of The Line presale and reserved tickets, events and experiences; availability, payment and ticket terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-replacement",
+          "title": "Fraud protection and emergency card replacement",
+          "detail": "Fraud protection requires reasonable care of account details and PIN and prompt notification of suspected misuse. Contact Amex for lost/stolen-card assistance and replacement.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "travel-emergency-assistance",
+          "title": "Travel emergency assistance",
+          "detail": "24/7 out-of-town medical/legal referral and coordination services. This is not medical insurance; third-party expenses are your responsibility and services must be arranged/authorized by the assistance provider.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-aeroplan-link",
+          "title": "Link Aeroplan and keep points active",
+          "detail": "Link your own Aeroplan number to the card and include it on eligible bookings. Airline benefits may take 72 hours to activate. Aeroplan points do not expire while you remain the eligible basic Cardmember and your Aeroplan account is in good standing.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/"
+        },
+        {
+          "id": "issuer-hyatt-bonus",
+          "title": "Additional World of Hyatt points",
+          "detail": "Link eligible Aeroplan and World of Hyatt accounts before purchase: two World of Hyatt bonus points/C$1 on eligible direct Hyatt purchases, separate from Aeroplan earnings. Basic Cardmember only; no retroactive points. Current linked-program terms run through June 30, 2029; accounts must be in good standing.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html",
+          "endsBefore": "2029-07-01"
+        },
+        {
+          "id": "issuer-avis-status",
+          "title": "Avis President's Club status",
+          "detail": "Enroll through the Aeroplan Avis form with an existing Avis account. Upgrade requires approval and follows current Avis status/rental terms; card eligibility and account good standing required.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/"
+        },
+        {
+          "id": "issuer-maple-leaf-current",
+          "title": "Maple Leaf Lounge and Air Canada Café access",
+          "detail": "Through January 11, 2027: eligible basic/paid supplementary Reserve Cardmember plus one guest at participating Maple Leaf Lounges/Air Canada Cafés in Canada/US with eligible same-day departing Air Canada/Star Alliance travel. No Signature Suites or third-party lounges; capacity and guest rules apply.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "endsBefore": "2027-01-12"
+        },
+        {
+          "id": "issuer-hyatt-status",
+          "title": "World of Hyatt Discoverist and night credits",
+          "detail": "Link accounts: Discoverist status, five tier-qualifying nights after linking and each later year by January 31, plus eligibility to register for two status challenges/calendar year. Basic Cardmember only; these are qualifying nights, not free hotel nights. Current partner terms and challenge requirements apply.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/"
+        },
+        {
+          "id": "employee-misuse",
+          "title": "Employee Card Misuse Protection",
+          "detail": "Issuer lists up to C$100,000/basic Cardmember for eligible unauthorized employee-card charges when the employee is terminated and the supplementary card cancelled within two business days. Administered by Belair. Separate full eligibility/exclusion/claim terms were not publicly linked; confirm them with Amex before relying on this protection.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
           "kind": "protection",
           "priority": 210
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "avis-presidents-club",
+          "programID": "avis",
+          "tier": "President's Club",
+          "rank": 30,
+          "enrollmentRequired": true,
+          "automatic": true,
+          "condition": "Basic Cardmember must register through Aeroplan with an existing Avis account; subject to approval and Avis terms. Maintain eligible card and account.",
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/"
+        },
+        {
+          "id": "hyatt-discoverist",
+          "programID": "hyatt",
+          "tier": "Discoverist",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "automatic": true,
+          "condition": "Basic Cardmember must link their eligible Aeroplan and World of Hyatt accounts; accounts/card in good standing. Partner eligibility and program terms apply.",
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -19238,7 +19533,7 @@
           "detail": "All other eligible purchases.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478738-50498176-0926-Aeroplan-Business-Reserve-Online-CMA-EN.pdf"
         },
         {
           "id": "air-canada",
@@ -19252,7 +19547,7 @@
           "detail": "Eligible purchases made directly with Air Canada and Air Canada Vacations.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478738-50498176-0926-Aeroplan-Business-Reserve-Online-CMA-EN.pdf"
         },
         {
           "id": "hotel-car",
@@ -19267,7 +19562,7 @@
           "detail": "Eligible hotel and car-rental purchases.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478738-50498176-0926-Aeroplan-Business-Reserve-Online-CMA-EN.pdf"
         },
         {
           "id": "hyatt",
@@ -19278,10 +19573,12 @@
           "rewardKind": "points",
           "programID": "aeroplan",
           "label": "Aeroplan points",
-          "detail": "Hyatt purchases.",
+          "detail": "2.5 Aeroplan points/C$1 directly at participating Hyatt hotels/resorts, July 15, 2026–July 15, 2029. Third-party/other Hyatt transactions excluded; this is not the separate linked World of Hyatt bonus.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/"
+          "sourceURL": "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+          "startsOn": "2026-07-15",
+          "endsBefore": "2029-07-16"
         }
       ],
       "accountType": "business",
@@ -19320,10 +19617,13 @@
       ],
       "benefitSourceURLs": [
         "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-business-reserve-card/",
-        "https://www.americanexpress.com/en-ca/business/credit-cards/",
-        "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-        "https://www.aircanada.com/ca/en/aco/home/aeroplan/newcardbenefits.html",
-        "https://princeoftravel.com/credit-cards/american-express-aeroplan-business-reserve-card/"
+        "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+        "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478738-50498176-0926-Aeroplan-Business-Reserve-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/aeroplan-reserve/",
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/amex/personal.html",
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html"
       ],
       "artworkURL": "https://princeoftravel.com/images/cards/American_Express_Aeroplan_Business_Reserve_Card_prem_sbs.png",
       "foreignTransactionFeePercent": 2.5,
@@ -19336,154 +19636,255 @@
       "issuer": "American Express",
       "market": "CAN",
       "annualFeeMinor": 12000,
-      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "feeNote": "Current annual fee C$120; supplementary C$50 or no-fee limited-benefit card. From January 12, 2027 annual fee billing: basic C$150, supplementary C$59, renamed Companion Card C$25. Foreign currency surcharge 2.5%.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-aeroplan-can",
       "programIDs": [
         "aeroplan"
       ],
-      "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-card/",
-      "checkedOn": "2026-11-01",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "sourceURL": "https://www.americanexpress.com/en-ca/charge-cards/aeroplan-card/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Current product benefits, September 2026 agreement, July 1, 2025 insurance and official January 2027 change terms reviewed November 4, 2026. New 2027 benefits are dated separately. Card and Aeroplan account must be eligible/in good standing; link the correct Aeroplan account and include it on bookings. Status qualification credits do not grant automatic Aeroplan Elite status. Insurance payment, Canadian-residency, exclusions and claim evidence requirements apply.",
       "benefits": [
         {
           "id": "aeroplan-2027-flight-discount",
           "title": "15% off eligible Air Canada flight rewards",
-          "detail": "Ongoing from January 12, 2027, for eligible Aeroplan flight rewards containing an Air Canada flight. A limited-time promotion applies through January 11, 2027; check the displayed price and account terms.",
+          "detail": "From January 12, 2027: 15% fewer points on the base fare of eligible Air Canada flight rewards, compared with a non-cardholder's same itinerary. An entire outbound or inbound origin–destination journey must be operated by Air Canada/Rouge/Express. Log in and book through Air Canada; mixed-operated journeys may not qualify. Taxes/cash charges are not reduced.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-          "startsOn": null,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/charge-cards/aeroplan-card/product-changes/",
+          "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 20
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-hotel-night",
           "title": "Fourth night free on Aeroplan hotel redemptions",
-          "detail": "A current limited-time fourth-night-free offer applies to eligible Aeroplan hotel redemptions. From January 12, 2027, it becomes an ongoing card benefit for eligible four-night points stays booked through the Aeroplan hotel portal.",
+          "detail": "From January 12, 2027: each four consecutive hotel nights in one eligible Aeroplan hotel-portal booking paid entirely with points receive a reduction equal to the average points cost of one night. Cash/points bookings and combined separate reservations do not qualify; local/resort fees may remain payable.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-          "startsOn": null,
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/charge-cards/aeroplan-card/product-changes/",
+          "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 25
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-car-day",
           "title": "Fourth day free on Aeroplan car rental redemptions",
-          "detail": "From January 12, 2027, one day free for each eligible four consecutive rental days redeemed with Aeroplan points; check booking terms.",
+          "detail": "From January 12, 2027: each four consecutive rental days in one eligible Aeroplan car-portal booking paid entirely with points receive a reduction equal to one day's average points cost. Same vehicle/provider/reservation required; cash/points bookings excluded. Fuel, insurance and local fees may remain payable.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/charge-cards/aeroplan-card/product-changes/",
           "startsOn": "2027-01-12",
           "kind": "benefit",
-          "priority": 25
+          "priority": 100
         },
         {
           "id": "aeroplan-2027-ac-wallet",
           "title": "Air Canada AC Wallet flight credit",
-          "detail": "C$25 deposited January 15 and July 15 (up to C$50 per year) for the primary cardholder. Each deposit expires after six months; applies to eligible Air Canada bookings, not reward-ticket taxes and fees.",
+          "detail": "From January 15, 2027: basic Cardmember receives C$25 in AC Wallet January 15 and July 15, each expiring after six months. Aeroplan account must be linked at least 72 hours before issue. Use on a new direct Air Canada/Rouge/Express marketed-and-operated cash booking before expiry; not reward-ticket taxes, existing reservations or cash. Account closure cancels unused coupons.",
           "capMinor": 2500,
           "reset": "aeroplanWallet",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
+          "sourceURL": "https://www.americanexpress.com/en-ca/campaigns/charge-cards/aeroplan-card/product-changes/",
           "startsOn": "2027-01-15",
           "kind": "credit",
-          "priority": 10
+          "priority": 20
         },
         {
           "id": "pot-free-first-checked-bag",
           "title": "Free first checked bag",
-          "detail": "Your first checked bag is free on Air Canada flights, under current terms.",
+          "detail": "First checked bag up to 23kg/50lb for the eligible Cardmember and up to eight companions on the same reservation when checking in with Air Canada for an Air Canada/Rouge/Express-operated flight. Include the linked Aeroplan number; not extra baggage allowance on an already included bag. Supplementary eligibility follows the card tier.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-card/",
-          "priority": 50
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/",
+          "priority": 100,
+          "kind": "benefit"
         },
         {
           "id": "ins-flight-delay",
           "title": "Flight delay insurance",
-          "detail": "Coverage for when your flight is delayed or you are denied boarding for up to 4 hours or more and no alternate transportation is made available.",
+          "detail": "Covered missed connection, departure delay or denied boarding with no alternative for four hours: necessary living/sundry expenses. C$500 aggregate per occurrence shared with baggage-delay cover. Full airline fare must be charged to the card.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/aeroplan-cards/aeroplan-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-baggage",
           "title": "Delayed & lost baggage insurance",
-          "detail": "Coverage for when your checked baggage is delayed for 6 hours or more.",
+          "detail": "Delay of checked baggage at the outbound destination for six hours: essentials, sharing C$500 with flight delay. Lost/stolen baggage has a separate C$500 aggregate occurrence limit, including C$300 jewellery/C$250 golf-club sublimits. Full fare payment required. Delay essentials must be purchased within four days and before baggage return.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/aeroplan-cards/aeroplan-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-hotel-burglary",
           "title": "Hotel/motel burglary insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Up to C$500 per burglary occurrence for covered property loss/damage from accommodation-room burglary. Full accommodation cost must be charged to the card; forcible-entry evidence and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/aeroplan-cards/aeroplan-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-rental-car",
           "title": "Rental car collision/loss damage insurance",
-          "detail": "You could be covered for the theft, loss, and/or damage of your rental car with a Manufacturer’s Suggested Retail Price of up to $85,000 for rentals of 48 days or less when you charge the full cost of your rental to your Card.",
+          "detail": "Primary covered theft/damage on eligible rentals no longer than 48 consecutive days, vehicle MSRP up to C$85,000 before taxes. Charge full rental and decline CDW/LDW where possible. No liability cover; vehicle, territory and rental exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/aeroplan-cards/aeroplan-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-travel-accident",
           "title": "Travel accident insurance",
-          "detail": "You can be covered up to $500,000 of Accidental Death and Dismemberment Insurance when you fully charge your plane, train, ship, or bus tickets to your Card.",
+          "detail": "Scheduled accidental death/dismemberment benefits up to C$500,000 per covered person on a covered common-carrier trip. Charge the fare to the card before injury; eligible spouse/dependent children under 23 are included. Loss must occur within 100 days of the accident; exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/aeroplan-cards/aeroplan-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-purchase-protection",
           "title": "Purchase protection",
-          "detail": "When you charge eligible items to your Card, you could be insured for 90 days from the date of purchase in the event of accidental physical damage or theft for up to $1,000 per occurrence (even if the occurrence involves more than one insur",
+          "detail": "Eligible new items paid in full with the card: 90-day accidental physical damage/theft protection, C$1,000/Cardmember/occurrence. Excess of other insurance; exclusions and claims-document requirements apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/aeroplan-cards/aeroplan-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "This coverage could extend the manufacturer’s warranty up to one additional year when you charge the entire purchase price of an eligible new item to your Card.",
+          "detail": "Eligible manufacturer warranties of five years or less extended by up to one year. Full card payment required; C$10,000/item and C$25,000/Cardmember/policy-year limits. Warranty-territory conditions and exclusions apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/ca/en/credit-cards/aeroplan-cards/aeroplan-card/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
           "kind": "protection",
           "priority": 210
+        },
+        {
+          "id": "issuer-amex-offers",
+          "title": "Amex Offers",
+          "detail": "Register for eligible targeted offers before spending; merchants, thresholds, expiry dates and reward types vary by account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/",
+          "kind": "benefit",
+          "priority": 30
+        },
+        {
+          "id": "issuer-experiences",
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible Front Of The Line presale and reserved tickets, events and experiences; availability, payment and ticket terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-fraud-replacement",
+          "title": "Fraud protection and emergency card replacement",
+          "detail": "Fraud protection requires reasonable care of account details and PIN and prompt notification of suspected misuse. Contact Amex for lost/stolen-card assistance and replacement.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "travel-emergency-assistance",
+          "title": "Travel emergency assistance",
+          "detail": "24/7 out-of-town medical/legal referral and coordination services. This is not medical insurance; third-party expenses are your responsibility and services must be arranged/authorized by the assistance provider.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-aeroplan-link",
+          "title": "Link Aeroplan and keep points active",
+          "detail": "Link your own Aeroplan number to the card and include it on eligible bookings. Airline benefits may take 72 hours to activate. Aeroplan points do not expire while you remain the eligible basic Cardmember and your Aeroplan account is in good standing.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/"
+        },
+        {
+          "id": "issuer-hyatt-bonus",
+          "title": "Additional World of Hyatt points",
+          "detail": "Link eligible Aeroplan and World of Hyatt accounts before purchase: one World of Hyatt bonus point/C$1 on eligible direct Hyatt purchases, separate from Aeroplan earnings. Basic Cardmember only; no retroactive points. Current linked-program terms run through June 30, 2029; accounts must be in good standing.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html",
+          "endsBefore": "2029-07-01"
+        },
+        {
+          "id": "issuer-avis-status",
+          "title": "Avis Preferred Plus status",
+          "detail": "Enroll through the Aeroplan Avis form with an existing Avis account. Upgrade requires approval and follows current Avis status/rental terms; card eligibility and account good standing required.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30,
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/"
+        },
+        {
+          "id": "issuer-sqc",
+          "title": "Status Qualifying Credits from spending",
+          "detail": "Earn 1,000 SQC per C$20,000 eligible net purchases posted to the account. Combined maximum 25,000 SQC/member/calendar year across all Aeroplan credit cards/issuers. Additional-card spend counts for the basic Cardmember; SQC are not redeemable points or automatic elite status.",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478732-50498176-0926-Aeroplan-Core-Online-CMA-EN.pdf"
         }
       ],
-      "statuses": [],
+      "statuses": [
+        {
+          "id": "avis-preferred-plus",
+          "programID": "avis",
+          "tier": "Preferred Plus",
+          "rank": 20,
+          "enrollmentRequired": true,
+          "automatic": true,
+          "condition": "Basic Cardmember must register through Aeroplan with an existing Avis account; subject to approval and Avis terms. Maintain eligible card and account.",
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/"
+        }
+      ],
       "earningRules": [
         {
           "id": "base",
@@ -19497,7 +19898,7 @@
           "detail": "All other eligible purchases.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-card/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478732-50498176-0926-Aeroplan-Core-Online-CMA-EN.pdf"
         },
         {
           "id": "air-canada",
@@ -19511,7 +19912,7 @@
           "detail": "Eligible purchases made directly with Air Canada and Air Canada Vacations.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-card/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478732-50498176-0926-Aeroplan-Core-Online-CMA-EN.pdf"
         },
         {
           "id": "dining-delivery",
@@ -19528,7 +19929,7 @@
             "CA"
           ],
           "capReset": "none",
-          "sourceURL": "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-card/"
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478732-50498176-0926-Aeroplan-Core-Online-CMA-EN.pdf"
         },
         {
           "id": "hyatt",
@@ -19539,23 +19940,27 @@
           "rewardKind": "points",
           "programID": "aeroplan",
           "label": "Aeroplan points",
-          "detail": "Hyatt purchases.",
+          "detail": "1.5 Aeroplan points/C$1 directly at participating Hyatt hotels/resorts, July 15, 2026–July 15, 2029. Third-party/other Hyatt transactions excluded; this is not the separate linked World of Hyatt bonus.",
           "countries": [],
           "capReset": "none",
-          "sourceURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-card/"
+          "sourceURL": "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/",
+          "startsOn": "2026-07-15",
+          "endsBefore": "2029-07-16"
         }
       ],
       "accountType": "personal",
       "artworkPageURL": "https://princeoftravel.com/credit-cards/american-express-aeroplan-card/",
       "artworkSearchTerms": "Amex Aeroplan",
       "reviewURL": "https://princeoftravel.com/credit-cards/",
-      "catalogLevel": "partial",
+      "catalogLevel": "verified",
       "availability": "confirm-with-issuer",
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/en-ca/credit-cards/aeroplan-card/",
-        "https://princeoftravel.com/news/aeroplan-credit-cards-new-benefits/",
-        "https://www.aircanada.com/ca/en/aco/home/aeroplan/newcardbenefits.html",
-        "https://princeoftravel.com/credit-cards/american-express-aeroplan-card/"
+        "https://www.americanexpress.com/en-ca/charge-cards/aeroplan-card/",
+        "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/",
+        "https://www.americanexpress.com/en-ca/campaigns/charge-cards/aeroplan-card/product-changes/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478732-50498176-0926-Aeroplan-Core-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html"
       ],
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true,
@@ -26300,6 +26705,15 @@
     "Automatic for the basic Cardmember with an eligible account in good standing linked to their active Marriott Bonvoy account. Higher earned status can supersede Silver.": "Automatique pour le titulaire principal avec un compte admissible en règle lié à son compte Marriott Bonvoy actif. Un statut supérieur obtenu peut remplacer Silver.",
     "3 points/C$1 at eligible stand-alone Canadian gas stations, restaurants, quick-service restaurants, coffee shops and bars. Merchant coding and intermediary/payment exclusions apply.": "3 points par dollar canadien dans les stations-service, restaurants, restaurants rapides, cafés et bars autonomes admissibles au Canada. Classement des commerçants et exclusions de paiement ou d’intermédiaire applicables.",
     "Eligible travel-provider/travel-booking purchases, excluding local/commuter transport and merchants whose primary business is not travel. Coding and intermediary/electronic-wallet exclusions apply; eligible Marriott purchases earn 5X instead.": "Achats admissibles auprès de fournisseurs et agences de voyages, hors transport local ou de banlieue et commerçants dont l’activité principale n’est pas le voyage. Classement et exclusions de paiement par intermédiaire ou portefeuille électronique applicables; achats Marriott admissibles à 5X.",
-    "5 points/C$1 directly at eligible participating Marriott properties, standalone Marriott retail establishments and Marriott online stores, including eligible online gift cards; merchant ownership/coding and payment restrictions apply.": "5 points par dollar canadien directement auprès des établissements, boutiques autonomes et boutiques en ligne Marriott admissibles, y compris les cartes-cadeaux en ligne admissibles. Conditions de propriété, de classement et de paiement applicables."
+    "5 points/C$1 directly at eligible participating Marriott properties, standalone Marriott retail establishments and Marriott online stores, including eligible online gift cards; merchant ownership/coding and payment restrictions apply.": "5 points par dollar canadien directement auprès des établissements, boutiques autonomes et boutiques en ligne Marriott admissibles, y compris les cartes-cadeaux en ligne admissibles. Conditions de propriété, de classement et de paiement applicables.",
+    "Additional World of Hyatt points": "Points World of Hyatt supplémentaires",
+    "Link Aeroplan and keep points active": "Lier Aéroplan et conserver ses points",
+    "Avis Preferred Plus status": "Statut Avis Preferred Plus",
+    "Avis President's Club status": "Statut Avis President’s Club",
+    "Maple Leaf Lounge and Air Canada Café access": "Accès aux salons Feuille d’érable et aux Cafés Air Canada",
+    "Two Priority Pass visits; up to six with spend": "Deux visites Priority Pass, jusqu’à six selon les dépenses",
+    "Annual Worldwide Companion Pass at C$25,000": "Passe annuelle pour compagnon Monde à 25 000 $ CA",
+    "World of Hyatt Discoverist and night credits": "Statut World of Hyatt Discoverist et crédits de nuit",
+    "Annual Aeroplan spending bonus": "Prime annuelle Aéroplan selon les dépenses"
   }
 }
