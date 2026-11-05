@@ -23359,7 +23359,7 @@
       "issuer": "American Express",
       "market": "US",
       "annualFeeMinor": 25000,
-      "feeNote": "Current standard primary-card annual fee; account-specific or promotional terms may differ.",
+      "feeNote": "US$250 annual fee. Additional cards have no annual fee. No foreign transaction fee.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-marriott-bonvoy-bevy-us",
@@ -23367,8 +23367,8 @@
         "marriott"
       ],
       "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
-      "checkedOn": "2026-10-29",
-      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No lounge access, general trip cancellation/interruption or cell-phone coverage is listed. The combined food cap is shared; U.S. supermarket geography is modeled separately.",
       "benefits": [
         {
           "id": "issuer-marriott-bonvoy-gold-elite-status",
@@ -23384,13 +23384,13 @@
         {
           "id": "issuer-elite-night-credits",
           "title": "15 Elite Night Credits",
-          "detail": "15 Elite Night Credits each calendar year toward the next Marriott Bonvoy elite level.",
+          "detail": "15 Elite Night Credits/calendar year for the basic member's linked Bonvoy account. U.S. business-card credits may combine with one eligible U.S. personal card, up to 40 with Brilliant + Business. Multiple personal cards do not multiply the personal allowance. These are qualifying credits, not free hotel nights.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
           "kind": "benefit",
-          "priority": 101
+          "priority": 100
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -23401,7 +23401,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
           "kind": "benefit",
-          "priority": 102
+          "priority": 100
         },
         {
           "id": "issuer-earn-more-with-amex-offers",
@@ -23412,86 +23412,142 @@
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "amex-marriott-bonvoy-bevy-us-trip-delay-reimbursement",
           "title": "Trip delay reimbursement",
-          "detail": "Round trip paid entirely with the card and delayed more than 12 hours for a covered reason: up to US$300 per trip for additional expenses, max 2 claims per 12 months.",
+          "detail": "Covered round trip delayed more than 12 hours: up to US$300/trip, two claims/card/12 months, excess of other benefits. Pay full common-carrier transport with the card/allowed points or vouchers and additional expenses with that card. Weather, equipment failure, hijacking/terrorism or lost travel documents may qualify; known delays excluded. Notify within 60 days; proof within 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
           "kind": "protection",
-          "priority": 200
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-bevy-us-lost-luggage-reimbursement",
           "title": "Lost luggage reimbursement",
-          "detail": "When the entire common-carrier fare is charged to the card: up to US$1,250 for carry-on and US$500 for checked baggage, in excess of the carrier's coverage.",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 201
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-bevy-us-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage/loss; up to US$10,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 202
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-bevy-us-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
           "kind": "protection",
-          "priority": 203
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-bevy-us-car-rental-loss-damage-insurance",
           "title": "Car rental loss & damage insurance",
-          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "detail": "Secondary theft/damage cover up to US$50,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
           "kind": "protection",
-          "priority": 204
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-bevy-us-travel-emergency-assistance",
-          "title": "Travel & emergency assistance",
-          "detail": "24/7 emergency assistance and coordination when more than 100 miles from home, including medical and legal referrals, emergency cash wires and missing-luggage help. Third-party costs are your responsibility.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
-          "kind": "protection",
-          "priority": 205
-        },
-        {
-          "id": "free-night-15k",
-          "title": "Marriott Free Night Award",
-          "detail": "1 Free Night Award after spending $15,000 on eligible purchases in a calendar year.",
+          "title": "Global Assist hotline",
+          "detail": "24/7 medical/legal referrals, emergency cash-wire coordination and missing-luggage assistance when more than 100 miles from home. Third-party costs are your responsibility; this assistance service is not emergency-medical insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
           "kind": "benefit",
-          "priority": 103,
+          "priority": 100
+        },
+        {
+          "id": "free-night-15k",
+          "title": "Marriott Free Night Award",
+          "detail": "One Free Night Award worth up to 50,000 points after US$15,000 eligible calendar-year spend; not an automatic anniversary award. Standard rooms at participating properties, subject to availability; award expiry and resort fees apply. Current Marriott rules allow up to 25,000 additional points.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "benefit",
+          "priority": 100,
           "spendMilestoneMinor": 1500000,
           "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-send-split",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Send & Split",
+          "detail": "Enroll and use the Amex App to send eligible payments to PayPal/Venmo users and split eligible purchases; program limits, account eligibility and payment terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "issuer-marriott-redemptions",
+          "title": "Marriott Bonvoy redemption options",
+          "detail": "Redeem points for eligible reward stays, airline transfers, Air+Car and Bonvoy Moments, subject to current program rules, availability and fees. Free Night Awards can currently be topped up with up to 25,000 points; standard-room availability, certificate expiry and resort fees apply.",
+          "sourceURL": "https://www.marriott.com/loyalty/terms/default.mi",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-paid-stay-bonus",
+          "title": "1,000 bonus points per eligible paid stay",
+          "detail": "Earn 1,000 additional Marriott Bonvoy points for each eligible paid stay booked directly through Marriott channels. The member must stay and meet Marriott qualifying-rate/stay rules; award stays and third-party bookings do not qualify.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
         }
       ],
       "statuses": [
@@ -23501,7 +23557,7 @@
           "tier": "Gold Elite",
           "rank": 20,
           "enrollmentRequired": false,
-          "condition": "",
+          "condition": "Automatic card-provided status for the basic Cardmember with an eligible card in good standing linked to an active Marriott Bonvoy account. Higher earned status can supersede it; program/property terms apply.",
           "automatic": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/"
         }
@@ -23530,13 +23586,13 @@
         {
           "id": "marriott",
           "categories": [
-            "hotelsDirect"
+            "marriottPurchases"
           ],
           "rate": 6,
           "rewardKind": "points",
           "programID": "marriott",
           "label": "6X Marriott",
-          "detail": "Eligible Marriott Bonvoy hotel purchases.",
+          "detail": "6X only on eligible purchases at participating Marriott Bonvoy hotels charged directly by the property; not every direct-booked hotel.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -23550,15 +23606,36 @@
         {
           "id": "food",
           "categories": [
-            "dining",
+            "dining"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "4X dining and groceries",
+          "detail": "4X at restaurants worldwide, sharing a US$15,000 combined calendar-year cap with U.S. supermarkets, then 2X.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": "bevy-food",
+          "capMinor": 1500000,
+          "capReset": "calendarYear",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+          "calculationNote": null
+        },
+        {
+          "id": "us-supermarkets",
+          "categories": [
             "groceries"
           ],
           "rate": 4,
           "rewardKind": "points",
           "programID": "marriott",
           "label": "4X dining and groceries",
-          "detail": "Up to $15,000 combined per calendar year, then 2X.",
-          "countries": [],
+          "detail": "4X at U.S. supermarkets, sharing the US$15,000 annual cap with restaurants worldwide, then 2X.",
+          "countries": [
+            "US"
+          ],
           "startsOn": null,
           "endsBefore": null,
           "activationID": null,
@@ -23573,13 +23650,23 @@
       "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
       "artworkSearchTerms": "Amex Marriott Bonvoy Bevy",
       "reviewURL": "https://thepointsguy.com/credit-cards/",
-      "catalogLevel": "partial",
+      "catalogLevel": "verified",
       "availability": "confirm-with-issuer",
       "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000311_480x304_straight_withname.png",
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/"
+        "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+        "https://www.marriott.com/loyalty/terms/default.mi",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
       ],
-      "foreignTransactionFeePercent": 0
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
     },
     {
       "id": "amex-marriott-bonvoy-brilliant-us",
@@ -23587,7 +23674,7 @@
       "issuer": "American Express",
       "market": "US",
       "annualFeeMinor": 65000,
-      "feeNote": "Current standard primary-card annual fee; account-specific or promotional terms may differ.",
+      "feeNote": "US$650 annual fee. Additional cards have no annual fee. No foreign transaction fee.",
       "colorHex": "67798C",
       "secondaryHex": "25354B",
       "artworkAsset": "Card-amex-marriott-bonvoy-brilliant-us",
@@ -23595,24 +23682,24 @@
         "marriott"
       ],
       "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
-      "checkedOn": "2026-10-29",
-      "coverageNote": "Directory entry: product identity and linked sources only. Benefits, enrollment conditions, earning caps and eligibility are not yet fully verified or modeled. This entry does not claim the product is open to new applicants.",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. The US$60,000 earned-choice threshold is confirmed, but the current member-portal selection options/deadline could not be retrieved and remain unresolved.",
       "benefits": [
         {
           "id": "issuer-brilliant-dining-credit",
           "title": "$300 Brilliant Dining Credit",
-          "detail": "Up to US$25/month on eligible restaurant purchases worldwide; US$300 annual total.",
+          "detail": "Up to US$25/month, US$300/calendar year in statement credits for eligible restaurant purchases worldwide, shared across the card account. Merchant coding/payment restrictions apply; unused monthly credit does not roll over.",
           "capMinor": 2500,
           "reset": "monthly",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
           "kind": "credit",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "issuer-marriott-bonvoy-brilliant-free-night-award",
           "title": "Annual Free Night Award",
-          "detail": "A Free Night Award every year after your card renewal month, at hotels costing up to 85,000 points.",
+          "detail": "One Free Night Award worth up to 85,000 points after each card renewal month. Standard-room availability, certificate expiry and resort fees apply; current Marriott terms permit up to 25,000 additional points. This is separate from an earned-choice award.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
@@ -23629,7 +23716,7 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
           "kind": "benefit",
-          "priority": 101
+          "priority": 100
         },
         {
           "id": "issuer-no-foreign-transaction-fees",
@@ -23640,29 +23727,29 @@
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
           "kind": "benefit",
-          "priority": 102
+          "priority": 100
         },
         {
           "id": "issuer-elite-night-credits",
           "title": "25 Elite Night Credits",
-          "detail": "25 Elite Night Credits each calendar year toward the next Marriott Bonvoy elite level.",
+          "detail": "25 Elite Night Credits/calendar year for the basic member's linked Bonvoy account. U.S. business-card credits may combine with one eligible U.S. personal card, up to 40 with Brilliant + Business. Multiple personal cards do not multiply the personal allowance. These are qualifying credits, not free hotel nights.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
           "kind": "benefit",
-          "priority": 103
+          "priority": 100
         },
         {
           "id": "issuer-priority-passtm",
           "title": "Priority Pass Select",
-          "detail": "Enroll in Priority Pass for unlimited visits to 1,300+ airport lounges in 130+ countries.",
+          "detail": "Enroll for unlimited participating Priority Pass lounge visits with eligible same-day travel. Up to two guests at no charge where admitted; further guests cost the prevailing rate. Present membership/eligible credentials and boarding pass. Lounge capacity and program rules apply; this is not a general restaurant-credit benefit.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
           "kind": "benefit",
-          "priority": 20
+          "priority": 30
         },
         {
           "id": "issuer-amex-offers",
@@ -23670,145 +23757,223 @@
           "detail": "Add Amex Offers to the card in your account to earn extra rewards on qualifying purchases at select brands.",
           "capMinor": null,
           "reset": "none",
-          "enrollmentRequired": false,
+          "enrollmentRequired": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
           "kind": "benefit",
-          "priority": 104
+          "priority": 30
         },
         {
           "id": "global-entry-credit",
           "title": "Global Entry / TSA PreCheck credit",
-          "detail": "A US$120 statement credit for Global Entry, or up to US$85 for a five-year TSA PreCheck membership, every 4 years when the fee is charged to the card.",
+          "detail": "One application-fee credit/account every four years for whichever is charged first: Global Entry up to US$120, or a five-year TSA PreCheck plan up to US$85 through an official enrollment provider. Government approval is separate; additional-card charges share the account's single allowance.",
           "capMinor": 12000,
           "reset": "oneTime",
           "enrollmentRequired": false,
           "kind": "credit",
           "intervalYears": 4,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
-          "priority": 100
+          "priority": 20
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-trip-cancellation-interruption-insurance",
           "title": "Trip cancellation & interruption insurance",
-          "detail": "Round trip paid entirely with the card: non-refundable expenses reimbursed up to US$10,000 per trip and US$20,000 per card per 12 months when a covered reason cancels or interrupts the trip.",
+          "detail": "Covered round-trip cancellation/interruption: up to US$10,000/trip and US$20,000/card/12 months for each coverage, excess of other benefits. Full common-carrier transport paid with card/allowed points or vouchers; only defined causes qualify, not any reason. Pre-existing conditions and supplier insolvency excluded. Notify insurer and supplier within required times; insurer notice 60 days, proof 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
           "kind": "protection",
-          "priority": 200
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-trip-delay-reimbursement",
           "title": "Trip delay reimbursement",
-          "detail": "Round trip paid entirely with the card and delayed more than 6 hours for a covered reason: up to US$500 per trip for additional expenses, max 2 claims per 12 months.",
+          "detail": "Covered round trip delayed more than 6 hours: up to US$500/trip, two claims/card/12 months, excess of other benefits. Pay full common-carrier transport with the card/allowed points or vouchers and additional expenses with that card. Weather, equipment failure, hijacking/terrorism or lost travel documents may qualify; known delays excluded. Notify within 60 days; proof within 180 days, subject to stated exceptions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
           "kind": "protection",
-          "priority": 201
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-lost-luggage-reimbursement",
           "title": "Lost luggage reimbursement",
-          "detail": "When the entire common-carrier fare is charged to the card: up to US$2,000 for checked baggage and a combined US$3,000 for checked and carry-on baggage, in excess of the carrier's coverage.",
+          "detail": "Covered loss/theft/damage: carry-on up to US$3,000, checked US$2,000, high-risk items US$1,000; combined US$3,000/person/trip. NY US$2,000/bag and US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards; other-program redemptions excluded. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 202
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-cell-phone-protection",
           "title": "Cell phone protection",
-          "detail": "Repair or replacement of a damaged or stolen phone up to US$800 per claim, 2 approved claims per 12 months, US$50 deductible, when the prior month's wireless bill was paid with the card.",
+          "detail": "Prior month's eligible wireless bill paid with card: covered theft/damage including cracked screens, up to US$800/claim after US$50 deductible, two claims/account/12 months; excess of other insurance. Lost/mysteriously disappeared phones and cosmetic damage excluded. Theft police report within 48 hours; notify claim within 90 days/as soon as reasonably possible, written proof within 120 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
           "kind": "protection",
-          "priority": 203
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Covers eligible purchases for up to 90 days against theft, accidental damage or loss, up to US$10,000 per covered purchase and US$50,000 per calendar year.",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage/loss; up to US$10,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
           "kind": "protection",
-          "priority": 204
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Up to one extra year added to the original manufacturer's warranty on warranties of 5 years or less, for covered purchases made in the U.S. or its territories.",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
           "kind": "protection",
-          "priority": 205
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-return-protection",
           "title": "Return protection",
-          "detail": "If the seller won't take back an eligible purchase within 90 days, Amex may refund up to US$300 per item and US$1,000 per calendar year (U.S. purchases).",
+          "detail": "Eligible items paid entirely with the card in the US/covered territories: if the seller refuses a return within 90 days, up to US$300/item and US$1,000/account/calendar year, excluding original shipping. Item must be unused, undamaged and working; exclusions include jewellery, software and consumables. Notify within 90 days of purchase; requested documents and returned item normally within 30 days of the respective request.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
           "kind": "protection",
-          "priority": 206
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-car-rental-loss-damage-insurance",
           "title": "Car rental loss & damage insurance",
-          "detail": "Secondary coverage for damage to or theft of a rental vehicle when you reserve and pay for the entire rental with the card and decline the rental company's CDW. Not available in Australia, Italy or New Zealand; no liability coverage.",
+          "detail": "Secondary theft/damage cover up to US$75,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
           "kind": "protection",
-          "priority": 207
+          "priority": 210
         },
         {
           "id": "amex-marriott-bonvoy-brilliant-us-travel-emergency-assistance",
-          "title": "Travel & emergency assistance",
-          "detail": "24/7 medical, legal, financial and other emergency coordination and assistance when travelling more than 100 miles from home. Third-party costs are your responsibility.",
+          "title": "Premium Global Assist hotline",
+          "detail": "24/7 emergency coordination more than 100 miles from home, including medical/legal referrals, cash wires, prescription replacement and missing-luggage help. Emergency medical transport may be provided at no cost only when approved and arranged by Premium Global Assist. Other third-party expenses may be yours; this is not general medical insurance.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
-          "kind": "protection",
-          "priority": 208
+          "kind": "benefit",
+          "priority": 100
         },
         {
           "id": "property-credit",
           "title": "$100 Marriott Bonvoy Property Credit",
-          "detail": "Up to a US$100 property credit for qualifying charges at The Ritz-Carlton or St. Regis when you book a qualifying stay with the card.",
+          "detail": "Book at least two consecutive nights directly at participating Ritz-Carlton/St. Regis properties using the required special rate to receive up to US$100 for qualifying property charges. Credit is applied at the hotel, not as a card statement credit; room rate, taxes, fees, exclusions and booking terms apply.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
           "kind": "benefit",
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
-          "priority": 105
+          "priority": 100
         },
         {
           "id": "earned-choice-60k",
           "title": "Brilliant Earned Choice Award",
-          "detail": "Choose a Brilliant Earned Choice Award benefit after spending $60,000 on eligible purchases in a calendar year.",
+          "detail": "After US$60,000 in eligible calendar-year spend, the basic member may select one Brilliant Earned Choice Award through Marriott's dedicated portal. One earned award/year; selection is required and current choices, deadline and fulfillment follow portal terms. Current portal choices were not publicly retrievable in this audit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+          "kind": "benefit",
+          "priority": 30,
+          "spendMilestoneMinor": 6000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-rental-accident",
+          "title": "Rental-car accident protection",
+          "detail": "Eligible covered rental accidents: scheduled accidental death/dismemberment up to US$200,000/Cardmember or US$20,000/other eligible driver/passenger; accidental-injury treatment up to US$5,000/person. Shared US$300,000/accident aggregate. Only for eligible card-paid rentals, not general travel medical insurance. State provisions, authorization, timing and exclusions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "amex-marriott-bonvoy-brilliant-us-rental-personal-property",
+          "title": "Rental-car personal property",
+          "detail": "Eligible personal-property theft/damage during a covered rental: up to US$1,000/eligible person and US$2,000/rental accident aggregate. Full eligible rental payment and driver/rental conditions required. Excess coverage, exclusions and state-specific provisions apply.",
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+          "kind": "protection",
+          "priority": 210,
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-send-split",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Send & Split",
+          "detail": "Enroll and use the Amex App to send eligible payments to PayPal/Venmo users and split eligible purchases; program limits, account eligibility and payment terms apply.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+        },
+        {
+          "id": "issuer-marriott-redemptions",
+          "title": "Marriott Bonvoy redemption options",
+          "detail": "Redeem points for eligible reward stays, airline transfers, Air+Car and Bonvoy Moments, subject to current program rules, availability and fees. Free Night Awards can currently be topped up with up to 25,000 points; standard-room availability, certificate expiry and resort fees apply.",
+          "sourceURL": "https://www.marriott.com/loyalty/terms/default.mi",
+          "kind": "benefit",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-premium-internet",
+          "title": "Premium hotel internet",
+          "detail": "Eligible complimentary in-room premium internet at participating Marriott properties; Marriott booking, membership and property requirements apply.",
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
           "kind": "benefit",
-          "priority": 106,
-          "spendMilestoneMinor": 6000000,
-          "spendPeriod": "calendarYear"
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
         }
       ],
       "statuses": [
@@ -23818,7 +23983,7 @@
           "tier": "Platinum Elite",
           "rank": 30,
           "enrollmentRequired": false,
-          "condition": "",
+          "condition": "Automatic card-provided status for the basic Cardmember with an eligible card in good standing linked to an active Marriott Bonvoy account. Higher earned status can supersede it; program/property terms apply.",
           "automatic": true,
           "sourceURL": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/"
         }
@@ -23847,13 +24012,13 @@
         {
           "id": "marriott",
           "categories": [
-            "hotelsDirect"
+            "marriottPurchases"
           ],
           "rate": 6,
           "rewardKind": "points",
           "programID": "marriott",
           "label": "6X Marriott",
-          "detail": "Eligible Marriott Bonvoy hotel purchases.",
+          "detail": "6X only on eligible purchases at participating Marriott Bonvoy hotels charged directly by the property; not every direct-booked hotel.",
           "countries": [],
           "startsOn": null,
           "endsBefore": null,
@@ -23894,9 +24059,22 @@
       "availability": "confirm-with-issuer",
       "artworkURL": "https://icm.aexp-static.com/acquisition/card-art/NUS000000313_480x304_straight_withname.png",
       "benefitSourceURLs": [
-        "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/"
+        "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+        "https://www.marriott.com/loyalty/terms/default.mi",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
       ],
-      "foreignTransactionFeePercent": 0
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
     },
     {
       "id": "chase-ink-business-cash-us",
@@ -27569,6 +27747,345 @@
         "https://www.americanexpress.com/en-us/benefits/entertainment/",
         "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
         "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "foreignTransactionFeePercent": 0,
+      "earningDataComplete": true
+    },
+    {
+      "id": "amex-marriott-bonvoy-business-us",
+      "name": "Amex Marriott Bonvoy Business US",
+      "issuer": "American Express",
+      "market": "US",
+      "annualFeeMinor": 12500,
+      "feeNote": "US$125 annual fee. Employee-card options follow the current account fee schedule. No foreign transaction fee.",
+      "colorHex": "67798C",
+      "secondaryHex": "25354B",
+      "artworkAsset": "Card-amex-marriott-bonvoy-business-us",
+      "programIDs": [
+        "marriott"
+      ],
+      "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Duplicate Gold status removed while preserving the original gold status ID. No trip-delay, general trip cancellation/interruption or cell-phone insurance is listed.",
+      "benefits": [
+        {
+          "id": "issuer-marriott-bonvoy-gold-elite-status",
+          "title": "Marriott Bonvoy Gold Elite status",
+          "detail": "Complimentary Gold Elite status, with 25% bonus points on stays.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-earn-redeem-free-nights",
+          "title": "Annual Free Night Award",
+          "detail": "One standard-room Free Night Award worth up to 35,000 points after each card renewal month. Subject to availability, award expiry and resort fees; current Marriott rules allow up to 25,000 additional points. Separate from the US$60,000 spend award.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-elite-night-credits",
+          "title": "15 Elite Night Credits",
+          "detail": "15 Elite Night Credits/calendar year for the basic member's linked Bonvoy account. U.S. business-card credits may combine with one eligible U.S. personal card, up to 40 with Brilliant + Business. Multiple personal cards do not multiply the personal allowance. These are qualifying credits, not free hotel nights.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-no-foreign-transaction-fees",
+          "title": "No foreign transaction fees",
+          "detail": "American Express charges no foreign transaction fee on purchases made outside the United States.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "amex-marriott-bonvoy-business-us-lost-luggage-reimbursement",
+          "title": "Lost luggage reimbursement",
+          "detail": "Lost/damaged/stolen carry-on: up to US$1,250/person/trip; checked: US$500. High-risk items share a US$250/person sublimit; NY US$10,000/trip aggregate. Full common-carrier fare paid with card/eligible Amex rewards required; other loyalty-program redemptions do not qualify. Excess of other cover; eligible family covered. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-marriott-bonvoy-business-us-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card-paid new purchases: 90 days against theft/accidental damage; up to US$1,000/item and US$50,000/account/calendar year. Natural-disaster sublimit US$500/event. Only eligible card payment is covered; item/event exclusions apply. Notify within 30 days/as soon as reasonably possible; proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-marriott-bonvoy-business-us-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Extends eligible original manufacturer warranties of five years or less by up to one year, after the original warranty/service contract. Warranty must be valid in the US/DC/territories; up to eligible card payment, US$10,000/item and US$50,000/account/calendar year. Exclusions apply; notify within 30 days/as soon as reasonably possible and normally submit proof within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-marriott-bonvoy-business-us-car-rental-loss-damage-insurance",
+          "title": "Car rental loss & damage insurance",
+          "detail": "Secondary theft/damage cover up to US$50,000/rental agreement, first 30 consecutive days. Reserve/pay the entire rental with the eligible card and decline CDW/similar cover. Australia, Italy, New Zealand, peer-to-peer rentals and excluded vehicles are not covered; no liability insurance. State provisions vary; notify within 30 days/as soon as reasonably possible, proof normally within 60 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "amex-marriott-bonvoy-business-us-travel-emergency-assistance",
+          "title": "Global Assist hotline",
+          "detail": "24/7 medical/legal referrals, emergency cash-wire coordination and missing-luggage assistance when more than 100 miles from home. Third-party costs are your responsibility; this assistance service is not emergency-medical insurance.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "free-night-60k",
+          "title": "Extra Free Night Award",
+          "detail": "One additional Free Night Award worth up to 35,000 points after US$60,000 eligible purchases/calendar year. Standard-room availability, expiry and resort-fee rules apply; up to 25,000 points can currently supplement the award.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "priority": 100,
+          "spendMilestoneMinor": 6000000,
+          "spendPeriod": "calendarYear"
+        },
+        {
+          "id": "issuer-amex-offers",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 30,
+          "title": "Amex Offers",
+          "detail": "Add eligible targeted offers to this card before purchase. Participating merchants, spend thresholds, rewards and expiration vary; offers are not guaranteed recurring credits.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/offers/"
+        },
+        {
+          "id": "issuer-experiences",
+          "capMinor": null,
+          "reset": "none",
+          "kind": "benefit",
+          "priority": 100,
+          "title": "Amex Experiences and ticket access",
+          "detail": "Access eligible presale and reserved tickets and participating-event benefits; ticket availability, purchase limits, payment requirements and fees apply.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/entertainment/"
+        },
+        {
+          "id": "issuer-venue-concessions",
+          "title": "Venue Collection concessions credit",
+          "detail": "Enroll one eligible card per Card Member: 10% back on qualifying food/beverage concessions at participating Amex Venue Collection venues, up to US$250 in statement credits/calendar year through December 31, 2026. Exclusions and participating-venue/payment rules apply; this is not US$250 of free concessions.",
+          "kind": "credit",
+          "capMinor": 25000,
+          "reset": "calendarYear",
+          "enrollmentRequired": true,
+          "endsBefore": "2027-01-01",
+          "priority": 20,
+          "sourceURL": "https://www.americanexpress.com/en-us/benefits/membership/experiences/"
+        },
+        {
+          "id": "issuer-marriott-redemptions",
+          "title": "Marriott Bonvoy redemption options",
+          "detail": "Redeem points for eligible reward stays, airline transfers, Air+Car and Bonvoy Moments, subject to current program rules, availability and fees. Free Night Awards can currently be topped up with up to 25,000 points; standard-room availability, certificate expiry and resort fees apply.",
+          "sourceURL": "https://www.marriott.com/loyalty/terms/default.mi",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-marriott-rate-discount",
+          "title": "7% Marriott room-rate discount",
+          "detail": "Book eligible participating Marriott hotels directly through an eligible Marriott channel using the Amex Business Card Rate for 7% off the eligible standard room rate. Availability, rate exclusions and member/card eligibility apply; the special rate may differ from other promotional rates.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-premium-internet",
+          "title": "Premium hotel internet",
+          "detail": "Free eligible in-room premium internet at participating Marriott properties when booking through required Marriott channels. Property, rate and membership conditions apply.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "priority": 100
+        },
+        {
+          "id": "issuer-business-tools",
+          "title": "Employee and expense management",
+          "detail": "Employee-card controls, alerts, account managers and year-end reports help manage business expenses. Enroll for eligible QuickBooks integration; third-party software and account fees may apply.",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30
+        },
+        {
+          "id": "issuer-vendor-pay",
+          "title": "Vendor Pay by BILL",
+          "detail": "Enroll for eligible supplier-payment and accounting tools. Compatible systems, service plans, payment methods and user counts can incur fees; current Vendor Pay terms apply.",
+          "sourceURL": "https://www.americanexpress.com/en-us/business/payments/vendor-pay/",
+          "kind": "benefit",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "priority": 30
+        }
+      ],
+      "statuses": [
+        {
+          "id": "gold",
+          "programID": "marriott",
+          "tier": "Gold Elite",
+          "rank": 20,
+          "enrollmentRequired": false,
+          "condition": "Automatic card-provided status for the basic Cardmember with an eligible card in good standing linked to an active Marriott Bonvoy account. Higher earned status can supersede it; program/property terms apply.",
+          "automatic": true,
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "2X Marriott points",
+          "detail": "Other eligible purchases.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "marriott",
+          "categories": [
+            "marriottPurchases"
+          ],
+          "rate": 6,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "6X Marriott",
+          "detail": "6X only on eligible purchases at participating Marriott Bonvoy hotels charged directly by the property; not every direct-booked hotel.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "business-bonus",
+          "categories": [
+            "gas",
+            "shipping",
+            "telecommunications"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "4X dining and gas",
+          "detail": "4X at eligible U.S. gas stations, U.S. shipping purchases and direct U.S. wireless telephone service providers; merchant definitions and exclusions apply.",
+          "countries": [
+            "US"
+          ],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "calculationNote": null
+        },
+        {
+          "id": "restaurants-worldwide",
+          "categories": [
+            "dining"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "marriott",
+          "label": "4X restaurants",
+          "detail": "4X on eligible restaurant purchases worldwide.",
+          "countries": [],
+          "startsOn": null,
+          "endsBefore": null,
+          "activationID": null,
+          "capGroup": null,
+          "capMinor": null,
+          "capReset": "none",
+          "sourceURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+          "calculationNote": null
+        }
+      ],
+      "accountType": "business",
+      "artworkPageURL": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+      "artworkSearchTerms": "Amex Marriott Bonvoy Business",
+      "reviewURL": "https://thepointsguy.com/credit-cards/",
+      "catalogLevel": "verified",
+      "availability": "confirm-with-issuer",
+      "artworkURL": "https://icm.aexp-static.com/Internet/Acquisition/US_en/AppContent/OneSite/open/category/cardarts/amex-marriott-bonvoy-business.png",
+      "benefitSourceURLs": [
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+        "https://www.marriott.com/loyalty/terms/default.mi",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/business/payments/vendor-pay/"
       ],
       "foreignTransactionFeePercent": 0,
       "earningDataComplete": true
