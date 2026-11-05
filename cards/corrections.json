@@ -30259,6 +30259,17 @@
           "priority": 100
         },
         {
+          "id": "capital-one-venture-x-business-us-masterassist-travel-assistance",
+          "title": "MasterAssist travel and emergency assistance",
+          "detail": "24-hour travel assistance can arrange referrals for medical/dental care, hospital admission, emergency evacuation, repatriation and replacement medication when eligible. It is a service, not insurance; the cardholder pays provider and emergency-service costs. Availability/eligibility restrictions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
           "id": "capital-one-venture-x-business-us-no-foreign-transaction-fees",
           "title": "No foreign transaction fees",
           "detail": "Capital One states there are no foreign transaction fees on purchases outside the United States.",
@@ -30444,17 +30455,6 @@
           "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
           "kind": "protection",
           "priority": 211
-        },
-        {
-          "id": "capital-one-venture-x-business-us-masterassist-travel-assistance",
-          "title": "MasterAssist travel and emergency assistance",
-          "detail": "24-hour travel assistance can arrange referrals for medical/dental care, hospital admission, emergency evacuation, repatriation and replacement medication when eligible. It is a service, not insurance; the cardholder pays provider and emergency-service costs. Availability/eligibility restrictions apply.",
-          "capMinor": null,
-          "reset": "none",
-          "enrollmentRequired": false,
-          "sourceURL": "https://ecm.capitalone.com/WCM/card/world-elite-business-mastercard.pdf",
-          "kind": "protection",
-          "priority": 212
         }
       ],
       "statuses": [
