@@ -1,0 +1,3044 @@
+{
+  "format": "stackjet-issuer-benefits-audit-v1",
+  "issuer": "American Express",
+  "startedOn": "2026-11-04",
+  "finishedOn": "2026-11-05",
+  "originalRoster": {
+    "path": "audit/premium-fee-over99-2026-11-04.json",
+    "blobSHA": "2b5cc90ba422c59616235b87d86bfefcdfcc8b71",
+    "count": 117,
+    "unchanged": true
+  },
+  "scope": {
+    "amexCardsOnRoster": 34,
+    "flaggedOriginally": 25,
+    "auditedFlaggedExcludingCenturion": 23,
+    "earlierCardsReconciled": 9,
+    "activeAuditCount": 32,
+    "excludedAtOwnerRequest": [
+      {
+        "id": "amex-centurion-can",
+        "disposition": "Audit overrides removed; original build 3 card unchanged.",
+        "reversalCommit": "bd52852f8ad4e569e50c0ef7d9560029355f1c9f"
+      },
+      {
+        "id": "amex-centurion-us",
+        "disposition": "Audit overrides removed; original build 3 card unchanged.",
+        "reversalCommit": "bd52852f8ad4e569e50c0ef7d9560029355f1c9f"
+      }
+    ]
+  },
+  "baseline": {
+    "archive": "StackJet ver.1.3 (3).zip",
+    "catalogVersion": "1.7.71",
+    "cards": 306,
+    "programs": 96
+  },
+  "dataCommit": "bd52852f8ad4e569e50c0ef7d9560029355f1c9f",
+  "dataBlobSHA": "fbdd51f4299066a5252c1c760d8dd718228f1b80",
+  "dataSHA256": "3c2fe2b84f9ee0def020b208a12745db01920bda56ea73d57275d4db86053476",
+  "commits": [
+    "16192ed50e6582f42cf9ba7c097618bb1b12269e",
+    "4116b802da31b295472fe928a00935d3ae7e329c",
+    "26d58ec6ec1234c682726d056e9c33bf41cb0cff",
+    "d5f414dc684a32861991699431b3917c7bc5afe5",
+    "47f8131d590c8380340d92a4a4adb53edbd04de9",
+    "f220701ef70e6263828b39c59565180d022790e2",
+    "37adc636b072ad0f5c3ef6039911818181167e33",
+    "8143c2cc83defead110d3859e8a3c836dc275e10",
+    "bf94f34b1888375aba2f150585f4768158fedabd",
+    "0c7139623abdd7bba808ce2ff6361080be244077",
+    "e575e8f636080beba20a196a767e47fe025ab8ff",
+    "48aafa4b1b2bd914f427af83fc9b7330a81fb9e4",
+    "58f1b8245eeec213db13dcc64685bfd04604b224",
+    "bd52852f8ad4e569e50c0ef7d9560029355f1c9f"
+  ],
+  "validation": {
+    "applicableToBuild3": true,
+    "appliesSuccessfully": true,
+    "bytes": 1649781,
+    "cathayBenefits": 22,
+    "decodedCards": 101,
+    "message": "Final 32 Amex cards, Centurion excluded by owner",
+    "rawCards": 101,
+    "sha": "amex-final",
+    "skippedCards": [],
+    "immutableGitHubReadbackMatches": true,
+    "nonAmexCardsUnchanged": true,
+    "appSchemaVersionUnchanged": true,
+    "originalRosterUnchanged": true,
+    "centurionOverridesAbsent": true,
+    "displayOrderChecked": true,
+    "displayOrder": [
+      "credit trackers",
+      "enrollment-confirmation benefits",
+      "other benefits",
+      "status box for granted status",
+      "insurance dropdown"
+    ],
+    "biltExceptionUnchanged": true,
+    "appBuildPerformed": false,
+    "appCodeChanged": false,
+    "zipCreated": false,
+    "versionIncremented": false
+  },
+  "modellingLimits": [
+    "Broad Hilton-only and Delta-only earning categories cannot be safely represented by build 3; original overbroad rules are dated inactive and true issuer-specific rate described in Benefits.",
+    "Quarterly spending bonuses remain descriptive because build 3 spending slider assumes annual milestones.",
+    "NEXUS fixed issuer windows use a manually reset tracker; not a new rolling window starting with first claim.",
+    "Shared US venue concession offer requires one enrollment per person; credits on multiple cards cannot be assumed simultaneously.",
+    "Excluded Centurion cards retain original baseline data and are outside all audit conclusions."
+  ],
+  "summary": {
+    "reviewedCards": 32,
+    "withOpenItems": 16,
+    "withoutIdentifiedOpenItems": 16
+  },
+  "cards": [
+    {
+      "id": "amex-aeroplan-business-reserve-can",
+      "name": "Amex Aeroplan Business Reserve CAN",
+      "market": "CAN",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 39,
+      "insuranceEntryCount": 11,
+      "changes": [
+        "Companion-pass anniversary spending, NEXUS windows, Instacart cap and status benefits checked.",
+        "Future 2027 Priority Pass included/earned visits separated.",
+        "Card-specific insurance expanded; employee misuse remains partial."
+      ],
+      "openItems": [
+        "Full separate employee-card misuse policy not publicly accessible."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "employee-misuse",
+            "issuer-aeroplan-link",
+            "issuer-amex-offers",
+            "issuer-avis-status",
+            "issuer-experiences",
+            "issuer-fraud-replacement",
+            "issuer-hyatt-bonus",
+            "issuer-hyatt-status",
+            "issuer-maple-leaf-current",
+            "travel-emergency-assistance"
+          ],
+          "modifiedIDs": [
+            "aeroplan-2027-ac-wallet",
+            "aeroplan-2027-aspire-visits",
+            "aeroplan-2027-car-day",
+            "aeroplan-2027-flight-discount",
+            "aeroplan-2027-global-mll",
+            "aeroplan-2027-hotel-night",
+            "aeroplan-2027-priority-pass-visits",
+            "aeroplan-2027-priority-security",
+            "air-canada-priority",
+            "checked-bag",
+            "ins-baggage",
+            "ins-emergency-medical",
+            "ins-extended-warranty",
+            "ins-flight-delay",
+            "ins-hotel-burglary",
+            "ins-purchase-protection",
+            "ins-rental-car",
+            "ins-travel-accident",
+            "ins-trip-cancellation",
+            "ins-trip-interruption",
+            "instacart",
+            "nexus",
+            "pot-10-head-start-on-aeroplan-status",
+            "pot-annual-worldwide-companion-pass",
+            "pot-eupgrade-credits-last-24-months",
+            "pot-priority-airport-services-at-toronto-pearson",
+            "pot-priority-travel-for-you-and-8-companions",
+            "pot-status-qualifying-credits-from-spending",
+            "priority-pass"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [
+            "avis-presidents-club",
+            "hyatt-discoverist"
+          ],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "air-canada",
+            "base",
+            "hotel-car",
+            "hyatt"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/amex/personal.html",
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html",
+        "https://www.americanexpress.com/ca/en/business/small-business/benefits/aeroplan-business-reserve-card/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478738-50498176-0926-Aeroplan-Business-Reserve-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Business-Reserve-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/aeroplan-reserve/",
+        "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-business-reserve-card/product-changes/"
+      ],
+      "coverageNote": "Current product benefits, September 2026 agreement, July 1, 2025 insurance and official January 2027 change terms reviewed November 4, 2026. New 2027 benefits are dated separately. Card and Aeroplan account must be eligible/in good standing; link the correct Aeroplan account and include it on bookings. Status qualification credits do not grant automatic Aeroplan Elite status. Insurance payment, Canadian-residency, exclusions and claim evidence requirements apply. NEXUS uses issuer-defined fixed four-year eligibility windows; its slider is manual because build 3's rolling-from-use timer cannot reproduce those windows. No mobile-device insurance is listed. Employee-misuse full terms were not publicly linked and remain unresolved."
+    },
+    {
+      "id": "amex-aeroplan-can",
+      "name": "Amex Aeroplan CAN",
+      "market": "CAN",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 20,
+      "insuranceEntryCount": 7,
+      "changes": [
+        "Aeroplan/partner benefits, enrollment and qualification distinguished from status grants.",
+        "Current and future 2027 benefits dated separately; card-specific insurance expanded."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-aeroplan-link",
+            "issuer-amex-offers",
+            "issuer-avis-status",
+            "issuer-experiences",
+            "issuer-fraud-replacement",
+            "issuer-hyatt-bonus",
+            "issuer-sqc",
+            "travel-emergency-assistance"
+          ],
+          "modifiedIDs": [
+            "aeroplan-2027-ac-wallet",
+            "aeroplan-2027-car-day",
+            "aeroplan-2027-flight-discount",
+            "aeroplan-2027-hotel-night",
+            "ins-baggage",
+            "ins-extended-warranty",
+            "ins-flight-delay",
+            "ins-hotel-burglary",
+            "ins-purchase-protection",
+            "ins-rental-car",
+            "ins-travel-accident",
+            "pot-free-first-checked-bag"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [
+            "avis-preferred-plus"
+          ],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "air-canada",
+            "base",
+            "dining-delivery",
+            "hyatt"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478732-50498176-0926-Aeroplan-Core-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/campaigns/charge-cards/aeroplan-card/product-changes/",
+        "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-card/"
+      ],
+      "coverageNote": "Current product benefits, September 2026 agreement, July 1, 2025 insurance and official January 2027 change terms reviewed November 4, 2026. New 2027 benefits are dated separately. Card and Aeroplan account must be eligible/in good standing; link the correct Aeroplan account and include it on bookings. Status qualification credits do not grant automatic Aeroplan Elite status. Insurance payment, Canadian-residency, exclusions and claim evidence requirements apply."
+    },
+    {
+      "id": "amex-aeroplan-reserve-can",
+      "name": "Amex Aeroplan Reserve CAN",
+      "market": "CAN",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 40,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Companion-pass anniversary spending, NEXUS fixed windows, Instacart two-transaction cap and status benefits checked.",
+        "2027 Priority Pass includes two visits plus four earned after eligible spending, not six unconditional visits.",
+        "Card-specific insurance expanded."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "aeroplan-2027-spend-points",
+            "issuer-aeroplan-link",
+            "issuer-amex-offers",
+            "issuer-avis-status",
+            "issuer-experiences",
+            "issuer-fraud-replacement",
+            "issuer-hyatt-bonus",
+            "issuer-hyatt-status",
+            "issuer-maple-leaf-current",
+            "travel-emergency-assistance"
+          ],
+          "modifiedIDs": [
+            "aeroplan-2027-ac-wallet",
+            "aeroplan-2027-aspire-visits",
+            "aeroplan-2027-car-day",
+            "aeroplan-2027-dining",
+            "aeroplan-2027-flight-discount",
+            "aeroplan-2027-global-mll",
+            "aeroplan-2027-hotel-night",
+            "aeroplan-2027-priority-pass-visits",
+            "aeroplan-2027-priority-security",
+            "air-canada-priority",
+            "checked-bag",
+            "ins-baggage",
+            "ins-emergency-medical",
+            "ins-extended-warranty",
+            "ins-flight-delay",
+            "ins-hotel-burglary",
+            "ins-purchase-protection",
+            "ins-rental-car",
+            "ins-travel-accident",
+            "ins-trip-cancellation",
+            "ins-trip-interruption",
+            "instacart",
+            "nexus",
+            "pot-10-head-start-on-aeroplan-status",
+            "pot-annual-companion-flight",
+            "pot-eupgrade-credits-last-24-months",
+            "pot-priority-airport-services-at-toronto-pearson",
+            "pot-priority-travel-for-you-and-8-companions",
+            "pot-status-qualifying-credits-from-spending",
+            "priority-pass"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [
+            "avis-presidents-club",
+            "hyatt-discoverist"
+          ],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "air-canada",
+            "base",
+            "dining-delivery",
+            "hyatt"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/credit-cards/amex/personal.html",
+        "https://www.aircanada.com/ca/en/aco/home/aeroplan/partners/hyatt.html",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50478734-50498176-0926-Aeroplan-Reserve-Lend-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Aeroplan-Reserve-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/aeroplan-reserve/",
+        "https://www.americanexpress.com/en-ca/campaigns/credit-cards/aeroplan-reserve/product-changes/",
+        "https://www.americanexpress.com/en-ca/membership-benefits/aeroplan-reserve-card/"
+      ],
+      "coverageNote": "Current product benefits, September 2026 agreement, July 1, 2025 insurance and official January 2027 change terms reviewed November 4, 2026. New 2027 benefits are dated separately. Card and Aeroplan account must be eligible/in good standing; link the correct Aeroplan account and include it on bookings. Status qualification credits do not grant automatic Aeroplan Elite status. Insurance payment, Canadian-residency, exclusions and claim evidence requirements apply. NEXUS uses issuer-defined fixed four-year eligibility windows; its slider is manual because build 3's rolling-from-use timer cannot reproduce those windows. No mobile-device insurance is listed."
+    },
+    {
+      "id": "amex-business-gold-rewards-can",
+      "name": "Amex Business Gold Rewards CAN",
+      "market": "CAN",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 22,
+      "insuranceEntryCount": 9,
+      "changes": [
+        "Removed incorrectly copied personal Gold C$100 travel credit and four Plaza Premium passes.",
+        "Dell, Indeed, Instacart and QuickBooks caps, expiry, enrollment and eligible-card rules checked.",
+        "Quarterly C$20,000/10,000-point bonus stays descriptive because build 3 spending slider assumes annual tracking."
+      ],
+      "openItems": [
+        "Full separate employee-card misuse policy, exclusions and reporting/recovery conditions not publicly accessible."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "employee-misuse",
+            "indeed",
+            "instacart",
+            "issuer-amex-offers",
+            "issuer-business-management",
+            "issuer-experiences",
+            "issuer-fraud-replacement",
+            "issuer-hertz",
+            "issuer-hotel-collection",
+            "quarterly-spend-bonus",
+            "quickbooks",
+            "travel-emergency-assistance"
+          ],
+          "modifiedIDs": [
+            "dell",
+            "ins-baggage",
+            "ins-extended-warranty",
+            "ins-flight-delay",
+            "ins-hotel-burglary",
+            "ins-mobile-device",
+            "ins-purchase-protection",
+            "ins-rental-car",
+            "ins-travel-accident",
+            "pot-transfer-to-airline-and-hotel-partners"
+          ],
+          "removedIDs": [
+            "pot-100-annual-travel-credit",
+            "pot-4-plaza-premium-lounge-passes"
+          ]
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "base"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/ca/en/business/small-business/benefits/business-gold-rewards-card/",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Gold-Rewards-Card-COI-EN.pdf"
+      ],
+      "coverageNote": "Product benefits, registered-offer terms, September 2026 agreement and July 1, 2025 insurance certificates reviewed November 4, 2026. Unsupported catalog travel-credit and Plaza Premium-pass entries have been removed; these are not listed Business Gold benefits. No emergency-medical, general trip-cancellation/interruption or elite-status grant is listed. Employee Card Misuse Protection is issuer-listed, but its separate full terms were not publicly linked; eligibility beyond the displayed conditions remains unresolved. Other insurance requires eligible Canadian residency, account status and full-payment conditions. Rental/purchase claims: report within 48 hours; warranty within 45 days; other certificate claim deadlines apply."
+    },
+    {
+      "id": "amex-business-gold-us",
+      "name": "Amex Business Gold US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 20,
+      "insuranceEntryCount": 6,
+      "changes": [
+        "Checked flexible business credit, Walmart+ and qualifying 4X category/cap conditions.",
+        "Venue concessions is explicitly 10% back, up to US$250, with one enrollment per person—not an automatic US$250 allowance.",
+        "Expanded insurance and source links."
+      ],
+      "openItems": [
+        "Detailed current application disclosure not publicly readable; account-specific fee/benefit terms require issuer confirmation."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-amex-offers",
+            "issuer-business-tools",
+            "issuer-experiences",
+            "issuer-payment-flexibility",
+            "issuer-vendor-pay",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-business-gold-us-car-rental-loss-damage-insurance",
+            "amex-business-gold-us-cell-phone-protection",
+            "amex-business-gold-us-extended-warranty",
+            "amex-business-gold-us-lost-luggage-reimbursement",
+            "amex-business-gold-us-purchase-protection",
+            "amex-business-gold-us-travel-emergency-assistance",
+            "amex-business-gold-us-trip-delay-reimbursement",
+            "chatgpt",
+            "flexible-credit",
+            "squarespace",
+            "top-two",
+            "walmart-plus"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://global.americanexpress.com/card-benefits/view-all/business-gold",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/"
+      ],
+      "coverageNote": "Full public-source audit on November 4, 2026: product benefits, earnings, fees and card-matched protection guides checked. Credit limits are shared across cards on the account unless the terms say otherwise; unused periodic credits do not roll over. Insurance eligibility, state variations, exclusions, payment conditions and claim evidence requirements apply. No emergency-medical policy, general trip cancellation/interruption or lounge access is listed. The detailed application disclosure could not be retrieved; account-specific and merchant-level restrictions must be checked in the linked current issuer terms."
+    },
+    {
+      "id": "amex-business-platinum-can",
+      "name": "Amex Business Platinum CAN",
+      "market": "CAN",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 37,
+      "insuranceEntryCount": 12,
+      "changes": [
+        "Instacart corrected to two C$10 credits/month; credit expiry and basic-card restrictions checked.",
+        "Wireless has no published fixed end date; erroneous December 2026 expiry removed.",
+        "2027 lounges: six visits to each network for basic card, two each for eligible supplementary Platinum; C$20,000 calendar spend unlock.",
+        "Insurance expanded; original generic benefit IDs restored as descriptive, non-duplicate entries."
+      ],
+      "openItems": [
+        "Full separate employee-card misuse policy not publicly accessible.",
+        "Current Canadian International Airline Program eligibility/airline/fare terms not confirmed from a public issuer page."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-2027-unlimited-lounges",
+            "issuer-avis-rental-privileges",
+            "issuer-hertz-rental-privileges"
+          ],
+          "modifiedIDs": [
+            "dell",
+            "global-lounge",
+            "hilton-gold",
+            "indeed",
+            "instacart",
+            "issuer-000-travel-accident-insurance",
+            "issuer-amex-experiencestm",
+            "issuer-amex-offers",
+            "issuer-baggage-delay-insurance",
+            "issuer-buyer-s-assurance-protection-plan",
+            "issuer-car-rental-theft-and-damage-insurance",
+            "issuer-earn-up-to-620-in-business-credits",
+            "issuer-employee-card-misuse-protection",
+            "issuer-experiences-created-around-you",
+            "issuer-fine-hotels-resorts",
+            "issuer-flight-delay-insurance",
+            "issuer-front-of-the-line-amex-presale-and-reserved-ticketstm-33",
+            "issuer-hotel-burglary-insurance",
+            "issuer-hotel-status-benefit",
+            "issuer-mobile-device-insurance",
+            "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
+            "issuer-platinum-concierge",
+            "issuer-purchase-protection-plan",
+            "issuer-special-business-offers",
+            "issuer-the-hotel-collection",
+            "issuer-travel-emergency-assistance",
+            "issuer-trip-cancellation-insurance",
+            "issuer-trip-interruption-insurance",
+            "marriott-gold",
+            "nexus",
+            "pot-international-airline-program",
+            "quickbooks",
+            "travel-credit",
+            "wireless"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "plaza-ca",
+            "priority-ca"
+          ],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Business-Platinum-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/",
+        "https://www.americanexpress.com/en-ca/benefits/business-platinum-card/travel/",
+        "https://www.americanexpress.com/en-ca/charge-cards/small-business-platinum-card/"
+      ],
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. PARTIAL: separate employee-misuse policy was not publicly accessible; issuer summary only. Future 2027 lounge limits and spending unlock are descriptive and do not promise current unlimited guest access. App build 3 reset limitations are disclosed; no app code changes. Current Canadian International Airline Program eligibility/discount terms remain unresolved."
+    },
+    {
+      "id": "amex-business-platinum-us",
+      "name": "Amex Business Platinum US",
+      "market": "US",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-05",
+      "benefitCount": 43,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Added Dell US$150 credit plus separate US$5,000 spending-triggered US$1,000 credit, and Hilton US$50/quarter.",
+        "Added airline Pay with Points rebate, large-purchase conditions, hotel/rental/status benefits and missing insurance components.",
+        "Lounge visit/guest rules and current lodging/Airbnb conditions clarified; cruise booking access removed from elite-status box."
+      ],
+      "openItems": [
+        "Amex and Delta publish different maximum connecting-layover entry timing; verify for long layovers.",
+        "Current detailed additional-card/account-specific fee terms were not fully publicly readable."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "airbnb-experiences",
+            "amex-business-platinum-us-rental-accident",
+            "amex-business-platinum-us-rental-personal-property",
+            "amex-business-platinum-us-return-protection",
+            "centurion",
+            "delta-skyclub",
+            "issuer-airline-points-rebate",
+            "issuer-avis-rental",
+            "issuer-centurion-guest-milestone",
+            "issuer-cruise-privileges",
+            "issuer-dell-base-credit",
+            "issuer-dell-spend-credit",
+            "issuer-fine-hotels-resorts",
+            "issuer-hertz-rental",
+            "issuer-hilton-credit",
+            "issuer-hotel-collection",
+            "issuer-large-purchase-2x",
+            "issuer-leaders-club",
+            "issuer-national-rental",
+            "issuer-unlimited-skyclub-milestone",
+            "issuer-venue-concessions",
+            "priority-pass"
+          ],
+          "modifiedIDs": [
+            "adobe",
+            "airline-fee",
+            "amex-business-platinum-us-car-rental-loss-damage-insurance",
+            "amex-business-platinum-us-cell-phone-protection",
+            "amex-business-platinum-us-extended-warranty",
+            "amex-business-platinum-us-lost-luggage-reimbursement",
+            "amex-business-platinum-us-purchase-protection",
+            "amex-business-platinum-us-travel-emergency-assistance",
+            "amex-business-platinum-us-trip-cancellation-interruption-insurance",
+            "amex-business-platinum-us-trip-delay-reimbursement",
+            "chatgpt",
+            "clear-plus",
+            "global-entry-credit",
+            "hotel-credit",
+            "indeed",
+            "issuer-hilton-honors-gold-status",
+            "issuer-marriott-bonvoy-gold-elite-status",
+            "lounge",
+            "wireless"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": [
+            "amex-cruise-privileges"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "travel-portal"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://global.americanexpress.com/card-benefits/detail/experiences-credit/platinum",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-405_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/travel/faq/homes/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-platinum-credit-card-amex/",
+        "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+        "https://www.delta.com/us/en/delta-sky-club/access",
+        "https://www.thecenturionlounge.com/info/access/"
+      ],
+      "coverageNote": "Public issuer-source reconciliation completed 2026-11-05: current product benefits, card-matched insurance guides, enrollment and statement-credit conditions checked. Detailed application/variant terms were not publicly readable; account-specific fee, supplement and partner enrollment terms require confirmation. Delta/issuer layover timing differs; check before long connections. Status grants stay in the status box, booking privileges do not; services are distinct from insurance."
+    },
+    {
+      "id": "amex-delta-skymiles-gold-business-us",
+      "name": "Amex Delta SkyMiles Gold Business US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 22,
+      "insuranceEntryCount": 4,
+      "changes": [
+        "Second checked bag restricted to eligible basic cardmember; ordinary companions retain only eligible first-bag benefit.",
+        "Delta-only earning no longer applied to every airline: broad old rule retained with end date; actual rate described in Benefits.",
+        "Rideshare/Delta Stays/Resy, companion or flight-credit spend and redemption conditions checked where applicable.",
+        "Card-matched insurance, account tools and shared optional venue offer expanded.",
+        "Rideshare begins after first renewal; US$10,000 spend earns US$200 Delta flight eCredit, not an unconditional annual credit."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-account-services",
+            "issuer-advertising-earn",
+            "issuer-amex-offers",
+            "issuer-business-tools",
+            "issuer-checked-bags",
+            "issuer-delta-earn",
+            "issuer-experiences",
+            "issuer-inflight-savings",
+            "issuer-pay-with-miles",
+            "issuer-takeoff-15",
+            "issuer-vendor-pay",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-delta-skymiles-gold-business-us-car-rental-loss-damage-insurance",
+            "amex-delta-skymiles-gold-business-us-extended-warranty",
+            "amex-delta-skymiles-gold-business-us-lost-luggage-reimbursement",
+            "amex-delta-skymiles-gold-business-us-purchase-protection",
+            "amex-delta-skymiles-gold-business-us-travel-emergency-assistance",
+            "delta-flight-credit",
+            "issuer-delta-stays-credit",
+            "issuer-rideshare-credit",
+            "issuer-zone-5-priority-boarding"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "bonus",
+            "shipping-ads"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-gold/",
+        "https://www.americanexpress.com/en-us/business/payments/vendor-pay/",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Gold rideshare eligibility starts after first renewal. No lounge access, MQD Headstart/Boost, trip-delay, general trip cancellation/interruption or cell-phone insurance is listed. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions."
+    },
+    {
+      "id": "amex-delta-skymiles-gold-us",
+      "name": "Amex Delta SkyMiles Gold US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 21,
+      "insuranceEntryCount": 4,
+      "changes": [
+        "Second checked bag restricted to eligible basic cardmember; ordinary companions retain only eligible first-bag benefit.",
+        "Delta-only earning no longer applied to every airline: broad old rule retained with end date; actual rate described in Benefits.",
+        "Rideshare/Delta Stays/Resy, companion or flight-credit spend and redemption conditions checked where applicable.",
+        "Card-matched insurance, account tools and shared optional venue offer expanded.",
+        "Rideshare begins after first renewal; US$10,000 spend earns US$200 Delta flight eCredit, not an unconditional annual credit."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-account-services",
+            "issuer-amex-offers",
+            "issuer-delta-earn",
+            "issuer-experiences",
+            "issuer-inflight-savings",
+            "issuer-pay-with-miles",
+            "issuer-plan-it",
+            "issuer-send-split",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-delta-skymiles-gold-us-car-rental-loss-damage-insurance",
+            "amex-delta-skymiles-gold-us-extended-warranty",
+            "amex-delta-skymiles-gold-us-lost-luggage-reimbursement",
+            "amex-delta-skymiles-gold-us-purchase-protection",
+            "amex-delta-skymiles-gold-us-travel-emergency-assistance",
+            "delta-flight-credit",
+            "issuer-delta-stays-credit",
+            "issuer-first-bag-free-and-new-second-bag-free",
+            "issuer-rideshare-credit",
+            "issuer-takeoff-15",
+            "issuer-zone-5-priority-boarding"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [
+            "us-supermarkets"
+          ],
+          "modifiedIDs": [
+            "bonus"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express-card/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.delta.com/global/en/skymiles/airline-credit-cards/overview",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Gold rideshare eligibility starts after first renewal. No lounge access, MQD Headstart/Boost, trip-delay, general trip cancellation/interruption or cell-phone insurance is listed. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions."
+    },
+    {
+      "id": "amex-delta-skymiles-platinum-business-us",
+      "name": "Amex Delta SkyMiles Platinum Business US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 29,
+      "insuranceEntryCount": 6,
+      "changes": [
+        "Second checked bag restricted to eligible basic cardmember; ordinary companions retain only eligible first-bag benefit.",
+        "Delta-only earning no longer applied to every airline: broad old rule retained with end date; actual rate described in Benefits.",
+        "Rideshare/Delta Stays/Resy, companion or flight-credit spend and redemption conditions checked where applicable.",
+        "Card-matched insurance, account tools and shared optional venue offer expanded.",
+        "MQD Headstart is qualification credit, removed from automatic airline-status grants.",
+        "Transit/shipping/large-purchase or US$150,000 spending conditions kept separate from unrestricted base earning."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "amex-delta-skymiles-platinum-business-us-car-rental-loss-damage-insurance",
+            "amex-delta-skymiles-platinum-business-us-cell-phone-protection",
+            "issuer-account-services",
+            "issuer-amex-offers",
+            "issuer-business-tools",
+            "issuer-checked-bags",
+            "issuer-complimentary-upgrades",
+            "issuer-delta-earn",
+            "issuer-experiences",
+            "issuer-inflight-savings",
+            "issuer-large-purchase-earn",
+            "issuer-pay-with-miles",
+            "issuer-takeoff-15",
+            "issuer-vendor-pay",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-delta-skymiles-platinum-business-us-extended-warranty",
+            "amex-delta-skymiles-platinum-business-us-lost-luggage-reimbursement",
+            "amex-delta-skymiles-platinum-business-us-purchase-protection",
+            "amex-delta-skymiles-platinum-business-us-travel-emergency-assistance",
+            "amex-delta-skymiles-platinum-business-us-trip-delay-reimbursement",
+            "global-entry-credit",
+            "issuer-annual-companion-certificate-upon-renewal",
+            "issuer-delta-stays-statement-credit",
+            "issuer-hertz-five-star-status",
+            "issuer-medallion-qualification-dollars-mqd-boost",
+            "issuer-resy-credit",
+            "issuer-rideshare-credit",
+            "issuer-zone-5-priority-boarding"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "hertz-five-star"
+          ],
+          "removedIDs": [
+            "mqd-headstart-2500"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [
+            "us-shipping"
+          ],
+          "modifiedIDs": [
+            "delta",
+            "transit"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-platinum/",
+        "https://www.americanexpress.com/en-us/business/payments/vendor-pay/",
+        "https://www.delta.com/hertz",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No Delta Sky Club access or general trip cancellation/interruption coverage is listed. The erroneous MQD qualification-credit status-box entry was removed; Hertz status remains. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions."
+    },
+    {
+      "id": "amex-delta-skymiles-platinum-us",
+      "name": "Amex Delta SkyMiles Platinum US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 30,
+      "insuranceEntryCount": 6,
+      "changes": [
+        "Second checked bag restricted to eligible basic cardmember; ordinary companions retain only eligible first-bag benefit.",
+        "Delta-only earning no longer applied to every airline: broad old rule retained with end date; actual rate described in Benefits.",
+        "Rideshare/Delta Stays/Resy, companion or flight-credit spend and redemption conditions checked where applicable.",
+        "Card-matched insurance, account tools and shared optional venue offer expanded.",
+        "MQD Headstart is qualification credit, removed from automatic airline-status grants."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-account-services",
+            "issuer-amex-offers",
+            "issuer-complimentary-upgrades",
+            "issuer-delta-earn",
+            "issuer-experiences",
+            "issuer-inflight-savings",
+            "issuer-pay-with-miles",
+            "issuer-plan-it",
+            "issuer-send-split",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-delta-skymiles-platinum-us-car-rental-loss-damage-insurance",
+            "amex-delta-skymiles-platinum-us-cell-phone-protection",
+            "amex-delta-skymiles-platinum-us-extended-warranty",
+            "amex-delta-skymiles-platinum-us-lost-luggage-reimbursement",
+            "amex-delta-skymiles-platinum-us-purchase-protection",
+            "amex-delta-skymiles-platinum-us-travel-emergency-assistance",
+            "amex-delta-skymiles-platinum-us-trip-delay-reimbursement",
+            "companion",
+            "delta-earn",
+            "delta-stays",
+            "global-entry-credit",
+            "issuer-first-bag-free-and-new-second-bag-free",
+            "issuer-hertz-five-star-status",
+            "issuer-mqd-boost",
+            "issuer-takeoff-15",
+            "issuer-zone-5-priority-boarding",
+            "mqd-headstart",
+            "resy",
+            "rideshare"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "hertz-five-star"
+          ],
+          "removedIDs": [
+            "mqd-headstart-2500"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [
+            "us-supermarkets"
+          ],
+          "modifiedIDs": [
+            "delta",
+            "dining-grocery"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express-card/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.delta.com/global/en/skymiles/airline-credit-cards/overview",
+        "https://www.delta.com/hertz",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No Delta Sky Club access or general trip cancellation/interruption coverage is listed. The erroneous MQD qualification-credit status-box entry was removed; Hertz status remains. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions."
+    },
+    {
+      "id": "amex-delta-skymiles-reserve-business-us",
+      "name": "Amex Delta SkyMiles Reserve Business US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 39,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Second checked bag restricted to eligible basic cardmember; ordinary companions retain only eligible first-bag benefit.",
+        "Delta-only earning no longer applied to every airline: broad old rule retained with end date; actual rate described in Benefits.",
+        "Rideshare/Delta Stays/Resy, companion or flight-credit spend and redemption conditions checked where applicable.",
+        "Card-matched insurance, account tools and shared optional venue offer expanded.",
+        "MQD Headstart is qualification credit, removed from automatic airline-status grants.",
+        "15 Sky Club visits, 24-hour visit counting, US$75,000 unlimited-access unlock, four guest passes, Centurion/Sidecar/Escape and Hertz conditions clarified.",
+        "Transit/shipping/large-purchase or US$150,000 spending conditions kept separate from unrestricted base earning."
+      ],
+      "openItems": [
+        "Amex and Delta publish different maximum connecting-layover entry timing; verify for long layovers.",
+        "Current detailed additional-card/account-specific fee terms were not fully publicly readable."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "amex-delta-skymiles-reserve-business-us-rental-accident",
+            "amex-delta-skymiles-reserve-business-us-rental-personal-property",
+            "amex-delta-skymiles-reserve-business-us-return-protection",
+            "issuer-account-services",
+            "issuer-amex-offers",
+            "issuer-business-tools",
+            "issuer-delta-earn",
+            "issuer-experiences",
+            "issuer-pay-with-miles",
+            "issuer-skyclub-guest-passes",
+            "issuer-vendor-pay",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-delta-skymiles-reserve-business-us-car-rental-loss-damage-insurance",
+            "amex-delta-skymiles-reserve-business-us-cell-phone-protection",
+            "amex-delta-skymiles-reserve-business-us-extended-warranty",
+            "amex-delta-skymiles-reserve-business-us-lost-luggage-reimbursement",
+            "amex-delta-skymiles-reserve-business-us-purchase-protection",
+            "amex-delta-skymiles-reserve-business-us-travel-emergency-assistance",
+            "amex-delta-skymiles-reserve-business-us-trip-cancellation-interruption-insurance",
+            "amex-delta-skymiles-reserve-business-us-trip-delay-reimbursement",
+            "boarding",
+            "centurion",
+            "checked-bag",
+            "companion",
+            "delta-skyclub",
+            "delta-stays",
+            "global-entry",
+            "hertz",
+            "inflight",
+            "issuer-boost-your-earning-potential",
+            "issuer-complimentary-access-to-the-centurion-lounge-and-escape-lounge",
+            "issuer-global-dining-access-by-resy",
+            "mqd-boost",
+            "mqd-headstart",
+            "resy",
+            "rideshare",
+            "takeoff15",
+            "upgrade"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "hertz-presidents-circle"
+          ],
+          "removedIDs": [
+            "mqd-headstart-2500"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [
+            "transit",
+            "us-shipping-office"
+          ],
+          "modifiedIDs": [
+            "delta"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "centurion-escape",
+            "delta-sky-club"
+          ],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://global.americanexpress.com/card-benefits/detail/complimentary-access-centurion-lounge/delta-reserve-business",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-405_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/",
+        "https://www.americanexpress.com/en-us/business/credit-cards/delta-skymiles-reserve/68734/",
+        "https://www.americanexpress.com/en-us/business/payments/vendor-pay/",
+        "https://www.delta.com/hertz",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates",
+        "https://www.delta.com/us/en/delta-sky-club/access"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Current issuer/Delta lounge text differs on layover timing; verify the live entry rule before travel. The erroneous MQD qualification-credit status-box entry was removed; Hertz status remains. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions."
+    },
+    {
+      "id": "amex-delta-skymiles-reserve-us",
+      "name": "Amex Delta SkyMiles Reserve US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 39,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Second checked bag restricted to eligible basic cardmember; ordinary companions retain only eligible first-bag benefit.",
+        "Delta-only earning no longer applied to every airline: broad old rule retained with end date; actual rate described in Benefits.",
+        "Rideshare/Delta Stays/Resy, companion or flight-credit spend and redemption conditions checked where applicable.",
+        "Card-matched insurance, account tools and shared optional venue offer expanded.",
+        "MQD Headstart is qualification credit, removed from automatic airline-status grants.",
+        "15 Sky Club visits, 24-hour visit counting, US$75,000 unlimited-access unlock, four guest passes, Centurion/Sidecar/Escape and Hertz conditions clarified."
+      ],
+      "openItems": [
+        "Amex and Delta publish different maximum connecting-layover entry timing; verify for long layovers.",
+        "Current detailed additional-card/account-specific fee terms were not fully publicly readable."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "amex-delta-skymiles-reserve-us-rental-accident",
+            "amex-delta-skymiles-reserve-us-rental-personal-property",
+            "issuer-account-services",
+            "issuer-amex-offers",
+            "issuer-delta-earn",
+            "issuer-experiences",
+            "issuer-pay-with-miles",
+            "issuer-plan-it",
+            "issuer-send-split",
+            "issuer-skyclub-guest-passes",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-delta-skymiles-reserve-us-car-rental-loss-damage-insurance",
+            "amex-delta-skymiles-reserve-us-cell-phone-protection",
+            "amex-delta-skymiles-reserve-us-extended-warranty",
+            "amex-delta-skymiles-reserve-us-lost-luggage-reimbursement",
+            "amex-delta-skymiles-reserve-us-purchase-protection",
+            "amex-delta-skymiles-reserve-us-return-protection",
+            "amex-delta-skymiles-reserve-us-travel-emergency-assistance",
+            "amex-delta-skymiles-reserve-us-trip-cancellation-interruption-insurance",
+            "amex-delta-skymiles-reserve-us-trip-delay-reimbursement",
+            "boarding",
+            "centurion",
+            "checked-bag",
+            "companion",
+            "delta-skyclub",
+            "delta-stays",
+            "global-entry",
+            "hertz",
+            "inflight",
+            "issuer-complimentary-access-to-the-centurion-lounge",
+            "issuer-first-bag-free-and-new-second-bag-free",
+            "issuer-global-dining-access",
+            "mqd-boost",
+            "mqd-headstart",
+            "resy",
+            "rideshare",
+            "takeoff15",
+            "upgrade"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "hertz-presidents-circle"
+          ],
+          "removedIDs": [
+            "mqd-headstart-2500"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "delta"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "centurion-escape",
+            "delta-sky-club"
+          ],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://global.americanexpress.com/card-benefits/detail/complimentary-access-centurion-lounge/delta-reserve",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-reserve-american-express-card/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.delta.com/global/en/skymiles/airline-credit-cards/overview",
+        "https://www.delta.com/hertz",
+        "https://www.delta.com/intl/en/baggage/checked-baggage/first-checked-bag-free",
+        "https://www.delta.com/us/en/booking-information/companion-certificates",
+        "https://www.delta.com/us/en/delta-sky-club/access"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Current issuer/Delta lounge text differs on layover timing; verify the live entry rule before travel. The erroneous MQD qualification-credit status-box entry was removed; Hertz status remains. The Delta-only airline bonus is not applied to unrelated airlines in Best Card. First-bag companion privileges do not extend the new domestic second-bag waiver to ordinary companions."
+    },
+    {
+      "id": "amex-gold-rewards-can",
+      "name": "Amex Gold Rewards CAN",
+      "market": "CAN",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 24,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "C$100 travel credit reset corrected to card anniversary.",
+        "C$10/month enrolled Instacart added; NEXUS fixed four-year windows clarified.",
+        "Card-specific insurance and Plan It option checked; original NEXUS ID retained descriptively without a duplicate tracker."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-instacart-credit",
+            "issuer-plan-it"
+          ],
+          "modifiedIDs": [
+            "issuer-000-travel-accident-insurance",
+            "issuer-amex-offers",
+            "issuer-annual-travel-credit",
+            "issuer-baggage-delay-insurance",
+            "issuer-buyer-s-assurance-protection-plan",
+            "issuer-car-rental-theft-and-damage-insurance",
+            "issuer-flight-delay-insurance",
+            "issuer-front-of-the-line-amex-presale-and-reserved-ticketstm",
+            "issuer-hertz-car-rental-benefit",
+            "issuer-hotel-burglary-insurance",
+            "issuer-nexus-card-statement-credit",
+            "issuer-onsite-benefits-with-amex-experiencestm",
+            "issuer-out-of-province-country-emergency-medical-insurance-for-under-age-65",
+            "issuer-plaza-premium-lounge-visits",
+            "issuer-purchase-protection-plan",
+            "issuer-special-offers-on-american-express-travel-online",
+            "issuer-the-hotel-collection",
+            "issuer-travel-emergency-assistance",
+            "issuer-trip-cancellation-insurance",
+            "issuer-trip-interruption-insurance",
+            "issuer-worldwide-airport-lounge-access-with-priority-pass",
+            "nexus"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Gold-Rewards-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/",
+        "https://www.americanexpress.com/en-ca/credit-cards/gold-rewards-card/",
+        "https://www.americanexpress.com/en-ca/support/gold-card/faqs/"
+      ],
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. App build 3 reset limitations are disclosed; no app code changes."
+    },
+    {
+      "id": "amex-gold-us",
+      "name": "Amex Gold US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 19,
+      "insuranceEntryCount": 5,
+      "changes": [
+        "Checked credits and enrolled-card restrictions; corrected Amex Travel car-rental earning.",
+        "Expanded card-matched insurance and account/venue benefits."
+      ],
+      "openItems": [
+        "Detailed current application disclosure not publicly readable; account-specific fee/benefit terms require issuer confirmation."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-amex-offers",
+            "issuer-cruise-points",
+            "issuer-experiences",
+            "issuer-payment-flexibility",
+            "issuer-send-split",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-gold-us-car-rental-loss-damage-insurance",
+            "amex-gold-us-extended-warranty",
+            "amex-gold-us-lost-luggage-reimbursement",
+            "amex-gold-us-purchase-protection",
+            "amex-gold-us-travel-emergency-assistance",
+            "amex-gold-us-trip-delay-reimbursement",
+            "dining",
+            "dunkin",
+            "issuer-hertz-five-star-status",
+            "issuer-no-foreign-transaction-fees",
+            "resy",
+            "uber"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "hertz-five-star"
+          ],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [
+            "prepaid-car-rentals"
+          ],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/"
+      ],
+      "coverageNote": "Full public-source audit on November 4, 2026: product benefits, earnings, fees and card-matched protection guides checked. Credit limits are shared across cards on the account unless the terms say otherwise; unused periodic credits do not roll over. Insurance eligibility, state variations, exclusions, payment conditions and claim evidence requirements apply. No emergency-medical policy, general trip cancellation/interruption or lounge access is listed. The detailed application disclosure could not be retrieved; account-specific and merchant-level restrictions must be checked in the linked current issuer terms."
+    },
+    {
+      "id": "amex-graphite-business-cash-unlimited-us",
+      "name": "Amex Graphite Business Cash Unlimited US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 13,
+      "insuranceEntryCount": 4,
+      "changes": [
+        "Checked purchase earning, business features and shared venue offer.",
+        "Added missing card-specific rental insurance and expanded protection terms."
+      ],
+      "openItems": [
+        "Detailed current application disclosure not publicly readable; account-specific fee/benefit terms require issuer confirmation."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "amex-graphite-business-cash-unlimited-us-car-rental-loss-damage-insurance",
+            "issuer-amex-offers",
+            "issuer-business-tools",
+            "issuer-experiences",
+            "issuer-payment-flexibility",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-graphite-business-cash-unlimited-us-extended-warranty",
+            "amex-graphite-business-cash-unlimited-us-purchase-protection",
+            "amex-graphite-business-cash-unlimited-us-return-protection",
+            "amex-graphite-business-cash-unlimited-us-travel-emergency-assistance",
+            "issuer-400-american-express-one-ap-statement-credit",
+            "issuer-unlimited-2-cash-backits-that-simple"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "amex-travel",
+            "base"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226_v2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y_3.26.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y_3.26.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/graphite-business-cash-unlimited-card/"
+      ],
+      "coverageNote": "Full public-source audit on November 4, 2026: product benefits, earnings, fees and card-matched protection guides checked. Credit limits are shared across cards on the account unless the terms say otherwise; unused periodic credits do not roll over. Insurance eligibility, state variations, exclusions, payment conditions and claim evidence requirements apply. No emergency-medical policy, general trip cancellation/interruption or lounge access is listed. No baggage or trip-delay insurance is listed for Graphite. The detailed application disclosure could not be retrieved; account-specific and merchant-level restrictions must be checked in the linked current issuer terms."
+    },
+    {
+      "id": "amex-green-us",
+      "name": "Amex Classic Green US",
+      "market": "US",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-05",
+      "benefitCount": 15,
+      "insuranceEntryCount": 6,
+      "changes": [
+        "Current issuer Classic Green name used with existing card ID.",
+        "3X travel/transit/dining linked to issuer; eligible portal categories added.",
+        "Card-matched US$300/12-hour delay, US$50,000 rental, baggage, purchase and warranty limits expanded."
+      ],
+      "openItems": [
+        "Live current Classic Green account-specific benefit/fee terms require member access; issuer-indexed earning and public insurance guides checked."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-amex-offers",
+            "issuer-baggage-insurance",
+            "issuer-clear-credit",
+            "issuer-event-access",
+            "issuer-extended-warranty",
+            "issuer-global-assist",
+            "issuer-no-fx",
+            "issuer-optional-premium-rental",
+            "issuer-purchase-protection",
+            "issuer-rental-car-insurance",
+            "issuer-trip-delay-insurance",
+            "issuer-venue-collection",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "coverage-guide",
+            "official-card-highlights"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "travel-dining-transit"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://global.americanexpress.com/card-benefits/detail/earn-membership-rewards-points/amex-green",
+        "https://global.americanexpress.com/card-benefits/view-all/amex-green",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/us/credit-cards/card/green/"
+      ],
+      "coverageNote": "Public issuer-source reconciliation completed 2026-11-05: current product benefits, card-matched insurance guides, enrollment and statement-credit conditions checked. Classic Green issuer benefits page is indexed but live content requires member access; current account-specific fee/complete benefit terms remain unresolved. Status grants stay in the status box, booking privileges do not; services are distinct from insurance."
+    },
+    {
+      "id": "amex-hilton-honors-aspire-us",
+      "name": "Amex Hilton Honors Aspire US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 28,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Hilton-only bonus, resort/flight credits, free-night milestones and Diamond status checked.",
+        "Duplicate Diamond status entry removed; premium rental accident/property coverage added."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "amex-hilton-honors-aspire-us-rental-accident",
+            "amex-hilton-honors-aspire-us-rental-personal-property",
+            "issuer-amex-offers",
+            "issuer-experiences",
+            "issuer-hilton-earn",
+            "issuer-hilton-reward-stays",
+            "issuer-national-executive",
+            "issuer-send-split",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-hilton-honors-aspire-us-car-rental-loss-damage-insurance",
+            "amex-hilton-honors-aspire-us-cell-phone-protection",
+            "amex-hilton-honors-aspire-us-extended-warranty",
+            "amex-hilton-honors-aspire-us-lost-luggage-reimbursement",
+            "amex-hilton-honors-aspire-us-purchase-protection",
+            "amex-hilton-honors-aspire-us-return-protection",
+            "amex-hilton-honors-aspire-us-travel-emergency-assistance",
+            "amex-hilton-honors-aspire-us-trip-cancellation-interruption-insurance",
+            "amex-hilton-honors-aspire-us-trip-delay-reimbursement",
+            "free-night",
+            "free-night-30k",
+            "free-night-60k",
+            "issuer-clear-credit",
+            "issuer-flight-credit",
+            "issuer-global-dining-access-by-resy",
+            "property-credit",
+            "resort"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "diamond",
+            "national-executive"
+          ],
+          "removedIDs": [
+            "included-hilton-status"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "flights",
+            "hilton"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+        "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. A duplicate Hilton Diamond status entry was removed; the original diamond status ID is retained. Aspire has no current Priority Pass lounge-pass allocation. The overbroad direct-hotel earning mapping is retired; the genuine Hilton-only bonus is retained in Benefits and is not applied to unrelated hotels in Best Card."
+    },
+    {
+      "id": "amex-hilton-honors-business-us",
+      "name": "Amex Hilton Honors Business US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 17,
+      "insuranceEntryCount": 4,
+      "changes": [
+        "5X first US$100,000 on non-Hilton purchases clarified, separate from Hilton-only bonus.",
+        "Quarterly Hilton credit, Gold/spending-earned Diamond and card-specific insurance checked."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-amex-offers",
+            "issuer-business-tools",
+            "issuer-experiences",
+            "issuer-hilton-earn",
+            "issuer-hilton-reward-stays",
+            "issuer-national-executive",
+            "issuer-vendor-pay",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-hilton-honors-business-us-car-rental-loss-damage-insurance",
+            "amex-hilton-honors-business-us-extended-warranty",
+            "amex-hilton-honors-business-us-lost-luggage-reimbursement",
+            "amex-hilton-honors-business-us-purchase-protection",
+            "amex-hilton-honors-business-us-travel-emergency-assistance",
+            "diamond-40k",
+            "issuer-hilton-credit"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "included-hilton-status",
+            "national-executive"
+          ],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "first-100k",
+            "hilton"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/hilton-honors/",
+        "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No ongoing free-night spending award or lounge-pass allocation is listed; temporary welcome rewards are separate. No trip-delay, general trip cancellation/interruption or cell-phone insurance is listed. The overbroad direct-hotel earning mapping is retired; the genuine Hilton-only bonus is retained in Benefits and is not applied to unrelated hotels in Best Card."
+    },
+    {
+      "id": "amex-hilton-honors-surpass-us",
+      "name": "Amex Hilton Honors Surpass US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 17,
+      "insuranceEntryCount": 4,
+      "changes": [
+        "Hilton-only bonus, US-only bonus categories, quarterly credits and spending-earned night checked.",
+        "Status/rental privileges and card-matched insurance expanded."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "amex-hilton-honors-surpass-us-car-rental-loss-damage-insurance",
+            "issuer-amex-offers",
+            "issuer-experiences",
+            "issuer-hilton-earn",
+            "issuer-hilton-reward-stays",
+            "issuer-send-split",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-hilton-honors-surpass-us-extended-warranty",
+            "amex-hilton-honors-surpass-us-lost-luggage-reimbursement",
+            "amex-hilton-honors-surpass-us-purchase-protection",
+            "amex-hilton-honors-surpass-us-travel-emergency-assistance",
+            "diamond-40k",
+            "free-night-15k",
+            "issuer-complimentary-national-car-rental-emerald-club-executive-status",
+            "issuer-hilton-credit",
+            "issuer-hilton-honors-gold-status"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "included-hilton-status",
+            "national-executive"
+          ],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "everyday",
+            "hilton",
+            "online-retail"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+        "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No lounge-pass allocation, cell-phone, general trip cancellation/interruption or trip-delay insurance is listed. The overbroad direct-hotel earning mapping is retired; the genuine Hilton-only bonus is retained in Benefits and is not applied to unrelated hotels in Best Card."
+    },
+    {
+      "id": "amex-marriott-bonvoy-bevy-us",
+      "name": "Amex Marriott Bonvoy Bevy US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 16,
+      "insuranceEntryCount": 5,
+      "changes": [
+        "Used build 3 Marriott-only purchase category instead of all direct hotels.",
+        "US grocery/world dining shared cap, paid-stay bonus and free-night milestone checked.",
+        "Insurance expanded."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-experiences",
+            "issuer-marriott-redemptions",
+            "issuer-paid-stay-bonus",
+            "issuer-send-split",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-marriott-bonvoy-bevy-us-car-rental-loss-damage-insurance",
+            "amex-marriott-bonvoy-bevy-us-extended-warranty",
+            "amex-marriott-bonvoy-bevy-us-lost-luggage-reimbursement",
+            "amex-marriott-bonvoy-bevy-us-purchase-protection",
+            "amex-marriott-bonvoy-bevy-us-travel-emergency-assistance",
+            "amex-marriott-bonvoy-bevy-us-trip-delay-reimbursement",
+            "free-night-15k",
+            "issuer-earn-more-with-amex-offers",
+            "issuer-elite-night-credits"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "included-marriott-status"
+          ],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [
+            "us-supermarkets"
+          ],
+          "modifiedIDs": [
+            "food",
+            "marriott"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD300_648455_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-bevy/",
+        "https://www.marriott.com/loyalty/terms/default.mi"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. No lounge access, general trip cancellation/interruption or cell-phone coverage is listed. The combined food cap is shared; U.S. supermarket geography is modeled separately."
+    },
+    {
+      "id": "amex-marriott-bonvoy-brilliant-us",
+      "name": "Amex Marriott Bonvoy Brilliant US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 26,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Marriott-only earning, monthly dining, 85,000-point night/top-up and Priority Pass guest rules checked.",
+        "Global Entry/TSA current four-year product interval clarified.",
+        "US$60,000 Earned Choice threshold verified; current portal choices/deadline remain open."
+      ],
+      "openItems": [
+        "Current Earned Choice portal options and selection deadline require member access."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "amex-marriott-bonvoy-brilliant-us-rental-accident",
+            "amex-marriott-bonvoy-brilliant-us-rental-personal-property",
+            "issuer-experiences",
+            "issuer-marriott-redemptions",
+            "issuer-premium-internet",
+            "issuer-send-split",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-marriott-bonvoy-brilliant-us-car-rental-loss-damage-insurance",
+            "amex-marriott-bonvoy-brilliant-us-cell-phone-protection",
+            "amex-marriott-bonvoy-brilliant-us-extended-warranty",
+            "amex-marriott-bonvoy-brilliant-us-lost-luggage-reimbursement",
+            "amex-marriott-bonvoy-brilliant-us-purchase-protection",
+            "amex-marriott-bonvoy-brilliant-us-return-protection",
+            "amex-marriott-bonvoy-brilliant-us-travel-emergency-assistance",
+            "amex-marriott-bonvoy-brilliant-us-trip-cancellation-interruption-insurance",
+            "amex-marriott-bonvoy-brilliant-us-trip-delay-reimbursement",
+            "earned-choice-60k",
+            "global-entry-credit",
+            "issuer-amex-offers",
+            "issuer-brilliant-dining-credit",
+            "issuer-elite-night-credits",
+            "issuer-marriott-bonvoy-brilliant-free-night-award",
+            "issuer-priority-passtm",
+            "property-credit"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "included-marriott-status"
+          ],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "marriott"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+        "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+        "https://www.marriott.com/loyalty/terms/default.mi"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. The US$60,000 earned-choice threshold is confirmed, but the current member-portal selection options/deadline could not be retrieved and remain unresolved."
+    },
+    {
+      "id": "amex-marriott-bonvoy-business-can",
+      "name": "Amex Marriott Bonvoy Business CAN",
+      "market": "CAN",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 17,
+      "insuranceEntryCount": 8,
+      "changes": [
+        "Silver status, Gold anniversary spending and annual night details checked.",
+        "Canadian gas/dining and worldwide travel earning separated.",
+        "Card-specific insurance expanded; employee misuse remains partial."
+      ],
+      "openItems": [
+        "Full separate employee-card misuse policy not publicly accessible."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "employee-misuse",
+            "gold-30k",
+            "issuer-amex-offers",
+            "issuer-business-management",
+            "issuer-experiences",
+            "issuer-fraud-replacement",
+            "issuer-marriott-redemptions",
+            "travel-emergency-assistance"
+          ],
+          "modifiedIDs": [
+            "ins-baggage",
+            "ins-extended-warranty",
+            "ins-flight-delay",
+            "ins-hotel-burglary",
+            "ins-purchase-protection",
+            "ins-rental-car",
+            "ins-travel-accident",
+            "pot-annual-free-night-award",
+            "pot-marriott-silver-elite-15-elite-night-credits"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [
+            "marriott-silver"
+          ],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [
+            "business-travel"
+          ],
+          "modifiedIDs": [
+            "base",
+            "business-bonus",
+            "marriott"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/ca/en/business/small-business/benefits/marriott-bonvoy-business-card/",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50463899-50498176-0926-Marriott-Bonvoy-Business-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+        "https://www.marriott.com/loyalty/terms/default.mi"
+      ],
+      "coverageNote": "Product benefits, September 2026 agreement and July 1, 2025 certificates checked November 4, 2026. Silver Elite is automatic; C$30,000 spend for Gold resets at the card's annual anniversary/reset date, not January 1. Canadian personal/business Amex cards share a maximum 15 Elite Night Credits/calendar year. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, eligible account and full-payment conditions apply. Rental/purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel written notice within 90 days where possible; certificate exclusions/proof requirements apply. Employee-misuse full terms are not publicly linked; that protection remains partially verified."
+    },
+    {
+      "id": "amex-marriott-bonvoy-business-us",
+      "name": "Amex Marriott Bonvoy Business US",
+      "market": "US",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 18,
+      "insuranceEntryCount": 4,
+      "changes": [
+        "Marriott-only earning, Gold status, free-night milestones and 7% eligible standard-rate discount checked.",
+        "Duplicate Gold status grant removed; internet/employee business tools and insurance expanded."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-amex-offers",
+            "issuer-business-tools",
+            "issuer-experiences",
+            "issuer-marriott-rate-discount",
+            "issuer-marriott-redemptions",
+            "issuer-premium-internet",
+            "issuer-vendor-pay",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "amex-marriott-bonvoy-business-us-car-rental-loss-damage-insurance",
+            "amex-marriott-bonvoy-business-us-extended-warranty",
+            "amex-marriott-bonvoy-business-us-lost-luggage-reimbursement",
+            "amex-marriott-bonvoy-business-us-purchase-protection",
+            "amex-marriott-bonvoy-business-us-travel-emergency-assistance",
+            "free-night-60k",
+            "issuer-earn-redeem-free-nights",
+            "issuer-elite-night-credits"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "gold"
+          ],
+          "removedIDs": [
+            "included-marriott-status"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [
+            "restaurants-worldwide"
+          ],
+          "modifiedIDs": [
+            "business-bonus",
+            "marriott"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/benefits/membership/experiences/",
+        "https://www.americanexpress.com/en-us/benefits/offers/",
+        "https://www.americanexpress.com/en-us/business/payments/vendor-pay/",
+        "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/amex-marriott-bonvoy-business-credit-card/",
+        "https://www.marriott.com/loyalty/terms/default.mi"
+      ],
+      "coverageNote": "Full public-source benefits, earnings, fees and card-matched protection-guide review on November 4, 2026. Periodic credits share account limits; unused amounts do not roll over. Insurance eligibility, required payment, state-specific provisions, covered causes, exclusions, notice/proof deadlines and documents apply; linked guides control. Account-specific and detailed merchant restrictions require checking current issuer terms. Duplicate Gold status removed while preserving the original gold status ID. No trip-delay, general trip cancellation/interruption or cell-phone insurance is listed."
+    },
+    {
+      "id": "amex-marriott-bonvoy-can",
+      "name": "Amex Marriott Bonvoy CAN",
+      "market": "CAN",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 15,
+      "insuranceEntryCount": 7,
+      "changes": [
+        "Silver status, C$30,000 anniversary-year Gold qualification and annual 35,000-point night distinguished.",
+        "Free-night top-up clarified to 25,000 points; card-specific insurance expanded."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "gold-30k",
+            "issuer-amex-offers",
+            "issuer-experiences",
+            "issuer-fraud-replacement",
+            "issuer-marriott-redemptions",
+            "issuer-plan-it"
+          ],
+          "modifiedIDs": [
+            "ins-baggage",
+            "ins-extended-warranty",
+            "ins-flight-delay",
+            "ins-hotel-burglary",
+            "ins-purchase-protection",
+            "ins-rental-car",
+            "ins-travel-accident",
+            "pot-annual-free-night-award",
+            "pot-marriott-silver-elite-15-elite-night-credits"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [
+            "marriott-silver"
+          ],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "base",
+            "marriott"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/ca/en/membership-benefits/marriott.html",
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464117-50498176-0926-Marriott-Bonvoy-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Marriott-Bonvoy-Card-COI-EN.pdf",
+        "https://www.marriott.com/loyalty/terms/default.mi"
+      ],
+      "coverageNote": "Product benefits, September 2026 agreement and July 1, 2025 certificates checked November 4, 2026. Silver Elite is automatic; C$30,000 spend for Gold resets at the card's annual anniversary/reset date, not January 1. Canadian personal/business Amex cards share a maximum 15 Elite Night Credits/calendar year. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, eligible account and full-payment conditions apply. Rental/purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel written notice within 90 days where possible; certificate exclusions/proof requirements apply."
+    },
+    {
+      "id": "amex-hilton-honors-can",
+      "name": "Amex Hilton Honors CAN",
+      "market": "CAN",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 18,
+      "insuranceEntryCount": 7,
+      "changes": [
+        "Hilton Gold grant, 50,000-point C$12,000 spending award and C$40,000 Diamond qualification distinguished.",
+        "October 2026 Canadian certificate checked.",
+        "Broad hotel-category Hilton bonus retired under existing rule ID; actual Hilton-only rate described in Benefits."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-amex-offers",
+            "issuer-experiences",
+            "issuer-fraud-replacement",
+            "issuer-hilton-earn",
+            "issuer-hilton-redemptions"
+          ],
+          "modifiedIDs": [
+            "hilton-annual-50k",
+            "hilton-diamond-spend",
+            "ins-baggage",
+            "ins-extended-warranty",
+            "ins-flight-delay",
+            "ins-hotel-burglary",
+            "ins-purchase-protection",
+            "ins-rental-car",
+            "ins-travel-accident",
+            "pot-free-additional-cards",
+            "pot-hilton-honors-gold-status",
+            "travel-emergency-assistance",
+            "welcome-offer"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "hilton-gold"
+          ],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "base",
+            "canada-eats-gas",
+            "hilton"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/17626-50498176-1026-Hilton-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Hilton-Honors-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/campaigns/hilton-honors/apply/",
+        "https://www.hilton.com/en/hilton-honors/terms/"
+      ],
+      "coverageNote": "Product offer, October 2026 cardmember agreement and October 14, 2026 certificates checked November 4, 2026. No emergency-medical, general trip-cancellation/interruption or mobile-device insurance is listed. Canadian residency, account eligibility and full-payment requirements apply. Rental and purchase claims: report within 48 hours; warranty: 45 days; accident: written notice within 30 days or as soon as reasonably possible. Other travel claims should be filed promptly, with written notice within 90 days where possible. Certificate exclusions and proof requirements apply. The overbroad direct-hotel earning mapping is retired; the genuine Hilton-only bonus is retained in Benefits and is not applied to unrelated hotels in Best Card."
+    },
+    {
+      "id": "amex-morgan-stanley-platinum-us",
+      "name": "Amex Platinum for Morgan Stanley US",
+      "market": "US",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-05",
+      "benefitCount": 47,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Common Platinum credits/lounge/insurance refreshed.",
+        "Added first Additional Platinum card without annual fee, Morgan Stanley deposits redemption and conditional CashPlus engagement bonus.",
+        "Cruise access moved out of elite-status box."
+      ],
+      "openItems": [
+        "Amex and Delta publish different maximum connecting-layover entry timing; verify for long layovers.",
+        "Current detailed additional-card/account-specific fee terms were not fully publicly readable."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "airbnb-experiences",
+            "amex-morgan-stanley-platinum-us-lost-luggage-reimbursement",
+            "amex-morgan-stanley-platinum-us-rental-accident",
+            "amex-morgan-stanley-platinum-us-rental-personal-property",
+            "issuer-cashplus-engagement",
+            "issuer-centurion-guest-milestone",
+            "issuer-cruise-privileges",
+            "issuer-first-additional-platinum",
+            "issuer-morgan-stanley-redemption",
+            "issuer-unlimited-skyclub-milestone",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "airline-fee",
+            "amex-experiences",
+            "amex-morgan-stanley-platinum-us-car-rental-loss-damage-insurance",
+            "amex-morgan-stanley-platinum-us-cell-phone-protection",
+            "amex-morgan-stanley-platinum-us-extended-warranty",
+            "amex-morgan-stanley-platinum-us-purchase-protection",
+            "amex-morgan-stanley-platinum-us-return-protection",
+            "amex-morgan-stanley-platinum-us-travel-emergency-assistance",
+            "amex-morgan-stanley-platinum-us-trip-cancellation-interruption-insurance",
+            "amex-morgan-stanley-platinum-us-trip-delay-reimbursement",
+            "amex-offers",
+            "avis",
+            "centurion",
+            "clear",
+            "concierge",
+            "delta-skyclub",
+            "digital-entertainment",
+            "equinox",
+            "fhr",
+            "global-dining",
+            "global-entry-tsa",
+            "global-lounge",
+            "hertz",
+            "hilton-gold",
+            "hotel-collection",
+            "hotel-credit",
+            "lhw-sterling",
+            "lululemon",
+            "marriott-gold",
+            "national",
+            "oura",
+            "priority-pass",
+            "resy-credit",
+            "uber-cash",
+            "uber-one",
+            "walmart-plus"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": [
+            "amex-cruise-privileges"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "prepaid-hotel"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://apply.americanexpress.com/amex-morgan-stanley%20-credit-cards/?page_url=38",
+        "https://global.americanexpress.com/card-benefits/detail/experiences-credit/platinum",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/travel/faq/homes/",
+        "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+        "https://www.delta.com/us/en/delta-sky-club/access",
+        "https://www.morganstanley.com/what-we-do/wealth-management/cashplus",
+        "https://www.thecenturionlounge.com/info/access/"
+      ],
+      "coverageNote": "Public issuer-source reconciliation completed 2026-11-05: current product benefits, card-matched insurance guides, enrollment and statement-credit conditions checked. Detailed application/variant terms were not publicly readable; account-specific fee, supplement and partner enrollment terms require confirmation. Delta/issuer layover timing differs; check before long connections. Status grants stay in the status box, booking privileges do not; services are distinct from insurance."
+    },
+    {
+      "id": "amex-platinum-can",
+      "name": "Amex Platinum CAN",
+      "market": "CAN",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 37,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "2027 per-network lounge limits and C$20,000 spending unlock added.",
+        "NEXUS fixed issuer windows and card-specific insurance clarified.",
+        "Original retail/wellness IDs retained as account-specific unconfirmed offers; transfer benefit linked to issuer."
+      ],
+      "openItems": [
+        "Historical retail/wellness offer availability is account-specific and unconfirmed; no fixed allowance asserted."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "issuer-2027-unlimited-lounges"
+          ],
+          "modifiedIDs": [
+            "amex-offers",
+            "baggage-delay",
+            "dining",
+            "emergency-assistance",
+            "fhr",
+            "front-line",
+            "hilton-gold",
+            "hotel-burglary",
+            "hotel-collection",
+            "instacart",
+            "issuer-dining-with-amex-experiencestm",
+            "issuer-hotel-status-benefit",
+            "issuer-onsite-benefits-with-amex-experiencestm",
+            "issuer-retail-with-amex-experiencestm",
+            "issuer-special-offers-on-american-express-travel-online",
+            "issuer-the-american-express-experiences-app",
+            "issuer-wellness-with-amex-experiencestm",
+            "lounges",
+            "marriott-gold",
+            "nexus",
+            "pearson",
+            "pot-transfer-to-airline-and-hotel-partners",
+            "purchase",
+            "rental",
+            "travel",
+            "travel-accident",
+            "travel-medical",
+            "trip-cancel",
+            "trip-delay",
+            "trip-interruption",
+            "warranty"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "plaza-ca",
+            "priority-ca"
+          ],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/The-Platinum-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/rewards/membership-rewards/",
+        "https://www.americanexpress.com/en-ca/benefits/the-platinum-card/",
+        "https://www.americanexpress.com/en-ca/benefits/travel/hotels/the-platinum-card/marriott-bonvoy/",
+        "https://www.americanexpress.com/en-ca/benefits/travel/the-platinum-card/",
+        "https://www.americanexpress.com/en-ca/charge-cards/the-platinum-card/"
+      ],
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. Future 2027 lounge limits and spending unlock are descriptive and do not promise current unlimited guest access. App build 3 reset limitations are disclosed; no app code changes."
+    },
+    {
+      "id": "amex-platinum-us",
+      "name": "Amex Platinum US",
+      "market": "US",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-05",
+      "benefitCount": 46,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Current credit conditions, lodging/Airbnb timing and US$75,000 lounge milestones clarified.",
+        "Missing baggage/rental accident/property coverage added; Premium Global Assist separated from insurance.",
+        "Cruise access moved out of elite-status box."
+      ],
+      "openItems": [
+        "Amex and Delta publish different maximum connecting-layover entry timing; verify for long layovers.",
+        "Current detailed additional-card/account-specific fee terms were not fully publicly readable."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "airbnb-experiences",
+            "amex-platinum-us-lost-luggage-reimbursement",
+            "amex-platinum-us-rental-accident",
+            "amex-platinum-us-rental-personal-property",
+            "issuer-centurion-guest-milestone",
+            "issuer-cruise-privileges",
+            "issuer-unlimited-skyclub-milestone",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "airline",
+            "amex-experiences",
+            "amex-offers",
+            "amex-platinum-us-car-rental-loss-damage-insurance",
+            "amex-platinum-us-cell-phone-protection",
+            "amex-platinum-us-extended-warranty",
+            "amex-platinum-us-purchase-protection",
+            "amex-platinum-us-return-protection",
+            "amex-platinum-us-travel-emergency-assistance",
+            "amex-platinum-us-trip-cancellation-interruption-insurance",
+            "amex-platinum-us-trip-delay-reimbursement",
+            "avis",
+            "centurion",
+            "clear",
+            "concierge",
+            "delta-skyclub",
+            "digital",
+            "equinox",
+            "fhr",
+            "global-dining",
+            "global-entry-tsa",
+            "hertz",
+            "hilton-gold",
+            "hotel",
+            "hotel-collection",
+            "issuer-leaders-club-sterling-status-from-the-leading-hotels-of-the-world",
+            "lhw-sterling",
+            "lounge",
+            "lululemon",
+            "marriott-gold",
+            "national",
+            "oura",
+            "priority-pass",
+            "resy",
+            "uber",
+            "uber-one",
+            "walmart-plus"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": [
+            "amex-cruise-privileges"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "prepaid-hotel"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://global.americanexpress.com/card-benefits/detail/experiences-credit/platinum",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/travel/faq/homes/",
+        "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+        "https://www.delta.com/us/en/delta-sky-club/access",
+        "https://www.thecenturionlounge.com/info/access/"
+      ],
+      "coverageNote": "Public issuer-source reconciliation completed 2026-11-05: current product benefits, card-matched insurance guides, enrollment and statement-credit conditions checked. Detailed application/variant terms were not publicly readable; account-specific fee, supplement and partner enrollment terms require confirmation. Delta/issuer layover timing differs; check before long connections. Status grants stay in the status box, booking privileges do not; services are distinct from insurance."
+    },
+    {
+      "id": "amex-schwab-platinum-us",
+      "name": "Amex Platinum for Charles Schwab US",
+      "market": "US",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-with-open-items",
+      "checkedOn": "2026-11-05",
+      "benefitCount": 46,
+      "insuranceEntryCount": 10,
+      "changes": [
+        "Common Platinum credits/lounge/insurance refreshed.",
+        "Added conditional holdings-based Schwab Appreciation Bonus and Invest with Rewards description.",
+        "Unverified conversion tiers not asserted; cruise access moved out of elite-status box."
+      ],
+      "openItems": [
+        "Amex and Delta publish different maximum connecting-layover entry timing; verify for long layovers.",
+        "Current detailed additional-card/account-specific fee terms were not fully publicly readable.",
+        "Current Invest with Rewards conversion tiers and annual limits require readable issuer/member terms; no assumed conversion added."
+      ],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "airbnb-experiences",
+            "amex-schwab-platinum-us-lost-luggage-reimbursement",
+            "amex-schwab-platinum-us-rental-accident",
+            "amex-schwab-platinum-us-rental-personal-property",
+            "issuer-centurion-guest-milestone",
+            "issuer-cruise-privileges",
+            "issuer-invest-with-rewards",
+            "issuer-schwab-appreciation",
+            "issuer-unlimited-skyclub-milestone",
+            "issuer-venue-concessions"
+          ],
+          "modifiedIDs": [
+            "airline-fee",
+            "amex-experiences",
+            "amex-offers",
+            "amex-schwab-platinum-us-car-rental-loss-damage-insurance",
+            "amex-schwab-platinum-us-cell-phone-protection",
+            "amex-schwab-platinum-us-extended-warranty",
+            "amex-schwab-platinum-us-purchase-protection",
+            "amex-schwab-platinum-us-return-protection",
+            "amex-schwab-platinum-us-travel-emergency-assistance",
+            "amex-schwab-platinum-us-trip-cancellation-interruption-insurance",
+            "amex-schwab-platinum-us-trip-delay-reimbursement",
+            "avis",
+            "centurion",
+            "clear",
+            "concierge",
+            "delta-skyclub",
+            "digital-entertainment",
+            "equinox",
+            "fhr",
+            "global-dining",
+            "global-entry-tsa",
+            "global-lounge",
+            "hertz",
+            "hilton-gold",
+            "hotel-collection",
+            "hotel-credit",
+            "lhw-sterling",
+            "lululemon",
+            "marriott-gold",
+            "national",
+            "oura",
+            "priority-pass",
+            "resy-credit",
+            "uber-cash",
+            "uber-one",
+            "walmart-plus"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": [
+            "amex-cruise-privileges"
+          ]
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "prepaid-hotel"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://global.americanexpress.com/card-benefits/detail/experiences-credit/platinum",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CPP_GTB_3f1bed_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TCI_f7502_a11y.pdf",
+        "https://www.americanexpress.com/content/dam/amex/us/credit-cards/features-benefits/TD500_846bff_a11y.pdf",
+        "https://www.americanexpress.com/en-us/benefits/entertainment/",
+        "https://www.americanexpress.com/en-us/travel/faq/homes/",
+        "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+        "https://www.delta.com/us/en/delta-sky-club/access",
+        "https://www.schwab.com/credit-cards/platinum-card",
+        "https://www.thecenturionlounge.com/info/access/"
+      ],
+      "coverageNote": "Public issuer-source reconciliation completed 2026-11-05: current product benefits, card-matched insurance guides, enrollment and statement-credit conditions checked. Detailed application/variant terms were not publicly readable; account-specific fee, supplement and partner enrollment terms require confirmation. Delta/issuer layover timing differs; check before long connections. Schwab Invest with Rewards conversion tiers/annual limits remain unresolved; no conversion assumption added. Status grants stay in the status box, booking privileges do not; services are distinct from insurance."
+    },
+    {
+      "id": "amex-simplycash-preferred-can",
+      "name": "Amex SimplyCash Preferred CAN",
+      "market": "CAN",
+      "selection": "flagged-in-original-roster",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 16,
+      "insuranceEntryCount": 9,
+      "changes": [
+        "Instacart monthly credit and activation restrictions clarified.",
+        "Expanded card-specific insurance with limits, duration, exclusions and claims conditions."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [
+            "instacart",
+            "issuer-amex-offers",
+            "issuer-cashback-earn",
+            "issuer-cashback-payment",
+            "issuer-experiences",
+            "issuer-fraud-replacement",
+            "issuer-plan-it"
+          ],
+          "modifiedIDs": [
+            "ins-baggage",
+            "ins-emergency-medical",
+            "ins-extended-warranty",
+            "ins-flight-delay",
+            "ins-hotel-burglary",
+            "ins-mobile-device",
+            "ins-purchase-protection",
+            "ins-rental-car",
+            "ins-travel-accident"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "base",
+            "gas",
+            "grocery"
+          ],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/ca/en/legal/cardmember-agreement/pdf/Sep-2026-CMA-FCAC-Buckslip/50464123-50498176-0926-Simplycash-Preferred-Online-CMA-EN.pdf",
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/SimplyCash-Preferred-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/benefits/member-extras/simply-cash-preferred/",
+        "https://www.americanexpress.com/en-ca/benefits/simplycashpreferred-card/"
+      ],
+      "coverageNote": "Full public-source audit: product, cashback program agreement, registered extras and July 1, 2025 insurance certificates checked November 4, 2026. Cashback grocery cap resets on the cardmembership anniversary; payout calculation is separate. No general trip-cancellation/interruption coverage or elite-status grant is listed. Insurance requires eligible Canadian residency, account status and applicable payment conditions; read the linked certificate for exclusions and claim deadlines."
+    },
+    {
+      "id": "cobalt-can",
+      "name": "Amex Cobalt CAN",
+      "market": "CAN",
+      "selection": "earlier-review-reconciled",
+      "reviewDisposition": "public-source-review-completed",
+      "checkedOn": "2026-11-04",
+      "benefitCount": 17,
+      "insuranceEntryCount": 9,
+      "changes": [
+        "C$15.99 monthly/C$191.88 annual fee and existing earning checked.",
+        "C$5/month Instacart current terms checked.",
+        "Insurance expanded, including C$1,000 mobile, six-hour baggage delay, 90-day purchase protection and one additional warranty year."
+      ],
+      "openItems": [],
+      "originalIDChanges": {
+        "benefits": {
+          "addedIDs": [],
+          "modifiedIDs": [
+            "amex-offers",
+            "baggage",
+            "cobalt-can-extended-warranty",
+            "cobalt-can-purchase-protection",
+            "hotel-burglary",
+            "instacart",
+            "mobile-device",
+            "rental",
+            "travel-accident",
+            "travel-medical",
+            "trip-delay"
+          ],
+          "removedIDs": []
+        },
+        "statuses": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "earningRules": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        },
+        "loungeAccess": {
+          "addedIDs": [],
+          "modifiedIDs": [],
+          "removedIDs": []
+        }
+      },
+      "verifiedSourceURLs": [
+        "https://www.americanexpress.com/content/dam/amex/en-ca/insurance/pdfs/certificates-of-insurance/Cobalt-Card-COI-EN.pdf",
+        "https://www.americanexpress.com/en-ca/credit-cards/cobalt-card/"
+      ],
+      "coverageNote": "Official-source reconciliation 2026-11-04: current product benefits, earning, enrollment/credit restrictions and card-specific July 1, 2025 insurance certificate checked. Full policy definitions, covered persons, exclusions and claim requirements control. App build 3 reset limitations are disclosed; no app code changes."
+    }
+  ],
+  "sourceFileManifest": [
+    {
+      "file": "17626-50498176-1026-Hilton-Online-CMA-EN.pdf",
+      "bytes": 1112090,
+      "sha256": "6ca342baa3e4a4e49ba6535b97a29efe315001c651388af763f65cc7258c19a1"
+    },
+    {
+      "file": "50463831-50498176-0926-Business-Gold-Online-CMA-EN.pdf",
+      "bytes": 370094,
+      "sha256": "8cf686b40300cb491b68050cba6498d350cd39e24e4537adaf939c05c2576b5b"
+    },
+    {
+      "file": "50463899-50498176-0926-Marriott-Bonvoy-Business-Online-CMA-EN.pdf",
+      "bytes": 518410,
+      "sha256": "c56ff0682392fe19078c65773eae179883707086fde188f6572d8c16aecaf836"
+    },
+    {
+      "file": "50464117-50498176-0926-Marriott-Bonvoy-Online-CMA-EN.pdf",
+      "bytes": 508153,
+      "sha256": "7865242b263392f59f8894431d8eefcabff1300063a8daff45dcdcc5bbebe4c9"
+    },
+    {
+      "file": "50464123-50498176-0926-Simplycash-Preferred-Online-CMA-EN.pdf",
+      "bytes": 511654,
+      "sha256": "20f33a52b84e668785d7f517fb05c6cb1110e1852647fb0fd00f893049863e11"
+    },
+    {
+      "file": "50478732-50498176-0926-Aeroplan-Core-Online-CMA-EN.pdf",
+      "bytes": 1064978,
+      "sha256": "f52a8605e403ca89545f422e8ba9e7327e7ba96fa872eb9aa681fecf359834d0"
+    },
+    {
+      "file": "50478734-50498176-0926-Aeroplan-Reserve-Lend-Online-CMA-EN.pdf",
+      "bytes": 1239443,
+      "sha256": "3b33de14ede56a3309d841e747321ff0398f9d8b51c343305a1769aecd4d9e82"
+    },
+    {
+      "file": "50478738-50498176-0926-Aeroplan-Business-Reserve-Online-CMA-EN.pdf",
+      "bytes": 1244091,
+      "sha256": "ef5a42f15730d9fe300a166fa72095e38dd7c608726b3f9999c52e2b75921b15"
+    },
+    {
+      "file": "Aeroplan-Business-Reserve-Card-COI-EN.pdf",
+      "bytes": 565192,
+      "sha256": "11f0290b61cf625d1923fb449436ee78e436a8ea89f428115a71993d53626fde"
+    },
+    {
+      "file": "Aeroplan-Card-COI-EN.pdf",
+      "bytes": 667607,
+      "sha256": "3f1cdbe54b122e9388c1017571cb837aea6ac595780c0aa00037e43e72fbf27e"
+    },
+    {
+      "file": "Aeroplan-Reserve-Card-COI-EN.pdf",
+      "bytes": 613215,
+      "sha256": "cf8eba3a28815384caa70812e850eb01d8a20fabd6a19001d687b976d8f5eca4"
+    },
+    {
+      "file": "BIP-Benefit-Guide_311-328_CORP_EDT_10.20_RE_4.24_a11y.pdf",
+      "bytes": 296345,
+      "sha256": "3e8cb37ade03f38c0632ac1332825bdf109b2ed040bf03a454bae3d9dfbd4552"
+    },
+    {
+      "file": "BIP-Benefit-Guide_311-328_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 1039144,
+      "sha256": "ca4a70039c736ef5bdd35c921ad0d2043c4406a3f995259949ccaee61f9b4d75"
+    },
+    {
+      "file": "BIP-Benefit-Guide_311-329_CORP_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 293021,
+      "sha256": "6db50deda8755d109f1fba2981ef9a01af14d33e7b4fa4a39bd393cdaaeb3cd2"
+    },
+    {
+      "file": "BIP-Benefit-Guide_311-329_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 282453,
+      "sha256": "c0a7d43518eea8becbdc4cd5d3189c67f45208695f20a22c62a841e7aa448372"
+    },
+    {
+      "file": "Business-Gold-Rewards-Card-COI-EN.pdf",
+      "bytes": 658592,
+      "sha256": "dffbbaba629d208696d43263bc61a756c6f4d1c2bfa6d4618ad24b98882b60d1"
+    },
+    {
+      "file": "Business-Platinum-Card-COI-EN.pdf",
+      "bytes": 654462,
+      "sha256": "4e2febd6bbd25a4ff97a92ab101461915e14ef5c02727f6689d6edd2ea4c9bf6"
+    },
+    {
+      "file": "CPP_GTB_3f1bed_a11y.pdf",
+      "bytes": 268830,
+      "sha256": "c7b8f9ecae6ce69e41507949ce85fb4cf5ac7f9bf4d2e6d5d0c25499f02c32ec"
+    },
+    {
+      "file": "CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226.pdf",
+      "bytes": 556350,
+      "sha256": "d70faddf4e7a1aa09ac5c186681fa510cfb786222c4550ec89af0f86290a5d04"
+    },
+    {
+      "file": "CRLDI-Benefit-Guide_371-396_EDT_2.20_REV_4.24_a11y3_040226_v2.pdf",
+      "bytes": 845465,
+      "sha256": "5c215d13e0701680d165a1e1b9d45e1522e9cae39b0eb5c8829cbfb89e672faa"
+    },
+    {
+      "file": "CRLDI_Benefit_Guide_371-397_EDT_2.20_REV_4.24_a11y3_04022026.pdf",
+      "bytes": 518165,
+      "sha256": "f62dc1b1d83d3803eb4740166b5c89c8c9474de955ff4406c3687e62d7037af5"
+    },
+    {
+      "file": "Cobalt-Card-COI-EN.pdf",
+      "bytes": 510463,
+      "sha256": "39e8469187c5606c4b82446533840dfcf0fe99ac7ba1ee2f07c16bca1c5d5dc6"
+    },
+    {
+      "file": "EW-Benefit-Guide_314-331_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 254268,
+      "sha256": "978fda76c7f6a4eb9a88f8556caaf99ac2e0fb76908b22fb8e68b07460dd2810"
+    },
+    {
+      "file": "EW-Benefit-Guide_314-333_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 229448,
+      "sha256": "2c981ad111bfa54c434a3fc26d8ec55dcb1d948849f919176301a93fd721b7f9"
+    },
+    {
+      "file": "EW-Benefit-Guide_314-399_EDT-10.20_REV_4.24_a11y2.pdf",
+      "bytes": 268702,
+      "sha256": "5bcfe1d222c311994f79ed07d240853d74bc4c2ba68c3c880047ea8346b763cd"
+    },
+    {
+      "file": "EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 253246,
+      "sha256": "5890684f48da483834fd9d5080010dc1732fab7ded1cbdc666b65abcb325d4fc"
+    },
+    {
+      "file": "EW-Benefit-Guide_314-400_EDT_10.20_REV_4.24_a11y_3.26.pdf",
+      "bytes": 258984,
+      "sha256": "f8d172779bbbf085fd162ba7dc50bd74d954ebb80d2a70a9fa582e90dded4f29"
+    },
+    {
+      "file": "EW-Benefit-Guide_314-400_EDT_10.21_REV_4.24_a11y.pdf",
+      "bytes": 248044,
+      "sha256": "2c2d4fc5fce7347c200b5b167da7c458b75afeb14e477f45fb054de44e347cf4"
+    },
+    {
+      "file": "Gold-Rewards-Card-COI-EN.pdf",
+      "bytes": 1076891,
+      "sha256": "0d60f6cafedf568b205ec7b759da4b08acab42bf9e891327aa11318b91086755"
+    },
+    {
+      "file": "Hilton-Honors-Card-COI-EN.pdf",
+      "bytes": 1195459,
+      "sha256": "d024015135206946e85c65b0c096393c22febc1e192b720d21f8cb88280d5cc0"
+    },
+    {
+      "file": "Marriott-Bonvoy-Business-Card-COI-EN.pdf",
+      "bytes": 572476,
+      "sha256": "ed64d216cb99c09a8cd5112a790216247d37bf4eee049073f3def6c34ce16efb"
+    },
+    {
+      "file": "Marriott-Bonvoy-Card-COI-EN.pdf",
+      "bytes": 658981,
+      "sha256": "c2f7f0ebf27d7dd319b5d5d66f23057ef0b43e3e6773f9ab112867b0927c56c9"
+    },
+    {
+      "file": "PP-Benefit-Guide_316-401_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 310369,
+      "sha256": "23e78e0ab2680c1aaeb23293f2d151073eac58b150748e7abaf96f6961187561"
+    },
+    {
+      "file": "PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 337322,
+      "sha256": "9555cf8d3dcf1bacf06384fc8142b732015ef956e16981887bd5a89e98449908"
+    },
+    {
+      "file": "PP-Benefit-Guide_316-402_EDT_10.20_REV_4.24_a11y_3.26.pdf",
+      "bytes": 350051,
+      "sha256": "66dd2e228b196c6ae2f46c4d4bafb16ff99240fb51dc265f77652e62aca6d160"
+    },
+    {
+      "file": "PP-Benefit-Guide_316-402_EDT_10.21_REV_4.24_a11y.pdf",
+      "bytes": 277068,
+      "sha256": "9aa37a0175884bc5a053445be73bfdb8a95a15995c380f3f7bdfaf0bdd197971"
+    },
+    {
+      "file": "PP-Benefit-Guide_316-404_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 317944,
+      "sha256": "d2daf83d23cb5f2baa6b194c553bb9a1eb1f49cbf3fb0e65185d056fa3bf954e"
+    },
+    {
+      "file": "PP-Benefit-Guide_316-405_EDT_10.20_REV_4.24_a11y.pdf",
+      "bytes": 255890,
+      "sha256": "d4d8ff99594eed39683f308634e9b21941c6fc22c8e7879d57a4fb57187fed8c"
+    },
+    {
+      "file": "Purchase_Protection_Prepaid-SERVE_09.26_a11y.pdf",
+      "bytes": 119167,
+      "sha256": "41f8e61e4992ba39aa6bc2dfd82c7ce9508265dbaaab88d24873b0bf1dac56ed"
+    },
+    {
+      "file": "RP_Benefit_Guide_Rev_10-20_10.09.23-final.pdf",
+      "bytes": 125262,
+      "sha256": "6a00cb5df02ad3845260c331ddc5f128057213070426b5c4dda5e83e845ed268"
+    },
+    {
+      "file": "TCI_f7502_a11y.pdf",
+      "bytes": 318848,
+      "sha256": "26c621273b59e34c172ce5158697b84cefa04fa378db96892b6eff022cd35dd4"
+    },
+    {
+      "file": "TD300_648455_a11y.pdf",
+      "bytes": 253963,
+      "sha256": "bc16d2ca894fab9487c35974df2dad8d79e0a17f9f9b54f191893e45d119c9c6"
+    },
+    {
+      "file": "TD500_846bff_a11y.pdf",
+      "bytes": 250473,
+      "sha256": "d03e108978f39df590a8ccb10f4f95d2010fd117a55ea330f1a0ee6220d71b23"
+    },
+    {
+      "file": "The-Platinum-Card-COI-EN.pdf",
+      "bytes": 927931,
+      "sha256": "3a73839eb4f12bcd38452d168890e37f334f5e1e2a7c5ba798997fa140a51375"
+    },
+    {
+      "file": "simplycash-coi.pdf",
+      "bytes": 498317,
+      "sha256": "ca531458117fcee58814b8550cb4a2b5e24f29c6f3f24e08dd94ce9c4095461c"
+    },
+    {
+      "file": "simplycash-summary.pdf",
+      "bytes": 1876807,
+      "sha256": "9b3fe5d5e86653b2407b9754fe9f7c401715ed814f7f3667a260eced75b62fa6"
+    }
+  ]
+}
