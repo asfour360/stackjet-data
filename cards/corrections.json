@@ -7567,8 +7567,8 @@
         "cibc-cash-can"
       ],
       "sourceURL": "https://www.cibc.com/en/business/credit-cards/costco-mastercard-business.html",
-      "checkedOn": "2026-11-03",
-      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "checkedOn": "2026-11-06",
+      "coverageNote": "Cash-back earning and insurance coverage checked against current CIBC product information and the July 1, 2025 business-card insurance certificate. Mobile-device claims have a 10% deductible and up to C$1,000 per occurrence per insured person; the business certificate does not state the business-purchased-device exclusion that appears in the personal-card certificate. Canadian residency, eligibility, payment, claim deadlines, and policy exclusions apply; consult the certificate for full terms.",
       "benefits": [
         {
           "id": "issuer-get-more-costco-savings-with-your-cash-back-gift-certificate",
@@ -7584,33 +7584,33 @@
         {
           "id": "ins-mobile-device",
           "title": "Mobile device insurance",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Covers an eligible mobile device that is lost, stolen or accidentally damaged, up to C$1,000 per occurrence per insured person, less a 10% deductible. The full purchase price must be charged to the card, or the device must be financed in whole or in part through an eligible Canadian wireless-provider or Canadian Buy Now Pay Later plan with required plan payments charged to the card. Coverage is limited to two years and requires Canadian residency; see the certificate for eligibility and exclusions.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/business/credit-cards/costco-mastercard-business.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/all-credit-cards/costco/documents/cibc-costco-business-ins-cert-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-purchase-protection",
           "title": "Purchase protection",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Eligible items are automatically insured against loss, theft or physical damage for 90 days from purchase when at least part of the purchase price is charged to the card. Payment is limited to the lowest of repair cost, the item's actual cash value before loss, or the portion charged to the card. The certificate sets a C$60,000 total liability limit per cardholder across applicable CIBC cards, shared with extended-warranty claims.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/business/credit-cards/costco-mastercard-business.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/all-credit-cards/costco/documents/cibc-costco-business-ins-cert-en.pdf",
           "kind": "protection",
           "priority": 210
         },
         {
           "id": "ins-extended-warranty",
           "title": "Extended warranty",
-          "detail": "Included with this card. Coverage limits, eligibility and exclusions are in the issuer's certificate of insurance.",
+          "detail": "Automatically doubles the original manufacturer's warranty on eligible items when at least part of the purchase price is charged to the card, for up to one additional full year after the original warranty ends. The certificate sets a C$60,000 total liability limit per cardholder across applicable CIBC cards, shared with purchase-security claims.",
           "capMinor": null,
           "reset": "none",
           "enrollmentRequired": false,
-          "sourceURL": "https://www.cibc.com/en/business/credit-cards/costco-mastercard-business.html",
+          "sourceURL": "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/all-credit-cards/costco/documents/cibc-costco-business-ins-cert-en.pdf",
           "kind": "protection",
           "priority": 210
         }
@@ -7675,7 +7675,8 @@
       "availability": "confirm-with-issuer",
       "artworkURL": "https://www.cibc.com/content/dam/global-assets/card-art/credit-cards/costco-card/cibc-mastercard-costco-business.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
       "benefitSourceURLs": [
-        "https://www.cibc.com/en/business/credit-cards/costco-mastercard-business.html"
+        "https://www.cibc.com/en/business/credit-cards/costco-mastercard-business.html",
+        "https://www.cibc.com/content/dam/cibc-public-assets/personal-banking/credit-cards/all-credit-cards/costco/documents/cibc-costco-business-ins-cert-en.pdf"
       ],
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
