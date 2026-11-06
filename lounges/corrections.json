@@ -1,10 +1,253 @@
 {
   "format": "stackjet-lounge-corrections",
   "version": 1,
-  "updated": "2026-11-02",
-  "note": "No corrections yet. StackJet applies this file on top of the lounges built into the app.",
+  "updated": "2026-11-05",
+  "note": "Alaska Lounge locations and member-access partner refreshed against Alaska/Hawaiian official sources on 2026-11-05. PDX uses the new South Hall lounge; HNL adds The Plumeria Lounge as a Hawaiian-operated Alaska-membership partner. No new press-kit photos were added because Alaska's newsroom image terms restrict reuse to current editorial/news reporting.",
   "remove": [],
-  "change": [],
+  "change": [
+    {
+      "airport": "HNL",
+      "provider": "Admirals Club",
+      "name": "Admirals Club / Sakura Lounge — HNL",
+      "photoURLs": []
+    }
+  ],
   "add": [],
-  "replaceAirports": {}
+  "replaceAirports": {
+    "ANC": [
+      {
+        "airportCode": "ANC",
+        "provider": "Alaska Lounge",
+        "name": "Alaska Lounge — ANC",
+        "officialURL": "https://www.alaskaair.com/content/airport-lounge/location-and-hours",
+        "description": "Expanded Alaska Lounge at Ted Stevens Anchorage International Airport in Concourse C near Gate C-1. The 140-seat lounge offers signature loungers with tarmac views, complimentary seasonal food and premium beverages, Kaladi Brothers espresso, West Coast wines, craft beers, custom cocktails, power outlets, Wi-Fi, and locally inspired Alaska art.",
+        "terminal": "Concourse C",
+        "location": "Near Gate C-1",
+        "hours": [
+          "Daily: 5:00 am - 1:00 am"
+        ],
+        "amenities": [
+          "140 seats after the 2025 expansion",
+          "Signature loungers and tarmac views",
+          "Complimentary seasonal food",
+          "Kaladi Brothers espresso and coffee",
+          "West Coast wine, craft beer and custom cocktails (21+)",
+          "Fast Wi-Fi and power outlets",
+          "Locally inspired Alaska art"
+        ],
+        "restrictions": [
+          "Access requires an eligible same-day boarding pass and a qualifying lounge membership, ticket/status benefit, or a paid single-entry pass when available.",
+          "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
+          "Single-entry passes are sold only at participating lounges and when space is available; check current price and terms before travel.",
+          "An Alaska co-branded credit card alone does not provide complimentary lounge admission."
+        ],
+        "photoURLs": [
+          "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/bltc3fd560e8754d52b/67a2c28556b353784d00b349/ANCLounge457X180.jpg"
+        ]
+      }
+    ],
+    "LAX": [
+      {
+        "airportCode": "LAX",
+        "provider": "Alaska Lounge",
+        "name": "Alaska Lounge — LAX",
+        "officialURL": "https://www.alaskaair.com/content/airport-lounge/location-and-hours",
+        "description": "Alaska Lounge in Los Angeles International Airport Terminal 6, on the mezzanine near Gate 64. Guests can relax with seasonal food and beverages, barista-made espresso, Wi-Fi, charging outlets, and work-friendly seating.",
+        "terminal": "Terminal 6",
+        "location": "Mezzanine level, near Gate 64",
+        "hours": [
+          "Daily: 5:00 am - 11:00 pm"
+        ],
+        "amenities": [
+          "Seasonal food and beverages",
+          "Barista-made espresso and coffee",
+          "Nonalcoholic drinks, beer and wine (age restrictions apply)",
+          "Wi-Fi and charging outlets",
+          "Lounge seating and work areas"
+        ],
+        "restrictions": [
+          "Access requires an eligible same-day boarding pass and a qualifying lounge membership, ticket/status benefit, or a paid single-entry pass when available.",
+          "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
+          "Single-entry passes are available at this location when space permits; current price and terms apply.",
+          "An Alaska co-branded credit card alone does not provide complimentary lounge admission."
+        ],
+        "photoURLs": [
+          "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blt74b8f34919fcb1b5/beourguest-lounge-image"
+        ]
+      }
+    ],
+    "PDX": [
+      {
+        "airportCode": "PDX",
+        "provider": "Alaska Lounge",
+        "name": "Alaska Lounge — PDX",
+        "officialURL": "https://www.alaskaair.com/content/airport-lounge/location-and-hours",
+        "description": "The new Alaska Lounge is in Portland International Airport's South Hall mezzanine. Opened in June 2026, it spans more than 14,000 square feet with over 230 seats, a fireplace, signature loungers, private booths, workspaces, regional food and barista-made drinks.",
+        "terminal": "South Hall",
+        "location": "Mezzanine level",
+        "hours": [
+          "Daily: 4:30 am - 10:30 pm"
+        ],
+        "amenities": [
+          "More than 230 seats in a 14,000+ sq. ft. lounge",
+          "Fireplace and signature loungers",
+          "Private booths and workspaces",
+          "Regional food and barista-made espresso drinks",
+          "West Coast wine and local craft beer (21+)",
+          "Wi-Fi and power outlets",
+          "Pacific Northwest design and Mount Hood mural"
+        ],
+        "restrictions": [
+          "Access requires an eligible same-day boarding pass and a qualifying lounge membership, ticket/status benefit, or a paid single-entry pass when available.",
+          "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
+          "Single-entry passes are sold only at participating lounges and when space is available; check current price and terms before travel.",
+          "An Alaska co-branded credit card alone does not provide complimentary lounge admission."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "SFO": [
+      {
+        "airportCode": "SFO",
+        "provider": "Alaska Lounge",
+        "name": "Alaska Lounge — SFO",
+        "officialURL": "https://www.alaskaair.com/content/airport-lounge/location-and-hours",
+        "description": "Alaska Lounge in Harvey Milk Terminal 1 across from Gate B6. The 11,000-square-foot lounge offers complimentary food, barista-made espresso, craft beer and West Coast wine, two pancake machines, Signature Loungers, TalkBox booths, and power outlets at nearly every seat.",
+        "terminal": "Terminal 1",
+        "location": "Across from Gate B6",
+        "hours": [
+          "Daily: 5:00 am - 12:00 am"
+        ],
+        "amenities": [
+          "11,000 sq. ft. lounge",
+          "Complimentary food, including self-serve pancakes",
+          "Barista-made espresso",
+          "Craft beer and West Coast wine (21+)",
+          "Signature Loungers and window views",
+          "TalkBox privacy booths",
+          "Power outlets at nearly every seat",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Access requires an eligible same-day boarding pass and a qualifying lounge membership, ticket/status benefit, or a paid single-entry pass when available.",
+          "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
+          "Single-entry passes are available at this location when space permits; current price and terms apply.",
+          "An Alaska co-branded credit card alone does not provide complimentary lounge admission."
+        ],
+        "photoURLs": [
+          "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/bltf7c9978ef6792970/66a049377749f518a33afea2/072224_sfo_lounge_locationhours.jpg"
+        ]
+      }
+    ],
+    "SEA": [
+      {
+        "airportCode": "SEA",
+        "provider": "Alaska Lounge",
+        "name": "Alaska Lounge — SEA C Concourse",
+        "officialURL": "https://www.alaskaair.com/content/airport-lounge/location-and-hours",
+        "description": "The C Concourse lounge sits on the mezzanine beside Gate C-16, with seating, food and beverage service, espresso, Wi-Fi, and power outlets. Alaska plans a larger replacement Alaska Lounge and Aurora lounge complex for late 2027; that future facility is not open yet.",
+        "terminal": "C Concourse",
+        "location": "Mezzanine level, next to Gate C-16",
+        "hours": [
+          "Daily: 5:00 am - 7:00 pm"
+        ],
+        "amenities": [
+          "Seasonal food and beverages",
+          "Barista-made espresso",
+          "Wi-Fi and power outlets",
+          "Loungers and seating",
+          "Alcoholic beverages at participating lounge bars (21+)"
+        ],
+        "restrictions": [
+          "Access requires an eligible same-day boarding pass and a qualifying lounge membership, ticket/status benefit, or a paid single-entry pass when available.",
+          "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
+          "Single-entry passes are available at this location when space permits; current price and terms apply.",
+          "An Alaska co-branded credit card alone does not provide complimentary lounge admission."
+        ],
+        "photoURLs": [
+          "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blt74b8f34919fcb1b5/beourguest-lounge-image"
+        ]
+      },
+      {
+        "airportCode": "SEA",
+        "provider": "Alaska Lounge",
+        "name": "Alaska Lounge — SEA D Concourse",
+        "officialURL": "https://www.alaskaair.com/content/airport-lounge/location-and-hours",
+        "description": "The renovated D Concourse lounge is just beyond Security Checkpoint 4. It features expanded seating, a barista station, hot food, West Coast beverages, power outlets, and Coast Salish artwork by Louie Gong.",
+        "terminal": "D Concourse",
+        "location": "Just beyond Security Checkpoint 4",
+        "hours": [
+          "Daily: 5:00 am - 11:00 pm"
+        ],
+        "amenities": [
+          "Seasonal food and beverages",
+          "Barista-made espresso",
+          "Wi-Fi and power outlets",
+          "Loungers and seating",
+          "Alcoholic beverages at participating lounge bars (21+)"
+        ],
+        "restrictions": [
+          "Access requires an eligible same-day boarding pass and a qualifying lounge membership, ticket/status benefit, or a paid single-entry pass when available.",
+          "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
+          "Single-entry passes are available at this location when space permits; current price and terms apply.",
+          "An Alaska co-branded credit card alone does not provide complimentary lounge admission."
+        ],
+        "photoURLs": [
+          "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blt74b8f34919fcb1b5/beourguest-lounge-image"
+        ]
+      },
+      {
+        "airportCode": "SEA",
+        "provider": "Alaska Lounge",
+        "name": "Alaska Lounge — SEA N Concourse",
+        "officialURL": "https://www.alaskaair.com/content/airport-lounge/location-and-hours",
+        "description": "The North Satellite lounge spans about 15,000 square feet, with floor-to-ceiling windows, runway and mountain views, espresso service, rotating entrees, seating, Wi-Fi, and power outlets.",
+        "terminal": "N Concourse",
+        "location": "Mezzanine level, above Gates N13–18",
+        "hours": [
+          "Daily: 5:00 am - 11:00 pm"
+        ],
+        "amenities": [
+          "Seasonal food and beverages",
+          "Barista-made espresso",
+          "Wi-Fi and power outlets",
+          "Loungers and seating",
+          "Alcoholic beverages at participating lounge bars (21+)"
+        ],
+        "restrictions": [
+          "Access requires an eligible same-day boarding pass and a qualifying lounge membership, ticket/status benefit, or a paid single-entry pass when available.",
+          "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
+          "Single-entry passes are available at this location when space permits; current price and terms apply.",
+          "An Alaska co-branded credit card alone does not provide complimentary lounge admission."
+        ],
+        "photoURLs": [
+          "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blt74b8f34919fcb1b5/beourguest-lounge-image"
+        ]
+      }
+    ],
+    "HNL": [
+      {
+        "airportCode": "HNL",
+        "provider": "Alaska Lounge",
+        "name": "The Plumeria Lounge — HNL",
+        "officialURL": "https://www.alaskaair.com/content/airport-lounge/location-and-hours",
+        "description": "Hawaiian Airlines' Plumeria Lounge is an Alaska Lounge member-access partner at Daniel K. Inouye International Airport. It is in Terminal 1 on the third floor. Alaska Lounge members and Lounge+ members may enter when departing HNL the same day on Alaska Airlines or Hawaiian Airlines. This is not an Alaska-branded lounge.",
+        "terminal": "Terminal 1",
+        "location": "Third floor",
+        "hours": [],
+        "amenities": [
+          "Lounge seating",
+          "Food and beverages",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Alaska Lounge or Lounge+ membership and same-day departure from HNL on Alaska Airlines or Hawaiian Airlines are required for the Alaska membership access benefit.",
+          "Eligible members may bring immediate family or up to two guests, subject to applicable access terms and capacity.",
+          "Alaska Summit Visa lounge day passes are not accepted at The Plumeria Lounge.",
+          "Current operating hours were not published in Alaska's lounge locator; confirm with the lounge or Hawaiian Airlines before travel."
+        ],
+        "photoURLs": []
+      }
+    ]
+  }
 }
