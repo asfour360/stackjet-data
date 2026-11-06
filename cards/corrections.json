@@ -5453,7 +5453,7 @@
       ],
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true,
-      "artworkAsset": "Card-cobalt-can"
+      "artworkAsset": null
     },
     {
       "id": "bmo-ascend-world-elite-business-mastercard-can",
