@@ -3,7 +3,13 @@
   "version": 1,
   "updated": "2026-11-06",
   "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them.",
-  "remove": [],
+  "remove": [
+    {
+      "airport": "SFO",
+      "provider": "Priority Pass",
+      "name": "Alaska Lounge - Additional Fee Applies"
+    }
+  ],
   "change": [
     {
       "airport": "HNL",
@@ -81,32 +87,6 @@
         "Access is permitted 3 hours prior to scheduled flight departure - All Cardholders are required to show a physical or digital card – All Cardholders and guests are required to show an SFO Outbound Departure Boarding Pass with confirmed same-day travel for access to the lounge - Children under 2 years are admitted free.",
         "Maximum 3 hour stay - Cardholders will not be admitted into the lounge outside these hours - Lounge access may be restricted due to lounge capacity constraints and the lounge reserves the right to reserve seating as necessary.",
         "Shower facilities are subject to payment (US$15 per shower)."
-      ]
-    },
-    {
-      "airport": "SFO",
-      "provider": "Priority Pass",
-      "name": "Alaska Lounge - Additional Fee Applies",
-      "newName": "Alaska Lounge — Priority Pass ($15 fee)",
-      "terminal": "Terminal 1",
-      "location": "After security, opposite Gate B6",
-      "hours": [
-        "Daily: 5:00 am - 11:00 pm"
-      ],
-      "officialURL": "https://www.prioritypass.com/en-GB/lounges/united-states-of-america/san-francisco-international/sfo21-alaska-lounge-additional-fee-applies",
-      "description": "Paid entry with Priority Pass to the Alaska Lounge in SFO Terminal 1 requires a standard Priority Pass visit allocation, plus a mandatory US$15 fee per person paid directly to the lounge. Same-day Alaska Airlines or affiliated-partner travel is required. Priority Pass entry ends at 11:00 pm, although Alaska lists the lounge itself as open until midnight.",
-      "restrictions": [
-        "Paid entry requires a valid Priority Pass membership and standard visit allocation; any membership or visit charges still apply.",
-        "A mandatory US$15 fee per person is payable directly to the lounge at entry; guests are subject to the same fee.",
-        "All cardholders and guests must show a confirmed same-day boarding pass on Alaska Airlines or an affiliated partner.",
-        "Maximum stay: 4 hours. Children under age 2 are admitted free.",
-        "Alaska notes that lounge access and the sale of lounge passes may be limited due to capacity restrictions.",
-        "Some menu items and alcoholic beverages require additional payment."
-      ],
-      "photoURLs": [
-        "https://images.ctfassets.net/687qsr16btly/4EumIvA3ps4aROB8ftQYd/df55ad92b1bd94ea5b9992fd403a20a3/072224_sfo_lounge_172.JPG",
-        "https://images.ctfassets.net/687qsr16btly/4FC2DQRLX5mO2sIpR5f8An/0fab863703b4fed682fc94f3c4915aee/072224_sfo_lounge_080.JPG",
-        "https://images.ctfassets.net/687qsr16btly/6VJIJfAZTtDmLWPlzAYCKo/b993f938c5bf66f9840b26800fda9060/072224_sfo_lounge_112.JPG"
       ]
     },
     {
