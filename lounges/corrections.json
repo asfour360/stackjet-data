@@ -2,7 +2,7 @@
   "format": "stackjet-lounge-corrections",
   "version": 1,
   "updated": "2026-11-05",
-  "note": "Alaska Lounge locations and member-access partner refreshed against Alaska/Hawaiian official sources on 2026-11-05. PDX uses the new South Hall lounge; HNL adds The Plumeria Lounge as a Hawaiian-operated Alaska-membership partner. No new press-kit photos were added because Alaska's newsroom image terms restrict reuse to current editorial/news reporting.",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions.",
   "remove": [],
   "change": [
     {
@@ -10,6 +10,26 @@
       "provider": "Admirals Club",
       "name": "Admirals Club / Sakura Lounge — HNL",
       "photoURLs": []
+    },
+    {
+      "airport": "SFO",
+      "provider": "Priority Pass",
+      "name": "Alaska Lounge - Additional Fee Applies",
+      "newName": "Alaska Lounge — Priority Pass ($15 fee)",
+      "terminal": "Terminal 1",
+      "location": "After security, opposite Gate B6",
+      "hours": [
+        "Daily: 5:00 am - 11:00 pm"
+      ],
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/united-states-of-america/san-francisco-international/sfo21-alaska-lounge-additional-fee-applies",
+      "description": "Priority Pass access to the Alaska Lounge in SFO Terminal 1. A standard Priority Pass visit allocation is required, plus a mandatory US$15 fee per person paid directly to the lounge. Same-day Alaska Airlines or affiliated-partner travel is required.",
+      "restrictions": [
+        "Present a valid Priority Pass membership and use a standard visit allocation; any membership or visit charges still apply.",
+        "A mandatory US$15 fee per person is payable directly to the lounge at entry; guests are subject to the same fee.",
+        "All cardholders and guests must show a confirmed same-day boarding pass on Alaska Airlines or an affiliated partner.",
+        "Maximum stay: 4 hours. Children under age 2 are admitted free.",
+        "Some menu items and alcoholic beverages require additional payment."
+      ]
     }
   ],
   "add": [],
