@@ -2,7 +2,7 @@
   "format": "stackjet-lounge-corrections",
   "version": 1,
   "updated": "2026-11-06",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new Gates B8-B10 room, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each now has a short second line with its opening hours (or its closure) from the same Air Canada data, until 1.3 (4) removes repeated lines in the app.",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new Gates B8-B10 room, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once.",
   "remove": [
     {
       "airport": "SFO",
@@ -152,7 +152,7 @@
         "For domestic flights, eligible customers can use the two Air Canada Cafés in the domestic terminal: near Gate C50 (daily 05:00 – 00:00) and the Petit Café between Gates C46 and C47 (daily 05:00 – 22:00). Chase Sapphire Reserve cards and Aeroplan business-card guest passes don't cover the cafés.",
         "The U.S. departures (Pier E) and international (Pier D) Maple Leaf Lounges stay open."
       ],
-      "description": "Closed for renovation until early 2028"
+      "description": ""
     },
     {
       "airport": "YOW",
@@ -171,7 +171,7 @@
         "https://yow-website.transforms.svdcdn.com/production/images/Lounges/Air-Canada/mll1.jpg?w=1024&h=1024&q=90&auto=format&fit=crop&dm=1724960735&s=8955339eb4dacb28a246fbf357fcd2d4",
         "https://yow-website.transforms.svdcdn.com/production/images/Lounges/Air-Canada/mll2.jpg?w=1024&h=1024&q=90&auto=format&fit=crop&dm=1724960845&s=d3c281649e05d23be0bc4ae658d55609"
       ],
-      "description": "Closed for renovation (reopening announced for November 2026); usual hours daily 04:00 – 21:30"
+      "description": ""
     },
     {
       "airport": "YYZ",
@@ -183,7 +183,7 @@
         "Access depends on your card, status or cabin and a same-day departing Air Canada or Star Alliance flight (Aeroplan business-card guest passes: Air Canada, Rouge or Air Canada Express flights only).",
         "Air Canada normally admits departing travellers within three hours of scheduled departure; connecting travellers can come in any time."
       ],
-      "description": "Open daily 04:15 – 23:00 (23:15 Tue, Thu, Sat)"
+      "description": ""
     },
     {
       "airport": "YQB",
@@ -201,7 +201,7 @@
         "https://images.ctfassets.net/687qsr16btly/Bgsk0sL6VABMCqhq7pErQ/7384fdd7d40ff8851b902998733e14c6/YQB_ACCaf%C3%A2___DOM_Seating_4.jpg?w=1600&fm=jpg&q=80",
         "https://images.ctfassets.net/687qsr16btly/37FgkYd84lHQEYnLuPJnIl/eed8007e420837183c6ff51a77882eda/YQB_ACCaf%C3%A2___DOM_Buffet_5.jpg?w=1600&fm=jpg&q=80"
       ],
-      "description": "Open daily 04:00 – 21:00"
+      "description": ""
     },
     {
       "airport": "LGA",
@@ -213,7 +213,7 @@
         "https://www.aircanada.com/content/dam/aircanada/portal/images/galleries/highres/lga-mll-4.jpg",
         "https://www.aircanada.com/content/dam/aircanada/portal/images/galleries/highres/lga-mll-5.jpg"
       ],
-      "description": "Open daily 04:30 – 19:30"
+      "description": ""
     },
     {
       "airport": "YYT",
@@ -225,7 +225,7 @@
         "https://www.aircanada.com/content/dam/aircanada/portal/images/galleries/highres/yyt-mll-4.jpg",
         "https://www.aircanada.com/content/dam/aircanada/portal/images/galleries/highres/yyt-mll-1.jpg"
       ],
-      "description": "Open daily 04:00 – 19:15"
+      "description": ""
     },
     {
       "airport": "YYZ",
@@ -240,7 +240,7 @@
         "https://www.aircanada.com/content/dam/aircanada/portal/images/banners/fly/premium-services/ACCafeBeverages.png",
         "https://www.aircanada.com/content/dam/aircanada/portal/images/banners/fly/premium-services/ACCafeFood.png"
       ],
-      "description": "Open daily 05:00 – 21:30"
+      "description": ""
     },
     {
       "airport": "YTZ",
@@ -249,7 +249,7 @@
       "photoURLs": [
         "https://www.aircanada.com/content/dam/aircanada/portal/images/banners/fly/premium-services/ac-cafe-billybishop.png"
       ],
-      "description": "Open daily 06:00 – 21:00"
+      "description": ""
     },
     {
       "airport": "YUL",
@@ -259,7 +259,7 @@
         "https://content.presspage.com/uploads/3167/8e94d0d9-946e-4b21-ad83-2e897282dd66/1920_heroshot-2025-03-18-air-canada-cafe-yul-z62-2974-hdr.jpg",
         "https://www.aircanada.com/content/dam/aircanada/portal/images/banners/fly/premium-services/yul-cafe.png"
       ],
-      "description": "Open daily 05:00 – 20:00"
+      "description": ""
     },
     {
       "airport": "YUL",
@@ -268,7 +268,7 @@
       "photoURLs": [
         "https://www.aircanada.com/content/dam/aircanada/portal/images/banners/fly/premium-services/yul-cafe-transborder.jpg"
       ],
-      "description": "Open daily 06:00 – 19:00"
+      "description": ""
     },
     {
       "airport": "YVR",
@@ -277,7 +277,7 @@
       "photoURLs": [
         "https://www.aircanada.com/content/dam/aircanada/portal/images/banners/fly/premium-services/yvr-cafe-new.jpg"
       ],
-      "description": "Open daily 05:00 – 00:00"
+      "description": ""
     },
     {
       "airport": "YVR",
@@ -286,127 +286,127 @@
       "photoURLs": [
         "https://content.presspage.com/uploads/3167/8f399e74-cdb4-4e30-9421-87d7fff90606/1920_chrisamat-aircanada-yvrpetitcafeacute-nov20253401-web.jpg"
       ],
-      "description": "Open daily 05:00 – 22:00"
+      "description": ""
     },
     {
       "airport": "LAX",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 05:30 – 22:30"
+      "description": ""
     },
     {
       "airport": "SFO",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 05:00 – 22:00"
+      "description": ""
     },
     {
       "airport": "FRA",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 06:00 – 17:00"
+      "description": ""
     },
     {
       "airport": "CDG",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — Temporarily Closed",
-      "description": "Closed during airport construction"
+      "description": ""
     },
     {
       "airport": "LHR",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 06:00 – 17:30"
+      "description": ""
     },
     {
       "airport": "YYC",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 04:30 – 01:00"
+      "description": ""
     },
     {
       "airport": "YEG",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 04:30 – 00:45"
+      "description": ""
     },
     {
       "airport": "YQR",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 04:00 – 13:30"
+      "description": ""
     },
     {
       "airport": "YXE",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 04:00 – 19:00"
+      "description": ""
     },
     {
       "airport": "YWG",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge",
-      "description": "Open daily 05:00 – 19:30"
+      "description": ""
     },
     {
       "airport": "YYZ",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — Domestic",
-      "description": "Open daily 05:00 – 00:00"
+      "description": ""
     },
     {
       "airport": "YYZ",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — U.S. departures",
-      "description": "Open daily 04:30 – 20:45"
+      "description": ""
     },
     {
       "airport": "YYZ",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge Express — U.S. departures",
-      "description": "Open daily 05:00 – 20:45"
+      "description": ""
     },
     {
       "airport": "YVR",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — U.S. departures",
-      "description": "Open daily 07:00 – 23:00"
+      "description": ""
     },
     {
       "airport": "YVR",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — International",
-      "description": "Open daily 07:15 – 01:00 (00:15 Wed, Fri, Sun)"
+      "description": ""
     },
     {
       "airport": "YHZ",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — Temporarily Closed",
-      "description": "Temporarily closed (usual hours daily 04:00 – 21:30)"
+      "description": ""
     },
     {
       "airport": "YUL",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — Domestic",
-      "description": "Open daily 04:15 – 21:15"
+      "description": ""
     },
     {
       "airport": "YUL",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — U.S. departures",
-      "description": "Open daily 05:00 – 20:00"
+      "description": ""
     },
     {
       "airport": "YUL",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge — International",
-      "description": "Open daily from 06:00; closes 21:30–23:30 depending on the day"
+      "description": ""
     },
     {
       "airport": "EWR",
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge (inside the United Club)",
-      "description": "Open daily 05:00 – 21:15"
+      "description": ""
     }
   ],
   "add": [
