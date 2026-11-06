@@ -2,7 +2,7 @@
   "format": "stackjet-lounge-corrections",
   "version": 1,
   "updated": "2026-11-06",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions.",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them.",
   "remove": [],
   "change": [
     {
@@ -10,26 +10,6 @@
       "provider": "Admirals Club",
       "name": "Admirals Club / Sakura Lounge — HNL",
       "photoURLs": []
-    },
-    {
-      "airport": "SFO",
-      "provider": "Priority Pass",
-      "name": "Alaska Lounge - Additional Fee Applies",
-      "newName": "Alaska Lounge — Priority Pass ($15 fee)",
-      "terminal": "Terminal 1",
-      "location": "After security, opposite Gate B6",
-      "hours": [
-        "Daily: 5:00 am - 11:00 pm"
-      ],
-      "officialURL": "https://www.prioritypass.com/en-GB/lounges/united-states-of-america/san-francisco-international/sfo21-alaska-lounge-additional-fee-applies",
-      "description": "Paid entry with Priority Pass to the Alaska Lounge in SFO Terminal 1 requires a standard Priority Pass visit allocation, plus a mandatory US$15 fee per person paid directly to the lounge. Same-day Alaska Airlines or affiliated-partner travel is required.",
-      "restrictions": [
-        "Paid entry requires a valid Priority Pass membership and standard visit allocation; any membership or visit charges still apply.",
-        "A mandatory US$15 fee per person is payable directly to the lounge at entry; guests are subject to the same fee.",
-        "All cardholders and guests must show a confirmed same-day boarding pass on Alaska Airlines or an affiliated partner.",
-        "Maximum stay: 4 hours. Children under age 2 are admitted free.",
-        "Some menu items and alcoholic beverages require additional payment."
-      ]
     },
     {
       "airport": "PDX",
@@ -48,6 +28,122 @@
         "Single-entry passes are available at this location when space permits; current price and terms apply.",
         "An Alaska co-branded credit card alone does not provide complimentary lounge admission.",
         "Alaska notes that capacity at the North Satellite lounge may be managed based on operational needs."
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Priority Pass",
+      "name": "The Club SFO",
+      "terminal": "Terminal 1",
+      "location": "Airside – after the main security checkpoint in Harvey Milk Terminal 1, keep left and follow the signs to B Gates. The Club is located on the right, just before Gate B4. The lounge can also be easily reached from International Terminal A, a short 5-minute walk, post-security.",
+      "hours": [
+        "04:30 - 23:30"
+      ],
+      "restrictions": [
+        "Access is permitted 2.5 hours prior to scheduled flight departure - Children under 2 years are admitted free - Children under 18 years must be accompanied by an adult - Alcoholic drinks are only available to passengers 21 years of age or older - Separate children's play area available - Quiet area.",
+        "Shower facilities are subject to payment (US$25 per person)."
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Priority Pass",
+      "name": "Golden Gate Lounge",
+      "hours": [
+        "07:00 - 20:00"
+      ],
+      "restrictions": [
+        "Maximum 3 hour stay - Children under 2 years are admitted free - Alcoholic drinks are only available to passengers 21 years of age or older.",
+        "No access will be given outside the published hours."
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Priority Pass",
+      "name": "China Airlines Lounge",
+      "hours": [
+        "08:00 - 20:30"
+      ],
+      "restrictions": [
+        "Maximum 3 hour stay - Lounge access may be restricted due to lounge capacity constraints and the lounge reserves the right to reserve seating as necessary - Children under 2 years are admitted free.",
+        "No access will be given outside these hours."
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Priority Pass",
+      "name": "Virgin Atlantic Clubhouse",
+      "location": "Airside - Concourse A. After Security Checks, turn left and take the lift to Level 5.",
+      "hours": [
+        "09:00 - 12:00",
+        "17:00 - 22:30"
+      ],
+      "restrictions": [
+        "Access is permitted 3 hours prior to scheduled flight departure - All Cardholders are required to show a physical or digital card – All Cardholders and guests are required to show an SFO Outbound Departure Boarding Pass with confirmed same-day travel for access to the lounge - Children under 2 years are admitted free.",
+        "Maximum 3 hour stay - Cardholders will not be admitted into the lounge outside these hours - Lounge access may be restricted due to lounge capacity constraints and the lounge reserves the right to reserve seating as necessary.",
+        "Shower facilities are subject to payment (US$15 per shower)."
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Priority Pass",
+      "name": "Alaska Lounge - Additional Fee Applies",
+      "newName": "Alaska Lounge — Priority Pass ($15 fee)",
+      "terminal": "Terminal 1",
+      "location": "After security, opposite Gate B6",
+      "hours": [
+        "Daily: 5:00 am - 11:00 pm"
+      ],
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/united-states-of-america/san-francisco-international/sfo21-alaska-lounge-additional-fee-applies",
+      "description": "Paid entry with Priority Pass to the Alaska Lounge in SFO Terminal 1 requires a standard Priority Pass visit allocation, plus a mandatory US$15 fee per person paid directly to the lounge. Same-day Alaska Airlines or affiliated-partner travel is required. Priority Pass entry ends at 11:00 pm, although Alaska lists the lounge itself as open until midnight.",
+      "restrictions": [
+        "Paid entry requires a valid Priority Pass membership and standard visit allocation; any membership or visit charges still apply.",
+        "A mandatory US$15 fee per person is payable directly to the lounge at entry; guests are subject to the same fee.",
+        "All cardholders and guests must show a confirmed same-day boarding pass on Alaska Airlines or an affiliated partner.",
+        "Maximum stay: 4 hours. Children under age 2 are admitted free.",
+        "Alaska notes that lounge access and the sale of lounge passes may be limited due to capacity restrictions.",
+        "Some menu items and alcoholic beverages require additional payment."
+      ],
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4EumIvA3ps4aROB8ftQYd/df55ad92b1bd94ea5b9992fd403a20a3/072224_sfo_lounge_172.JPG",
+        "https://images.ctfassets.net/687qsr16btly/4FC2DQRLX5mO2sIpR5f8An/0fab863703b4fed682fc94f3c4915aee/072224_sfo_lounge_080.JPG",
+        "https://images.ctfassets.net/687qsr16btly/6VJIJfAZTtDmLWPlzAYCKo/b993f938c5bf66f9840b26800fda9060/072224_sfo_lounge_112.JPG"
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Priority Pass",
+      "name": "Air India Maharajah Lounge",
+      "description": "Air India Maharajah Lounge at SFO. Facilities include air conditioning, alcoholic drinks (standard), alcoholic drinks (premium-brand) — extra charge, cold buffet.",
+      "terminal": "International Terminal A",
+      "location": "Airside - after security, Level 4, near Gate A1.",
+      "hours": [
+        "07:00 - 23:59",
+        "00:00 - 00:30"
+      ],
+      "restrictions": [
+        "Maximum 2 hour stay - Children under 2 years are admitted free.",
+        "Priority Pass lists this lounge for international departures only."
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Alcoholic drinks (Premium-brand) — extra charge",
+        "Cold buffet",
+        "Digital card accepted",
+        "Disabled access",
+        "Flight information",
+        "Hot buffet",
+        "Hot drinks",
+        "Snacks",
+        "Soft drinks",
+        "Televisions",
+        "Wi-Fi"
+      ],
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/OcMv4Mxs5rkduSEbzMRlX/44b3287a4da95ca2b710480cb2ba812a/AIR_INDIA_SFO_LOUNGE_37008.jpg",
+        "https://images.ctfassets.net/687qsr16btly/2Dr8dpwktYtS5ssAQw0J0P/3f23ad58ee281e2c96f557544c5fc7b1/IMG_9466_11537_Air_India_Maharajah_Lounge.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1TwTFKH4kU9rWgoH1QgwBF/15327b60657342e3b1edfa249c838618/IMG_9408.jpg",
+        "https://images.ctfassets.net/687qsr16btly/12oWlXHpVB3QPEy1Jpdyww/799c300ac75b5257f42448ee3950920a/IMG_9569A_11537_Air_India_Maharajah_Lounge.jpg"
       ]
     }
   ],
