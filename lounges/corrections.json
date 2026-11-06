@@ -1,7 +1,7 @@
 {
   "format": "stackjet-lounge-corrections",
   "version": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions.",
   "remove": [],
   "change": [
@@ -29,6 +29,25 @@
         "All cardholders and guests must show a confirmed same-day boarding pass on Alaska Airlines or an affiliated partner.",
         "Maximum stay: 4 hours. Children under age 2 are admitted free.",
         "Some menu items and alcoholic beverages require additional payment."
+      ]
+    },
+    {
+      "airport": "PDX",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — PDX",
+      "location": "Mezzanine level, just past the South security checkpoint (serves Concourses B and C)"
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA N Concourse",
+      "terminal": "North Satellite (N gates)",
+      "restrictions": [
+        "Access requires an eligible same-day boarding pass and a qualifying lounge membership, ticket/status benefit, or a paid single-entry pass when available.",
+        "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
+        "Single-entry passes are available at this location when space permits; current price and terms apply.",
+        "An Alaska co-branded credit card alone does not provide complimentary lounge admission.",
+        "Alaska notes that capacity at the North Satellite lounge may be managed based on operational needs."
       ]
     }
   ],
