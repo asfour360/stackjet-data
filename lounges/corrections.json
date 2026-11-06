@@ -2,7 +2,7 @@
   "format": "stackjet-lounge-corrections",
   "version": 1,
   "updated": "2026-11-06",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new Gates B8-B10 room, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json.",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new Gates B8-B10 room, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge).",
   "remove": [
     {
       "airport": "SFO",
@@ -135,6 +135,59 @@
         "Daily: 4:30 am - 10:00 pm"
       ],
       "officialURL": "https://escapelounges.com/us/airport-lounges/"
+    },
+    {
+      "airport": "YVR",
+      "provider": "Air Canada Maple Leaf Lounge",
+      "name": "Air Canada Maple Leaf Lounge — Domestic",
+      "newName": "Air Canada Maple Leaf Lounge — Domestic — Temporarily Closed",
+      "terminal": "Domestic terminal, Pier C",
+      "location": "Domestic terminal, Pier C",
+      "hours": [
+        "Closed for renovation since October 14, 2026",
+        "Reopening expected in early 2028"
+      ],
+      "restrictions": [
+        "Air Canada closed the domestic Maple Leaf Lounge after October 13, 2026 for a full renovation; it is expected to reopen in early 2028.",
+        "For domestic flights, eligible customers can use the two Air Canada Cafés in the domestic terminal: near Gate C50 (daily 05:00 – 00:00) and the Petit Café between Gates C46 and C47 (daily 05:00 – 22:00). Chase Sapphire Reserve cards and Aeroplan business-card guest passes don't cover the cafés.",
+        "The U.S. departures (Pier E) and international (Pier D) Maple Leaf Lounges stay open."
+      ]
+    },
+    {
+      "airport": "YOW",
+      "provider": "Air Canada Maple Leaf Lounge",
+      "name": "Air Canada Maple Leaf Lounge",
+      "hours": [
+        "Daily 04:00 – 21:30 (usual hours, once reopened)"
+      ],
+      "restrictions": [
+        "Ottawa Airport announced that this lounge closed for renovation on July 6, 2026, with reopening planned for November 2026. Air Canada hasn't published the reopening date, so check before you go.",
+        "Nearby: the Aspire Lounge near Gate 18 (Priority Pass, DragonPass; reservation recommended, not for U.S.-bound flights).",
+        "Access depends on your card, status or cabin and a same-day departing Air Canada or Star Alliance flight (Aeroplan business-card guest passes: Air Canada, Rouge or Air Canada Express flights only).",
+        "Air Canada normally admits departing travellers within three hours of scheduled departure; connecting travellers can come in any time."
+      ]
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Air Canada Maple Leaf Lounge",
+      "name": "Air Canada Maple Leaf Lounge — International",
+      "restrictions": [
+        "The Air Canada Signature Suite (next to Gate E77) is a separate lounge for eligible Signature Class tickets on Air Canada international flights; no credit card or Aeroplan status gets you in.",
+        "The Signature Suite closed for expansion on September 30, 2026 (partial reopening expected in December 2026, full in early 2027). Its guests use this lounge meanwhile, so Air Canada says it is busier than usual in the evenings; a grab-and-go pop-up near Gate 85 is open daily 17:00 – 21:00 for lounge-eligible customers.",
+        "Access depends on your card, status or cabin and a same-day departing Air Canada or Star Alliance flight (Aeroplan business-card guest passes: Air Canada, Rouge or Air Canada Express flights only).",
+        "Air Canada normally admits departing travellers within three hours of scheduled departure; connecting travellers can come in any time."
+      ]
+    },
+    {
+      "airport": "YQB",
+      "provider": "Air Canada Maple Leaf Lounge",
+      "name": "Air Canada Café",
+      "newName": "Air Canada Café by Plaza Premium Lounge",
+      "restrictions": [
+        "Air Canada Café run by Plaza Premium; the same room is also a Priority Pass lounge.",
+        "Air Canada access: Business Class or Premium Rouge on a domestic Air Canada flight, Aeroplan 50K, 75K and Super Elite, Star Alliance Gold, and the TD and CIBC Aeroplan Visa Infinite Privilege and Amex Aeroplan Reserve and Business Reserve cards. Aeroplan business-card guest passes don't cover cafés.",
+        "Air Canada normally admits departing travellers within three hours of scheduled departure; connecting travellers can come in any time."
+      ]
     }
   ],
   "add": [
@@ -2144,5 +2197,279 @@
         ]
       }
     ]
-  }
+  },
+  "ratings": [
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (USA Transborder)",
+      "rating": 3.3,
+      "reviewCount": 5370,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz2-plaza-premium-lounge-usa-transborder",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (Domestic Departures)",
+      "terminal": "Terminal 1",
+      "rating": 3.9,
+      "reviewCount": 3577,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz3-plaza-premium-lounge-domestic-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (Domestic Departures)",
+      "terminal": "Terminal 3",
+      "rating": 3.9,
+      "reviewCount": 2226,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz4-plaza-premium-lounge-domestic-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (International Departures)",
+      "rating": 4.0,
+      "reviewCount": 2247,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz5-plaza-premium-lounge-international-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (USA Departures)",
+      "rating": 3.6,
+      "reviewCount": 3405,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz6-plaza-premium-lounge-usa-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge",
+      "rating": 3.0,
+      "reviewCount": 3,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz15-yyz-plaza-premium-lounge",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "KLM Crown Lounge",
+      "rating": 4.3,
+      "reviewCount": 1754,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/tor-klm-crown-lounge",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Be Relax Spa",
+      "rating": 4.5,
+      "reviewCount": 11,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz12s-be-relax-spa",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Be Relax Spa (Transborder Departures)",
+      "rating": 3.8,
+      "reviewCount": 10,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz13s-be-relax-spa-transborder-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Priority Pass",
+      "name": "Be Relax Spa (Domestic Departures)",
+      "rating": 4.8,
+      "reviewCount": 4,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz14s-be-relax-spa-domestic-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YVR",
+      "provider": "Priority Pass",
+      "name": "SkyTeam Lounge (International Departures)",
+      "rating": 4.3,
+      "reviewCount": 3975,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/vancouver-international/yvr12-skyteam-lounge-international-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YVR",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (USA Departures)",
+      "rating": 3.9,
+      "reviewCount": 6047,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/vancouver-international/yvr10-plaza-premium-lounge-usa-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YVR",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (International Departures)",
+      "rating": 3.9,
+      "reviewCount": 1828,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/vancouver-international/yvr7-plaza-premium-lounge-international-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YVR",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (Domestic Departures, Pier B)",
+      "rating": 4.1,
+      "reviewCount": 2957,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/vancouver-international/yvr9-plaza-premium-lounge-domestic-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YVR",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge (Domestic Departures, Pier C)",
+      "rating": 3.6,
+      "reviewCount": 1045,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/vancouver-international/yvr11-plaza-premium-lounge-domestic-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YUL",
+      "provider": "Priority Pass",
+      "name": "Montreal Aspire International Lounge",
+      "rating": 3.43,
+      "reviewCount": 209,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/montreal-trudeau-international/yul10-montreal-aspire-international-lounge",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YUL",
+      "provider": "Priority Pass",
+      "name": "Aspire Domestic Lounge - YUL",
+      "rating": 4.13,
+      "reviewCount": 202,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/montreal-trudeau-international/yul9-aspire-domestic-lounge-yul",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YUL",
+      "provider": "Priority Pass",
+      "name": "Air France Lounge operated by Plaza Premium Group",
+      "rating": 4.2,
+      "reviewCount": 1085,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/montreal-trudeau-international/yul8-air-france-lounge-montreal",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Plaza Premium",
+      "name": "Plaza Premium Lounge (US Transborder, Terminal 1)",
+      "rating": 3.3,
+      "reviewCount": 5370,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz2-plaza-premium-lounge-usa-transborder",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Plaza Premium",
+      "name": "Plaza Premium Lounge (Domestic Departures, Terminal 1)",
+      "rating": 3.9,
+      "reviewCount": 3577,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz3-plaza-premium-lounge-domestic-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Plaza Premium",
+      "name": "Plaza Premium Lounge (Domestic Departures, Terminal 3)",
+      "rating": 3.9,
+      "reviewCount": 2226,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz4-plaza-premium-lounge-domestic-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Plaza Premium",
+      "name": "Plaza Premium Lounge (International Departures, Terminal 3)",
+      "rating": 4.0,
+      "reviewCount": 2247,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz5-plaza-premium-lounge-international-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Plaza Premium",
+      "name": "Plaza Premium Lounge (US Transborder, Terminal 3)",
+      "rating": 3.6,
+      "reviewCount": 3405,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz6-plaza-premium-lounge-usa-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Plaza Premium",
+      "name": "Plaza Premium Lounge (Departures, Infield Concourse)",
+      "rating": 3.0,
+      "reviewCount": 3,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/toronto-pearson-international/yyz15-yyz-plaza-premium-lounge",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YVR",
+      "provider": "Plaza Premium",
+      "name": "Plaza Premium Lounge (International Departures, Pier D)",
+      "rating": 3.9,
+      "reviewCount": 1828,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/vancouver-international/yvr7-plaza-premium-lounge-international-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YVR",
+      "provider": "Plaza Premium",
+      "name": "Plaza Premium Lounge (US Departures)",
+      "rating": 3.9,
+      "reviewCount": 6047,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/vancouver-international/yvr10-plaza-premium-lounge-usa-departures",
+      "checked": "2026-11-06"
+    },
+    {
+      "airport": "YUL",
+      "provider": "Plaza Premium",
+      "name": "Air France Lounge operated by Plaza Premium Group (Departures)",
+      "rating": 4.2,
+      "reviewCount": 1085,
+      "source": "Priority Pass",
+      "sourceURL": "https://www.prioritypass.com/en-GB/lounges/canada/montreal-trudeau-international/yul8-air-france-lounge-montreal",
+      "checked": "2026-11-06"
+    }
+  ]
 }
