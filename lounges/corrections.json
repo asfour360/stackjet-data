@@ -2,7 +2,7 @@
   "format": "stackjet-lounge-corrections",
   "version": 1,
   "updated": "2026-11-06",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them.",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge.",
   "remove": [
     {
       "airport": "SFO",
@@ -189,6 +189,109 @@
         "photoURLs": [
           "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blt74b8f34919fcb1b5/beourguest-lounge-image"
         ]
+      },
+      {
+        "airportCode": "LAX",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Regional Terminal — LAX",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/lax-club.html",
+        "description": "American Airlines Admirals Club, Regional Terminal at LAX. Amenities and service are location-specific.",
+        "terminal": "American Eagle Regional Terminal",
+        "location": "Across from Gates 52D and 52E",
+        "hours": [
+          "Daily: 6:15 a.m.–9:15 p.m. (subject to flight schedule)"
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "LAX",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 4 — LAX",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/lax-club.html",
+        "description": "American Airlines Admirals Club, Terminal 4 at LAX. Amenities and service are location-specific.",
+        "terminal": "Terminal 4",
+        "location": "Concourse level, near Gate 41",
+        "hours": [
+          "Daily: 4:30 a.m.–1 a.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers",
+          "Conference room"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "LAX",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal B — LAX",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/lax-club.html",
+        "description": "American Airlines Admirals Club, Terminal B at LAX. Amenities and service are location-specific.",
+        "terminal": "Terminal B",
+        "location": "Tom Bradley International Terminal, between Gates 151 and 153",
+        "hours": [
+          "Daily: 4:30 a.m.–12:15 a.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "LAX",
+        "provider": "Admirals Club",
+        "name": "Flagship Lounge — LAX",
+        "officialURL": "https://www.aa.com/pubcontent/en_US/travel-info/clubs/flagship-lounge.html",
+        "description": "American Airlines premium lounge. Access is based on qualifying premium travel and/or eligible status under current American Airlines rules; ordinary Admirals Club card access alone is not sufficient.",
+        "terminal": "Terminal 4, near gate 41",
+        "location": "Terminal 4, near gate 41",
+        "hours": [
+          "Daily: 4:30 a.m. – 1 a.m."
+        ],
+        "amenities": [
+          "Chef-inspired meals",
+          "Premium wine",
+          "Cocktail bar",
+          "Shower suites",
+          "Wi-Fi",
+          "Expansive seating"
+        ],
+        "restrictions": [
+          "Eligible Flagship/qualifying premium travel or qualifying oneworld/AAdvantage status per AA rules; regular Admirals Club membership or Citi Executive card alone is insufficient."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
       }
     ],
     "PDX": [
@@ -251,6 +354,35 @@
         ],
         "photoURLs": [
           "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/bltf7c9978ef6792970/66a049377749f518a33afea2/072224_sfo_lounge_locationhours.jpg"
+        ]
+      },
+      {
+        "airportCode": "SFO",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 1 — SFO",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/sfo-club.html",
+        "description": "American Airlines Admirals Club in Terminal 1 at San Francisco International Airport.",
+        "terminal": "Terminal 1",
+        "location": "After security, near Gate B13",
+        "hours": [
+          "Club: Daily 4:30 a.m. – 11:30 p.m.",
+          "Bar: Daily 6 a.m. – 11:30 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi",
+          "Kids Room",
+          "Showers",
+          "Conference room (6 seats)"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
         ]
       }
     ],
@@ -362,6 +494,1305 @@
           "Current operating hours were not published in Alaska's lounge locator; confirm with the lounge or Hawaiian Airlines before travel."
         ],
         "photoURLs": []
+      },
+      {
+        "airportCode": "HNL",
+        "provider": "Admirals Club",
+        "name": "Admirals Club / Sakura Lounge — HNL",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/hnl-club.html",
+        "description": "Shared American Airlines Admirals Club / Japan Airlines Sakura Lounge at Honolulu. American publishes Admirals Club hours; lounge facilities are cross-checked with JAL.",
+        "terminal": "Terminal 2",
+        "location": "Third level of Terminal 2 above The Local @HNL restaurant, central lobby of the Overseas Terminal, across from Central Security Checkpoint #3.",
+        "hours": [
+          "Daily: 10:45 a.m. – 9:30 p.m."
+        ],
+        "amenities": [
+          "Meals and refreshments",
+          "Free Wi-Fi",
+          "Baggage lockers",
+          "Restrooms",
+          "Airfield-view seating"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "ATL": [
+      {
+        "airportCode": "ATL",
+        "provider": "Admirals Club",
+        "name": "Admirals Club — ATL",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/atl-club.html",
+        "description": "American Airlines Admirals Club at ATL. Amenities and service are location-specific.",
+        "terminal": "Across from Gate T11",
+        "location": "Across from Gate T11",
+        "hours": [
+          "Sunday–Friday: 5 a.m.–8 p.m.; Saturday: 5 a.m.–7:45 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "AUS": [
+      {
+        "airportCode": "AUS",
+        "provider": "Admirals Club",
+        "name": "Admirals Club — AUS",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/aus-club.html",
+        "description": "American Airlines Admirals Club at AUS. Amenities and service are location-specific.",
+        "terminal": "Inside security",
+        "location": "Inside security, across from Gate 22",
+        "hours": [
+          "Daily: 4:15 a.m.–9:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "BNA": [
+      {
+        "airportCode": "BNA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse C — BNA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/bna-club.html",
+        "description": "American Airlines Admirals Club located at Concourse C, mezzanine between gates C14 and C16. Amenities vary by individual location.",
+        "terminal": "Concourse C",
+        "location": "Concourse C, mezzanine between gates C14 and C16",
+        "hours": [
+          "Daily: 4 a.m. – 8 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "BOS": [
+      {
+        "airportCode": "BOS",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal B — BOS",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/bos-club.html",
+        "description": "American Airlines Admirals Club located at Terminal B, upper level past security by gate B4. Amenities vary by individual location.",
+        "terminal": "Terminal B",
+        "location": "Terminal B, upper level past security by gate B4",
+        "hours": [
+          "Daily: 4 a.m. – 8:30 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi",
+          "Kids Room",
+          "Showers",
+          "Conference room (10 seats)"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "CDG": [
+      {
+        "airportCode": "CDG",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 2A — CDG",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/cdg-club.html",
+        "description": "American Airlines Admirals Club, Terminal 2A at CDG. Amenities and service are location-specific.",
+        "terminal": "Terminal 2A",
+        "location": "Connector between Terminals 2A and 2C",
+        "hours": [
+          "Daily: 7:15 a.m.–1 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Self-service bar",
+          "Showers"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "CLT": [
+      {
+        "airportCode": "CLT",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse B — CLT",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/clt-club.html",
+        "description": "American Airlines Admirals Club, Concourse B at CLT. Amenities and service are location-specific.",
+        "terminal": "Concourse B",
+        "location": "Through security, between Gates B3 and B5",
+        "hours": [
+          "Daily: 5:15 a.m. – 10:45 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "CLT",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse D — CLT",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/clt-club.html",
+        "description": "American Airlines Admirals Club, Concourse D at CLT. Amenities and service are location-specific.",
+        "terminal": "Concourse D",
+        "location": "Intersection of Concourses C and D, after security",
+        "hours": [
+          "Daily: 5:15 a.m. – 10:45 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "CLT",
+        "provider": "Admirals Club",
+        "name": "Provisions by Admirals Club, Concourse A — CLT",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/clt-club.html",
+        "description": "Grab-and-go Admirals Club concept with food, non-alcoholic drinks and travel assistance.",
+        "terminal": "Concourse A",
+        "location": "Concourse A, next to Gate A1",
+        "hours": [
+          "Daily: 4:15 a.m. – 9:15 p.m."
+        ],
+        "amenities": [
+          "Grab-and-go food",
+          "Complimentary food and non-alcoholic drinks",
+          "Coffee and tea",
+          "Bottled / canned beverages",
+          "One-on-one travel assistance",
+          "High-top seating"
+        ],
+        "restrictions": [
+          "Provisions provides grab-and-go refreshments rather than full-service Admirals Club amenities.",
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "DCA": [
+      {
+        "airportCode": "DCA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 2 Concourse C — DCA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/dca-club.html",
+        "description": "American Airlines Admirals Club, Terminal 2 Concourse C at DCA. Amenities and service are location-specific.",
+        "terminal": "Terminal 2 Concourse C",
+        "location": "Mezzanine, near Gate C24",
+        "hours": [
+          "Sunday–Friday: 4:45 a.m.–10:15 p.m.; Saturday: 4:45 a.m.–9:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "DCA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 2 Concourse D — DCA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/dca-club.html",
+        "description": "American Airlines Admirals Club, Terminal 2 Concourse D at DCA. Amenities and service are location-specific.",
+        "terminal": "Terminal 2",
+        "location": "Terminal 2, Concourse D, mezzanine by gate D36",
+        "hours": [
+          "Temporarily closed for renovations"
+        ],
+        "amenities": [
+          "Wi-Fi",
+          "Food and refreshments",
+          "Bar service (age restrictions apply)",
+          "Charging / power outlets",
+          "Seating and work areas"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "DCA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 2 Concourse E — DCA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/dca-club.html",
+        "description": "American Airlines Admirals Club, Terminal 2 Concourse E at DCA. Amenities and service are location-specific.",
+        "terminal": "Terminal 2 Concourse E",
+        "location": "Mezzanine, near Gate E46",
+        "hours": [
+          "Sunday–Friday: 4:15 a.m.–10:15 p.m.; Saturday: 4:15 a.m.–8:45 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Mother's room",
+          "Conference room"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "DEN": [
+      {
+        "airportCode": "DEN",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse C — DEN",
+        "officialURL": "https://www.aa.com/web/i18n/travel-info/clubs/admirals-club.html",
+        "description": "American Airlines confirms a redesigned Admirals Club in Concourse C. Exact gate and hours require separate validation.",
+        "terminal": "Concourse C",
+        "location": "After security, mezzanine level, near Gate C32 (above Great Divide)",
+        "hours": [
+          "Daily: 4:30 a.m. – 11:30 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi",
+          "Kids Room"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "DFW": [
+      {
+        "airportCode": "DFW",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal C — DFW",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/dfw-club.html",
+        "description": "American Airlines Admirals Club, Terminal C at DFW. Amenities and service are location-specific.",
+        "terminal": "Terminal C",
+        "location": "After security, between Gates C19 and C20",
+        "hours": [
+          "Daily: 5 a.m.–10:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers",
+          "Kids room",
+          "Executive Center conference rooms"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "DFW",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal A — DFW",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/dfw-club.html",
+        "description": "American Airlines Admirals Club, Terminal A at DFW. Amenities and service are location-specific.",
+        "terminal": "Terminal A",
+        "location": "After security, across from Gate A24",
+        "hours": [
+          "Daily: 4 a.m.–10:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers",
+          "Kids room",
+          "Conference rooms"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "DFW",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal B — DFW",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/dfw-club.html",
+        "description": "American Airlines Admirals Club, Terminal B at DFW. Amenities and service are location-specific.",
+        "terminal": "Terminal B",
+        "location": "After security, between Gates B3 and B4",
+        "hours": [
+          "Daily: 5:30 a.m.–10:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers",
+          "Conference room"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "DFW",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal D — DFW",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/dfw-club.html",
+        "description": "American Airlines Admirals Club, Terminal D at DFW. Amenities and service are location-specific.",
+        "terminal": "Terminal D",
+        "location": "After security, near Gate D24",
+        "hours": [
+          "Daily: 5 a.m.–10:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers",
+          "Kids room"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "DFW",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal E — DFW",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/dfw-club.html",
+        "description": "American Airlines Admirals Club, Terminal E at DFW. Amenities and service are location-specific.",
+        "terminal": "Terminal E",
+        "location": "E Satellite Terminal, mezzanine",
+        "hours": [
+          "Daily: 6 a.m.–10:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "DFW",
+        "provider": "Admirals Club",
+        "name": "Flagship Lounge — DFW",
+        "officialURL": "https://www.aa.com/pubcontent/en_US/travel-info/clubs/flagship-lounge.html",
+        "description": "American Airlines premium lounge. Access is based on qualifying premium travel and/or eligible status under current American Airlines rules; ordinary Admirals Club card access alone is not sufficient.",
+        "terminal": "Terminal D, near gate D23",
+        "location": "Terminal D, near gate D23",
+        "hours": [
+          "Daily: 5 a.m. – 10:15 p.m."
+        ],
+        "amenities": [
+          "Chef-inspired meals",
+          "Premium wine",
+          "Cocktail bar",
+          "Shower suites",
+          "Wi-Fi",
+          "Expansive seating"
+        ],
+        "restrictions": [
+          "Eligible Flagship/qualifying premium travel or qualifying oneworld/AAdvantage status per AA rules; regular Admirals Club membership or Citi Executive card alone is insufficient."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "EWR": [
+      {
+        "airportCode": "EWR",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal A — EWR",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/ewr-club.html",
+        "description": "American Airlines Admirals Club, Terminal A at EWR. Amenities and service are location-specific.",
+        "terminal": "Terminal A",
+        "location": "After security, mezzanine across from Gate A8",
+        "hours": [
+          "Daily: 4 a.m. – 7:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi",
+          "Conference room (6 seats)"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "IAH": [
+      {
+        "airportCode": "IAH",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal A — IAH",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/iah-club.html",
+        "description": "American Airlines Admirals Club in Terminal A at George Bush Intercontinental Airport.",
+        "terminal": "Terminal A",
+        "location": "After security, near Gates A25 and A26",
+        "hours": [
+          "Daily: 4:15 a.m. – 7:45 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi",
+          "Conference room (6 seats)"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "JFK": [
+      {
+        "airportCode": "JFK",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 8 Concourse C — JFK",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/jfk-club.html",
+        "description": "American Airlines Admirals Club in Terminal 8, Concourse C at JFK.",
+        "terminal": "Terminal 8, Concourse C",
+        "location": "Third floor after security, across from Gate 42",
+        "hours": [
+          "Daily: 4:15 a.m. – 10:30 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi",
+          "Kids Room"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "JFK",
+        "provider": "Admirals Club",
+        "name": "Soho Lounge — JFK",
+        "officialURL": "https://www.aa.com/web/i18n/travel-info/clubs/joint-premium-lounges.html",
+        "description": "Soho Lounge, American Airlines/British Airways joint premium lounge in Terminal 8 above Gate 14, with runway views, a la carte dining and shower suites. Access depends on AAdvantage status, fare class and ticket; ordinary Admirals Club access alone is not sufficient.",
+        "terminal": "Terminal 8, above gate 14",
+        "location": "Terminal 8, above gate 14",
+        "hours": [
+          "Daily: 4:15 a.m. – 11:30 p.m."
+        ],
+        "amenities": [
+          "À la carte dining",
+          "Champagne bar",
+          "Hand-crafted cocktails",
+          "Fireside lounge",
+          "Relaxation area",
+          "Shower suites",
+          "Personalized service"
+        ],
+        "restrictions": [
+          "Restricted by qualifying ticket, cabin, alliance status or ConciergeKey; not accessible through Admirals Club membership alone."
+        ],
+        "photoURLs": [
+          "https://www.aa.com/content/images/travel-info/clubs/joint-premium-lounge-2-494.jpg"
+        ]
+      },
+      {
+        "airportCode": "JFK",
+        "provider": "Admirals Club",
+        "name": "Greenwich Lounge — JFK",
+        "officialURL": "https://www.aa.com/web/i18n/travel-info/clubs/joint-premium-lounges.html",
+        "description": "Greenwich Lounge, American Airlines/British Airways joint premium lounge in Terminal 8 above Gate 12. Access depends on AAdvantage status, fare class and ticket; ordinary Admirals Club access alone is not sufficient.",
+        "terminal": "Terminal 8, above gate 12",
+        "location": "Terminal 8, above gate 12",
+        "hours": [
+          "Daily: 4:15 a.m. – 1:15 a.m."
+        ],
+        "amenities": [
+          "Chef-inspired meals",
+          "Premium wine table",
+          "Self-service specialty cocktail bar",
+          "Expansive seating",
+          "Shower suites",
+          "Bridge Bar",
+          "Tasting Room"
+        ],
+        "restrictions": [
+          "Restricted by qualifying ticket, cabin, alliance status or ConciergeKey; not accessible through Admirals Club membership alone."
+        ],
+        "photoURLs": [
+          "https://www.aa.com/content/images/travel-info/clubs/joint-premium-lounge-greenwich.jpg"
+        ]
+      },
+      {
+        "airportCode": "JFK",
+        "provider": "Admirals Club",
+        "name": "Chelsea Lounge — JFK",
+        "officialURL": "https://www.aa.com/web/i18n/travel-info/clubs/joint-premium-lounges.html",
+        "description": "Chelsea Lounge, the most exclusive American Airlines/British Airways joint premium lounge in Terminal 8 above Gate 14, with a la carte dining, a champagne bar and shower suites. Access depends on AAdvantage status, fare class and ticket; ordinary Admirals Club access alone is not sufficient.",
+        "terminal": "Terminal 8, above gate 14",
+        "location": "Terminal 8, above gate 14",
+        "hours": [
+          "Daily: 4:15 a.m. – 11:30 p.m."
+        ],
+        "amenities": [
+          "Chef-inspired meals",
+          "À la carte dining",
+          "Cocktail tastings",
+          "Library",
+          "Work pods",
+          "Sleep / quiet area",
+          "Phone booths",
+          "Shower suites"
+        ],
+        "restrictions": [
+          "Restricted by qualifying ticket, cabin, alliance status or ConciergeKey; not accessible through Admirals Club membership alone."
+        ],
+        "photoURLs": [
+          "https://www.aa.com/content/images/travel-info/clubs/joint-premium-lounge-soho-1.jpg"
+        ]
+      }
+    ],
+    "LGA": [
+      {
+        "airportCode": "LGA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal B — LGA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/lga-club.html",
+        "description": "American Airlines Admirals Club, Terminal B at LGA. Amenities and service are location-specific.",
+        "terminal": "Terminal B",
+        "location": "Concourse A, near Gates 30 and 31",
+        "hours": [
+          "Daily: 4:30 a.m.–9:30 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers",
+          "Conference rooms"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "MCO": [
+      {
+        "airportCode": "MCO",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal B — MCO",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/mco-club.html",
+        "description": "American Airlines Admirals Club in Terminal B at Orlando International Airport.",
+        "terminal": "Terminal B",
+        "location": "Near Gate 55",
+        "hours": [
+          "Daily: 4:30 a.m. – 9:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "MEX": [
+      {
+        "airportCode": "MEX",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 1 Concourse H — MEX",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/mex-club.html",
+        "description": "American Airlines Admirals Club, Terminal 1 Concourse H at MEX. Amenities and service are location-specific.",
+        "terminal": "Terminal 1 Concourse H",
+        "location": "International departures; via checkpoint G, toward Gate 19 and elevator to floor 3",
+        "hours": [
+          "Daily: 3:15 a.m.–11:30 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "MIA": [
+      {
+        "airportCode": "MIA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse D Gate D15 — MIA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/mia-club.html",
+        "description": "American Airlines Admirals Club, Concourse D Gate D15 at MIA. Amenities and service are location-specific.",
+        "terminal": "Concourse D Gate D15",
+        "location": "North Terminal, after security, floor 3 above Gate D15",
+        "hours": [
+          "Daily: 5:30 a.m.–10:30 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "MIA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse D Gate D30 — MIA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/mia-club.html",
+        "description": "American Airlines Admirals Club, Concourse D Gate D30 at MIA. Amenities and service are location-specific.",
+        "terminal": "Concourse D Gate D30",
+        "location": "North Terminal, after security, across from Gate D30",
+        "hours": [
+          "Daily: 5 a.m.–10:30 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers",
+          "Conference room"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "MIA",
+        "provider": "Admirals Club",
+        "name": "Flagship Lounge — MIA",
+        "officialURL": "https://www.aa.com/pubcontent/en_US/travel-info/clubs/flagship-lounge.html",
+        "description": "American Airlines premium lounge. Access is based on qualifying premium travel and/or eligible status under current American Airlines rules; ordinary Admirals Club card access alone is not sufficient.",
+        "terminal": "Concourse D, near gate D30",
+        "location": "Concourse D, near gate D30",
+        "hours": [
+          "Daily: 5 a.m. – 10:30 p.m."
+        ],
+        "amenities": [
+          "Chef-inspired meals",
+          "Premium wine",
+          "Cocktail bar",
+          "Shower suites",
+          "Wi-Fi",
+          "Expansive seating"
+        ],
+        "restrictions": [
+          "Eligible Flagship/qualifying premium travel or qualifying oneworld/AAdvantage status per AA rules; regular Admirals Club membership or Citi Executive card alone is insufficient."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "ORD": [
+      {
+        "airportCode": "ORD",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 3 Concourse G — ORD",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/ord-club.html",
+        "description": "American Airlines Admirals Club, Terminal 3 Concourse G at ORD. Amenities and service are location-specific.",
+        "terminal": "Terminal 3 Concourse G",
+        "location": "After security, across from Gate G8",
+        "hours": [
+          "Daily: 6 a.m. – 10:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "ORD",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 3 Concourse H/K — ORD",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/ord-club.html",
+        "description": "American Airlines Admirals Club, Terminal 3 Concourse H/K at ORD. Amenities and service are location-specific.",
+        "terminal": "Terminal 3 Concourse H/K",
+        "location": "After security, walkway between Gates H6 and K6",
+        "hours": [
+          "Daily: 4:15 a.m. – 10:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers",
+          "Kids room",
+          "Conference rooms"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "ORD",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 3 Concourse L — ORD",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/ord-club.html",
+        "description": "American Airlines Admirals Club, Terminal 3 Concourse L at ORD. Amenities and service are location-specific.",
+        "terminal": "Terminal 3 Concourse L",
+        "location": "After security, before Gate L1",
+        "hours": [
+          "Daily: 5 a.m.–9:45 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Conference room"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "ORD",
+        "provider": "Admirals Club",
+        "name": "Flagship Lounge — ORD",
+        "officialURL": "https://www.aa.com/pubcontent/en_US/travel-info/clubs/flagship-lounge.html",
+        "description": "American Airlines premium lounge. Access is based on qualifying premium travel and/or eligible status under current American Airlines rules; ordinary Admirals Club card access alone is not sufficient.",
+        "terminal": "Terminal 3, Concourse H/K",
+        "location": "Terminal 3, Concourse H/K",
+        "hours": [
+          "Daily: 4:15 a.m. – 10:45 p.m."
+        ],
+        "amenities": [
+          "Chef-inspired meals",
+          "Premium wine",
+          "Cocktail bar",
+          "Shower suites",
+          "Wi-Fi",
+          "Expansive seating"
+        ],
+        "restrictions": [
+          "Eligible Flagship/qualifying premium travel or qualifying oneworld/AAdvantage status per AA rules; regular Admirals Club membership or Citi Executive card alone is insufficient."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "PHL": [
+      {
+        "airportCode": "PHL",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal A — PHL",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/phl-club.html",
+        "description": "American Airlines Admirals Club, Terminal A at PHL. Amenities and service are location-specific.",
+        "terminal": "Terminal A",
+        "location": "A West mezzanine, between Gates A15 and A16",
+        "hours": [
+          "Daily: 5 a.m.–10 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi",
+          "Showers"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "PHL",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal B/C — PHL",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/phl-club.html",
+        "description": "American Airlines Admirals Club, Terminal B/C at PHL. Amenities and service are location-specific.",
+        "terminal": "Terminal B/C",
+        "location": "Third floor between Terminals B and C",
+        "hours": [
+          "Daily: 4:30 a.m.–10 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "PHL",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal F — PHL",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/phl-club.html",
+        "description": "American Airlines Admirals Club, Terminal F at PHL. Amenities and service are location-specific.",
+        "terminal": "Terminal F",
+        "location": "Level 2, above the food court",
+        "hours": [
+          "Daily: 6:30 a.m.–10 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "PHL",
+        "provider": "Admirals Club",
+        "name": "Flagship Lounge — PHL",
+        "officialURL": "https://www.aa.com/pubcontent/en_US/travel-info/clubs/flagship-lounge.html",
+        "description": "American Airlines premium lounge. Access is based on qualifying premium travel and/or eligible status under current American Airlines rules; ordinary Admirals Club card access alone is not sufficient.",
+        "terminal": "Terminal A West, mezzanine between A15–A16",
+        "location": "Terminal A West, mezzanine between A15–A16",
+        "hours": [
+          "Daily: 8 a.m. – 10 p.m."
+        ],
+        "amenities": [
+          "Chef-inspired meals",
+          "Premium wine",
+          "Cocktail bar",
+          "Shower suites",
+          "Wi-Fi",
+          "Expansive seating"
+        ],
+        "restrictions": [
+          "Eligible Flagship/qualifying premium travel or qualifying oneworld/AAdvantage status per AA rules; regular Admirals Club membership or Citi Executive card alone is insufficient."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "PHX": [
+      {
+        "airportCode": "PHX",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse A (A19–A21) — PHX",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/phx-club.html",
+        "description": "American Airlines Admirals Club, Concourse A (A19–A21) at PHX. Amenities and service are location-specific.",
+        "terminal": "Concourse A",
+        "location": "Concourse A, between gates A19–A21",
+        "hours": [
+          "Daily: 3:30 a.m. – 9 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "PHX",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse A (A7–A9) — PHX",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/phx-club.html",
+        "description": "American Airlines Admirals Club, Concourse A (A7–A9) at PHX. Amenities and service are location-specific.",
+        "terminal": "Concourse A",
+        "location": "Concourse A, above gates A7–A9",
+        "hours": [
+          "Daily: 5:30 a.m. – 12 a.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      },
+      {
+        "airportCode": "PHX",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse B — PHX",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/phx-club.html",
+        "description": "American Airlines Admirals Club, Concourse B at PHX. Amenities and service are location-specific.",
+        "terminal": "Concourse B",
+        "location": "Concourse B, above gates B5 and B7",
+        "hours": [
+          "Daily: 5:30 a.m. – 9 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "PIT": [
+      {
+        "airportCode": "PIT",
+        "provider": "Admirals Club",
+        "name": "Admirals Club — PIT",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/pit-club.html",
+        "description": "American Airlines Admirals Club located at Past security, main lobby mezzanine. Amenities vary by individual location.",
+        "terminal": "Past security",
+        "location": "Past security, main lobby mezzanine",
+        "hours": [
+          "Daily: 4:30 a.m. – 9:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "RDU": [
+      {
+        "airportCode": "RDU",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 2 — RDU",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/rdu-club.html",
+        "description": "American Airlines Admirals Club located at Terminal 2, across from gates C1 and C3. Amenities vary by individual location.",
+        "terminal": "Terminal 2",
+        "location": "After security, across from gates C1 and C3",
+        "hours": [
+          "Daily: 4:15 a.m. – 8 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "SNA": [
+      {
+        "airportCode": "SNA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club — SNA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/sna-club.html",
+        "description": "American Airlines Admirals Club at SNA. Amenities and service are location-specific.",
+        "terminal": "Mezzanine after security",
+        "location": "Mezzanine after security, adjacent to Gate 8",
+        "hours": [
+          "Sunday: 6:15 a.m.–6:45 p.m.; Monday–Saturday: 5:15 a.m.–6:45 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "STL": [
+      {
+        "airportCode": "STL",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Concourse C — STL",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/stl-club.html",
+        "description": "American Airlines Admirals Club in Concourse C at St. Louis Lambert International Airport.",
+        "terminal": "Concourse C",
+        "location": "Beyond security, left at the entrance of Concourse C",
+        "hours": [
+          "Daily: 4:30 a.m. – 7 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Full-service bar",
+          "Complimentary Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "TPA": [
+      {
+        "airportCode": "TPA",
+        "provider": "Admirals Club",
+        "name": "Admirals Club — TPA",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/tpa-club.html",
+        "description": "American Airlines Admirals Club at TPA. Amenities and service are location-specific.",
+        "terminal": "Airside F",
+        "location": "Airside F, adjacent to Gate 85",
+        "hours": [
+          "Daily: 4:15 a.m.–7:15 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
+      }
+    ],
+    "YYZ": [
+      {
+        "airportCode": "YYZ",
+        "provider": "Admirals Club",
+        "name": "Admirals Club, Terminal 3 — YYZ",
+        "officialURL": "https://www.aa.com/web/i18n/travelInformation/airportAmenities/yyz-club.html",
+        "description": "American Airlines Admirals Club, Terminal 3 at YYZ. Amenities and service are location-specific.",
+        "terminal": "Terminal 3",
+        "location": "Terminal 3 transfer level, near duty-free stores",
+        "hours": [
+          "Daily: 5 a.m.–7 p.m."
+        ],
+        "amenities": [
+          "Complimentary food and drinks",
+          "Bar service",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Admirals Club access requires an eligible membership, qualifying card benefit, pass, ticket, or status AND qualifying same-day travel; a credit card alone is not sufficient for every access type.",
+          "Admirals Club access does not include Flagship Lounges, Flagship First Dining, or premium JFK lounges.",
+          "Alaska Lounge+ PARTNER ACCESS: Alaska Lounge+ digital membership card required. Same-day travel must be marketed by Alaska Airlines or American Airlines and operated by Alaska, Hawaiian, American or a qualifying regional affiliate. Member may bring immediate family or up to two guests meeting the same travel requirement. Not valid for American Flagship, premium, or First Class lounges. Space availability applies. This membership privilege is not granted by an Alaska credit card alone."
+        ],
+        "photoURLs": [
+          "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+        ]
       }
     ]
   }
