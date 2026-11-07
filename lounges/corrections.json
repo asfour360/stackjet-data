@@ -2,7 +2,7 @@
   "format": "stackjet-lounge-corrections",
   "version": 1,
   "updated": "2026-11-07",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists.",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes.",
   "remove": [
     {
       "airport": "SFO",
@@ -634,6 +634,229 @@
         "Same-day eligible flight required: a Flagship-ticketed First or Business seat (qualifying international, transcontinental or select Hawaii flights); AAdvantage Executive Platinum, Platinum Pro or Platinum, or Atmos Titanium, Platinum or Gold, on an international Flagship flight; ConciergeKey; or oneworld Emerald or Sapphire on an American or oneworld flight.",
         "Admirals Club membership and the Citi / AAdvantage Executive card are not on American's Flagship Lounge eligibility list.",
         "Single Visit Pass: $150 or 15,000 AAdvantage miles, sold at the lounge; age 21+, no guests, same-day American or oneworld flight."
+      ]
+    },
+    {
+      "airport": "AUS",
+      "provider": "United Club",
+      "name": "United Club — West Concourse",
+      "location": "West Concourse, mezzanine level, across from Gate 22",
+      "hours": [
+        "Temporarily closed"
+      ],
+      "description": "United Club at AUS on the West Concourse mezzanine, across from Gate 22. Temporarily closed since July 2026 for mold remediation; no reopening date has been announced.",
+      "restrictions": [
+        "United Club eligibility, same-day boarding pass, guest rules, capacity and pass restrictions apply.",
+        "Temporarily closed; no reopening date has been announced."
+      ]
+    },
+    {
+      "airport": "MSP",
+      "provider": "United Club",
+      "name": "United Club — Concourse E (Temporarily Closed)",
+      "hours": [
+        "Temporarily closed"
+      ],
+      "description": "United Club at MSP, Terminal 1, Concourse E, between Gates E6 and E8. Temporarily closed since July 22, 2026 for maintenance and improvements; no reopening date has been announced."
+    },
+    {
+      "airport": "GUM",
+      "provider": "United Club",
+      "name": "United Club — Main Terminal East Concourse",
+      "hours": [
+        "4:30 a.m. – 1:00 p.m. daily (through November 8, 2026)",
+        "4:30 a.m. – 4:45 p.m. daily (from November 9, 2026)"
+      ]
+    },
+    {
+      "airport": "LHR",
+      "provider": "United Club",
+      "name": "United Club — London Heathrow",
+      "hours": [
+        "6:00 a.m. – 10:00 p.m. daily"
+      ]
+    },
+    {
+      "airport": "NRT",
+      "provider": "United Club",
+      "name": "United Club — Tokyo Narita",
+      "location": "Terminal 1, Central Building, 3F, after security (international departures)"
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — Terminal B North",
+      "location": "Terminal B North, mezzanine level, near Gate B11",
+      "description": "United's largest club, opened October 22, 2026 on the Terminal B North mezzanine: 54,000 sq ft with seating for 800, two bars, two buffet stations and an outdoor terrace overlooking the airfield.",
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Outdoor terrace",
+        "Private phone rooms",
+        "Wi-Fi",
+        "Power outlets"
+      ],
+      "restrictions": [
+        "United Club eligibility, same-day boarding pass, guest rules, capacity and pass restrictions apply.",
+        "Entry with a United Club membership, an eligible United credit card or select premium-cabin tickets."
+      ]
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club Fly — IAH Terminal B",
+      "location": "Terminal B South, near Gates B12 - B20",
+      "amenities": [
+        "Grab-and-go food (wraps, salads, sandwiches, warm pastries)",
+        "Barista-made coffee",
+        "Fresh-squeezed orange juice",
+        "Self-service soft drinks and water refill"
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN A25",
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Fireplace lounges",
+        "Shuffleboard game area",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN B32",
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Wellness rooms",
+        "Self-scan entry",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN B44",
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Wellness rooms",
+        "Agent-on-demand kiosks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "ANC",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — ANC",
+      "restrictions": [
+        "Same-day boarding pass required on Alaska, Hawaiian, a oneworld airline or an Alaska global partner; photo ID may be requested.",
+        "Alaska Lounge and Lounge+ members may bring immediate family (spouse or domestic partner and children under 21) or up to two guests; children under 2 enter free.",
+        "First Class on Alaska or Hawaiian qualifies when one flight on the trip is at least 2,000 miles; Club 49 members in First Class to, from or through Alaska qualify at any distance. Upgraded First Class within the U.S., Canada and Mexico does not qualify.",
+        "oneworld Emerald and Sapphire, and Atmos Gold, Platinum and Titanium, qualify on eligible oneworld itineraries (Atmos and AAdvantage members need travel outside the U.S., Canada and Mexico). oneworld First or Business on an international segment, and American First between JFK and LAX or SFO, also qualify.",
+        "Admirals Club members, ConciergeKey members and primary Citi / AAdvantage Executive cardholders (physical card; authorized users excluded) get in when flying American, Alaska or Hawaiian that day.",
+        "Atmos Summit card Day Passes are accepted at every Alaska Lounge.",
+        "Single-Entry Lounge Pass: $70 per person (18+), sold at the lounge when space is available and valid only where bought."
+      ]
+    },
+    {
+      "airport": "LAX",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — LAX",
+      "restrictions": [
+        "Same-day boarding pass required on Alaska, Hawaiian, a oneworld airline or an Alaska global partner; photo ID may be requested.",
+        "Alaska Lounge and Lounge+ members may bring immediate family (spouse or domestic partner and children under 21) or up to two guests; children under 2 enter free.",
+        "First Class on Alaska or Hawaiian qualifies when one flight on the trip is at least 2,000 miles; Club 49 members in First Class to, from or through Alaska qualify at any distance. Upgraded First Class within the U.S., Canada and Mexico does not qualify.",
+        "oneworld Emerald and Sapphire, and Atmos Gold, Platinum and Titanium, qualify on eligible oneworld itineraries (Atmos and AAdvantage members need travel outside the U.S., Canada and Mexico). oneworld First or Business on an international segment, and American First between JFK and LAX or SFO, also qualify.",
+        "Admirals Club members, ConciergeKey members and primary Citi / AAdvantage Executive cardholders (physical card; authorized users excluded) get in when flying American, Alaska or Hawaiian that day.",
+        "Atmos Summit card Day Passes are accepted at every Alaska Lounge.",
+        "Single-Entry Lounge Pass: $70 per person (18+), sold at the lounge when space is available and valid only where bought."
+      ]
+    },
+    {
+      "airport": "PDX",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — PDX",
+      "restrictions": [
+        "Same-day boarding pass required on Alaska, Hawaiian, a oneworld airline or an Alaska global partner; photo ID may be requested.",
+        "Alaska Lounge and Lounge+ members may bring immediate family (spouse or domestic partner and children under 21) or up to two guests; children under 2 enter free.",
+        "First Class on Alaska or Hawaiian qualifies when one flight on the trip is at least 2,000 miles; Club 49 members in First Class to, from or through Alaska qualify at any distance. Upgraded First Class within the U.S., Canada and Mexico does not qualify.",
+        "oneworld Emerald and Sapphire, and Atmos Gold, Platinum and Titanium, qualify on eligible oneworld itineraries (Atmos and AAdvantage members need travel outside the U.S., Canada and Mexico). oneworld First or Business on an international segment, and American First between JFK and LAX or SFO, also qualify.",
+        "Admirals Club members, ConciergeKey members and primary Citi / AAdvantage Executive cardholders (physical card; authorized users excluded) get in when flying American, Alaska or Hawaiian that day.",
+        "Atmos Summit card Day Passes are accepted at every Alaska Lounge.",
+        "Single-Entry Lounge Pass: $70 per person (18+), sold at the lounge when space is available and valid only where bought."
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SFO",
+      "restrictions": [
+        "Same-day boarding pass required on Alaska, Hawaiian, a oneworld airline or an Alaska global partner; photo ID may be requested.",
+        "Alaska Lounge and Lounge+ members may bring immediate family (spouse or domestic partner and children under 21) or up to two guests; children under 2 enter free.",
+        "First Class on Alaska or Hawaiian qualifies when one flight on the trip is at least 2,000 miles; Club 49 members in First Class to, from or through Alaska qualify at any distance. Upgraded First Class within the U.S., Canada and Mexico does not qualify.",
+        "oneworld Emerald and Sapphire, and Atmos Gold, Platinum and Titanium, qualify on eligible oneworld itineraries (Atmos and AAdvantage members need travel outside the U.S., Canada and Mexico). oneworld First or Business on an international segment, and American First between JFK and LAX or SFO, also qualify.",
+        "Admirals Club members, ConciergeKey members and primary Citi / AAdvantage Executive cardholders (physical card; authorized users excluded) get in when flying American, Alaska or Hawaiian that day.",
+        "Atmos Summit card Day Passes are accepted at every Alaska Lounge.",
+        "Single-Entry Lounge Pass: $70 per person (18+), sold at the lounge when space is available and valid only where bought."
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA C Concourse",
+      "restrictions": [
+        "Same-day boarding pass required on Alaska, Hawaiian, a oneworld airline or an Alaska global partner; photo ID may be requested.",
+        "Alaska Lounge and Lounge+ members may bring immediate family (spouse or domestic partner and children under 21) or up to two guests; children under 2 enter free.",
+        "First Class on Alaska or Hawaiian qualifies when one flight on the trip is at least 2,000 miles; Club 49 members in First Class to, from or through Alaska qualify at any distance. Upgraded First Class within the U.S., Canada and Mexico does not qualify.",
+        "oneworld Emerald and Sapphire, and Atmos Gold, Platinum and Titanium, qualify on eligible oneworld itineraries (Atmos and AAdvantage members need travel outside the U.S., Canada and Mexico). oneworld First or Business on an international segment, and American First between JFK and LAX or SFO, also qualify.",
+        "Admirals Club members, ConciergeKey members and primary Citi / AAdvantage Executive cardholders (physical card; authorized users excluded) get in when flying American, Alaska or Hawaiian that day.",
+        "Atmos Summit card Day Passes are accepted at every Alaska Lounge.",
+        "Single-Entry Lounge Pass: $70 per person (18+), sold at the lounge when space is available and valid only where bought."
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA D Concourse",
+      "restrictions": [
+        "Same-day boarding pass required on Alaska, Hawaiian, a oneworld airline or an Alaska global partner; photo ID may be requested.",
+        "Alaska Lounge and Lounge+ members may bring immediate family (spouse or domestic partner and children under 21) or up to two guests; children under 2 enter free.",
+        "First Class on Alaska or Hawaiian qualifies when one flight on the trip is at least 2,000 miles; Club 49 members in First Class to, from or through Alaska qualify at any distance. Upgraded First Class within the U.S., Canada and Mexico does not qualify.",
+        "oneworld Emerald and Sapphire, and Atmos Gold, Platinum and Titanium, qualify on eligible oneworld itineraries (Atmos and AAdvantage members need travel outside the U.S., Canada and Mexico). oneworld First or Business on an international segment, and American First between JFK and LAX or SFO, also qualify.",
+        "Admirals Club members, ConciergeKey members and primary Citi / AAdvantage Executive cardholders (physical card; authorized users excluded) get in when flying American, Alaska or Hawaiian that day.",
+        "Atmos Summit card Day Passes are accepted at every Alaska Lounge.",
+        "Single-Entry Lounge Pass: $70 per person (18+), sold at the lounge when space is available and valid only where bought."
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA N Concourse",
+      "restrictions": [
+        "Same-day boarding pass required on Alaska, Hawaiian, a oneworld airline or an Alaska global partner; photo ID may be requested.",
+        "Alaska Lounge and Lounge+ members may bring immediate family (spouse or domestic partner and children under 21) or up to two guests; children under 2 enter free.",
+        "First Class on Alaska or Hawaiian qualifies when one flight on the trip is at least 2,000 miles; Club 49 members in First Class to, from or through Alaska qualify at any distance. Upgraded First Class within the U.S., Canada and Mexico does not qualify.",
+        "oneworld Emerald and Sapphire, and Atmos Gold, Platinum and Titanium, qualify on eligible oneworld itineraries (Atmos and AAdvantage members need travel outside the U.S., Canada and Mexico). oneworld First or Business on an international segment, and American First between JFK and LAX or SFO, also qualify.",
+        "Admirals Club members, ConciergeKey members and primary Citi / AAdvantage Executive cardholders (physical card; authorized users excluded) get in when flying American, Alaska or Hawaiian that day.",
+        "Atmos Summit card Day Passes are accepted at every Alaska Lounge.",
+        "Single-Entry Lounge Pass: $70 per person (18+), sold at the lounge when space is available and valid only where bought.",
+        "Capacity may be managed based on operational needs."
+      ]
+    },
+    {
+      "airport": "HNL",
+      "provider": "Alaska Lounge",
+      "name": "The Plumeria Lounge — HNL",
+      "restrictions": [
+        "Alaska Lounge or Lounge+ membership and a same-day departure from HNL on Alaska Airlines or Hawaiian Airlines are required.",
+        "Eligible members may bring immediate family or up to two guests, subject to access terms and capacity.",
+        "Atmos Summit card Day Passes are not accepted at The Plumeria Lounge.",
+        "Opening hours: check with Hawaiian Airlines before travel."
       ]
     }
   ],
