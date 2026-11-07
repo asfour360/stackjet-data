@@ -1,9 +1,263 @@
 {
   "format": "stackjet-app-data",
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "Every section is optional; an empty or missing section leaves that table as built into the app. statusTiers: WestJet, plus Porter, British Airways, Iberia, Aer Lingus and Cathay tiers (2026-11-03). Atmos Rewards four tier names added (2026-11-04). Breeze Rewards tier names added; first-year Breeze Easy Visa status remains conditional (2026-11-04); ALL Accor tiers (2026-11-06).",
-  "transferPartners": {},
+  "transferPartners": {
+    "citi-us": [
+      {
+        "id": "aa",
+        "name": "American Airlines AAdvantage",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "lifemiles",
+        "name": "Avianca LifeMiles",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "cathay",
+        "name": "Cathay Pacific Asia Miles",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "copa",
+        "name": "Copa Airlines ConnectMiles",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "emirates",
+        "name": "Emirates Skywards",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 800,
+        "unit": "miles"
+      },
+      {
+        "id": "etihad",
+        "name": "Etihad Guest",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "eva",
+        "name": "EVA Air Infinity MileageLands",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "flyingblue",
+        "name": "Air France/KLM Flying Blue",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "jal",
+        "name": "Japan Airlines Mileage Bank",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "jetblue",
+        "name": "JetBlue TrueBlue",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "points"
+      },
+      {
+        "id": "qantas",
+        "name": "Qantas Frequent Flyer",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "points"
+      },
+      {
+        "id": "qatar",
+        "name": "Qatar Airways Privilege Club",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "Avios"
+      },
+      {
+        "id": "singapore",
+        "name": "Singapore Airlines KrisFlyer",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "thai",
+        "name": "Thai Airways Royal Orchid Plus",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "turkish",
+        "name": "Turkish Airlines Miles&Smiles",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "virgin",
+        "name": "Virgin Atlantic Flying Club",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "points"
+      },
+      {
+        "id": "accor",
+        "name": "ALL Accor",
+        "category": "Hotels",
+        "from": 1000,
+        "to": 500,
+        "unit": "points"
+      },
+      {
+        "id": "choice",
+        "name": "Choice Privileges",
+        "category": "Hotels",
+        "from": 1000,
+        "to": 1500,
+        "unit": "points"
+      },
+      {
+        "id": "iprefer",
+        "name": "I Prefer Hotel Rewards",
+        "category": "Hotels",
+        "from": 1000,
+        "to": 2000,
+        "unit": "points"
+      },
+      {
+        "id": "lhw",
+        "name": "Leading Hotels of the World Leaders Club",
+        "category": "Hotels",
+        "from": 1000,
+        "to": 200,
+        "unit": "points",
+        "programID": "lhw"
+      },
+      {
+        "id": "wyndham",
+        "name": "Wyndham Rewards",
+        "category": "Hotels",
+        "from": 1000,
+        "to": 1000,
+        "unit": "points"
+      }
+    ],
+    "wells-us": [
+      {
+        "id": "aerlingus",
+        "name": "Aer Lingus AerClub",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "Avios"
+      },
+      {
+        "id": "flyingblue",
+        "name": "Air France/KLM Flying Blue",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "lifemiles",
+        "name": "Avianca LifeMiles",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "avios",
+        "name": "British Airways Club",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "Avios"
+      },
+      {
+        "id": "cathay",
+        "name": "Cathay Pacific Asia Miles",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "miles"
+      },
+      {
+        "id": "iberia",
+        "name": "Iberia Club",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "Avios"
+      },
+      {
+        "id": "jetblue",
+        "name": "JetBlue TrueBlue",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "points"
+      },
+      {
+        "id": "virgin",
+        "name": "Virgin Atlantic Flying Club",
+        "category": "Airlines",
+        "from": 1000,
+        "to": 1000,
+        "unit": "points"
+      },
+      {
+        "id": "choice",
+        "name": "Choice Privileges",
+        "category": "Hotels",
+        "from": 1000,
+        "to": 2000,
+        "unit": "points"
+      },
+      {
+        "id": "wyndham",
+        "name": "Wyndham Rewards",
+        "category": "Hotels",
+        "from": 1000,
+        "to": 2000,
+        "unit": "points"
+      }
+    ]
+  },
   "storeChains": [],
   "princeOfTravelSources": {},
   "princeOfTravelPartners": {},
