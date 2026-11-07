@@ -1,8 +1,8 @@
 {
   "format": "stackjet-lounge-corrections",
   "version": 1,
-  "updated": "2026-11-06",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new Gates B8-B10 room, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once.",
+  "updated": "2026-11-07",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists.",
   "remove": [
     {
       "airport": "SFO",
@@ -125,16 +125,6 @@
         "https://images.ctfassets.net/687qsr16btly/1TwTFKH4kU9rWgoH1QgwBF/15327b60657342e3b1edfa249c838618/IMG_9408.jpg",
         "https://images.ctfassets.net/687qsr16btly/12oWlXHpVB3QPEy1Jpdyww/799c300ac75b5257f42448ee3950920a/IMG_9569A_11537_Air_India_Maharajah_Lounge.jpg"
       ]
-    },
-    {
-      "airport": "PHX",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — PHX Terminal 3",
-      "location": "Terminal 3 mezzanine, between the E and F gates (near Hudson and the museum gallery)",
-      "hours": [
-        "Daily: 4:30 am - 10:00 pm"
-      ],
-      "officialURL": "https://escapelounges.com/us/airport-lounges/"
     },
     {
       "airport": "YVR",
@@ -407,344 +397,296 @@
       "provider": "Air Canada Maple Leaf Lounge",
       "name": "Air Canada Maple Leaf Lounge (inside the United Club)",
       "description": ""
+    },
+    {
+      "airport": "CVG",
+      "provider": "Priority Pass",
+      "name": "Escape Lounges",
+      "location": "Airside - take the train to Concourse B; the lounge has moved to a new room near Gate B12."
+    },
+    {
+      "airport": "XNA",
+      "provider": "Priority Pass",
+      "name": "Escape Lounges",
+      "hours": [
+        "Mon - Wed, Fri, Sat: 03:45 - 18:30",
+        "Thu, Sun: 03:45 - 21:45"
+      ]
+    },
+    {
+      "airport": "BNE",
+      "provider": "Priority Pass",
+      "name": "Escape Lounges",
+      "location": "Departures, after security and passport control; International Terminal, mezzanine (Level 4).",
+      "hours": [
+        "Daily: 06:00 - 01:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Alcoholic drinks age limit — age 18+",
+        "Digital card accepted",
+        "Disabled access"
+      ]
+    },
+    {
+      "airport": "AUS",
+      "provider": "Admirals Club",
+      "name": "Admirals Club — AUS",
+      "hours": [
+        "Daily: 4:15 a.m.–8:15 p.m."
+      ]
+    },
+    {
+      "airport": "BNA",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, Concourse C — BNA",
+      "hours": [
+        "Daily: 4 a.m. – 7:30 p.m."
+      ]
+    },
+    {
+      "airport": "EZE",
+      "provider": "Admirals Club",
+      "name": "Admirals Club / Iberia VIP Lounge — EZE",
+      "hours": [
+        "Temporarily closed"
+      ],
+      "location": "Terminal B, upper level across from Gate 9, inside the international departure lounge",
+      "description": "Joint Admirals Club and Iberia VIP Lounge in Terminal B at EZE. Temporarily closed; no reopening date has been announced."
+    },
+    {
+      "airport": "GIG",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, South Pier — GIG",
+      "hours": [
+        "Daily 2 p.m.–11:30 p.m."
+      ],
+      "description": "Admirals Club on the South Pier (third floor) at GIG. Not open to arriving passengers."
+    },
+    {
+      "airport": "GRU",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, Terminal 3 — GRU",
+      "hours": [
+        "Daily 11 a.m.–11:35 p.m."
+      ],
+      "location": "Terminal 3, mezzanine level (3rd floor) above the Duty Free shopping area",
+      "description": "Admirals Club in Terminal 3 at GRU, on the mezzanine above Duty Free."
+    },
+    {
+      "airport": "HNL",
+      "provider": "Admirals Club",
+      "name": "Admirals Club / Sakura Lounge — HNL",
+      "hours": [
+        "Daily: 4:45 a.m. – 10 p.m."
+      ],
+      "description": "Admirals Club shared with the Japan Airlines Sakura Lounge, on the third level of Terminal 2 at Honolulu."
+    },
+    {
+      "airport": "LHR",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, Terminal 3 — LHR",
+      "hours": [
+        "Daily: 5 a.m. – 4:30 p.m."
+      ]
+    },
+    {
+      "airport": "MEX",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, Terminal 1 Concourse H — MEX",
+      "hours": [
+        "Daily: 4:15 a.m.–12:30 a.m."
+      ],
+      "location": "International departures: enter at International Checkpoint G, head toward Gate 19 into the corridor to Waiting Area H, then take the elevator to the third floor",
+      "description": "Admirals Club in Terminal 1, Concourse H (international departures) at MEX. Open during improvement work; some areas may be temporarily unavailable."
+    },
+    {
+      "airport": "TPA",
+      "provider": "Admirals Club",
+      "name": "Admirals Club — TPA",
+      "hours": [
+        "Daily: 4:15 a.m.–7:45 p.m."
+      ]
+    },
+    {
+      "airport": "YYZ",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, Terminal 3 — YYZ",
+      "hours": [
+        "Sunday–Friday: 5 a.m.–7:15 p.m.; Saturday: 5 a.m.–6 p.m."
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, Concourse C — DEN",
+      "description": "Redesigned Admirals Club on the Concourse C mezzanine at DEN, near Gate C32 (above Great Divide)."
+    },
+    {
+      "airport": "CDG",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, Terminal 2A — CDG",
+      "amenities": [
+        "Complimentary food and drinks",
+        "Self-service bar",
+        "Complimentary Wi-Fi",
+        "Showers"
+      ]
+    },
+    {
+      "airport": "DCA",
+      "provider": "Admirals Club",
+      "name": "Admirals Club, Terminal 2 Concourse D — DCA",
+      "amenities": [
+        "Complimentary food and drinks",
+        "Full-service bar",
+        "Complimentary Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DFW",
+      "provider": "Admirals Club",
+      "name": "Flagship Lounge — DFW",
+      "amenities": [
+        "Chef-inspired meals",
+        "Premium wine table",
+        "Specialty cocktail bar",
+        "Shower suites",
+        "Personalized service",
+        "Expansive seating",
+        "Flagship First Dining (eligible Flagship tickets)"
+      ],
+      "restrictions": [
+        "Same-day eligible flight required: a Flagship-ticketed First or Business seat (qualifying international, transcontinental or select Hawaii flights); AAdvantage Executive Platinum, Platinum Pro or Platinum, or Atmos Titanium, Platinum or Gold, on an international Flagship flight; ConciergeKey; or oneworld Emerald or Sapphire on an American or oneworld flight.",
+        "Admirals Club membership and the Citi / AAdvantage Executive card are not on American's Flagship Lounge eligibility list.",
+        "Single Visit Pass: $150 or 15,000 AAdvantage miles, sold at the lounge; age 21+, no guests, same-day American or oneworld flight."
+      ]
+    },
+    {
+      "airport": "LAX",
+      "provider": "Admirals Club",
+      "name": "Flagship Lounge — LAX",
+      "amenities": [
+        "Chef-inspired meals",
+        "Premium wine table",
+        "Specialty cocktail bar",
+        "Shower suites",
+        "Personalized service",
+        "Expansive seating"
+      ],
+      "restrictions": [
+        "Same-day eligible flight required: a Flagship-ticketed First or Business seat (qualifying international, transcontinental or select Hawaii flights); AAdvantage Executive Platinum, Platinum Pro or Platinum, or Atmos Titanium, Platinum or Gold, on an international Flagship flight; ConciergeKey; or oneworld Emerald or Sapphire on an American or oneworld flight.",
+        "Admirals Club membership and the Citi / AAdvantage Executive card are not on American's Flagship Lounge eligibility list.",
+        "Single Visit Pass: $150 or 15,000 AAdvantage miles, sold at the lounge; age 21+, no guests, same-day American or oneworld flight."
+      ]
+    },
+    {
+      "airport": "MIA",
+      "provider": "Admirals Club",
+      "name": "Flagship Lounge — MIA",
+      "amenities": [
+        "Chef-inspired meals",
+        "Premium wine table",
+        "Specialty cocktail bar",
+        "Shower suites",
+        "Personalized service",
+        "Expansive seating",
+        "Flagship First Dining (eligible Flagship tickets)"
+      ],
+      "restrictions": [
+        "Same-day eligible flight required: a Flagship-ticketed First or Business seat (qualifying international, transcontinental or select Hawaii flights); AAdvantage Executive Platinum, Platinum Pro or Platinum, or Atmos Titanium, Platinum or Gold, on an international Flagship flight; ConciergeKey; or oneworld Emerald or Sapphire on an American or oneworld flight.",
+        "Admirals Club membership and the Citi / AAdvantage Executive card are not on American's Flagship Lounge eligibility list.",
+        "Single Visit Pass: $150 or 15,000 AAdvantage miles, sold at the lounge; age 21+, no guests, same-day American or oneworld flight."
+      ]
+    },
+    {
+      "airport": "ORD",
+      "provider": "Admirals Club",
+      "name": "Flagship Lounge — ORD",
+      "amenities": [
+        "Chef-inspired meals",
+        "Premium wine table",
+        "Specialty cocktail bar",
+        "Shower suites",
+        "Personalized service",
+        "Expansive seating"
+      ],
+      "restrictions": [
+        "Same-day eligible flight required: a Flagship-ticketed First or Business seat (qualifying international, transcontinental or select Hawaii flights); AAdvantage Executive Platinum, Platinum Pro or Platinum, or Atmos Titanium, Platinum or Gold, on an international Flagship flight; ConciergeKey; or oneworld Emerald or Sapphire on an American or oneworld flight.",
+        "Admirals Club membership and the Citi / AAdvantage Executive card are not on American's Flagship Lounge eligibility list.",
+        "Single Visit Pass: $150 or 15,000 AAdvantage miles, sold at the lounge; age 21+, no guests, same-day American or oneworld flight."
+      ]
+    },
+    {
+      "airport": "PHL",
+      "provider": "Admirals Club",
+      "name": "Flagship Lounge — PHL",
+      "amenities": [
+        "Chef-inspired meals",
+        "Premium wine table",
+        "Specialty cocktail bar",
+        "Shower suites",
+        "Personalized service",
+        "Expansive seating"
+      ],
+      "restrictions": [
+        "Same-day eligible flight required: a Flagship-ticketed First or Business seat (qualifying international, transcontinental or select Hawaii flights); AAdvantage Executive Platinum, Platinum Pro or Platinum, or Atmos Titanium, Platinum or Gold, on an international Flagship flight; ConciergeKey; or oneworld Emerald or Sapphire on an American or oneworld flight.",
+        "Admirals Club membership and the Citi / AAdvantage Executive card are not on American's Flagship Lounge eligibility list.",
+        "Single Visit Pass: $150 or 15,000 AAdvantage miles, sold at the lounge; age 21+, no guests, same-day American or oneworld flight."
+      ]
     }
   ],
   "add": [
     {
-      "airportCode": "BDL",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — BDL",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "Terminal A",
-      "location": "After security, near Gate 1",
+      "airportCode": "DFW",
+      "provider": "Admirals Club",
+      "name": "Flagship First Dining — DFW",
+      "officialURL": "https://www.aa.com/web/i18n/travel-info/experience/dining/flagship-first-dining.html",
+      "description": "Sit-down, table-service restaurant inside the DFW Flagship Lounge, with chef-inspired dishes, signature wines and hand-crafted cocktails.",
+      "terminal": "Terminal D",
+      "location": "Concourse level near Gate D23, inside the Flagship Lounge",
       "hours": [
-        "Daily: 4:30 am - 8:00 pm"
+        "Daily: 12 p.m. – 10 p.m."
       ],
       "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
+        "Complimentary sit-down dining",
+        "Table service",
+        "Chef-inspired dishes",
+        "Signature wines",
+        "Craft beers and spirits",
+        "Hand-crafted cocktails"
       ],
       "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
+        "Only for Flagship First, Flagship Business Plus or Flagship Business tickets on a qualifying flight marketed and operated by American, departing the same day (international, transcontinental and select Hawaii routes).",
+        "Guests: one for international Flagship First; none for transcontinental First, Business Plus or Business.",
+        "Not available through Admirals Club membership, status alone or a credit card."
       ],
       "photoURLs": []
     },
     {
-      "airportCode": "CVG",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — CVG",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "Concourse B",
-      "location": "Between Gates B8 and B10 (new location; the old room near Gates B21-B23 is closed)",
-      "hours": [
-        "Daily: 5:00 am - 9:30 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "CMH",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — CMH",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "Concourse B",
-      "location": "Near Gate 32",
-      "hours": [
-        "Daily: 5:00 am - 8:00 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "GSP",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — GSP",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "Concourse B",
-      "location": "Right after the TSA checkpoint, near Gate B1",
-      "hours": [
-        "Daily: 4:30 am - 7:30 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "MSP",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — MSP",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "Terminal 1",
-      "location": "MSP Mall, mezzanine above the entrance to Concourse E",
-      "hours": [
-        "Daily: 4:00 am - 9:00 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "XNA",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — XNA",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "",
-      "location": "After security, next to the walkway to Gates A1-A12",
-      "hours": [
-        "Mon - Wed, Fri, Sat: 3:45 am - 6:30 pm",
-        "Thu, Sun: 3:45 am - 9:45 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "OAK",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — OAK",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "Terminal 1",
-      "location": "After security, between Gates 8 and 8A",
-      "hours": [
-        "Mon, Tue, Sat, Sun: 4:00 am - 8:00 pm",
-        "Wed - Fri: 4:00 am - 9:00 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "PDX",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — PDX",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
+      "airportCode": "MIA",
+      "provider": "Admirals Club",
+      "name": "Flagship First Dining — MIA",
+      "officialURL": "https://www.aa.com/web/i18n/travel-info/experience/dining/flagship-first-dining.html",
+      "description": "Sit-down, table-service restaurant near Gate D30 at MIA, with chef-inspired dishes, signature wines and hand-crafted cocktails.",
       "terminal": "Concourse D",
-      "location": "Between Gates D8 and D10",
+      "location": "Concourse D, near Gate D30",
       "hours": [
-        "Daily: 4:30 am - 12:00 am"
+        "Daily: 1 p.m. – 10:30 p.m."
       ],
       "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
+        "Complimentary sit-down dining",
+        "Table service",
+        "Chef-inspired dishes",
+        "Signature wines",
+        "Craft beers and spirits",
+        "Hand-crafted cocktails"
       ],
       "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "PVD",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — PVD",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "",
-      "location": "After security, past Gate 18 (North Concourse)",
-      "hours": [
-        "Daily: 6:00 am - 7:00 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "RNO",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — RNO",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "",
-      "location": "After security, in the central corridor between Concourses B and C",
-      "hours": [
-        "Mon - Wed, Sat, Sun: 4:30 am - 8:00 pm",
-        "Thu, Fri: 4:30 am - 10:00 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "SMF",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — SMF Terminal B",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "Terminal B",
-      "location": "Immediately left after security",
-      "hours": [
-        "Mon, Tue, Sat, Sun: 4:00 am - 8:00 pm",
-        "Wed - Fri: 4:00 am - 9:00 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "SJU",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — SJU",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "Concourse B",
-      "location": "Opposite Gate B2",
-      "hours": [
-        "Daily: 6:00 am - 9:00 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "SYR",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — SYR",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "",
-      "location": "Between security and the A gates, near Gate 1",
-      "hours": [
-        "Daily: 4:30 am - 8:30 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
-      ],
-      "photoURLs": []
-    },
-    {
-      "airportCode": "TUL",
-      "provider": "Escape Lounges",
-      "name": "Escape Lounge — TUL",
-      "officialURL": "https://escapelounges.com/us/airport-lounges/",
-      "description": "Escape Lounges – The Centurion Studio Partner: a small airport lounge with hot and cold food, a bar and Wi-Fi.",
-      "terminal": "",
-      "location": "Immediately left after security",
-      "hours": [
-        "Daily: 4:30 am - 7:00 pm"
-      ],
-      "amenities": [
-        "Wi-Fi",
-        "Food and beverages",
-        "Bar",
-        "Power outlets"
-      ],
-      "restrictions": [
-        "Amex Platinum, Business Platinum and Centurion Card Members: complimentary with up to 2 guests; Delta SkyMiles Reserve: complimentary when flying Delta, guests pay the lounge's guest fee. Same-day boarding pass on any airline required; entry is subject to capacity.",
-        "Day passes are sold by Escape Lounges (about US$40 online, US$45 at the door). Children under 2 are free with an adult.",
-        "Also a Priority Pass lounge, so it can be busier and may limit entry at peak times."
+        "Only for Flagship First, Flagship Business Plus or Flagship Business tickets on a qualifying flight marketed and operated by American, departing the same day (international, transcontinental and select Hawaii routes).",
+        "Guests: one for international Flagship First; none for transcontinental First, Business Plus or Business.",
+        "Not available through Admirals Club membership, status alone or a credit card."
       ],
       "photoURLs": []
     }
@@ -941,6 +883,36 @@
           "Alaska Lounge members may bring immediate family or up to two guests, subject to eligibility and capacity.",
           "Single-entry passes are sold only at participating lounges and when space is available; check current price and terms before travel.",
           "An Alaska co-branded credit card alone does not provide complimentary lounge admission."
+        ],
+        "photoURLs": []
+      },
+      {
+        "airportCode": "PDX",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — PDX",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/portland/",
+        "description": "Escape Lounges at Portland International: Priority Pass Global Lounge of the Year 2026, with showers, hot and cold food and a complimentary bar.",
+        "terminal": "Concourse D",
+        "location": "Between Gates D8 and D10",
+        "hours": [
+          "Daily: 4:30 am - 12:00 am"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Showers",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Day passes from $30; pre-book at least 24 hours ahead or pay at the door. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
         ],
         "photoURLs": []
       }
@@ -2252,6 +2224,74 @@
         "photoURLs": [
           "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
         ]
+      },
+      {
+        "airportCode": "PHX",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — PHX Terminal 3",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/phoenix/terminal-3/",
+        "description": "Escape Lounges – The Centurion Studio Partner at Phoenix Sky Harbor, Terminal 3: hot and cold food, a complimentary bar and quiet workspaces.",
+        "terminal": "Terminal 3",
+        "location": "At the intersection of the E and F gates",
+        "hours": [
+          "Daily: 4:30 am - 10:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free.",
+          "Alaska partner access: Alaska Lounge+ membership and a qualifying same-day departing flight on Alaska Airlines or Hawaiian Airlines required; Alaska digital membership credential required for Lounge+ partner access. Guest and capacity limits apply; lounge-specific rules apply. No automatic access through an Alaska credit card."
+        ],
+        "photoURLs": [
+          "https://a.storyblok.com/f/263504/3000x2000/c1aec0752e/phx-3-lounge.jpg/m/2000x0",
+          "https://a.storyblok.com/f/263504/3000x2000/a64525f2ba/phx-3-dine.jpg/m/800x0",
+          "https://a.storyblok.com/f/263504/3000x2000/350b963999/phx-3-bar.jpg/m/800x0"
+        ]
+      },
+      {
+        "airportCode": "PHX",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — PHX Terminal 4",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/phoenix/terminal-4/",
+        "description": "Escape Lounges – The Centurion Studio Partner at Phoenix Sky Harbor, Terminal 4: hot and cold food, a complimentary bar and a quiet work area.",
+        "terminal": "Terminal 4",
+        "location": "Concourse B, across from Gate B22",
+        "hours": [
+          "Daily: 5:00 am - 10:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": [
+          "https://a.storyblok.com/f/263504/aca2f882cc/phx-4-lounge.jpg",
+          "https://a.storyblok.com/f/263504/f1ed89f570/phx-4-dine.jpg",
+          "https://a.storyblok.com/f/263504/5906527ea9/phx-4-bar.jpg"
+        ]
       }
     ],
     "PIT": [
@@ -2414,6 +2454,619 @@
         "photoURLs": [
           "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
         ]
+      }
+    ],
+    "BDL": [
+      {
+        "airportCode": "BDL",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — BDL",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/bradley/",
+        "description": "Escape Lounges at Bradley International: a newly refurbished lounge by Gate 1 with a hot and cold menu, a complimentary bar and fast Wi-Fi.",
+        "terminal": "Terminal A",
+        "location": "By Gate 1, after security",
+        "hours": [
+          "Daily: 4:30 am - 8:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "CVG": [
+      {
+        "airportCode": "CVG",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — CVG",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/cincinnati-northern-kentucky/",
+        "description": "Escape Lounges at Cincinnati/Northern Kentucky: a new, larger lounge on Concourse B with a hot and cold menu, a complimentary bar and quiet workspace.",
+        "terminal": "Concourse B",
+        "location": "Near Gate B12 (the lounge has moved here from its old room by Gates B21-B23)",
+        "hours": [
+          "Daily: 5:00 am - 9:30 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "CMH": [
+      {
+        "airportCode": "CMH",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — CMH",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/columbus/",
+        "description": "Escape Lounges – The Centurion Studio Partner at John Glenn Columbus: hot and cold food, a complimentary bar and a quiet workspace.",
+        "terminal": "Concourse B",
+        "location": "By Gate B32",
+        "hours": [
+          "Daily: 5:00 am - 8:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "FLL": [
+      {
+        "airportCode": "FLL",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — FLL Terminal 3",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/fort-lauderdale/",
+        "description": "Escape Lounges – The Centurion Studio Partner at Fort Lauderdale-Hollywood, Terminal 3: hot and cold food and a complimentary bar.",
+        "terminal": "Terminal 3",
+        "location": "Level 2, after security on the walkway to Gates E1-E10",
+        "hours": [
+          "Daily: 5:30 am - 9:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $55; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": [
+          "https://a.storyblok.com/f/263504/be5496238f/fll-lounge.jpg",
+          "https://a.storyblok.com/f/263504/3749de196f/fll-dine.jpg",
+          "https://a.storyblok.com/f/263504/f7439a2c71/fll-bar.jpg"
+        ]
+      }
+    ],
+    "GSP": [
+      {
+        "airportCode": "GSP",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — GSP",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/greenville-spartanburg/",
+        "description": "Escape Lounges at Greenville-Spartanburg: a quiet lounge just after TSA with hot and cold food and a complimentary bar.",
+        "terminal": "Concourse B",
+        "location": "On the right just after the TSA checkpoint, near Gate B1",
+        "hours": [
+          "Daily: 4:30 am - 7:30 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "MCI": [
+      {
+        "airportCode": "MCI",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — MCI Concourse A",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/kansas-city/",
+        "description": "Escape Lounges at Kansas City International: breakfast, lunch and dinner from a chef-curated menu and a complimentary bar.",
+        "terminal": "Concourse A",
+        "location": "By Gate A5",
+        "hours": [
+          "Daily: 4:30 am - 8:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $55; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": [
+          "https://a.storyblok.com/f/263504/ef04154ec3/select-escape-lounge-bar-nicole-bissey-photography-1.jpg",
+          "https://a.storyblok.com/f/263504/2c1e33ad07/select-escape-lounge-nicole-bissey-photography-02.JPG",
+          "https://a.storyblok.com/f/263504/777d3a5387/select-escape-lounge-nicole-bissey-photography-06-1.jpg"
+        ]
+      }
+    ],
+    "MSP": [
+      {
+        "airportCode": "MSP",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — MSP",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/minneapolis-saint-paul/",
+        "description": "Escape Lounges at Minneapolis-Saint Paul: a mezzanine lounge above the MSP Mall with hot and cold food, a complimentary bar and quiet work space.",
+        "terminal": "Terminal 1",
+        "location": "MSP Mall, above the entrance to Concourse E (mezzanine level)",
+        "hours": [
+          "Daily: 4:00 am - 9:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "XNA": [
+      {
+        "airportCode": "XNA",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — XNA",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/northwest-arkansas/",
+        "description": "Escape Lounges at Northwest Arkansas National: hot and cold food, a complimentary bar with local drinks and a quiet workspace.",
+        "terminal": "",
+        "location": "Opposite the TSA checkpoint, next to the walkway to Gates A1-A12",
+        "hours": [
+          "Mon - Wed, Fri, Sat: 3:45 am - 6:30 pm",
+          "Thu, Sun: 3:45 am - 9:45 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "OAK": [
+      {
+        "airportCode": "OAK",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — OAK",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/oakland/",
+        "description": "Escape Lounges at Oakland: hot and cold food, a complimentary bar and fast Wi-Fi in Terminal 1.",
+        "terminal": "Terminal 1",
+        "location": "Between Gates 8 and 8A, after security",
+        "hours": [
+          "Mon, Tue, Sat, Sun: 4:00 am - 8:00 pm",
+          "Wed - Fri: 4:00 am - 9:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "PBI": [
+      {
+        "airportCode": "PBI",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — PBI",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/palm-beach/",
+        "description": "Escape Lounges – The Centurion Studio Partner at West Palm Beach (the airport is now named President Donald J. Trump International): hot and cold food and a complimentary bar.",
+        "terminal": "",
+        "location": "Just past the entrance to the A and B concourses",
+        "hours": [
+          "Daily: 5:00 am - 7:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": [
+          "https://a.storyblok.com/f/263504/c30a28ce20/pbi-lounge.jpg",
+          "https://a.storyblok.com/f/263504/372516b77c/pbi-dining.jpg",
+          "https://a.storyblok.com/f/263504/cfffa3e51a/pbi-bar.jpg"
+        ]
+      }
+    ],
+    "PVD": [
+      {
+        "airportCode": "PVD",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — PVD",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/rhode-island/",
+        "description": "Escape Lounges at Rhode Island T.F. Green: freshly prepared hot and cold food, a complimentary bar and quiet space to work.",
+        "terminal": "",
+        "location": "By Gate 18, after security",
+        "hours": [
+          "Daily: 6:00 am - 7:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "RNO": [
+      {
+        "airportCode": "RNO",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — RNO",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/reno-tahoe/",
+        "description": "Escape Lounges – The Centurion Studio Partner at Reno-Tahoe: hot and cold food and a complimentary bar.",
+        "terminal": "",
+        "location": "Central corridor between Concourses B and C",
+        "hours": [
+          "Mon - Wed, Sat, Sun: 4:30 am - 8:00 pm",
+          "Thu, Fri: 4:30 am - 10:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "SMF": [
+      {
+        "airportCode": "SMF",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — SMF Terminal A",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/sacramento/terminal-a/",
+        "description": "Escape Lounges at Sacramento International, Terminal A: hot and cold food, a complimentary bar and quiet space to work.",
+        "terminal": "Terminal A",
+        "location": "Near Gate A10",
+        "hours": [
+          "Mon - Wed, Sat, Sun: 4:00 am - 8:00 pm",
+          "Thu, Fri: 4:00 am - 10:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": [
+          "https://a.storyblok.com/f/263504/987e084729/smf-a-lounge.jpg",
+          "https://a.storyblok.com/f/263504/1297845823/smf-a-dine.jpg",
+          "https://a.storyblok.com/f/263504/ab3632ff22/smf-a-bar.jpg"
+        ]
+      },
+      {
+        "airportCode": "SMF",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — SMF Terminal B",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/sacramento/terminal-b/",
+        "description": "Escape Lounges at Sacramento International, Terminal B: hot and cold food, a complimentary bar and quiet workspaces.",
+        "terminal": "Terminal B",
+        "location": "Immediately on the left after security",
+        "hours": [
+          "Mon, Tue, Sat, Sun: 4:00 am - 8:00 pm",
+          "Wed - Fri: 4:00 am - 9:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $60; pre-book from $45 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      },
+      {
+        "airportCode": "SMF",
+        "provider": "Priority Pass",
+        "name": "Escape Lounges — Terminal A",
+        "officialURL": "https://www.prioritypass.com/en-GB/lounges/united-states-of-america/sacramento-international/smf-escape-lounges",
+        "description": "Escape Lounges in Sacramento Terminal A: hot and cold food and a complimentary bar.",
+        "terminal": "Terminal A",
+        "location": "Airside, after security, near Gate A10",
+        "hours": [
+          "Mon - Wed, Sat, Sun: 04:00 - 20:00",
+          "Thu, Fri: 04:00 - 22:00"
+        ],
+        "amenities": [
+          "Air conditioning",
+          "Alcoholic drinks (Standard)",
+          "Alcoholic drinks (Premium-brand) — extra charge",
+          "Alcoholic drinks age limit — age 21+",
+          "Digital card accepted"
+        ],
+        "restrictions": [
+          "Access from 3 hours before scheduled departure. Children under 2 are admitted free and must be with an adult. Alcoholic drinks only for guests 21 or older. Smart casual dress (no fancy dress or matching bachelor/bachelorette outfits).",
+          "Premium alcoholic drinks are subject to payment."
+        ],
+        "photoURLs": []
+      },
+      {
+        "airportCode": "SMF",
+        "provider": "Priority Pass",
+        "name": "Escape Lounges — Terminal B",
+        "officialURL": "https://www.prioritypass.com/en-GB/lounges/united-states-of-america/sacramento-international/smf1-escape-lounges",
+        "description": "Escape Lounges in Sacramento Terminal B: hot and cold food and a complimentary bar.",
+        "terminal": "Terminal B",
+        "location": "Airside - after Security, turn left immediately to where the lounge is located.",
+        "hours": [
+          "Mon, Tue, Sat, Sun: 04:00 - 20:00",
+          "Wed - Fri: 04:00 - 21:00"
+        ],
+        "amenities": [
+          "Air conditioning",
+          "Alcoholic drinks (Standard)",
+          "Alcoholic drinks (Premium-brand) — extra charge",
+          "Digital card accepted",
+          "Disabled access",
+          "Flight information",
+          "Newspapers / magazines",
+          "Soft drinks",
+          "Televisions",
+          "Wi-Fi"
+        ],
+        "restrictions": [
+          "Access is permitted 3 hours prior to scheduled flight departure - Children under 2 years are admitted free - All children must be accompanied by an adult - Alcoholic drinks are only available to persons 21 years of age or older - Smart casual dress at all times (shorts must be tailored and of a reasonable length. Fancy dress or matching bachelorette/bachelor attire are not allowed).",
+          "Premium alcoholic drinks are subject to payment."
+        ],
+        "photoURLs": [
+          "https://images.ctfassets.net/687qsr16btly/4JtK1thXJ1TdbufZ2quBhP/5f4905b8cb4bf927c42da5c27b857c6d/main_image.jpg",
+          "https://images.ctfassets.net/687qsr16btly/1d86n9ae6V4B2sflDATxQK/65f3fa718e291885655139da7aac9671/image_1.jpg",
+          "https://images.ctfassets.net/687qsr16btly/Gz2EyxS61cmnfGWW3EwZW/af070ad5f6b59872c2b22e8958c36fff/image_2.jpg",
+          "https://images.ctfassets.net/687qsr16btly/2HNFf8i5trlMf5G2zcMNCJ/41990c65c0e5f1b44e64024ea2098cd2/image_3.jpg",
+          "https://images.ctfassets.net/687qsr16btly/1uP8UdfjlJ9Yef8fEWDR7W/102f8c78c114a975a1caa3085440cdc7/image_4.jpg"
+        ]
+      }
+    ],
+    "SJU": [
+      {
+        "airportCode": "SJU",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — SJU",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/luis-munoz-marin/",
+        "description": "Escape Lounges at San Juan Luis Muñoz Marín: a new lounge with a locally inspired hot and cold menu and a complimentary bar.",
+        "terminal": "Concourse B",
+        "location": "Opposite Gate B2",
+        "hours": [
+          "Daily: 6:00 am - 9:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $55; pre-book at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "SYR": [
+      {
+        "airportCode": "SYR",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — SYR",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/syracuse/",
+        "description": "Escape Lounges at Syracuse Hancock: regional dishes, a complimentary bar and a quiet place to relax or work.",
+        "terminal": "",
+        "location": "Between security and Concourse A, near Gate 1",
+        "hours": [
+          "Daily: 4:30 am - 8:30 pm"
+        ],
+        "amenities": [
+          "Hot and cold food from a chef-curated menu (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Quiet work area",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $45; pre-book from $35 at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
+      }
+    ],
+    "TUL": [
+      {
+        "airportCode": "TUL",
+        "provider": "Escape Lounges",
+        "name": "Escape Lounge — TUL",
+        "officialURL": "https://escapelounges.com/us/airport-lounges/tulsa/",
+        "description": "Escape Lounges at Tulsa International: a new lounge with a hot and cold buffet of local food and a complimentary bar.",
+        "terminal": "",
+        "location": "Immediately to the left after security",
+        "hours": [
+          "Daily: 4:30 am - 7:00 pm"
+        ],
+        "amenities": [
+          "Hot and cold buffet with local dishes (gluten-free and vegan options)",
+          "Complimentary bar: wine, beer and spirits (premium drinks extra)",
+          "Coffee, tea and soft drinks",
+          "Ultra-fast private Wi-Fi",
+          "Charging ports and power outlets",
+          "Print, scan and copy services",
+          "Lounge Hub: flight tracking and digital newspapers and magazines",
+          "Family friendly (children under 3 free)"
+        ],
+        "restrictions": [
+          "Open to all travelers, whatever the airline or ticket class. Walk-up $45; pre-book at least 24 hours ahead. Card payment only.",
+          "Free for American Express Platinum Card Members: show the card at the desk. Free for Delta SkyMiles Reserve Card Members when flying a Delta-marketed flight that day.",
+          "Priority Pass members can pre-book and must bring their Priority Pass card on the day; entry is subject to space.",
+          "Entry from 3 hours before your flight's scheduled departure. Children under 3 are free."
+        ],
+        "photoURLs": []
       }
     ]
   },
