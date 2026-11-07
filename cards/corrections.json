@@ -16686,7 +16686,15 @@
           "kind": "benefit",
           "priority": 100
         }
-      ]
+      ],
+      "artworkPageURL": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html",
+      "artworkSearchTerms": "RBC Cash Back Preferred World Elite Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "benefitSourceURLs": [
+        "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html",
+        "https://princeoftravel.com/credit-cards/rbc-cash-back-preferred-world-elite-mastercard/"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2021/01/MCP_en.png"
     },
     {
       "id": "rbc-avion-visa-platinum-can",
@@ -16925,7 +16933,15 @@
           "kind": "protection",
           "priority": 100
         }
-      ]
+      ],
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-platinum/",
+      "artworkSearchTerms": "RBC Avion Visa Platinum",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "benefitSourceURLs": [
+        "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+        "https://princeoftravel.com/credit-cards/rbc-avion-visa-platinum/"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2021/09/gcp_platinumavion_en_sm2x.png"
     },
     {
       "id": "bmo-eclipse-visa-infinite-privilege-can",
@@ -17323,6 +17339,25 @@
           "kind": "benefit",
           "priority": 100
         }
+      ],
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/bmo-eclipse-visa-infinite-privilege-card/",
+      "artworkSearchTerms": "BMO eclipse Visa Infinite Privilege",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "benefitSourceURLs": [
+        "https://www.bmo.com/main/personal/credit-cards/bmo-eclipse-visa-infinite-privilege-card/",
+        "https://princeoftravel.com/credit-cards/bmo-eclipse-visa-infinite-privilege-card/",
+        "https://princeoftravel.com/news/bmo-eclipse-visa-infinite-privilege-card-refresh/"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2020/10/Indigo-Privilege-Card-Front-Black-Eng-1.png",
+      "loungeAccess": [
+        {
+          "id": "bmo-eclipse-vip-dragonpass",
+          "provider": "DragonPass",
+          "title": "Visa Airport Companion / DragonPass",
+          "detail": "Ten complimentary lounge visits per membership year under BMO terms from November 2, 2026.",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.bmo.com/popups/main/personal/credit-cards/terms-and-conditions-en.html"
+        }
       ]
     },
     {
@@ -17544,7 +17579,15 @@
           "kind": "protection",
           "priority": 95
         }
-      ]
+      ],
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/national-bank-world-elite-mastercard/",
+      "artworkSearchTerms": "National Bank World Elite Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "benefitSourceURLs": [
+        "https://www.nbc.ca/personal/mastercard-credit-cards/world-elite.html",
+        "https://www.nbc.ca/personal/mastercard-credit-cards.html"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2026/10/national-bank-world-elite-mastercard.png"
     },
     {
       "id": "national-bank-world-mastercard-can",
@@ -17706,7 +17749,14 @@
           "kind": "benefit",
           "priority": 95
         }
-      ]
+      ],
+      "artworkPageURL": "https://www.nbc.ca/personal/mastercard-credit-cards/world.html",
+      "artworkSearchTerms": "National Bank World Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "benefitSourceURLs": [
+        "https://www.nbc.ca/personal/mastercard-credit-cards.html"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2026/09/national-bank-world-mastercard.png"
     },
     {
       "id": "bofa-premium-rewards-elite-us",
@@ -21251,6 +21301,16 @@
       ],
       "statuses": [
         {
+          "id": "mqd-headstart-2500",
+          "programID": "delta",
+          "tier": "2,500 MQDs toward Medallion",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
+          "automatic": true,
+          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
+        },
+        {
           "id": "hertz-presidents-circle",
           "programID": "hertz",
           "tier": "President's Circle",
@@ -21986,6 +22046,16 @@
         }
       ],
       "statuses": [
+        {
+          "id": "mqd-headstart-2500",
+          "programID": "delta",
+          "tier": "2,500 MQDs toward Medallion",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
+          "automatic": true,
+          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
+        },
         {
           "id": "hertz-presidents-circle",
           "programID": "hertz",
@@ -23362,6 +23432,16 @@
       ],
       "statuses": [
         {
+          "id": "mqd-headstart-2500",
+          "programID": "delta",
+          "tier": "2,500 MQDs toward Medallion",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
+          "automatic": true,
+          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
+        },
+        {
           "id": "hertz-five-star",
           "programID": "hertz",
           "tier": "Five Star",
@@ -24186,6 +24266,16 @@
         }
       ],
       "statuses": [
+        {
+          "id": "mqd-headstart-2500",
+          "programID": "delta",
+          "tier": "2,500 MQDs toward Medallion",
+          "rank": 0,
+          "enrollmentRequired": false,
+          "condition": "Each distinct eligible Delta Amex card type provides 2,500 MQDs per qualification year. Two types total 5,000 MQDs and earn Silver Medallion.",
+          "automatic": true,
+          "sourceURL": "https://www.delta.com/us/en/skymiles/medallion-program/how-to-qualify"
+        },
         {
           "id": "hertz-five-star",
           "programID": "hertz",

@@ -1,7 +1,7 @@
 {
   "format": "stackjet-status-benefits",
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "note": "Airline tier benefits updated 2026-11-04: British Airways Club, Iberia Club, AerClub, VIPorter, Cathay and Breezy Rewards, alongside earlier programs. Source details reflect 2026 rules. Airline ladder refresh checked 2026-11-05 against official program pages. Tiers with Jan 2027 effective dates are labeled in qualification text; preserving current-year rules where changes are pending. Hotel status details refreshed 2026-11-05: added base tiers and complete public progressions for ALL Accor, One Key, Leaders Club, and Omni Select Guest.",
   "programs": {
     "delta": {
@@ -1117,6 +1117,26 @@
       "checked": "2026-11-03",
       "tiers": [
         {
+          "name": "Hilton Honors Member",
+          "qualify": "Free to join; no elite qualification threshold",
+          "qualifyFR": "Adhésion gratuite; aucun seuil de statut élite",
+          "benefits": [
+            "Free Wi-Fi",
+            "Points on eligible stays",
+            "Member rates, digital check-in/key and room choice"
+          ],
+          "benefitsFR": [
+            "Wi-Fi gratuit",
+            "Points sur les séjours admissibles",
+            "Tarifs membres, enregistrement/clé numériques et choix de chambre"
+          ],
+          "keys": [
+            "other.wifi",
+            "earn",
+            "other.member"
+          ]
+        },
+        {
           "name": "Hilton Honors Silver",
           "qualify": "10 nights, 4 stays or $2,500 a year",
           "qualifyFR": "10 nuits, 4 séjours ou 2 500 $ par année",
@@ -1210,26 +1230,6 @@
             "lounge.premium",
             "other.phone"
           ]
-        },
-        {
-          "name": "Hilton Honors Member",
-          "qualify": "Free to join; no elite qualification threshold",
-          "qualifyFR": "Adhésion gratuite; aucun seuil de statut élite",
-          "benefits": [
-            "Free Wi-Fi",
-            "Points on eligible stays",
-            "Member rates, digital check-in/key and room choice"
-          ],
-          "benefitsFR": [
-            "Wi-Fi gratuit",
-            "Points sur les séjours admissibles",
-            "Tarifs membres, enregistrement/clé numériques et choix de chambre"
-          ],
-          "keys": [
-            "other.wifi",
-            "earn",
-            "other.member"
-          ]
         }
       ]
     },
@@ -1238,6 +1238,29 @@
       "sourceURL": "https://www.marriott.com/loyalty/member-benefits/platinum.mi",
       "checked": "2026-11-03",
       "tiers": [
+        {
+          "name": "Marriott Bonvoy Member",
+          "qualify": "0–9 qualifying nights per calendar year; free to join",
+          "qualifyFR": "0 à 9 nuits admissibles par année civile; adhésion gratuite",
+          "benefits": [
+            "Member rates",
+            "Complimentary Wi-Fi",
+            "Mobile check-in and mobile key",
+            "Earn points on eligible stays"
+          ],
+          "benefitsFR": [
+            "Tarifs membres",
+            "Wi-Fi gratuit",
+            "Enregistrement mobile et clé mobile",
+            "Accumulation de points sur les séjours admissibles"
+          ],
+          "keys": [
+            "other.member",
+            "other.wifi",
+            "other.booking",
+            "earn"
+          ]
+        },
         {
           "name": "Marriott Bonvoy Silver Elite",
           "qualify": "10 nights a year",
@@ -1355,29 +1378,6 @@
             "other.phone",
             "stay.checkout"
           ]
-        },
-        {
-          "name": "Marriott Bonvoy Member",
-          "qualify": "0–9 qualifying nights per calendar year; free to join",
-          "qualifyFR": "0 à 9 nuits admissibles par année civile; adhésion gratuite",
-          "benefits": [
-            "Member rates",
-            "Complimentary Wi-Fi",
-            "Mobile check-in and mobile key",
-            "Earn points on eligible stays"
-          ],
-          "benefitsFR": [
-            "Tarifs membres",
-            "Wi-Fi gratuit",
-            "Enregistrement mobile et clé mobile",
-            "Accumulation de points sur les séjours admissibles"
-          ],
-          "keys": [
-            "other.member",
-            "other.wifi",
-            "other.booking",
-            "earn"
-          ]
         }
       ]
     },
@@ -1386,6 +1386,23 @@
       "sourceURL": "https://world.hyatt.com/content/gp/en/tiers-and-benefits.html",
       "checked": "2026-11-05",
       "tiers": [
+        {
+          "name": "World of Hyatt Member",
+          "qualify": "Free to join; no minimum",
+          "qualifyFR": "Adhésion gratuite; aucun minimum",
+          "benefits": [
+            "Member rates and points on eligible stays",
+            "Resort fees waived on Free Night Awards"
+          ],
+          "benefitsFR": [
+            "Tarifs membres et points sur les séjours admissibles",
+            "Frais de villégiature supprimés pour les nuits gratuites admissibles"
+          ],
+          "keys": [
+            "earn",
+            "stay.fees"
+          ]
+        },
         {
           "name": "World of Hyatt Discoverist",
           "qualify": "10 qualifying nights or 25,000 Base Points per calendar year",
@@ -1463,23 +1480,6 @@
             "other.goh",
             "stay.guarantee"
           ]
-        },
-        {
-          "name": "World of Hyatt Member",
-          "qualify": "Free to join; no minimum",
-          "qualifyFR": "Adhésion gratuite; aucun minimum",
-          "benefits": [
-            "Member rates and points on eligible stays",
-            "Resort fees waived on Free Night Awards"
-          ],
-          "benefitsFR": [
-            "Tarifs membres et points sur les séjours admissibles",
-            "Frais de villégiature supprimés pour les nuits gratuites admissibles"
-          ],
-          "keys": [
-            "earn",
-            "stay.fees"
-          ]
         }
       ]
     },
@@ -1488,6 +1488,32 @@
       "sourceURL": "https://www.ihg.com/onerewards/content/us/en/tier-benefits",
       "checked": "2026-11-03",
       "tiers": [
+        {
+          "name": "IHG One Rewards Club Member",
+          "qualify": "Free to join; no elite qualification threshold",
+          "qualifyFR": "Adhésion gratuite; aucun seuil de statut élite",
+          "benefits": [
+            "Member rates and member promotions",
+            "Earn points toward Reward Nights",
+            "No blackout dates for Reward Nights",
+            "Free internet",
+            "Late checkout up to 2 p.m. when available"
+          ],
+          "benefitsFR": [
+            "Tarifs et promotions pour les membres",
+            "Accumulation de points pour des nuits-primes",
+            "Aucune date d’interdiction pour les nuits-primes",
+            "Internet gratuit",
+            "Départ tardif jusqu’à 14 h selon la disponibilité"
+          ],
+          "keys": [
+            "other.member",
+            "earn",
+            "other.rewards",
+            "other.wifi",
+            "stay.checkout"
+          ]
+        },
         {
           "name": "IHG Silver Elite",
           "qualify": "10 nights a year",
@@ -1579,32 +1605,6 @@
             "other.phone",
             "partners.hertz"
           ]
-        },
-        {
-          "name": "IHG One Rewards Club Member",
-          "qualify": "Free to join; no elite qualification threshold",
-          "qualifyFR": "Adhésion gratuite; aucun seuil de statut élite",
-          "benefits": [
-            "Member rates and member promotions",
-            "Earn points toward Reward Nights",
-            "No blackout dates for Reward Nights",
-            "Free internet",
-            "Late checkout up to 2 p.m. when available"
-          ],
-          "benefitsFR": [
-            "Tarifs et promotions pour les membres",
-            "Accumulation de points pour des nuits-primes",
-            "Aucune date d’interdiction pour les nuits-primes",
-            "Internet gratuit",
-            "Départ tardif jusqu’à 14 h selon la disponibilité"
-          ],
-          "keys": [
-            "other.member",
-            "earn",
-            "other.rewards",
-            "other.wifi",
-            "stay.checkout"
-          ]
         }
       ]
     },
@@ -1613,6 +1613,20 @@
       "sourceURL": "https://www.choicehotels.com/choice-privileges/benefits",
       "checked": "2026-11-03",
       "tiers": [
+        {
+          "name": "Choice Privileges Member",
+          "qualify": "Free base membership; no elite threshold",
+          "qualifyFR": "Adhésion de base gratuite; aucun seuil élite",
+          "benefits": [
+            "Earn points on eligible stays and access member offers"
+          ],
+          "benefitsFR": [
+            "Accumulation de points sur les séjours admissibles et accès aux offres membres"
+          ],
+          "keys": [
+            "earn"
+          ]
+        },
         {
           "name": "Choice Privileges Gold",
           "qualify": "5 nights or 10,000 credits a year",
@@ -1689,20 +1703,6 @@
             "earn",
             "other.coupon"
           ]
-        },
-        {
-          "name": "Choice Privileges Member",
-          "qualify": "Free base membership; no elite threshold",
-          "qualifyFR": "Adhésion de base gratuite; aucun seuil élite",
-          "benefits": [
-            "Earn points on eligible stays and access member offers"
-          ],
-          "benefitsFR": [
-            "Accumulation de points sur les séjours admissibles et accès aux offres membres"
-          ],
-          "keys": [
-            "earn"
-          ]
         }
       ]
     },
@@ -1711,6 +1711,20 @@
       "sourceURL": "https://www.wyndhamhotels.com/wyndham-rewards/member-levels",
       "checked": "2026-11-03",
       "tiers": [
+        {
+          "name": "Wyndham Rewards Blue",
+          "qualify": "Upon enrollment",
+          "qualifyFR": "Dès l’adhésion",
+          "benefits": [
+            "Member rates and earn/redeem points on eligible activity"
+          ],
+          "benefitsFR": [
+            "Tarifs membres et accumulation/échange de points sur les activités admissibles"
+          ],
+          "keys": [
+            "earn"
+          ]
+        },
         {
           "name": "Wyndham Rewards Gold",
           "qualify": "5 qualifying nights a year",
@@ -1778,20 +1792,6 @@
             "upgrades.room",
             "lounge.welcome",
             "other.gifting"
-          ]
-        },
-        {
-          "name": "Wyndham Rewards Blue",
-          "qualify": "Upon enrollment",
-          "qualifyFR": "Dès l’adhésion",
-          "benefits": [
-            "Member rates and earn/redeem points on eligible activity"
-          ],
-          "benefitsFR": [
-            "Tarifs membres et accumulation/échange de points sur les activités admissibles"
-          ],
-          "keys": [
-            "earn"
           ]
         }
       ]
