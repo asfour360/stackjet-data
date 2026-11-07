@@ -330,7 +330,9 @@
   "nearbyCities": {},
   "bestUses": [],
   "sources": {},
-  "liveLounges": {},
+  "liveLounges": {
+    "United Club": false
+  },
   "referralLinks": {
     "chase-sapphire-reserve-us": "https://www.referyourchasecard.com/19y/SYRNEEVS70",
     "chase-sapphire-preferred-us": "https://www.referyourchasecard.com/19y/SYRNEEVS70",
