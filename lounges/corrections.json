@@ -2,7 +2,7 @@
   "format": "stackjet-lounge-corrections",
   "version": 1,
   "updated": "2026-11-07",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes.",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes. Alaska Lounge and The Plumeria Lounge: hours, location, facilities, access rules and descriptions from alaskaair.com (checked 2026-11-07). United lounges rebuilt (2026-11-07): every United Club, United Club Fly, United Polaris lounge and the Heathrow arrivals lounge given complete hours, location, facilities, access rules and description from united.com (club and lounge locations page for all 33 airports, lounge access page, United Club terms). Supersedes the earlier United fixes field by field. No renames, no photo changes. Escape Lounges photos: location-specific photos from each lounge's own escapelounges.com page (a.storyblok.com assets) for 19 US Escape Lounges and the SMF Terminal A Priority Pass record; replaces bundled storyblok URLs that now return 403. Alaska Lounge and The Plumeria Lounge photos: location-specific images from Alaska Airlines newsroom posts about each lounge (news.alaskaair.com) and Hawaiian Airlines' Plumeria Lounge page (checked 2026-11-07). SEA C Concourse: no verified photo found. United lounge photos (2026-11-07): official location-specific photos from United (media.united.com newsroom image library, united.mediaroom.com and PR Newswire releases) for 11 lounges; every other United lounge set to no photo so the shared representative image is no longer used.",
   "remove": [
     {
       "airport": "SFO",
@@ -858,6 +858,2300 @@
         "Atmos Summit card Day Passes are not accepted at The Plumeria Lounge.",
         "Opening hours: check with Hawaiian Airlines before travel."
       ]
+    },
+    {
+      "airport": "ANC",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — ANC",
+      "terminal": "Concourse C",
+      "location": "Near Gate C-1",
+      "hours": [
+        "Daily: 5:00 am - 1:00 am"
+      ],
+      "description": "Alaska Airlines lounge in Anchorage's Concourse C, near Gate C-1, with complimentary seasonal food, hand-crafted espresso, local beer and West Coast wine.",
+      "amenities": [
+        "Complimentary seasonal food all day",
+        "Pancakes and oatmeal in the morning",
+        "Soups and salads later in the day",
+        "Hand-crafted espresso and coffee",
+        "Local beer, West Coast wine and cocktails, 21+",
+        "Fast Wi-Fi and power outlets",
+        "TVs and comfortable seating",
+        "Lounge Ambassador service"
+      ],
+      "restrictions": [
+        "Bring a boarding pass for a flight today on Alaska, Hawaiian, oneworld or a partner airline.",
+        "Alaska Lounge members get in free with up to 2 guests or immediate family.",
+        "First Class on Alaska or Hawaiian gets in free when a flight that day is 2,000+ miles.",
+        "Day passes cost $70 when space allows; some travelers qualify for $40.",
+        "Other oneworld and partner access rules apply — see Alaska's lounge policies."
+      ]
+    },
+    {
+      "airport": "LAX",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — LAX",
+      "terminal": "Terminal 6",
+      "location": "Mezzanine, near Gate 64",
+      "hours": [
+        "Daily: 5:00 am - 11:00 pm"
+      ],
+      "description": "Alaska Airlines lounge on the Terminal 6 mezzanine near Gate 64, with complimentary seasonal food, hand-crafted espresso, local beer and West Coast wine.",
+      "amenities": [
+        "Complimentary seasonal food all day",
+        "Pancakes and oatmeal in the morning",
+        "Soups and salads later in the day",
+        "Hand-crafted espresso and coffee",
+        "Local beer, West Coast wine and cocktails, 21+",
+        "Fast Wi-Fi and power outlets",
+        "TVs and comfortable seating",
+        "Lounge Ambassador service"
+      ],
+      "restrictions": [
+        "Bring a boarding pass for a flight today on Alaska, Hawaiian, oneworld or a partner airline.",
+        "Alaska Lounge members get in free with up to 2 guests or immediate family.",
+        "First Class on Alaska or Hawaiian gets in free when a flight that day is 2,000+ miles.",
+        "Day passes cost $70 when space allows; some travelers qualify for $40.",
+        "Other oneworld and partner access rules apply — see Alaska's lounge policies."
+      ]
+    },
+    {
+      "airport": "PDX",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — PDX",
+      "terminal": "South Hall",
+      "location": "Mezzanine",
+      "hours": [
+        "Daily: 4:30 am - 10:30 pm"
+      ],
+      "description": "Alaska's new Portland lounge on the South Hall mezzanine: more than 14,000 sq ft with double the seating, a fireplace, signature Loungers and views of the new terminal.",
+      "amenities": [
+        "Complimentary seasonal food all day",
+        "Pancakes and oatmeal in the morning",
+        "Soups and salads later in the day",
+        "Hand-crafted espresso and coffee",
+        "Local beer, West Coast wine and cocktails, 21+",
+        "More than 14,000 sq ft with quiet space",
+        "Fireplace and signature Loungers",
+        "Views of the new terminal",
+        "Fast Wi-Fi and power outlets",
+        "TVs and comfortable seating",
+        "Lounge Ambassador service"
+      ],
+      "restrictions": [
+        "Bring a boarding pass for a flight today on Alaska, Hawaiian, oneworld or a partner airline.",
+        "Alaska Lounge members get in free with up to 2 guests or immediate family.",
+        "First Class on Alaska or Hawaiian gets in free when a flight that day is 2,000+ miles.",
+        "Day passes cost $70 when space allows; some travelers qualify for $40.",
+        "Other oneworld and partner access rules apply — see Alaska's lounge policies."
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SFO",
+      "terminal": "Terminal 1",
+      "location": "Across from Gate B6",
+      "hours": [
+        "Daily: 5:00 am - 11:00 pm"
+      ],
+      "description": "Alaska Airlines lounge in Terminal 1 across from Gate B6, with complimentary seasonal food, hand-crafted espresso, local beer and West Coast wine.",
+      "amenities": [
+        "Complimentary seasonal food all day",
+        "Pancakes and oatmeal in the morning",
+        "Soups and salads later in the day",
+        "Hand-crafted espresso and coffee",
+        "Local beer, West Coast wine and cocktails, 21+",
+        "Fast Wi-Fi and power outlets",
+        "TVs and comfortable seating",
+        "Lounge Ambassador service"
+      ],
+      "restrictions": [
+        "Bring a boarding pass for a flight today on Alaska, Hawaiian, oneworld or a partner airline.",
+        "Alaska Lounge members get in free with up to 2 guests or immediate family.",
+        "First Class on Alaska or Hawaiian gets in free when a flight that day is 2,000+ miles.",
+        "Day passes cost $70 when space allows; some travelers qualify for $40.",
+        "Other oneworld and partner access rules apply — see Alaska's lounge policies."
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA C Concourse",
+      "terminal": "C Concourse",
+      "location": "Mezzanine, next to Gate C-16",
+      "hours": [
+        "Daily: 5:00 am - 7:00 pm"
+      ],
+      "description": "Alaska Airlines lounge on the C Concourse mezzanine next to Gate C-16. It closes at 7 pm.",
+      "amenities": [
+        "Complimentary seasonal food all day",
+        "Pancakes and oatmeal in the morning",
+        "Soups and salads later in the day",
+        "Hand-crafted espresso and coffee",
+        "Local beer, West Coast wine and cocktails, 21+",
+        "Fast Wi-Fi and power outlets",
+        "TVs and comfortable seating",
+        "Lounge Ambassador service"
+      ],
+      "restrictions": [
+        "Bring a boarding pass for a flight today on Alaska, Hawaiian, oneworld or a partner airline.",
+        "Alaska Lounge members get in free with up to 2 guests or immediate family.",
+        "First Class on Alaska or Hawaiian gets in free when a flight that day is 2,000+ miles.",
+        "Day passes cost $70 when space allows; some travelers qualify for $40.",
+        "Other oneworld and partner access rules apply — see Alaska's lounge policies."
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA D Concourse",
+      "terminal": "D Concourse",
+      "location": "Just beyond Security Checkpoint 4",
+      "hours": [
+        "Daily: 5:00 am - 11:00 pm"
+      ],
+      "description": "Alaska Airlines lounge in the D Concourse, just beyond Security Checkpoint 4.",
+      "amenities": [
+        "Complimentary seasonal food all day",
+        "Pancakes and oatmeal in the morning",
+        "Soups and salads later in the day",
+        "Hand-crafted espresso and coffee",
+        "Local beer, West Coast wine and cocktails, 21+",
+        "Fast Wi-Fi and power outlets",
+        "TVs and comfortable seating",
+        "Lounge Ambassador service"
+      ],
+      "restrictions": [
+        "Bring a boarding pass for a flight today on Alaska, Hawaiian, oneworld or a partner airline.",
+        "Alaska Lounge members get in free with up to 2 guests or immediate family.",
+        "First Class on Alaska or Hawaiian gets in free when a flight that day is 2,000+ miles.",
+        "Day passes cost $70 when space allows; some travelers qualify for $40.",
+        "Other oneworld and partner access rules apply — see Alaska's lounge policies."
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA N Concourse",
+      "terminal": "N Concourse",
+      "location": "Mezzanine, above Gates N13–18",
+      "hours": [
+        "Daily: 5:00 am - 11:00 pm"
+      ],
+      "description": "Alaska Airlines lounge on the N Concourse mezzanine, above Gates N13–18.",
+      "amenities": [
+        "Complimentary seasonal food all day",
+        "Pancakes and oatmeal in the morning",
+        "Soups and salads later in the day",
+        "Hand-crafted espresso and coffee",
+        "Local beer, West Coast wine and cocktails, 21+",
+        "Fast Wi-Fi and power outlets",
+        "TVs and comfortable seating",
+        "Lounge Ambassador service"
+      ],
+      "restrictions": [
+        "Bring a boarding pass for a flight today on Alaska, Hawaiian, oneworld or a partner airline.",
+        "Alaska Lounge members get in free with up to 2 guests or immediate family.",
+        "First Class on Alaska or Hawaiian gets in free when a flight that day is 2,000+ miles.",
+        "Day passes cost $70 when space allows; some travelers qualify for $40.",
+        "Other oneworld and partner access rules apply — see Alaska's lounge policies."
+      ]
+    },
+    {
+      "airport": "HNL",
+      "provider": "Alaska Lounge",
+      "name": "The Plumeria Lounge — HNL",
+      "terminal": "Terminal 1",
+      "location": "Third floor",
+      "hours": [],
+      "description": "Hawaiian Airlines lounge open to Alaska Lounge and Lounge+ members flying out of Honolulu on Alaska or Hawaiian Airlines.",
+      "amenities": [],
+      "restrictions": [
+        "Alaska Lounge members need a same-day Alaska or Hawaiian flight out of Honolulu.",
+        "Members may bring up to 2 guests or immediate family.",
+        "First Class on Alaska or Hawaiian gets in free when a flight that day is 2,000+ miles.",
+        "Atmos Summit card Day Passes are not accepted here."
+      ]
+    },
+    {
+      "airport": "ATL",
+      "provider": "United Club",
+      "name": "United Club — Concourse T",
+      "terminal": "Concourse T",
+      "location": "Concourse T, between Gates 11 and 12",
+      "hours": [
+        "5:30 a.m. – 7:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse T, between Gates 11 and 12",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Self-service bar: under 21s need an adult aged 21 or older.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Light snacks",
+        "Self-service bar",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "AUS",
+      "provider": "United Club",
+      "name": "United Club — West Concourse",
+      "terminal": "West Concourse",
+      "location": "West Concourse, near Gate 22",
+      "hours": [
+        "5:00 a.m. – 7:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "West Concourse, near Gate 22",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "BOS",
+      "provider": "United Club",
+      "name": "United Club — Terminal B level 3",
+      "terminal": "Terminal B",
+      "location": "Terminal B, Level 3, near Gate 24",
+      "hours": [
+        "4:30 a.m. – 8:45 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal B, Level 3, near Gate 24",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD B6",
+      "terminal": "Terminal 1",
+      "location": "Terminal 1, Concourse B, near Gate B6",
+      "hours": [
+        "4:30 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 1, Concourse B, near Gate B6",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD B18",
+      "terminal": "Terminal 1",
+      "location": "Terminal 1, Concourse B, near Gate B18",
+      "hours": [
+        "5:00 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 1, Concourse B, near Gate B18",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD C10",
+      "terminal": "Terminal 1",
+      "location": "Terminal 1, Concourse C, near Gate C10",
+      "hours": [
+        "5:00 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 1, Concourse C, near Gate C10",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD E7",
+      "terminal": "Terminal 2",
+      "location": "Terminal 2, Concourse E, near Gate E7",
+      "hours": [
+        "7:30 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 2, Concourse E, near Gate E7",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Self-service bar: under 21s need an adult aged 21 or older.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Self-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD F9",
+      "terminal": "Terminal 2",
+      "location": "Terminal 2, Concourse F, across from Gate F9",
+      "hours": [
+        "5:00 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 2, Concourse F, across from Gate F9",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — ORD",
+      "terminal": "Terminal 1",
+      "location": "Terminal 1, Concourse C, near Gate C18",
+      "hours": [
+        "6:00 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 1, Concourse C, near Gate C18",
+      "restrictions": [
+        "Same-day United Polaris standard or flexible fare; Polaris Basic doesn't qualify.",
+        "Valid at departure, connecting and arrival airports; no guests.",
+        "Star Alliance long-haul first and business qualify at the departure airport.",
+        "United Club membership, one-time passes, cards and status don't give access.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full buffet",
+        "Full-service bar",
+        "Pre-flight dining",
+        "Quiet suites",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "CLE",
+      "provider": "United Club",
+      "name": "United Club — Concourse C",
+      "terminal": "Concourse C",
+      "location": "Concourse C, between Gates C14 and C16",
+      "hours": [
+        "5:00 a.m. – 7:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse C, between Gates C14 and C16",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DFW",
+      "provider": "United Club",
+      "name": "United Club — Terminal E",
+      "terminal": "Terminal E",
+      "location": "Terminal E, between Gates E6 and E7",
+      "hours": [
+        "4:30 a.m. – 7:45 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal E, between Gates E6 and E7",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN A25",
+      "terminal": "Concourse A West",
+      "location": "Concourse A West, near Gate A25",
+      "hours": [
+        "5:00 a.m. – 8:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse A West, near Gate A25",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN B32",
+      "terminal": "Concourse B West",
+      "location": "Concourse B West, near Gate B32",
+      "hours": [
+        "5:30 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse B West, near Gate B32",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Wellness rooms",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN B44",
+      "terminal": "Concourse B East",
+      "location": "Concourse B East, near Gate B44",
+      "hours": [
+        "5:30 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse B East, near Gate B44",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club Fly — DEN B60",
+      "terminal": "Concourse B East",
+      "location": "Concourse B East, near Gate B60",
+      "hours": [
+        "7:00 a.m. – 7:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse B East, near Gate B60",
+      "restrictions": [
+        "Grab-and-go: prepackaged snacks and non-alcoholic drinks to take on board.",
+        "Open to United Club members and cardmembers, with their usual guests.",
+        "Also open to international premium-cabin travelers and Star Alliance Gold members.",
+        "One-time passes aren't accepted.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Grab-and-go snacks",
+        "Non-alcoholic drinks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "FLL",
+      "provider": "United Club",
+      "name": "United Club — Terminal 1",
+      "terminal": "Terminal 1",
+      "location": "Terminal 1, near Gate C1",
+      "hours": [
+        "5:00 a.m. – 8:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 1, near Gate C1",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "GUM",
+      "provider": "United Club",
+      "name": "United Club — Main Terminal East Concourse",
+      "terminal": "Main Terminal",
+      "location": "Main Terminal, East concourse, between Gates 10 and 12",
+      "hours": [
+        "4:30 a.m. – 1:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Main Terminal, East concourse, between Gates 10 and 12",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "HKG",
+      "provider": "United Club",
+      "name": "United Club — Hong Kong",
+      "terminal": "Terminal 1",
+      "location": "Terminal 1, West Concourse, Level 7, near Gate 61",
+      "hours": [
+        "6:00 a.m. – 11:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 1, West Concourse, Level 7, near Gate 61",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Self-service bar: under 21s need an adult aged 21 or older.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Light snacks",
+        "Self-service bar",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "HNL",
+      "provider": "United Club",
+      "name": "United Club — Diamond Head Concourse",
+      "terminal": "Diamond Head Concourse",
+      "location": "Diamond Head Concourse, Level 3, above Gates G2 and G3",
+      "hours": [
+        "6:00 a.m. – 10:45 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Diamond Head Concourse, Level 3, above Gates G2 and G3",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — Terminal B North",
+      "terminal": "Terminal B North",
+      "location": "Terminal B North, near Gates B10 and B11",
+      "hours": [
+        "5:30 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal B North, near Gates B10 and B11",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Outdoor terrace",
+        "Private phone rooms",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — IAH E11",
+      "terminal": "Terminal E",
+      "location": "Terminal E, between Gates E11 and E12",
+      "hours": [
+        "5:30 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal E, between Gates E11 and E12",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — IAH C33",
+      "terminal": "Terminal C",
+      "location": "Terminal C, South Concourse, toward Gate C33",
+      "hours": [
+        "5:30 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal C, South Concourse, toward Gate C33",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — IAH A9",
+      "terminal": "Terminal A",
+      "location": "Terminal A, North Concourse, across from Gate A9",
+      "hours": [
+        "7:30 a.m. – 7:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal A, North Concourse, across from Gate A9",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — IAH C1",
+      "terminal": "Terminal C",
+      "location": "Terminal C, near Gate C1",
+      "hours": [
+        "5:30 a.m. – 9:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal C, near Gate C1",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club Fly — IAH Terminal B",
+      "terminal": "Terminal B",
+      "location": "Terminal B, near Gates B50–B57",
+      "hours": [
+        "5:30 a.m. – 8:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal B, near Gates B50–B57",
+      "restrictions": [
+        "Grab-and-go: prepackaged snacks and non-alcoholic drinks to take on board.",
+        "Open to United Club members and cardmembers, with their usual guests.",
+        "Also open to international premium-cabin travelers and Star Alliance Gold members.",
+        "One-time passes aren't accepted.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Grab-and-go snacks",
+        "Non-alcoholic drinks"
+      ]
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — IAH",
+      "terminal": "Terminal E",
+      "location": "Terminal E, near Gate E12",
+      "hours": [
+        "5:45 a.m. – 8:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal E, near Gate E12",
+      "restrictions": [
+        "Same-day United Polaris standard or flexible fare; Polaris Basic doesn't qualify.",
+        "Valid at departure, connecting and arrival airports; no guests.",
+        "Star Alliance long-haul first and business qualify at the departure airport.",
+        "United Club membership, one-time passes, cards and status don't give access.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full buffet",
+        "Full-service bar",
+        "Pre-flight dining",
+        "Quiet suites",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "LAS",
+      "provider": "United Club",
+      "name": "United Club — Terminal 3 Concourse D",
+      "terminal": "Terminal 3",
+      "location": "Terminal 3, Concourse D, between Gates 33 and 35",
+      "hours": [
+        "4:30 a.m. – 11:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 3, Concourse D, between Gates 33 and 35",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "LAX",
+      "provider": "United Club",
+      "name": "United Club — LAX 71A",
+      "terminal": "Terminal 7",
+      "location": "Terminal 7, next to Gate 71A",
+      "hours": [
+        "4:30 a.m. – 11:45 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 7, next to Gate 71A",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "LAX",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — LAX",
+      "terminal": "Terminal 7",
+      "location": "Terminal 7, between Gates 73 and 75A",
+      "hours": [
+        "5:00 a.m. – 10:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 7, between Gates 73 and 75A",
+      "restrictions": [
+        "Same-day United Polaris standard or flexible fare; Polaris Basic doesn't qualify.",
+        "Valid at departure, connecting and arrival airports; no guests.",
+        "Star Alliance long-haul first and business qualify at the departure airport.",
+        "United Club membership, one-time passes, cards and status don't give access.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full buffet",
+        "Full-service bar",
+        "Pre-flight dining",
+        "Quiet suites",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "LHR",
+      "provider": "United Club",
+      "name": "United Club — London Heathrow",
+      "terminal": "Terminal 2",
+      "location": "Terminal 2, across from Gate B46",
+      "hours": [
+        "5:00 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 2, across from Gate B46",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full buffet",
+        "Full-service bar",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "LHR",
+      "provider": "United Club",
+      "name": "United Arrivals Lounge — London Heathrow",
+      "terminal": "Terminal 2",
+      "location": "Terminal 2 arrivals, after immigration and customs",
+      "hours": [
+        "6:00 a.m. – 2:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/lounge-access.html",
+      "description": "Terminal 2 arrivals, after immigration and customs",
+      "restrictions": [
+        "Only for United Polaris travelers arriving the same day before noon.",
+        "No guests; United Club membership and one-time passes aren't valid."
+      ],
+      "amenities": [
+        "Showers",
+        "Breakfast and refreshments"
+      ]
+    },
+    {
+      "airport": "MEX",
+      "provider": "United Club",
+      "name": "United Club — MEX Terminal 1 (Temporarily Closed)",
+      "terminal": "Terminal 1",
+      "location": "Terminal 1, 3rd level, Hall H, near Gate B19",
+      "hours": [
+        "Temporarily closed"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Temporarily closed · Terminal 1, 3rd level, Hall H, near Gate B19",
+      "restrictions": [
+        "Temporarily closed; United hasn't announced a reopening date.",
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Light snacks",
+        "Full-service bar",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "MSP",
+      "provider": "United Club",
+      "name": "United Club — Concourse E (Temporarily Closed)",
+      "terminal": "Concourse E",
+      "location": "Concourse E, between Gates E6 and E8",
+      "hours": [
+        "Temporarily closed"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Temporarily closed · Concourse E, between Gates E6 and E8",
+      "restrictions": [
+        "Temporarily closed; United hasn't announced a reopening date.",
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "Alaska Lounge+ members: digital card plus a same-day Alaska, Hawaiian or United flight.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "MSY",
+      "provider": "United Club",
+      "name": "United Club — Concourse C",
+      "terminal": "Concourse C",
+      "location": "Concourse C, near Gate C7",
+      "hours": [
+        "4:30 a.m. – 7:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse C, near Gate C7",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "EWR",
+      "provider": "United Club",
+      "name": "United Club — EWR A27",
+      "terminal": "Terminal A",
+      "location": "Terminal A, upper level, near Gate A27",
+      "hours": [
+        "5:00 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal A, upper level, near Gate A27",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "EWR",
+      "provider": "United Club",
+      "name": "United Club — EWR C74",
+      "terminal": "Terminal C",
+      "location": "Terminal C, upper level, near Gate C74",
+      "hours": [
+        "5:00 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal C, upper level, near Gate C74",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "EWR",
+      "provider": "United Club",
+      "name": "United Club — EWR C123",
+      "terminal": "Terminal C",
+      "location": "Terminal C, mezzanine, near Gate C123",
+      "hours": [
+        "5:00 a.m. – 10:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal C, mezzanine, near Gate C123",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "EWR",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — EWR",
+      "terminal": "Terminal C",
+      "location": "Terminal C, between Gates C102 and C120",
+      "hours": [
+        "5:00 a.m. – 10:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal C, between Gates C102 and C120",
+      "restrictions": [
+        "Same-day United Polaris standard or flexible fare; Polaris Basic doesn't qualify.",
+        "Valid at departure, connecting and arrival airports; no guests.",
+        "Star Alliance long-haul first and business qualify at the departure airport.",
+        "United Club membership, one-time passes, cards and status don't give access.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full buffet",
+        "Full-service bar",
+        "Pre-flight dining",
+        "Quiet suites",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "LGA",
+      "provider": "United Club",
+      "name": "United Club — Terminal B level 3",
+      "terminal": "Terminal B",
+      "location": "Terminal B, near Gates 40–59",
+      "hours": [
+        "Sunday to Friday: 5:00 a.m. – 8:30 p.m.",
+        "Saturday: 5:00 a.m. – 7:00 p.m."
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal B, near Gates 40–59",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "SNA",
+      "provider": "United Club",
+      "name": "United Club — Main Terminal",
+      "terminal": "Main Terminal",
+      "location": "Main Terminal, across from Gate 9",
+      "hours": [
+        "5:30 a.m. – 8:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Main Terminal, across from Gate 9",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "MCO",
+      "provider": "United Club",
+      "name": "United Club — Concourse B",
+      "terminal": "Concourse B",
+      "location": "Concourse B, near Gate 43",
+      "hours": [
+        "5:00 a.m. – 8:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse B, near Gate 43",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "PDX",
+      "provider": "United Club",
+      "name": "United Club — Concourse E",
+      "terminal": "Concourse E",
+      "location": "Concourse E, across from Gate E3",
+      "hours": [
+        "4:30 a.m. – 7:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse E, across from Gate E3",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "PHL",
+      "provider": "United Club",
+      "name": "United Club — C/D Connector",
+      "terminal": "C/D Connector",
+      "location": "C/D Connector, Level 2, between Concourses C and D",
+      "hours": [
+        "5:00 a.m. – 7:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "C/D Connector, Level 2, between Concourses C and D",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Alaska Lounge+ members: digital card plus a same-day Alaska, Hawaiian or United flight.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "PHX",
+      "provider": "United Club",
+      "name": "United Club — Terminal 3",
+      "terminal": "Terminal 3",
+      "location": "Terminal 3, close to Gate E3",
+      "hours": [
+        "4:30 a.m. – 11:15 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 3, close to Gate E3",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "RDU",
+      "provider": "United Club",
+      "name": "United Club — Terminal 2",
+      "terminal": "Terminal 2",
+      "location": "Terminal 2, across from Gates D1 and D3",
+      "hours": [
+        "5:00 a.m. – 7:45 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 2, across from Gates D1 and D3",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "SAT",
+      "provider": "United Club",
+      "name": "United Club — Terminal B",
+      "terminal": "Terminal B",
+      "location": "Terminal B, between Gates B3 and B5",
+      "hours": [
+        "4:30 a.m. – 5:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal B, between Gates B3 and B5",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "SAN",
+      "provider": "United Club",
+      "name": "United Club — Terminal 2 West mezzanine",
+      "terminal": "Terminal 2 West",
+      "location": "Terminal 2 West, mezzanine, near Gates 47 and 48",
+      "hours": [
+        "4:45 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 2 West, mezzanine, near Gates 47 and 48",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "United Club",
+      "name": "United Club — SFO F11",
+      "terminal": "Terminal 3",
+      "location": "Terminal 3, Boarding Area F, near Gate F11",
+      "hours": [
+        "5:00 a.m. – 12:00 a.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 3, Boarding Area F, near Gate F11",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "United Club",
+      "name": "United Club — SFO G6",
+      "terminal": "International Terminal",
+      "location": "International Terminal, between Gates G6 and G9",
+      "hours": [
+        "7:00 a.m. – 12:00 a.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "International Terminal, between Gates G6 and G9",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "United Club",
+      "name": "United Club — SFO E4",
+      "terminal": "Terminal 3",
+      "location": "Terminal 3, Boarding Area E, near Gate E4",
+      "hours": [
+        "5:00 a.m. – 11:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 3, Boarding Area E, near Gate E4",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — SFO",
+      "terminal": "International Terminal",
+      "location": "International Terminal, across from Boarding Area G security",
+      "hours": [
+        "5:00 a.m. – 11:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "International Terminal, across from Boarding Area G security",
+      "restrictions": [
+        "Same-day United Polaris standard or flexible fare; Polaris Basic doesn't qualify.",
+        "Valid at departure, connecting and arrival airports; no guests.",
+        "Star Alliance long-haul first and business qualify at the departure airport.",
+        "United Club membership, one-time passes, cards and status don't give access.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full buffet",
+        "Full-service bar",
+        "Pre-flight dining",
+        "Quiet suites",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "United Club",
+      "name": "United Club — Concourse A mezzanine",
+      "terminal": "Concourse A",
+      "location": "Concourse A, mezzanine, across from Gate A10",
+      "hours": [
+        "4:15 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse A, mezzanine, across from Gate A10",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "NRT",
+      "provider": "United Club",
+      "name": "United Club — Tokyo Narita",
+      "terminal": "Terminal 1",
+      "location": "Terminal 1, airside, Satellite 3",
+      "hours": [
+        "8:45 a.m. – 8:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 1, airside, Satellite 3",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Self-service bar: under 21s need an adult aged 21 or older.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Light snacks",
+        "Self-service bar",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "DCA",
+      "provider": "United Club",
+      "name": "United Club — Terminal 2 (Temporarily Closed)",
+      "terminal": "Terminal 2",
+      "location": "Terminal 2, across from Gate 11",
+      "hours": [
+        "5:00 a.m. – 7:30 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Terminal 2, across from Gate 11",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Alaska Lounge+ members: digital card plus a same-day Alaska, Hawaiian or United flight.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAD",
+      "provider": "United Club",
+      "name": "United Club — IAD C17",
+      "terminal": "Concourse C",
+      "location": "Concourse C, near Gate C17",
+      "hours": [
+        "5:30 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse C, near Gate C17",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAD",
+      "provider": "United Club",
+      "name": "United Club — IAD C7",
+      "terminal": "Concourse C",
+      "location": "Concourse C, near Gate C7",
+      "hours": [
+        "5:30 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse C, near Gate C7",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAD",
+      "provider": "United Club",
+      "name": "United Club — IAD D8",
+      "terminal": "Concourse D",
+      "location": "Concourse D, near Gate D8",
+      "hours": [
+        "5:00 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse D, near Gate D8",
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Light snacks",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "IAD",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — IAD",
+      "terminal": "Concourse C",
+      "location": "Concourse C, near Gate C17",
+      "hours": [
+        "6:00 a.m. – 10:00 p.m. daily"
+      ],
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "Concourse C, near Gate C17",
+      "restrictions": [
+        "Same-day United Polaris standard or flexible fare; Polaris Basic doesn't qualify.",
+        "Valid at departure, connecting and arrival airports; no guests.",
+        "Star Alliance long-haul first and business qualify at the departure airport.",
+        "United Club membership, one-time passes, cards and status don't give access.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "amenities": [
+        "Full buffet",
+        "Full-service bar",
+        "Pre-flight dining",
+        "Quiet suites",
+        "Showers",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "airport": "BDL",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — BDL",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/6000x4000/6049a78296/bradley-lounge-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/640x427/25ad980b7d/bradley-lounge-seating-area.jpg",
+        "https://a.storyblok.com/f/263504/640x960/9a0453afe2/bradley-lounge-dining.jpg",
+        "https://a.storyblok.com/f/263504/640x960/4854bf303e/bradley-lounge-bar.jpg"
+      ]
+    },
+    {
+      "airport": "CVG",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — CVG",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/640x427/370c3e5c19/cvg-lounge.jpg",
+        "https://a.storyblok.com/f/263504/1032x637/d520fa6a50/cvg-reception.png",
+        "https://a.storyblok.com/f/263504/640x427/8a183bdf02/cvg-bar-seating.jpg",
+        "https://a.storyblok.com/f/263504/640x427/1eeae923fd/cvg-dining.jpg"
+      ]
+    },
+    {
+      "airport": "CMH",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — CMH",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1334/fb21de6313/cmh-hero.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "FLL",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — FLL Terminal 3",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1334/be5496238f/fll-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1334/e1bdfd4ede/fll-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1334/3749de196f/fll-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1334/f7439a2c71/fll-bar.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "GSP",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — GSP",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1335/368ffb3c03/gsp-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1350/03027f25b8/gsp-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1335/f241d8f99d/gsp-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1335/9e326dd993/gsp-access.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "MCI",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — MCI Concourse A",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/8256x5504/2c1e33ad07/select-escape-lounge-nicole-bissey-photography-02.JPG/m/1600x0",
+        "https://a.storyblok.com/f/263504/8256x5504/777d3a5387/select-escape-lounge-nicole-bissey-photography-06-1.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/8256x5504/ef04154ec3/select-escape-lounge-bar-nicole-bissey-photography-1.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/1126x1126/e804a30ae9/mci-entrance-2.png"
+      ]
+    },
+    {
+      "airport": "MSP",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — MSP",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1333/03b93bf732/msp-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/b9263f2317/msp-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/d3c345f47a/msp-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/d1e2de94bb/msp-bar.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "XNA",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — XNA",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2048x1365/c8175efb8d/xna-escape-lounge-entrance.jpeg/m/1600x0",
+        "https://a.storyblok.com/f/263504/1280x2069/9d2366fcd8/xna-lounge-area.jpeg",
+        "https://a.storyblok.com/f/263504/2048x1343/d13eb0cdc1/xna-bar.jpeg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "OAK",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — OAK",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1333/eeb4f68ff2/oak-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/c6a757d0aa/oak-lounge.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "PBI",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — PBI",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1335/c30a28ce20/pbi-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1335/d73bb4f676/pbi-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1335/372516b77c/pbi-dining.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x2996/cfffa3e51a/pbi-bar.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "PHX",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — PHX Terminal 4",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1333/aca2f882cc/phx-4-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/737940ffa8/phx-4-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/f1ed89f570/phx-4-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/689e061c4e/phx-4-access.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "PDX",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — PDX",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/1747x1310/754b72e37d/portland-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/640x480/959d480ba8/portland-escape-lounge-multi-use-area.jpg",
+        "https://a.storyblok.com/f/263504/1024x768/1806e67a3f/entrance-to-portland-escape-lounge.jpg"
+      ]
+    },
+    {
+      "airport": "PVD",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — PVD",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1310/26f301ca83/pvd-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/a5c762c663/pvd-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1306/0d36901fd2/pvd-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1328/c132b87a48/pvd-access.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "RNO",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — RNO",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1214/abfba9b7f7/rno-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1334/9953a10a79/rno-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/00821ecb78/rno-access.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "SMF",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — SMF Terminal A",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1333/987e084729/smf-a-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/1297845823/smf-a-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1334/ab3632ff22/smf-a-bar.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/a262a83f30/smf-a-access.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "SMF",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — SMF Terminal B",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1332/3e88d85f63/smf-b-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1331/e8451ed570/smf-b-hero.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1334/b939b1fdb8/smf-b-bar.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "SJU",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — SJU",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/8192x5464/864206d286/san-juan-seating-area.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/8192x5464/397ec6ab12/san-juan-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/8070x5383/45b69dfb7e/san-juan-dining-area.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/8192x5464/d9f1428b71/san-juan-bar.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "SYR",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — SYR",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1333/573f0a99fa/syr-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/1024x683/1e012b2923/syracuse-escape-lounge.jpg",
+        "https://a.storyblok.com/f/263504/2000x1333/682a839d9b/syr-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/d24d757008/syr-access.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "TUL",
+      "provider": "Escape Lounges",
+      "name": "Escape Lounge — TUL",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/1024x683/e0f1513f7d/tulsa-escape-lounge-seating-area.jpg",
+        "https://a.storyblok.com/f/263504/1024x683/1f9d9b6973/tulsa-escape-lounge-booth-seating.jpg",
+        "https://a.storyblok.com/f/263504/1024x683/5b1d87119d/tulsa-escape-lounge-dining.jpg",
+        "https://a.storyblok.com/f/263504/1024x683/70e30ecb4b/tulsa-escape-lounge-bar-area.jpg"
+      ]
+    },
+    {
+      "airport": "SMF",
+      "provider": "Priority Pass",
+      "name": "Escape Lounges — Terminal A",
+      "photoURLs": [
+        "https://a.storyblok.com/f/263504/2000x1333/987e084729/smf-a-lounge.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/1297845823/smf-a-dine.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1334/ab3632ff22/smf-a-bar.jpg/m/1600x0",
+        "https://a.storyblok.com/f/263504/2000x1333/a262a83f30/smf-a-access.jpg/m/1600x0"
+      ]
+    },
+    {
+      "airport": "ANC",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — ANC",
+      "photoURLs": [
+        "https://news.alaskaair.com/wp-content/uploads/2025/02/ANC-Lounge-3.jpeg",
+        "https://news.alaskaair.com/wp-content/uploads/2025/02/ANC-Lounge_03.jpeg?w=1600",
+        "https://news.alaskaair.com/wp-content/uploads/2025/02/ANC-Lounge_05.jpeg?w=1600",
+        "https://news.alaskaair.com/wp-content/uploads/2025/02/ANC-Lounge_04.jpeg?w=1600"
+      ]
+    },
+    {
+      "airport": "LAX",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — LAX",
+      "photoURLs": [
+        "https://news.alaskaair.com/wp-content/uploads/2026/10/AS-Lounge-LAX-Art.jpg"
+      ]
+    },
+    {
+      "airport": "PDX",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — PDX",
+      "photoURLs": [
+        "https://news.alaskaair.com/wp-content/uploads/2026/10/AS-Lounge-PDX-Glamour-Shot-e1793303782590.jpeg",
+        "https://news.alaskaair.com/wp-content/uploads/2026/06/PDX_ALASKA_LOUNGERS-e1780353301802.jpeg?w=1600",
+        "https://news.alaskaair.com/wp-content/uploads/2026/05/PDX_ALASKA_BUFFET-e1780353284351.jpeg?w=1600",
+        "https://news.alaskaair.com/wp-content/uploads/2026/05/PDX_ALASKA_BAR-e1780353238453.jpeg?w=1600"
+      ]
+    },
+    {
+      "airport": "SFO",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SFO",
+      "photoURLs": [
+        "https://news.alaskaair.com/wp-content/uploads/2024/07/072224_sfo_lounge_172_113a8c.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2024/07/072224_sfo_lounge_019_5e7c0f.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2024/07/072224_sfo_lounge_080_69c5a5.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2024/07/072224_sfo_lounge_069_66f735.jpg"
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA D Concourse",
+      "photoURLs": [
+        "https://news.alaskaair.com/wp-content/uploads/2023/06/LNG_061923_SEA-D-Lounge-Reopening_022.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2023/06/LNG_061923_SEA-D-Lounge-Reopening_017.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2023/06/LNG_040223_SEA-D-Lounge-Reopening1091.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2023/06/LNG_061923_SEA-D-Lounge-Reopening_018.jpg"
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA N Concourse",
+      "photoURLs": [
+        "https://news.alaskaair.com/wp-content/uploads/2019/07/190708_NSAT_lounge_061-web.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2019/07/190708_NSAT_lounge_045-web.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2019/07/190708_NSAT_lounge_005-web.jpg",
+        "https://news.alaskaair.com/wp-content/uploads/2019/07/190708_NSAT_lounge_080-web.jpg"
+      ]
+    },
+    {
+      "airport": "HNL",
+      "provider": "Alaska Lounge",
+      "name": "The Plumeria Lounge — HNL",
+      "photoURLs": [
+        "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blt492372019c971a7f/69326acd820f3f64e94d8e44/PLrelaxbeforeflight.jpg",
+        "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blte6731247e6fe4a09/693770f1f8653acd44b16a50/PLhouserules.jpg",
+        "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/bltb3b52116c7169c94/69326b160735e1756cbd9340/PLlocation.jpg"
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "Alaska Lounge",
+      "name": "Alaska Lounge — SEA C Concourse",
+      "photoURLs": []
+    },
+    {
+      "airport": "ATL",
+      "provider": "United Club",
+      "name": "United Club — Concourse T",
+      "photoURLs": []
+    },
+    {
+      "airport": "AUS",
+      "provider": "United Club",
+      "name": "United Club — West Concourse",
+      "photoURLs": []
+    },
+    {
+      "airport": "BOS",
+      "provider": "United Club",
+      "name": "United Club — Terminal B level 3",
+      "photoURLs": []
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD B6",
+      "photoURLs": []
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD B18",
+      "photoURLs": []
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD C10",
+      "photoURLs": [
+        "https://media.united.com/assets/transform/fd701dfd-968b-4e38-ad14-110ccad33f4e/UAL-ORD-C10-Club?io=transform:scale,width:1600"
+      ]
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD E7",
+      "photoURLs": []
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Club — ORD F9",
+      "photoURLs": []
+    },
+    {
+      "airport": "ORD",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — ORD",
+      "photoURLs": [
+        "https://united.mediaroom.com/image/ORD+Polaris+Lounge+Bar+-+2025.jpg"
+      ]
+    },
+    {
+      "airport": "CLE",
+      "provider": "United Club",
+      "name": "United Club — Concourse C",
+      "photoURLs": []
+    },
+    {
+      "airport": "DFW",
+      "provider": "United Club",
+      "name": "United Club — Terminal E",
+      "photoURLs": []
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN A25",
+      "photoURLs": []
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN B32",
+      "photoURLs": []
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club — DEN B44",
+      "photoURLs": [
+        "https://media.united.com/assets/transform/22c7cabd-221c-4d8f-9340-7d4b75659dcb/UAL-DEN-B-East-Club-Fireplace?io=transform:scale,width:1600"
+      ]
+    },
+    {
+      "airport": "DEN",
+      "provider": "United Club",
+      "name": "United Club Fly — DEN B60",
+      "photoURLs": [
+        "https://media.united.com/assets/transform/df830cd7-2212-4d62-8cc0-2d552851d086/UAL-DEN-Club?io=transform:scale,width:1600"
+      ]
+    },
+    {
+      "airport": "FLL",
+      "provider": "United Club",
+      "name": "United Club — Terminal 1",
+      "photoURLs": []
+    },
+    {
+      "airport": "GUM",
+      "provider": "United Club",
+      "name": "United Club — Main Terminal East Concourse",
+      "photoURLs": []
+    },
+    {
+      "airport": "HKG",
+      "provider": "United Club",
+      "name": "United Club — Hong Kong",
+      "photoURLs": []
+    },
+    {
+      "airport": "HNL",
+      "provider": "United Club",
+      "name": "United Club — Diamond Head Concourse",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — Terminal B North",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — IAH E11",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — IAH C33",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — IAH A9",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club — IAH C1",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Club Fly — IAH Terminal B",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAH",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — IAH",
+      "photoURLs": [
+        "https://mma.prnewswire.com/media/710905/United_Polaris_Lounge_Houston_Entrance.jpg?p=original"
+      ]
+    },
+    {
+      "airport": "LAS",
+      "provider": "United Club",
+      "name": "United Club — Terminal 3 Concourse D",
+      "photoURLs": []
+    },
+    {
+      "airport": "LAX",
+      "provider": "United Club",
+      "name": "United Club — LAX 71A",
+      "photoURLs": []
+    },
+    {
+      "airport": "LAX",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — LAX",
+      "photoURLs": [
+        "https://mma.prnewswire.com/media/806528/United_Airlines_Polaris_Lounge_Seating_Area_At_LAX.jpg?p=original"
+      ]
+    },
+    {
+      "airport": "LHR",
+      "provider": "United Club",
+      "name": "United Club — London Heathrow",
+      "photoURLs": []
+    },
+    {
+      "airport": "LHR",
+      "provider": "United Club",
+      "name": "United Arrivals Lounge — London Heathrow",
+      "photoURLs": []
+    },
+    {
+      "airport": "MEX",
+      "provider": "United Club",
+      "name": "United Club — MEX Terminal 1 (Temporarily Closed)",
+      "photoURLs": []
+    },
+    {
+      "airport": "MSP",
+      "provider": "United Club",
+      "name": "United Club — Concourse E (Temporarily Closed)",
+      "photoURLs": []
+    },
+    {
+      "airport": "MSY",
+      "provider": "United Club",
+      "name": "United Club — Concourse C",
+      "photoURLs": [
+        "https://mma.prnewswire.com/media/1097141/United_Airlines.jpg?p=original"
+      ]
+    },
+    {
+      "airport": "EWR",
+      "provider": "United Club",
+      "name": "United Club — EWR A27",
+      "photoURLs": []
+    },
+    {
+      "airport": "EWR",
+      "provider": "United Club",
+      "name": "United Club — EWR C74",
+      "photoURLs": [
+        "https://media.united.com/assets/transform/d622ca0d-8fe9-4416-84a3-02eccdb5cb78/UAL-EWR-c74-Club-2?io=transform:scale,width:1600",
+        "https://media.united.com/assets/transform/3d8906b0-07b4-49ae-8564-e3018abffa9f/UAL-EWR-c74-Club-1?io=transform:scale,width:1600"
+      ]
+    },
+    {
+      "airport": "EWR",
+      "provider": "United Club",
+      "name": "United Club — EWR C123",
+      "photoURLs": []
+    },
+    {
+      "airport": "EWR",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — EWR",
+      "photoURLs": [
+        "https://mma.prnewswire.com/media/698925/United_Polaris_lounge_seating_area_at_EWR.jpg?p=original",
+        "https://mma.prnewswire.com/media/698924/United_Polaris_lounge_Dining_Room_at_EWR.jpg?p=original",
+        "https://mma.prnewswire.com/media/698922/United_Polaris_lounge_at_EWR.jpg?p=original"
+      ]
+    },
+    {
+      "airport": "LGA",
+      "provider": "United Club",
+      "name": "United Club — Terminal B level 3",
+      "photoURLs": [
+        "https://mma.prnewswire.com/media/894733/New_United_Club.jpg?p=original",
+        "https://mma.prnewswire.com/media/894734/New_United_Club_at_LaGuardia.jpg?p=original"
+      ]
+    },
+    {
+      "airport": "SNA",
+      "provider": "United Club",
+      "name": "United Club — Main Terminal",
+      "photoURLs": []
+    },
+    {
+      "airport": "MCO",
+      "provider": "United Club",
+      "name": "United Club — Concourse B",
+      "photoURLs": []
+    },
+    {
+      "airport": "PDX",
+      "provider": "United Club",
+      "name": "United Club — Concourse E",
+      "photoURLs": []
+    },
+    {
+      "airport": "PHL",
+      "provider": "United Club",
+      "name": "United Club — C/D Connector",
+      "photoURLs": []
+    },
+    {
+      "airport": "PHX",
+      "provider": "United Club",
+      "name": "United Club — Terminal 3",
+      "photoURLs": []
+    },
+    {
+      "airport": "RDU",
+      "provider": "United Club",
+      "name": "United Club — Terminal 2",
+      "photoURLs": []
+    },
+    {
+      "airport": "SAT",
+      "provider": "United Club",
+      "name": "United Club — Terminal B",
+      "photoURLs": []
+    },
+    {
+      "airport": "SAN",
+      "provider": "United Club",
+      "name": "United Club — Terminal 2 West mezzanine",
+      "photoURLs": []
+    },
+    {
+      "airport": "SFO",
+      "provider": "United Club",
+      "name": "United Club — SFO F11",
+      "photoURLs": []
+    },
+    {
+      "airport": "SFO",
+      "provider": "United Club",
+      "name": "United Club — SFO G6",
+      "photoURLs": []
+    },
+    {
+      "airport": "SFO",
+      "provider": "United Club",
+      "name": "United Club — SFO E4",
+      "photoURLs": []
+    },
+    {
+      "airport": "SFO",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — SFO",
+      "photoURLs": [
+        "https://mma.prnewswire.com/media/682285/United_Polaris_lounge_at_SFO_2.jpg?p=original",
+        "https://mma.prnewswire.com/media/682286/United_Polaris_lounge_at_SFO_4.jpg?p=original",
+        "https://mma.prnewswire.com/media/682284/United_Polaris_lounge_at_SFO_1.jpg?p=original",
+        "https://mma.prnewswire.com/media/682287/United_Polaris_lounge_at_SFO_3.jpg?p=original"
+      ]
+    },
+    {
+      "airport": "SEA",
+      "provider": "United Club",
+      "name": "United Club — Concourse A mezzanine",
+      "photoURLs": []
+    },
+    {
+      "airport": "NRT",
+      "provider": "United Club",
+      "name": "United Club — Tokyo Narita",
+      "photoURLs": []
+    },
+    {
+      "airport": "DCA",
+      "provider": "United Club",
+      "name": "United Club — Terminal 2 (Temporarily Closed)",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAD",
+      "provider": "United Club",
+      "name": "United Club — IAD C17",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAD",
+      "provider": "United Club",
+      "name": "United Club — IAD C7",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAD",
+      "provider": "United Club",
+      "name": "United Club — IAD D8",
+      "photoURLs": []
+    },
+    {
+      "airport": "IAD",
+      "provider": "United Club",
+      "name": "United Polaris Lounge — IAD",
+      "photoURLs": []
     }
   ],
   "add": [
