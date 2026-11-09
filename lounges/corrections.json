@@ -1,8 +1,8 @@
 {
   "format": "stackjet-lounge-corrections",
   "version": 1,
-  "updated": "2026-11-07",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes. Alaska Lounge and The Plumeria Lounge: hours, location, facilities, access rules and descriptions from alaskaair.com (checked 2026-11-07). United lounges rebuilt (2026-11-07): every United Club, United Club Fly, United Polaris lounge and the Heathrow arrivals lounge given complete hours, location, facilities, access rules and description from united.com (club and lounge locations page for all 33 airports, lounge access page, United Club terms). Supersedes the earlier United fixes field by field. No renames, no photo changes. Escape Lounges photos: location-specific photos from each lounge's own escapelounges.com page (a.storyblok.com assets) for 19 US Escape Lounges and the SMF Terminal A Priority Pass record; replaces bundled storyblok URLs that now return 403. Alaska Lounge and The Plumeria Lounge photos: location-specific images from Alaska Airlines newsroom posts about each lounge (news.alaskaair.com) and Hawaiian Airlines' Plumeria Lounge page (checked 2026-11-07). SEA C Concourse: no verified photo found. United lounge photos (2026-11-07): official location-specific photos from United (media.united.com newsroom image library, united.mediaroom.com and PR Newswire releases) for 11 lounges; every other United lounge set to no photo so the shared representative image is no longer used. Photos for 10 networks now load from StackJet's own copies at asfour360.github.io/stackjet-photos; original sources are in that repo's manifests.",
+  "updated": "2026-11-09",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes. Alaska Lounge and The Plumeria Lounge: hours, location, facilities, access rules and descriptions from alaskaair.com (checked 2026-11-07). United lounges rebuilt (2026-11-07): every United Club, United Club Fly, United Polaris lounge and the Heathrow arrivals lounge given complete hours, location, facilities, access rules and description from united.com (club and lounge locations page for all 33 airports, lounge access page, United Club terms). Supersedes the earlier United fixes field by field. No renames, no photo changes. Escape Lounges photos: location-specific photos from each lounge's own escapelounges.com page (a.storyblok.com assets) for 19 US Escape Lounges and the SMF Terminal A Priority Pass record; replaces bundled storyblok URLs that now return 403. Alaska Lounge and The Plumeria Lounge photos: location-specific images from Alaska Airlines newsroom posts about each lounge (news.alaskaair.com) and Hawaiian Airlines' Plumeria Lounge page (checked 2026-11-07). SEA C Concourse: no verified photo found. United lounge photos (2026-11-07): official location-specific photos from United (media.united.com newsroom image library, united.mediaroom.com and PR Newswire releases) for 11 lounges; every other United lounge set to no photo so the shared representative image is no longer used. Photos for 10 networks now load from StackJet's own copies at asfour360.github.io/stackjet-photos; original sources are in that repo's manifests. IAH (2026-11-09): United Club Terminal B North (opened October 22, 2026, United's largest club) given its mezzanine location near Gate B11 and its amenities: two full-service bars, two buffet stations, outdoor terrace, 11 phone rooms and Wi-Fi from United's October 21, 2026 release; Moonshot Bar, barista counter, family area and wellness room from AFAR (October 26, 2026). Hours (5:30 a.m. – 9:00 p.m.) unchanged; united.com could not be read to re-check them. No club renamed, removed or added. IAD (2026-11-09): new United Club in Concourse E added (opens November 10, 2026, across from Gates E14 and E16; 5:30 a.m. – 10:00 p.m. daily; nearly 40,000 sq ft, 600+ seats, bar, two buffet stations, eight phone rooms) from United's November 9, 2026 release on united.mediaroom.com, with its official photo (StackJet copy; source in stackjet-photos manifests). The Concourse C and D clubs stay: United describes the new club as adding space, not replacing one. EWR (2026-11-09): United Polaris Lounge (Terminal C, between Gates C102 and C120) lists its larger table-service dining room (opened June 2025 in the former Classified restaurant space, nearly 60 seats, à la carte; the lounge is now over 30,000 sq ft), from United's statement as reported in the press; United's original 2018 release (united.mediaroom.com) for location. Three more official photos (bar, buffet, apron view) from United's EWR Polaris gallery on united.mediaroom.com; United has published no official photo of the new dining room, so the existing official photos stay. Hours and access unchanged; united.com could not be read to re-check them.",
   "remove": [
     {
       "airport": "SFO",
@@ -1540,12 +1540,12 @@
       "provider": "United Club",
       "name": "United Club — Terminal B North",
       "terminal": "Terminal B North",
-      "location": "Terminal B North, near Gates B10 and B11",
+      "location": "Terminal B North, mezzanine level, near Gate B11",
       "hours": [
         "5:30 a.m. – 9:00 p.m. daily"
       ],
       "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
-      "description": "Terminal B North, near Gates B10 and B11",
+      "description": "Terminal B North, mezzanine level, near Gate B11",
       "restrictions": [
         "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
         "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
@@ -1555,9 +1555,13 @@
       ],
       "amenities": [
         "Full-service bar",
+        "Moonshot Bar",
         "Full buffet",
+        "Barista-made coffee",
         "Outdoor terrace",
         "Private phone rooms",
+        "Family area",
+        "Wellness room",
         "Wi-Fi"
       ]
     },
@@ -1994,6 +1998,7 @@
         "Full buffet",
         "Full-service bar",
         "Pre-flight dining",
+        "Table-service dining room (nearly 60 seats)",
         "Quiet suites",
         "Showers",
         "Wi-Fi"
@@ -3617,7 +3622,10 @@
       "photoURLs": [
         "https://asfour360.github.io/stackjet-photos/united/ewr/united-polaris-lounge-ewr-1.jpg",
         "https://asfour360.github.io/stackjet-photos/united/ewr/united-polaris-lounge-ewr-2.jpg",
-        "https://asfour360.github.io/stackjet-photos/united/ewr/united-polaris-lounge-ewr-3.jpg"
+        "https://asfour360.github.io/stackjet-photos/united/ewr/united-polaris-lounge-ewr-3.jpg",
+        "https://asfour360.github.io/stackjet-photos/united/ewr/united-polaris-lounge-ewr-4.jpg",
+        "https://asfour360.github.io/stackjet-photos/united/ewr/united-polaris-lounge-ewr-5.jpg",
+        "https://asfour360.github.io/stackjet-photos/united/ewr/united-polaris-lounge-ewr-6.jpg"
       ]
     },
     {
@@ -6746,6 +6754,35 @@
         "Not available through Admirals Club membership, status alone or a credit card."
       ],
       "photoURLs": []
+    },
+    {
+      "airportCode": "IAD",
+      "provider": "United Club",
+      "name": "United Club — Concourse E",
+      "officialURL": "https://www.united.com/en/us/fly/travel/airport/united-club-and-lounge-locations.html",
+      "description": "United's second-largest club, opening November 10, 2026 with the new Concourse E: nearly 40,000 sq ft with seating for more than 600, a bar, two buffet stations and eight private phone rooms. Design inspired by the Dulles main terminal, cherry blossoms and the Blue Ridge Mountains, with art by local and D.C.-affiliated artists.",
+      "terminal": "Concourse E",
+      "location": "Concourse E, across from Gates E14 and E16",
+      "hours": [
+        "5:30 a.m. – 10:00 p.m. daily"
+      ],
+      "amenities": [
+        "Full-service bar",
+        "Full buffet",
+        "Private phone rooms",
+        "Wi-Fi",
+        "Power outlets"
+      ],
+      "restrictions": [
+        "Bring a same-day boarding pass for a United, Star Alliance or partner flight.",
+        "United Club members and United Club cardmembers get in; guest allowance depends on membership.",
+        "One-time pass: buy it in the United app; one person, from 3 hours before departure.",
+        "Under 18s need an adult; alcohol is served only to guests 21 and over.",
+        "Other Star Alliance and partner rules apply — see United's lounge access rules."
+      ],
+      "photoURLs": [
+        "https://asfour360.github.io/stackjet-photos/united/iad/united-club-concourse-e-1.jpg"
+      ]
     }
   ],
   "replaceAirports": {
