@@ -2,7 +2,7 @@
   "format": "stackjet-lounge-corrections",
   "version": 1,
   "updated": "2026-11-09",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes. Alaska Lounge and The Plumeria Lounge: hours, location, facilities, access rules and descriptions from alaskaair.com (checked 2026-11-07). United lounges rebuilt (2026-11-07): every United Club, United Club Fly, United Polaris lounge and the Heathrow arrivals lounge given complete hours, location, facilities, access rules and description from united.com (club and lounge locations page for all 33 airports, lounge access page, United Club terms). Supersedes the earlier United fixes field by field. No renames, no photo changes. Escape Lounges photos: location-specific photos from each lounge's own escapelounges.com page (a.storyblok.com assets) for 19 US Escape Lounges and the SMF Terminal A Priority Pass record; replaces bundled storyblok URLs that now return 403. Alaska Lounge and The Plumeria Lounge photos: location-specific images from Alaska Airlines newsroom posts about each lounge (news.alaskaair.com) and Hawaiian Airlines' Plumeria Lounge page (checked 2026-11-07). SEA C Concourse: no verified photo found. United lounge photos (2026-11-07): official location-specific photos from United (media.united.com newsroom image library, united.mediaroom.com and PR Newswire releases) for 11 lounges; every other United lounge set to no photo so the shared representative image is no longer used. Photos for 10 networks now load from StackJet's own copies at asfour360.github.io/stackjet-photos; original sources are in that repo's manifests. IAH (2026-11-09): United Club Terminal B North (opened October 22, 2026, United's largest club) given its mezzanine location near Gate B11 and its amenities: two full-service bars, two buffet stations, outdoor terrace, 11 phone rooms and Wi-Fi from United's October 21, 2026 release; Moonshot Bar, barista counter, family area and wellness room from AFAR (October 26, 2026). Hours (5:30 a.m. – 9:00 p.m.) unchanged; united.com could not be read to re-check them. No club renamed, removed or added. IAD (2026-11-09): new United Club in Concourse E added (opens November 10, 2026, across from Gates E14 and E16; 5:30 a.m. – 10:00 p.m. daily; nearly 40,000 sq ft, 600+ seats, bar, two buffet stations, eight phone rooms) from United's November 9, 2026 release on united.mediaroom.com, with its official photo (StackJet copy; source in stackjet-photos manifests). The Concourse C and D clubs stay: United describes the new club as adding space, not replacing one. EWR (2026-11-09): United Polaris Lounge (Terminal C, between Gates C102 and C120) lists its larger table-service dining room (opened June 2025 in the former Classified restaurant space, nearly 60 seats, à la carte; the lounge is now over 30,000 sq ft), from United's statement as reported in the press; United's original 2018 release (united.mediaroom.com) for location. Three more official photos (bar, buffet, apron view) from United's EWR Polaris gallery on united.mediaroom.com; United has published no official photo of the new dining room, so the existing official photos stay. Hours and access unchanged; united.com could not be read to re-check them. Polaris and DEN photos (2026-11-09): the EWR window/apron photo is now the cover for every United Polaris lounge (an EWR photo; each lounge's own photos follow it), and the DEN Sky Club's duplicate photo 4 (same image as photo 1) is removed.",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes. Alaska Lounge and The Plumeria Lounge: hours, location, facilities, access rules and descriptions from alaskaair.com (checked 2026-11-07). United lounges rebuilt (2026-11-07): every United Club, United Club Fly, United Polaris lounge and the Heathrow arrivals lounge given complete hours, location, facilities, access rules and description from united.com (club and lounge locations page for all 33 airports, lounge access page, United Club terms). Supersedes the earlier United fixes field by field. No renames, no photo changes. Escape Lounges photos: location-specific photos from each lounge's own escapelounges.com page (a.storyblok.com assets) for 19 US Escape Lounges and the SMF Terminal A Priority Pass record; replaces bundled storyblok URLs that now return 403. Alaska Lounge and The Plumeria Lounge photos: location-specific images from Alaska Airlines newsroom posts about each lounge (news.alaskaair.com) and Hawaiian Airlines' Plumeria Lounge page (checked 2026-11-07). SEA C Concourse: no verified photo found. United lounge photos (2026-11-07): official location-specific photos from United (media.united.com newsroom image library, united.mediaroom.com and PR Newswire releases) for 11 lounges; every other United lounge set to no photo so the shared representative image is no longer used. Photos for 10 networks now load from StackJet's own copies at asfour360.github.io/stackjet-photos; original sources are in that repo's manifests. IAH (2026-11-09): United Club Terminal B North (opened October 22, 2026, United's largest club) given its mezzanine location near Gate B11 and its amenities: two full-service bars, two buffet stations, outdoor terrace, 11 phone rooms and Wi-Fi from United's October 21, 2026 release; Moonshot Bar, barista counter, family area and wellness room from AFAR (October 26, 2026). Hours (5:30 a.m. – 9:00 p.m.) unchanged; united.com could not be read to re-check them. No club renamed, removed or added. IAD (2026-11-09): new United Club in Concourse E added (opens November 10, 2026, across from Gates E14 and E16; 5:30 a.m. – 10:00 p.m. daily; nearly 40,000 sq ft, 600+ seats, bar, two buffet stations, eight phone rooms) from United's November 9, 2026 release on united.mediaroom.com, with its official photo (StackJet copy; source in stackjet-photos manifests). The Concourse C and D clubs stay: United describes the new club as adding space, not replacing one. EWR (2026-11-09): United Polaris Lounge (Terminal C, between Gates C102 and C120) lists its larger table-service dining room (opened June 2025 in the former Classified restaurant space, nearly 60 seats, à la carte; the lounge is now over 30,000 sq ft), from United's statement as reported in the press; United's original 2018 release (united.mediaroom.com) for location. Three more official photos (bar, buffet, apron view) from United's EWR Polaris gallery on united.mediaroom.com; United has published no official photo of the new dining room, so the existing official photos stay. Hours and access unchanged; united.com could not be read to re-check them. Polaris and DEN photos (2026-11-09): the EWR window/apron photo is now the cover for every United Polaris lounge (an EWR photo; each lounge's own photos follow it), and the DEN Sky Club's duplicate photo 4 (same image as photo 1) is removed. Priority Pass photos (2026-11-09): 98 lounges now show each picture once, with repeated copies and the generic Wi-Fi stock image dropped wherever a lounge has photos of its own.",
   "remove": [
     {
       "airport": "SFO",
@@ -6704,6 +6704,846 @@
       "name": "Manaia Lounge in partnership with Plaza Premium Lounge (Airside)",
       "photoURLs": [
         "https://asfour360.github.io/stackjet-photos/plaza/zqn/manaia-lounge-in-partnership-with-plaza-premium-lounge-airside-1.jpg"
+      ]
+    },
+    {
+      "airport": "SAN",
+      "provider": "Priority Pass",
+      "name": "Aspire Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/2ytUoqcfwgUXJG6hHVsUXq/c9ef218aa49bdba67a57e47c809e97d5/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4HGhcy6RduV0yJx5PmmqnT/affb5f78e36faf91fb300f5a1bb0ff67/image_1.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1F0ymREi22icmNy8uiiHk1/193fd4fbbdad2097c6e1e95d90ea4b15/image_2.jpg",
+        "https://images.ctfassets.net/687qsr16btly/2IHrUs3fPR1fcAUzN6QfWI/2ae056442db4a4016fc91324b5a6af4d/image_3.jpg",
+        "https://images.ctfassets.net/687qsr16btly/6XlEh2bWqfyTRw7J1gn1Tk/bbf86fe8fafccfaf68e7bdcfe34acfdd/image_4.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4zIl1EMijIvO0rogcj8F2F/b411393596f7a4229e48965ade085c4b/image_5.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4cRTksHqqTCicW6KJtBxFA/375230486e0f3241aff8910c423acc34/image_6.jpg",
+        "https://images.ctfassets.net/687qsr16btly/46Ek3yIzM5Xdetqu6D9mzD/2ea4377fb2fc9b8d49309b8a4da57412/image_8.jpg",
+        "https://images.ctfassets.net/687qsr16btly/12xOIOllhJE1qGXzjeWInJ/4ff8ce106e7614b83a41cbbef26a49ac/image_9.jpg"
+      ]
+    },
+    {
+      "airport": "MEL",
+      "provider": "Priority Pass",
+      "name": "Aspire Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/44BnyxOFloR2nuzdtamqKG/0009304098fd56e0711cf5ed4b955c74/MEL16D_11.jpg",
+        "https://images.ctfassets.net/687qsr16btly/5L3EBQ25PfaKVFc2Ad5p65/31b35f93f6a36abe06e4625aef44b296/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HKT",
+      "provider": "Priority Pass",
+      "name": "The Coral Finest Business Class Lounge (Vista)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3WM5SBF2djkG92SJuwtMuR/8aabe6d78aea78444969d972daace5a9/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4psARb5wfKS7yNZtadsdFy/fc03493398d870c046f39f4d63974c03/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "AMD",
+      "provider": "Priority Pass",
+      "name": "Adani Silver Lounge (Terminal 2) — Gate 1",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6OYwJ4YIS8ts7Sd18FPbwX/a81989c29d0986c7712f9e5a40012132/PHOTO-2026-06-24-16-30-41__5__1.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1Hf3y8nXiOtwpcTKnhhuRq/742621a855c55bc436cbfd84c3b00e59/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "BKK",
+      "provider": "Priority Pass",
+      "name": "Miracle First Class Lounge (International Concourse G) — West Side",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/10gWN2ve2bMQOhJX8tHS1t/6444c5e7afbf01077e343a1050d71cce/BKK27_1.jpg",
+        "https://images.ctfassets.net/687qsr16btly/IZ23YyC8BgMDlMoSVIoMX/c8040eb5aae887859a0d1753825379a7/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "AMD",
+      "provider": "Priority Pass",
+      "name": "Adani Silver Lounge (Terminal 2) — Gate 8",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6OYwJ4YIS8ts7Sd18FPbwX/a81989c29d0986c7712f9e5a40012132/PHOTO-2026-06-24-16-30-41__5__1.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1Hf3y8nXiOtwpcTKnhhuRq/742621a855c55bc436cbfd84c3b00e59/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "AMD",
+      "provider": "Priority Pass",
+      "name": "The Lounge (Terminal 1)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/59BCBlunYYULE4LmfUMCyS/3ab4d43b28ccd61517b8cc2050fbb97d/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/6OYwJ4YIS8ts7Sd18FPbwX/a81989c29d0986c7712f9e5a40012132/PHOTO-2026-06-24-16-30-41__5__1.jpg"
+      ]
+    },
+    {
+      "airport": "BOM",
+      "provider": "Priority Pass",
+      "name": "Aviserv Lounge - West",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3vRjDR9WiTaiXnEZSsbnpF/fe2cf058aa3d9023f9845b7f820523ee/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "IXC",
+      "provider": "Priority Pass",
+      "name": "Primus Lounge (Domestic Terminal)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/58rgSLSqm8LITy17NsLvVg/816a355bfac498f31105ca720e1dbe98/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "ATQ",
+      "provider": "Priority Pass",
+      "name": "Primus Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/2T3kJvVdsf9SlP6AlZs0G1/d9715ef51dea35be30177db846b6841e/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/5YvGtbYxPWiZWSzFjtX1H5/dc6442840f679fb8a27ab5456f100a0e/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "IXC",
+      "provider": "Priority Pass",
+      "name": "Primus Lounge (International Terminal)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/2TkgHllcmqqhngfW1k7vHq/1b6ebb4c0340d41292462f8d286e55ea/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "BOM",
+      "provider": "Priority Pass",
+      "name": "Adani Silver Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/wDpDETI0Gf2wds6USV4GS/8a4c530bf46f4e043ae97376d710b782/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "BOM",
+      "provider": "Priority Pass",
+      "name": "Adani Silver International Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/PPhmo3TvyoAGRBjPEzp2W/6424a38246aee372a4e5bb34adfbbba0/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "ATQ",
+      "provider": "Priority Pass",
+      "name": "The Airr Lounge and Bar",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/2T3kJvVdsf9SlP6AlZs0G1/d9715ef51dea35be30177db846b6841e/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/5YvGtbYxPWiZWSzFjtX1H5/dc6442840f679fb8a27ab5456f100a0e/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "BOM",
+      "provider": "Priority Pass",
+      "name": "Adani Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5j4B9ioxBwVEkLKH7cMKUB/11817c88469bb0e0b9ddd522813690c2/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "TRV",
+      "provider": "Priority Pass",
+      "name": "The Lounge (Terminal 2)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1lsWqIPHfea0kGVnN1IcgY/0c1f3a7bb879eaa74a3ae0f6e5c035a1/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HYD",
+      "provider": "Priority Pass",
+      "name": "Encalm Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6JRQAeWu5jU60x1RbsweIU/ec5ab52452e638a2ade069923b336f51/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "TRV",
+      "provider": "Priority Pass",
+      "name": "The Lounge (Terminal 1)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1lsWqIPHfea0kGVnN1IcgY/0c1f3a7bb879eaa74a3ae0f6e5c035a1/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HYD",
+      "provider": "Priority Pass",
+      "name": "Encalm Lounge — Gate 23",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6JRQAeWu5jU60x1RbsweIU/ec5ab52452e638a2ade069923b336f51/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "NAG",
+      "provider": "Priority Pass",
+      "name": "Mandarin Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5bLhZNpEuKGm6sqkMlEPID/28658d64d996473ce862b3e26c17ace0/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "CGK",
+      "provider": "Priority Pass",
+      "name": "Blue Sky Premier Lounge (Terminal 3) — Gate 13",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/xG5LfTWKFs1ECV3C1yYgn/b47bc88dba43e6f77851b8e5fe60e919/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/3nePQzmudVIJqSr3kYEZ9Z/048b477d40b9dc1cdae7eed86c52e74f/CGK_T1C_Ambience__7_.jpg"
+      ]
+    },
+    {
+      "airport": "DAC",
+      "provider": "Priority Pass",
+      "name": "MTB Air Lounge (Domestic Terminal)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3TvlAKzMZYJt8CQQsA2ir8/7b67db86539794e045aea792e10b911e/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/30F9cDh5n5DhFL67farGzh/193165a6f5af189abef47516e4cd3b4c/495517818_122129872478421143_6441625278086170319_n.jpg"
+      ]
+    },
+    {
+      "airport": "CGK",
+      "provider": "Priority Pass",
+      "name": "Saphire Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/18eFVz0wV2uoXOE2rMUGIw/83de3bf94bc87b36a59e03966fee6b80/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/3nePQzmudVIJqSr3kYEZ9Z/048b477d40b9dc1cdae7eed86c52e74f/CGK_T1C_Ambience__7_.jpg"
+      ]
+    },
+    {
+      "airport": "CGK",
+      "provider": "Priority Pass",
+      "name": "Blue Sky Premier Lounge (Terminal 1B)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3nePQzmudVIJqSr3kYEZ9Z/048b477d40b9dc1cdae7eed86c52e74f/CGK_T1C_Ambience__7_.jpg",
+        "https://images.ctfassets.net/687qsr16btly/18eFVz0wV2uoXOE2rMUGIw/83de3bf94bc87b36a59e03966fee6b80/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "CXB",
+      "provider": "Priority Pass",
+      "name": "MTB Air Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4aIqv8hMmhmVirzCIcN7qU/c6d7dcae8ae5cb3c04216e87b787dda5/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "CXB",
+      "provider": "Priority Pass",
+      "name": "UCB Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5IkHbsfx4Vuq9V5WhPm6dT/058d0c7d0af983bcca682c9c39ad7f01/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "ISB",
+      "provider": "Priority Pass",
+      "name": "CIP Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4V0n72eSLMVm9IAzCLWulD/3782808d4f956868be950c1664b1fdb5/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "CMB",
+      "provider": "Priority Pass",
+      "name": "Lotus First Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6O9IgvKjBz5XAFcpoOJkTz/fdf3b71f95fc3602af957093b41ae341/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/6ZxgasDhtfYTUrMeJZR7Sv/36d7a2a3cfb80e9cfe029fa43ebd12fc/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "CMB",
+      "provider": "Priority Pass",
+      "name": "Palm Strip Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6aiy7xfYypNDK9fQJzSOkf/cd937e5de71aa2f9ee95f5059af4866a/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/6ZxgasDhtfYTUrMeJZR7Sv/36d7a2a3cfb80e9cfe029fa43ebd12fc/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "DAD",
+      "provider": "Priority Pass",
+      "name": "Vietnam Airlines Lotus Lounge (C1 Lounge)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4ccts7BtPXJZy0lEGDJf73/71c77057857d808477e0b9768564a7fe/Ph%C3%83_ng_ch%C3%A1___th%C3%86_%C3%86_ng_gia_s%C3%83_n_bay_%C3%84_%C3%83__N%C3%A1%C2%BA%C2%B5ng_2210.jpg",
+        "https://images.ctfassets.net/687qsr16btly/z8J9aYLRWVorwGYlXfWXI/73011ed922ba718e75366c9724aebe20/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "DAD",
+      "provider": "Priority Pass",
+      "name": "SH Premium Lounge Da Nang",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4ccts7BtPXJZy0lEGDJf73/71c77057857d808477e0b9768564a7fe/Ph%C3%83_ng_ch%C3%A1___th%C3%86_%C3%86_ng_gia_s%C3%83_n_bay_%C3%84_%C3%83__N%C3%A1%C2%BA%C2%B5ng_2210.jpg",
+        "https://images.ctfassets.net/687qsr16btly/z8J9aYLRWVorwGYlXfWXI/73011ed922ba718e75366c9724aebe20/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "LYP",
+      "provider": "Priority Pass",
+      "name": "Prestigio Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/53os0IRAYTTp8Mx39QINOH/5205332e19efee92fc5655cc62a752c2/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "LYP",
+      "provider": "Priority Pass",
+      "name": "Prestigio Lounge — Gate 3",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3fVz0lXohxSXIYL3r24ZYt/b0b448583adbbd0d8acd351dc987f0d2/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "TSA",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4Z9gMJNEHiSC00PgbvIWTS/f60c792362d6fcb9eb8a21c9966f4649/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "TNA",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6TiHuI6NYGp1Lh22OyKrX6/6bf2560144e35fe5ba6634a38555fafd/TNA9_1.jpg"
+      ]
+    },
+    {
+      "airport": "CKG",
+      "provider": "Priority Pass",
+      "name": "China Southern First/Business Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1JkLk1kdPFZV56Qo7aSvm8/611aedfe73e744ac6b2c8ff19f9ca149/CKG22S_3.jpg",
+        "https://images.ctfassets.net/687qsr16btly/zbKuS58p1wkOfSlh8ufwP/32f7b1f55e34537864045500cfb5f20c/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "PKX",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines V3 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5uU93dggPkYtndFmuII8AL/c43b27969005b95414802fc23ff34913/PKX15-1.jpg",
+        "https://images.ctfassets.net/687qsr16btly/5NoEHQjBMPxvELDTiVG7zR/1693cfa587ac522ec9ad981018877bf9/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "DIG",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3x5HCbuw5AUrRdUI9Op7jF/3ee297781a0f7064380779792f25867c/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "DIG",
+      "provider": "Priority Pass",
+      "name": "Best Business VIP Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4r7SzZr2rEhPv1q13snFh6/9049fc7887b480c47a857ce82ca051d4/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "HGH",
+      "provider": "Priority Pass",
+      "name": "VIP Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/7sF9qLWlnLe1LAh1wNRKIP/03b153d264ab7d5f6830ea8589c739fe/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/5CLaj709Ycrv4Bl6r88XU9/92a70b69f5e3d866cd4b4fe30e9af5d0/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HGH",
+      "provider": "Priority Pass",
+      "name": "VIP No. 6 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5CLaj709Ycrv4Bl6r88XU9/92a70b69f5e3d866cd4b4fe30e9af5d0/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/7sF9qLWlnLe1LAh1wNRKIP/03b153d264ab7d5f6830ea8589c739fe/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HGH",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge 9",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/7sF9qLWlnLe1LAh1wNRKIP/03b153d264ab7d5f6830ea8589c739fe/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/5CLaj709Ycrv4Bl6r88XU9/92a70b69f5e3d866cd4b4fe30e9af5d0/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HAK",
+      "provider": "Priority Pass",
+      "name": "Easyflying Lounge 2",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6azHGY7ZHP7HiRC475e4Sr/30b118318840860102c7a4b5d71b6dd2/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HFE",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4DgJkY2dlTcFTC5gGCsdVy/0eec3e50c5c28179bf4381e9fed79f94/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/2BCHy9fCUuIMdE3L61e0Ty/873ef3c9f7b5f6811b1b623d1190d131/HFE5_1.jpg"
+      ]
+    },
+    {
+      "airport": "CGQ",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge (Terminal 2) — Gate 11",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4UH278BeEfhSOKM2wUfkXd/4b268df6b67c3d14427aa64f4a20bb60/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1teHayMUP879elPETJqlT5/125c8b007e4a29b7143ec20cee075ee8/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "CGQ",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge 1",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4UH278BeEfhSOKM2wUfkXd/4b268df6b67c3d14427aa64f4a20bb60/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1teHayMUP879elPETJqlT5/125c8b007e4a29b7143ec20cee075ee8/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HAK",
+      "provider": "Priority Pass",
+      "name": "Easyflying Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3OTEYZ1eQbDLrQJpuHWQUG/ec89ef954f28c4bb8f5ed908ed5c11a8/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HAK",
+      "provider": "Priority Pass",
+      "name": "Business Lounge 1",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3hJl2iQYAtLhAvujwFmaWI/c83c16dfc99c5c477c99386944e82003/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HFE",
+      "provider": "Priority Pass",
+      "name": "CIP Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4DgJkY2dlTcFTC5gGCsdVy/0eec3e50c5c28179bf4381e9fed79f94/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4xf6UgGTdmA7CBgb9BnpZG/91eb0e130237600f134fc51add378889/image_1.jpg"
+      ]
+    },
+    {
+      "airport": "HAK",
+      "provider": "Priority Pass",
+      "name": "Business Lounge 4",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5Rg6vtC5ZZC59Tbe73EJEp/1ccac4c52147d4a65dc4d1e3fabbab81/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HAK",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge (Terminal 1)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6xUhrrTDV9RwAw88LSj3wx/cd7d54a7a2dcae5becb6236097d3ce77/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "CGQ",
+      "provider": "Priority Pass",
+      "name": "China Southern Gold/Silver/Elite Plus Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1teHayMUP879elPETJqlT5/125c8b007e4a29b7143ec20cee075ee8/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4UH278BeEfhSOKM2wUfkXd/4b268df6b67c3d14427aa64f4a20bb60/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HAK",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge (Terminal 2)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/7q02UDrte6MbzhNjy7vKyi/742c062316c205c86f4efe1caddb668e/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "TFU",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/2UNXd7894ii9PzDuRrjUta/42b69c6a220c69512cfce91013c03329/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "NKG",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines V3 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/7jLfDFcdPnnCvOrWvc9LyG/e8d6c45dc1f3103c669292c542511c64/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "LUM",
+      "provider": "Priority Pass",
+      "name": "Best Business VIP Lounge — Gate 4",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/jrUJl9m3N8OJrQzd479r3/9b0d30a5cb74dc88a35de71563253ef4/LUM_1.jpg"
+      ]
+    },
+    {
+      "airport": "LJG",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge 2",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1hkajQzPOjqSdXGYqV9kmj/6900a6af2d5dc164487c0c2b5aef60c3/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "LJG",
+      "provider": "Priority Pass",
+      "name": "International Lounge No.2",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4pQ8XJXfQqIEBFjRGMX3IN/c052e3adc704dab687670564e3cf4087/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "LJG",
+      "provider": "Priority Pass",
+      "name": "International Lounge No.1",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4Lz5WNnhIxGrvDle0yIcC3/bab59a3e5ce5470302e8bb9323acd9f5/stockimage-wifi.jpg"
+      ]
+    },
+    {
+      "airport": "LJG",
+      "provider": "Priority Pass",
+      "name": "Best Business VIP Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3iBspl9PhKIVXEYa7UYvw9/c00be4a526b0e0ca622c9eef49f8e883/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "NKG",
+      "provider": "Priority Pass",
+      "name": "China Southern First/Business Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/7jLfDFcdPnnCvOrWvc9LyG/e8d6c45dc1f3103c669292c542511c64/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/5kxcmfAvZ7hsiQqxtGKjmw/eaef0f39355b92bf9856986a6af8c485/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "LJG",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge 1",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/170qxP8A6tyliygI4DepnG/69b51df9b763369e09fd8349710cf134/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "PVG",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines No.101 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/46aaDseqveNkLsr4HZQ7pM/0055fcdb0574064ce88f2481297e0e9d/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4pHLWdVqItcBwPGZ7pmlyA/9f58dfa5a552e2b41103a7d4ccb19d60/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "PVG",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines No.137 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/46aaDseqveNkLsr4HZQ7pM/0055fcdb0574064ce88f2481297e0e9d/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4pHLWdVqItcBwPGZ7pmlyA/9f58dfa5a552e2b41103a7d4ccb19d60/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "PVG",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines No.36 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/46aaDseqveNkLsr4HZQ7pM/0055fcdb0574064ce88f2481297e0e9d/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4pHLWdVqItcBwPGZ7pmlyA/9f58dfa5a552e2b41103a7d4ccb19d60/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "PVG",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines No.35 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/46aaDseqveNkLsr4HZQ7pM/0055fcdb0574064ce88f2481297e0e9d/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/4pHLWdVqItcBwPGZ7pmlyA/9f58dfa5a552e2b41103a7d4ccb19d60/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "TYN",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines V2 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/Wvq9nqwdGA2Ve3wHNM2wN/907ac7d1a732040df2ac4eb23b94dc1c/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/3ERWFr4raMVsYwFgh4GHjQ/ca06c4cff2e01f363b9b398f44211ecb/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "JXA",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge 2",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/2XZxyx4EeQNgXlYqxdMbUB/4769b5ac8e86ac686d60b9843eb4703a/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "JXA",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/78Zk3JvOIpeqOdiBptUzYQ/5edfdb91e4191ad5b7f3ef1e5515131d/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "SHE",
+      "provider": "Priority Pass",
+      "name": "China Southern Gold/Silver/Elite Plus Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1UUHZapTCqeilNIrgtvewZ/74c92862277cf516bbae8742630f2485/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/zurFeujmqgbIpw6cF1YoQ/9ba2e2fca2c374cdb8a0ddb9320ef480/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "SHE",
+      "provider": "Priority Pass",
+      "name": "China Southern First/Business Class Gold/Silver/Elite Plus Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/2PQEriPfD4VEJ1OgyzYMZl/98b7ca86c10f0965b72696f06d02b8b4/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/6jSmlTHialJ7Jw7FOwyJIF/fe3dba6ffccea61e701a4e34e5f3ed09/image_1.jpg"
+      ]
+    },
+    {
+      "airport": "SWA",
+      "provider": "Priority Pass",
+      "name": "Domestic Airlines Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3BJJ70KZCFjTwZIOiR2ze7/bf46ccf29c90cb827d38055696ebd52d/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/13TsCpCmBazqfrgRsVd4OP/832717a5f0b39920af17fb9ea7e5ef06/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "TSN",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge (No. 20)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1xbLwsdnAfNaDbhdpvjAE9/5234ddc12004d6b76f77b9b60664c2fe/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/7mPvke4N8G1LYfj3W3P2TR/b6c609f3d01c059239bf738db0e0a8aa/TSN15_1.jpg"
+      ]
+    },
+    {
+      "airport": "SWA",
+      "provider": "Priority Pass",
+      "name": "China Southern Gold/Silver/Elite Plus Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3BJJ70KZCFjTwZIOiR2ze7/bf46ccf29c90cb827d38055696ebd52d/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/13TsCpCmBazqfrgRsVd4OP/832717a5f0b39920af17fb9ea7e5ef06/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "TSN",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge (No.5)",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/4Bowhu5Wsl6X1EjSV3xn0h/0c4d288114e5df7168bff2b41b5d18fc/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/7mPvke4N8G1LYfj3W3P2TR/b6c609f3d01c059239bf738db0e0a8aa/TSN15_1.jpg"
+      ]
+    },
+    {
+      "airport": "KMG",
+      "provider": "Priority Pass",
+      "name": "Lucky Air VIP Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/2e2fHSwwXNlhZurNYgZszu/9acd6d887ca4d977e9db1c3b468398e0/KMG11_1.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1rPK28D3ZW86w9d73EdrL2/6c31530ce850a581a60cb929bd612dee/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "URC",
+      "provider": "Priority Pass",
+      "name": "China Southern Gold/Silver/Elite Plus Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3OWXrl6wziEhDEBZoFG3wS/c55dde2da69b482e2ba6b41313948b86/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/6puphp5LrUhh9a9iOX6a9r/ba33b869cb4f8556eb12bee0d48a3e39/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "YNT",
+      "provider": "Priority Pass",
+      "name": "Airlines Lounge 02 / Business Hall",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/38mV6gFj8nhiRJfB9d6mrm/ab829cc4582375010d320d0d37f8166d/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "XMN",
+      "provider": "Priority Pass",
+      "name": "Guest Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3S4OdMvrNcHRrcVI8d2iaJ/306621bbefffc31591a04ef694ad70d4/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/6KcbrgIASixILVkzQkWASF/87f58e1ff0a9258a09d2a34ede287664/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "WUS",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge V2",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5UU5EO4G8uCX3Cumx4UIfS/06eb622877e6c1211dc35396e58c8f6f/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "WUS",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge V1",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5UU5EO4G8uCX3Cumx4UIfS/06eb622877e6c1211dc35396e58c8f6f/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "YNT",
+      "provider": "Priority Pass",
+      "name": "First/Business Class Lounge 06",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6eNsp3UftGdeseGUsdWkz0/795bd39eea4d7c101ffdbcbefbe58145/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "XUZ",
+      "provider": "Priority Pass",
+      "name": "Asia Europe Aviation Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6rjvDAT3XKvce4zOHR8yXa/fddce0630c79d25b6c3484f3e238495e/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "YBP",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge 01",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1MR8ZJZCHl1sAZs1SF0Nmz/003d3e2399480bf24de15e4efec2baa3/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "DYG",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/43wZKZFADksDz7dscyTlbn/c6054d507b2567743924eccb7262691a/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/5ViNijqIxhLTR2WTFNj0jg/5a45ade9773632550d0d4c3766f09e19/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "XUZ",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge (Terminal 2) — 1",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6rjvDAT3XKvce4zOHR8yXa/fddce0630c79d25b6c3484f3e238495e/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1Ocxb4JGWmKB8NblzlRCoV/f7781a693528c180c0148bde6e5982ef/image_1.jpg"
+      ]
+    },
+    {
+      "airport": "XIY",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines No.39 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6CEmTjwAlSY9OeZnjPXzAA/8a266ab0874067aa9b299354c9cae2e6/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "XUZ",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge (Terminal 2) — 2",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6rjvDAT3XKvce4zOHR8yXa/fddce0630c79d25b6c3484f3e238495e/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "YBP",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge 02",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1MR8ZJZCHl1sAZs1SF0Nmz/003d3e2399480bf24de15e4efec2baa3/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "CGO",
+      "provider": "Priority Pass",
+      "name": "China Southern First/Business Class Lounge V1",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/fVfi2ZVP9pFaV3ETjYzUM/b9ff2450dfa8a6d56eb28180fdb3aafc/00e6f12d8db96d920d80a5a793a2f316_origin_1_.jpg",
+        "https://images.ctfassets.net/687qsr16btly/7LDfLxfNk6sa9DmN1ajz7j/5158aebc09179cdaff82bf54ab82a249/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "WUX",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines V3 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5W8ins2k4u2tCELXr3zRtV/2b71fdf55bce7511ae1931aeff7115f7/WUX5_2.jpg",
+        "https://images.ctfassets.net/687qsr16btly/6duXmrvy8y7WvYsCt8YvFg/840555c953a116dd64f974194d2614ca/WUX6_1.jpg"
+      ]
+    },
+    {
+      "airport": "DYG",
+      "provider": "Priority Pass",
+      "name": "No. 2 VIP Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/5ViNijqIxhLTR2WTFNj0jg/5a45ade9773632550d0d4c3766f09e19/main_image.jpg",
+        "https://images.ctfassets.net/687qsr16btly/43wZKZFADksDz7dscyTlbn/c6054d507b2567743924eccb7262691a/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "XIY",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge V22",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/28Ha76UVQr0ln1xAH8iI9e/a18a76a731b77f3fe67cfa92b30ba6ce/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "XIY",
+      "provider": "Priority Pass",
+      "name": "International First Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/6CEmTjwAlSY9OeZnjPXzAA/8a266ab0874067aa9b299354c9cae2e6/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "WUH",
+      "provider": "Priority Pass",
+      "name": "No. 6 First Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/7LbsStS4O3FfgSWHGeAvIN/806f8de201125e4ebfa239de62f4ff00/WUH14_1.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1kOesoqohmXLyjcOjiPbky/c822e82a53e6e6fc7d90fda7cdeb52ba/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "WUH",
+      "provider": "Priority Pass",
+      "name": "China Eastern Airlines V4 Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/7LbsStS4O3FfgSWHGeAvIN/806f8de201125e4ebfa239de62f4ff00/WUH14_1.jpg",
+        "https://images.ctfassets.net/687qsr16btly/1kOesoqohmXLyjcOjiPbky/c822e82a53e6e6fc7d90fda7cdeb52ba/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "ZAT",
+      "provider": "Priority Pass",
+      "name": "Best Business VIP Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/3eK6HDs0cg6IUQXBzbJuMM/c2b3f6202ab8075c09525696264b7563/Stock_Image_2_Wi-Fi.jpg"
+      ]
+    },
+    {
+      "airport": "ZAT",
+      "provider": "Priority Pass",
+      "name": "First Class Lounge",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1GdBFt9jbO0QrxUQgkbbps/b23c7b0d2ecab1a7ddde7865cd10ba85/Stock_Image_2_Wi-Fi.jpg"
       ]
     }
   ],
