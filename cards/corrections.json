@@ -1975,6 +1975,283 @@
       "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2026/04/Momentum_Infinite_Plus_Chip_E_RGB.png",
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
+    },
+    {
+      "id": "scotia-passport-visa-infinite-plus-can",
+      "name": "Scotiabank Passport Visa Infinite + CAN",
+      "issuer": "Scotiabank",
+      "market": "CAN",
+      "annualFeeMinor": 15000,
+      "feeNote": "Annual fee verified from current Scotiabank Canada product information on 2026-10-12: C$150/year.",
+      "colorHex": "CD4A57",
+      "secondaryHex": "672636",
+      "artworkAsset": "Card-scotia-passport-visa-infinite-plus-can",
+      "programIDs": [
+        "scene-can"
+      ],
+      "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Verified against current Scotiabank Canada issuer pages on 2026-10-12. Welcome offers are excluded from Best Card rankings; merchant coding, annual spend caps and account-specific terms still control actual earn.",
+      "benefits": [
+        {
+          "id": "lounge-visits",
+          "title": "Visa Airport Companion visits",
+          "detail": "Six complimentary lounge visits per membership year through Visa Airport Companion.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/compare-cards.html",
+          "kind": "benefit"
+        },
+        {
+          "id": "no-fx",
+          "title": "No foreign transaction fee",
+          "detail": "No foreign transaction fee charged by Scotiabank on eligible foreign-currency purchases; network conversion applies.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/compare-cards.html",
+          "kind": "benefit"
+        },
+        {
+          "id": "gigsky",
+          "title": "GigSky connectivity (Visa Infinite +)",
+          "detail": "Current GigSky Canada Visa terms provide one complimentary 1 GB / 15-day plan per year for eligible Visa Infinite+ cardholders, plus applicable ongoing purchase discounts. The prior 10 GB description is no longer current.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.gigsky.com/visa/terms?tab=canada",
+          "kind": "benefit"
+        },
+        {
+          "id": "pot-avis-preferred-plus",
+          "title": "Avis Preferred Plus",
+          "detail": "Avis Preferred Plus with a one-class car upgrade.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/",
+          "priority": 50
+        },
+        {
+          "id": "pot-shell-fuel-savings",
+          "title": "Shell fuel savings",
+          "detail": "Get up to 10¢/L in value at Shell when you link this card and Scene+ to a Shell Go+ account.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/",
+          "priority": 51
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Receive up to $2 million CAD in emergency medical coverage for you, your spouse, and your eligible dependent children.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Protect your trip with cancellation and interruption insurance when you charge at least 75% of your trip costs to your card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Protect your trip with cancellation and interruption insurance when you charge at least 75% of your trip costs to your card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "If you charge at least 75% of your ticket to your card, you’re eligible for reimbursement of necessary expenses if your flight is delayed up to $500 per insured person on the same trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "If your checked luggage is delayed or lost, you’re covered up to $1,000 if you charged the full cost of your travel ticket to your card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "When you use your card to pay for your stay at any hotel or motel around the world, you, your spouse, and your dependent children are eligible for coverage up to $1,000 against theft if your room is broken into.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "If your eligible rental car is damaged or stolen, you’re automatically insured if you’ve charged the full cost of it to your card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "When you charge at least 75% of your trip to your card, you’re insured against accidental loss of life or dismemberment up to $500,000 per insured person and up to $1,000,000 for the trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Most of the new items you buy with your card are insured against theft, loss, or damage for 90 days from the purchase date.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Doubles eligible original manufacturer's warranties for up to one additional year when the full purchase price is charged to the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+          "kind": "protection",
+          "priority": 210
+        }
+      ],
+      "statuses": [
+        {
+          "id": "pot-avis-preferred-plus",
+          "programID": "avis",
+          "tier": "Preferred Plus",
+          "rank": 10,
+          "enrollmentRequired": true,
+          "condition": "Register for Avis Preferred and link it to the card's offer; keep the card open and in good standing.",
+          "automatic": true,
+          "sourceURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/"
+        }
+      ],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html"
+        },
+        {
+          "id": "sobeys",
+          "categories": [
+            "sobeysGroup"
+          ],
+          "rate": 3,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "Eligible participating Sobeys-family grocery stores.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html"
+        },
+        {
+          "id": "2x",
+          "categories": [
+            "groceries",
+            "dining",
+            "entertainment",
+            "transit"
+          ],
+          "rate": 2,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "Eligible other groceries, dining, entertainment and transit.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html"
+        },
+        {
+          "id": "scene-travel",
+          "categories": [
+            "hotelsPortal",
+            "carRentalsPortal"
+          ],
+          "rate": 4,
+          "rewardKind": "points",
+          "programID": "scene-can",
+          "label": "Scene+ points",
+          "detail": "Eligible Scene+ Travel hotel and car-rental bookings: 1 card point plus 3 additional Scene+ Travel points.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/",
+      "artworkSearchTerms": "Scotia Passport Visa Infinite Plus",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "available",
+      "loungeAccess": [
+        {
+          "id": "dragonpass",
+          "provider": "DragonPass",
+          "title": "Visa Airport Companion (DragonPass)",
+          "detail": "Six complimentary visits per membership year.",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/compare-cards.html",
+          "finderURLTemplate": "https://airport.mastercard.com/en/lounge-finder"
+        }
+      ],
+      "foreignTransactionFeePercent": 0,
+      "benefitSourceURLs": [
+        "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/passport-infinite-card.html",
+        "https://princeoftravel.com/credit-cards/scotiabank-passport-visa-infinite-card/"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2026/04/SB-Visa-Infinite-Plus-chip-E-PMS-0326.png",
+      "earningDataComplete": true
     }
   ],
   "removeCards": [],
