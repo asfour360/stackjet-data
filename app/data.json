@@ -264,7 +264,506 @@
   "pointsGuySources": [],
   "frequentMilerSources": [],
   "partnerNames": [],
-  "statusMatchRules": [],
+  "statusMatchRules": [
+    {
+      "source": "hilton",
+      "minRank": 1,
+      "destProgram": "choice",
+      "destRank": 1,
+      "dest": "Choice Privileges Gold",
+      "instant": true,
+      "detail": "No stays. Once per lifetime. Silver-level proof usually stops at Gold.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "hilton",
+      "minRank": 2,
+      "destProgram": "choice",
+      "destRank": 2,
+      "dest": "Choice Privileges Platinum",
+      "instant": true,
+      "detail": "No stays. Once per lifetime. A July–December match lasts through the next calendar year. Canada is eligible.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "marriott",
+      "minRank": 1,
+      "destProgram": "choice",
+      "destRank": 1,
+      "dest": "Choice Privileges Gold",
+      "instant": true,
+      "detail": "No stays. Once per lifetime.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "marriott",
+      "minRank": 2,
+      "destProgram": "choice",
+      "destRank": 2,
+      "dest": "Choice Privileges Platinum",
+      "instant": true,
+      "detail": "No stays. Once per lifetime. Canada is eligible.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "hyatt",
+      "minRank": 1,
+      "destProgram": "choice",
+      "destRank": 1,
+      "dest": "Choice Privileges Gold",
+      "instant": true,
+      "detail": "Discoverist is a low tier. Expect Gold, not Platinum.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "hyatt",
+      "minRank": 3,
+      "destProgram": "choice",
+      "destRank": 2,
+      "dest": "Choice Privileges Platinum",
+      "instant": true,
+      "detail": "No stays.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "ihg",
+      "minRank": 2,
+      "destProgram": "choice",
+      "destRank": 2,
+      "dest": "Choice Privileges Platinum",
+      "instant": true,
+      "detail": "No stays.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "wyndham",
+      "minRank": 2,
+      "destProgram": "choice",
+      "destRank": 2,
+      "dest": "Choice Privileges Platinum",
+      "instant": true,
+      "detail": "No stays.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "bw",
+      "minRank": 1,
+      "destProgram": "choice",
+      "destRank": 1,
+      "dest": "Choice Privileges Gold",
+      "instant": true,
+      "detail": "No stays.",
+      "url": "https://www.choicehotels.com/choice-privileges/membership-levels/status-match"
+    },
+    {
+      "source": "hilton",
+      "minRank": 1,
+      "destProgram": "wyndham",
+      "destRank": 2,
+      "dest": "Wyndham Platinum",
+      "instant": true,
+      "detail": "Matched Platinum lasts 90 days; complete 7 qualifying nights in that period to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "hilton",
+      "minRank": 3,
+      "destProgram": "wyndham",
+      "destRank": 3,
+      "dest": "Wyndham Rewards Diamond",
+      "instant": true,
+      "detail": "Matched Diamond lasts 90 days; complete 14 qualifying nights in that period to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "marriott",
+      "minRank": 1,
+      "destProgram": "wyndham",
+      "destRank": 2,
+      "dest": "Wyndham Platinum",
+      "instant": true,
+      "detail": "Matched Platinum lasts 90 days; complete 7 qualifying nights in that period to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "marriott",
+      "minRank": 3,
+      "destProgram": "wyndham",
+      "destRank": 3,
+      "dest": "Wyndham Rewards Diamond",
+      "instant": true,
+      "detail": "Matched Diamond lasts 90 days; complete 14 qualifying nights in that period to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "hyatt",
+      "minRank": 1,
+      "destProgram": "wyndham",
+      "destRank": 2,
+      "dest": "Wyndham Platinum",
+      "instant": true,
+      "detail": "Discoverist and Explorist map to Platinum. Complete 7 qualifying nights in 90 days to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "hyatt",
+      "minRank": 3,
+      "destProgram": "wyndham",
+      "destRank": 3,
+      "dest": "Wyndham Rewards Diamond",
+      "instant": true,
+      "detail": "Globalist maps to Diamond. Complete 14 qualifying nights in 90 days to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "ihg",
+      "minRank": 2,
+      "destProgram": "wyndham",
+      "destRank": 2,
+      "dest": "Wyndham Platinum",
+      "instant": true,
+      "detail": "IHG Gold and Platinum map to Wyndham Platinum. Complete 7 qualifying nights in 90 days to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "choice",
+      "minRank": 1,
+      "destProgram": "wyndham",
+      "destRank": 2,
+      "dest": "Wyndham Platinum",
+      "instant": true,
+      "detail": "Choice Gold and Platinum map to Wyndham Platinum. Complete 7 qualifying nights in 90 days to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "bw",
+      "minRank": 1,
+      "destProgram": "wyndham",
+      "destRank": 2,
+      "dest": "Wyndham Platinum",
+      "instant": true,
+      "detail": "Best Western Gold through Diamond map to Wyndham Platinum. Complete 7 qualifying nights in 90 days to keep it.",
+      "url": "https://www.wyndhamhotels.com/en-uk/wyndham-rewards/status-match"
+    },
+    {
+      "source": "hilton",
+      "minRank": 1,
+      "destProgram": "bw",
+      "destRank": 2,
+      "dest": "Best Western Rewards",
+      "instant": true,
+      "detail": "Comparable tier, outright. A 2026 approval runs through Dec 31, 2027. Not always Diamond Select.",
+      "url": "https://www.bestwestern.com/en_US/best-western-rewards/status-match.html"
+    },
+    {
+      "source": "marriott",
+      "minRank": 1,
+      "destProgram": "bw",
+      "destRank": 2,
+      "dest": "Best Western Rewards",
+      "instant": true,
+      "detail": "Comparable tier through Dec 31, 2027 if approved in 2026.",
+      "url": "https://www.bestwestern.com/en_US/best-western-rewards/status-match.html"
+    },
+    {
+      "source": "hyatt",
+      "minRank": 1,
+      "destProgram": "bw",
+      "destRank": 2,
+      "dest": "Best Western Rewards",
+      "instant": true,
+      "detail": "Comparable tier.",
+      "url": "https://www.bestwestern.com/en_US/best-western-rewards/status-match.html"
+    },
+    {
+      "source": "ihg",
+      "minRank": 1,
+      "destProgram": "bw",
+      "destRank": 2,
+      "dest": "Best Western Rewards",
+      "instant": true,
+      "detail": "Comparable tier.",
+      "url": "https://www.bestwestern.com/en_US/best-western-rewards/status-match.html"
+    },
+    {
+      "source": "wyndham",
+      "minRank": 1,
+      "destProgram": "bw",
+      "destRank": 2,
+      "dest": "Best Western Rewards",
+      "instant": true,
+      "detail": "Comparable tier.",
+      "url": "https://www.bestwestern.com/en_US/best-western-rewards/status-match.html"
+    },
+    {
+      "source": "choice",
+      "minRank": 1,
+      "destProgram": "bw",
+      "destRank": 2,
+      "dest": "Best Western Rewards",
+      "instant": true,
+      "detail": "Comparable tier.",
+      "url": "https://www.bestwestern.com/en_US/best-western-rewards/status-match.html"
+    },
+    {
+      "source": "hilton",
+      "minRank": 1,
+      "destProgram": "world",
+      "destRank": 1,
+      "dest": "WorldHotels Rewards",
+      "instant": true,
+      "detail": "Ask with the Best Western request."
+    },
+    {
+      "source": "marriott",
+      "minRank": 1,
+      "destProgram": "world",
+      "destRank": 1,
+      "dest": "WorldHotels Rewards",
+      "instant": true,
+      "detail": "Ask with the Best Western request."
+    },
+    {
+      "source": "hyatt",
+      "minRank": 1,
+      "destProgram": "world",
+      "destRank": 1,
+      "dest": "WorldHotels Rewards",
+      "instant": true,
+      "detail": ""
+    },
+    {
+      "source": "ihg",
+      "minRank": 1,
+      "destProgram": "world",
+      "destRank": 1,
+      "dest": "WorldHotels Rewards",
+      "instant": true,
+      "detail": ""
+    },
+    {
+      "source": "wyndham",
+      "minRank": 1,
+      "destProgram": "world",
+      "destRank": 1,
+      "dest": "WorldHotels Rewards",
+      "instant": true,
+      "detail": ""
+    },
+    {
+      "source": "hilton",
+      "minRank": 1,
+      "destProgram": "sonesta",
+      "destRank": 1,
+      "dest": "Sonesta Travel Pass",
+      "instant": true,
+      "detail": "Email a status screenshot. The tier is assigned, not guaranteed.",
+      "url": "https://www.sonesta.com/travel-pass/status-match"
+    },
+    {
+      "source": "marriott",
+      "minRank": 1,
+      "destProgram": "sonesta",
+      "destRank": 1,
+      "dest": "Sonesta Travel Pass",
+      "instant": true,
+      "detail": "Email a status screenshot.",
+      "url": "https://www.sonesta.com/travel-pass/status-match"
+    },
+    {
+      "source": "hyatt",
+      "minRank": 1,
+      "destProgram": "sonesta",
+      "destRank": 1,
+      "dest": "Sonesta Travel Pass",
+      "instant": true,
+      "detail": "",
+      "url": "https://www.sonesta.com/travel-pass/status-match"
+    },
+    {
+      "source": "ihg",
+      "minRank": 1,
+      "destProgram": "sonesta",
+      "destRank": 1,
+      "dest": "Sonesta Travel Pass",
+      "instant": true,
+      "detail": "",
+      "url": "https://www.sonesta.com/travel-pass/status-match"
+    },
+    {
+      "source": "wyndham",
+      "minRank": 1,
+      "destProgram": "sonesta",
+      "destRank": 1,
+      "dest": "Sonesta Travel Pass",
+      "instant": true,
+      "detail": "",
+      "url": "https://www.sonesta.com/travel-pass/status-match"
+    },
+    {
+      "source": "choice",
+      "minRank": 1,
+      "destProgram": "sonesta",
+      "destRank": 1,
+      "dest": "Sonesta Travel Pass",
+      "instant": true,
+      "detail": "",
+      "url": "https://www.sonesta.com/travel-pass/status-match"
+    },
+    {
+      "source": "bw",
+      "minRank": 1,
+      "destProgram": "sonesta",
+      "destRank": 1,
+      "dest": "Sonesta Travel Pass",
+      "instant": true,
+      "detail": "",
+      "url": "https://www.sonesta.com/travel-pass/status-match"
+    },
+    {
+      "source": "marriott",
+      "minRank": 1,
+      "destProgram": "hilton",
+      "destRank": 2,
+      "dest": "Hilton Honors Gold",
+      "instant": true,
+      "detail": "90-day trial. 6 paid nights keeps Gold through Mar 31, 2028. 12 nights upgrades to Diamond. Needs a stay in the source program within 24 months. Some Hilton rounds exclude Canada.",
+      "url": "https://www.hilton.com/en/p/hilton-honors/status-match/faq/"
+    },
+    {
+      "source": "hyatt",
+      "minRank": 1,
+      "destProgram": "hilton",
+      "destRank": 2,
+      "dest": "Hilton Honors Gold",
+      "instant": true,
+      "detail": "Same Hilton trial. Hidden if this wallet already has Hilton Gold or Diamond.",
+      "url": "https://www.hilton.com/en/p/hilton-honors/status-match/faq/"
+    },
+    {
+      "source": "ihg",
+      "minRank": 1,
+      "destProgram": "hilton",
+      "destRank": 2,
+      "dest": "Hilton Honors Gold",
+      "instant": true,
+      "detail": "Same Hilton trial.",
+      "url": "https://www.hilton.com/en/p/hilton-honors/status-match/faq/"
+    },
+    {
+      "source": "wyndham",
+      "minRank": 1,
+      "destProgram": "hilton",
+      "destRank": 2,
+      "dest": "Hilton Honors Gold",
+      "instant": true,
+      "detail": "Same Hilton trial.",
+      "url": "https://www.hilton.com/en/p/hilton-honors/status-match/faq/"
+    },
+    {
+      "source": "choice",
+      "minRank": 1,
+      "destProgram": "hilton",
+      "destRank": 2,
+      "dest": "Hilton Honors Gold",
+      "instant": true,
+      "detail": "Same Hilton trial.",
+      "url": "https://www.hilton.com/en/p/hilton-honors/status-match/faq/"
+    },
+    {
+      "source": "bw",
+      "minRank": 1,
+      "destProgram": "hilton",
+      "destRank": 2,
+      "dest": "Hilton Honors Gold",
+      "instant": true,
+      "detail": "Same Hilton trial.",
+      "url": "https://www.hilton.com/en/p/hilton-honors/status-match/faq/"
+    },
+    {
+      "source": "marriott",
+      "minRank": 2,
+      "destProgram": "krisflyer",
+      "destRank": 1,
+      "dest": "KrisFlyer Elite Silver",
+      "instant": false,
+      "detail": "Link the accounts, then 2 paid Singapore Airlines flights within 6 months. Not instant at Gold.",
+      "url": "https://www.singaporeair.com/en_UK/sg/plan-travel/promotions/global/kf/kf-promo/marriottbonvoy/"
+    },
+    {
+      "source": "marriott",
+      "minRank": 3,
+      "destProgram": "krisflyer",
+      "destRank": 1,
+      "dest": "KrisFlyer Elite Silver",
+      "instant": true,
+      "detail": "Instant for 12 months. 4 paid Singapore flights in 6 months upgrades to Elite Gold.",
+      "url": "https://www.singaporeair.com/en_UK/sg/plan-travel/promotions/global/kf/kf-promo/marriottbonvoy/"
+    },
+    {
+      "source": "marriott",
+      "minRank": 2,
+      "destProgram": "sixt",
+      "destRank": 1,
+      "dest": "Sixt Platinum",
+      "instant": true,
+      "detail": "Reported from Marriott Gold.",
+      "url": "https://www.sixt.com/help-center/articles/how-do-i-request-a-sixt-one-status-match-from-another-loyalty-program/"
+    },
+    {
+      "source": "hertz",
+      "minRank": 1,
+      "destProgram": "enterprise",
+      "destRank": 1,
+      "dest": "Enterprise Plus Gold",
+      "instant": true,
+      "detail": "Two upgrade certificates.",
+      "url": "https://www.enterprise.com/en/car-rental-faqs/us-enterprise-plus/enterprise-plus-status-match.html"
+    },
+    {
+      "source": "hertz",
+      "minRank": 2,
+      "destProgram": "enterprise",
+      "destRank": 2,
+      "dest": "Enterprise Plus Platinum",
+      "instant": true,
+      "detail": "Four upgrade certificates. A 2026 match runs through February 2028.",
+      "url": "https://www.enterprise.com/en/car-rental-faqs/us-enterprise-plus/enterprise-plus-status-match.html"
+    },
+    {
+      "source": "avis",
+      "minRank": 1,
+      "destProgram": "enterprise",
+      "destRank": 1,
+      "dest": "Enterprise Plus Gold",
+      "instant": true,
+      "detail": "From Avis Preferred Plus.",
+      "url": "https://www.enterprise.com/en/car-rental-faqs/us-enterprise-plus/enterprise-plus-status-match.html"
+    },
+    {
+      "source": "avis",
+      "minRank": 2,
+      "destProgram": "enterprise",
+      "destRank": 2,
+      "dest": "Enterprise Plus Platinum",
+      "instant": true,
+      "detail": "From Avis President's Club.",
+      "url": "https://www.enterprise.com/en/car-rental-faqs/us-enterprise-plus/enterprise-plus-status-match.html"
+    },
+    {
+      "source": "hertz",
+      "minRank": 1,
+      "destProgram": "national",
+      "destRank": 1,
+      "dest": "National Executive",
+      "instant": true,
+      "detail": "Canada only, from Hertz Five Star. Do not chain this into Avis inside the app.",
+      "countries": [
+        "CA"
+      ],
+      "url": "https://www.nationalcar.ca/en/support/car-rental-faqs/higher-status-with-competitor-match.html"
+    }
+  ],
   "statusMatchCards": [],
   "statusProgramNames": {},
   "pointValueNames": [],
