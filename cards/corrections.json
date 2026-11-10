@@ -1702,6 +1702,279 @@
         "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite-privilege/"
       ],
       "earningDataComplete": true
+    },
+    {
+      "id": "scotia-momentum-visa-infinite-plus-can",
+      "name": "Scotia Momentum Visa Infinite + CAN",
+      "issuer": "Scotiabank",
+      "market": "CAN",
+      "annualFeeMinor": 12000,
+      "feeNote": "Annual fee verified from current Scotiabank Canada product information on 2026-10-12: C$120/year.",
+      "colorHex": "CD4A57",
+      "secondaryHex": "672636",
+      "artworkAsset": "Card-scotia-momentum-visa-infinite-plus-can",
+      "programIDs": [
+        "scotia-cash-can"
+      ],
+      "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+      "checkedOn": "2026-11-05",
+      "coverageNote": "Issuer product page checked 2026-11-05. The current Visa Infinite+ page links a certificate titled Scotia Momentum Visa Infinite Card Certificate of Insurance, amended/restated July 1, 2021. The certificate includes the insurance coverages described here, but its old pre-plus branding/effective date leaves whether it is the current governing certificate for the Infinite+ account unresolved; confirm the account’s applicable certificate for claim decisions.",
+      "benefits": [
+        {
+          "id": "gigsky-10gb-2026",
+          "title": "GigSky annual mobile data and Travel Essentials",
+          "detail": "Current GigSky Canada Visa terms provide one complimentary 1 GB / 15-day plan per year for eligible Visa Infinite+ cardholders, plus applicable ongoing purchase discounts. The prior 10 GB description is no longer current.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.gigsky.com/visa/terms?tab=canada",
+          "kind": "benefit",
+          "priority": 50
+        },
+        {
+          "id": "pot-shell-fuel-savings",
+          "title": "Shell fuel savings",
+          "detail": "Link the Momentum Visa Infinite+ card, Scene+ account, and Shell Go+ account to receive up to 7¢/L in combined value: 3¢/L instant discount on eligible all-grade fuel (up to 1,000 L/month/card), 2% cash back on eligible gas-station purchases within the annual C$25,000 accelerated-spend cap, plus up to 2¢/L equivalent Scene+ value. Highest value assumes eligible premium fuel at C$1/L or more; actual value varies.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+          "kind": "benefit",
+          "priority": 51
+        },
+        {
+          "id": "visa-infinite-concierge",
+          "title": "24/7 Visa Infinite Concierge",
+          "detail": "Visa Infinite Concierge is available 24 hours a day, 7 days a week for travel, dining, and event assistance; Visa program terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+          "kind": "benefit",
+          "priority": 60
+        },
+        {
+          "id": "visa-infinite-hotel-collection",
+          "title": "Visa Infinite Hotel Collection",
+          "detail": "When booking eligible stays through the Visa Infinite Hotel Collection, benefits include best available room rates, room upgrades when available, and complimentary in-room Wi-Fi; hotel and Visa terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+          "kind": "benefit",
+          "priority": 61
+        },
+        {
+          "id": "visa-infinite-dining",
+          "title": "Visa Infinite Dining and Wine Country",
+          "detail": "Access to Visa Infinite Dining and Wine Country culinary experiences, including multi-course meals with wine pairings at participating restaurants; availability and program terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+          "kind": "benefit",
+          "priority": 62
+        },
+        {
+          "id": "scotia-selectpay",
+          "title": "Scotia SelectPay installment plans",
+          "detail": "Eligible purchases of C$100 or more may be converted to a Scotia SelectPay installment plan with low interest and no installment-plan fee; eligibility and plan terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+          "kind": "benefit",
+          "priority": 64
+        },
+        {
+          "id": "pot-car-rental-discounts",
+          "title": "Avis and Budget rental discounts",
+          "detail": "Save up to 25% off base rates at participating Avis and Budget locations in Canada and the U.S. when paying with the card. Taxes, fees, and surcharges are extra; reservation codes and vendor terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+          "kind": "benefit",
+          "priority": 63
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Up to C$1,000,000 per insured person for eligible emergency medical expenses outside their Canadian province or territory of residence. Eligible travelers under age 65 are covered for up to 15 consecutive days; pre-existing-condition exclusions and certificate terms apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "When at least 75% of eligible travel expenses are charged to the card, reimbursement is up to C$1,500 per insured person, to a maximum of C$10,000 per trip; covered causes, eligibility, and exclusions are in the certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 211
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "When at least 75% of eligible travel expenses are charged to the card, reimbursement is up to C$2,000 per insured person, to a maximum of C$10,000 per trip; covered causes, eligibility, and exclusions are in the certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 212
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "When at least 75% of the ticket cost is charged to the card, eligible necessary expenses after a covered flight delay of 4 or more hours are reimbursable up to C$500 per insured person on the trip.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 213
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "When the full common-carrier ticket cost is charged to the card, eligible delayed- or lost-baggage expenses are covered up to C$500, subject to the certificate’s delay trigger and limitations.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 214
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "When at least 75% of the ticket cost is charged to the card, eligible accidental death or dismemberment coverage is up to C$500,000 per insured person and C$1,000,000 per occurrence while occupying a licensed common carrier.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 215
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "For an eligible rental made in the cardmember’s name, charge the full rental cost to the card and decline the rental agency’s collision/loss damage waiver. Rental duration, vehicle-value limits, exclusions, and claims are subject to the certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 216
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to C$1,000 for an eligible new smartphone or tablet that is lost, stolen, or accidentally damaged. Charge the full purchase price and activate cellular service, or charge all wireless bills for the device if purchased on a plan; certificate limits and exclusions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 217
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Most eligible new purchases charged in full to the card are protected against theft, loss, or damage for 90 days. Subject to exclusions and a C$60,000 combined lifetime liability limit with extended warranty.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 218
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Charging the full cost of most eligible items to the card doubles the manufacturer’s repair warranty for up to one additional year. Items with a manufacturer warranty of five years or more must be registered within the first year. Subject to exclusions and the C$60,000 combined lifetime liability limit with purchase protection.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+          "kind": "protection",
+          "priority": 219
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "scotia-cash-can",
+          "label": "cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html"
+        },
+        {
+          "id": "4pct",
+          "categories": [
+            "groceries",
+            "recurringPayments"
+          ],
+          "rate": 4,
+          "rewardKind": "cashback",
+          "programID": "scotia-cash-can",
+          "label": "cash back",
+          "detail": "Eligible groceries and recurring bill payments; first C$25,000 annual category-group spend.",
+          "countries": [],
+          "capReset": "anniversary",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+          "capMinor": 2500000,
+          "capGroup": "scotia-momentum-plus-4"
+        },
+        {
+          "id": "2pct",
+          "categories": [
+            "gas",
+            "evCharging",
+            "transit",
+            "foodDelivery"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "scotia-cash-can",
+          "label": "cash back",
+          "detail": "Eligible gas/EV, transit/rideshare and food delivery; first C$25,000 annual category-group spend.",
+          "countries": [],
+          "capReset": "anniversary",
+          "sourceURL": "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+          "capMinor": 2500000,
+          "capGroup": "scotia-momentum-plus-2"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/scotiabank-momentum-visa-infinite-card/",
+      "artworkSearchTerms": "Scotia Momentum Visa Infinite Plus",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "available",
+      "benefitSourceURLs": [
+        "https://www.scotiabank.com/ca/en/personal/credit-cards/visa/momentum-infinite-card.html",
+        "https://www.scotiabank.com/content/dam/scotiabank/canada/common/documents/pdf/Momentum-Infinite-COI-EN.pdf",
+        "https://www.scotiabank.com/ca/en/personal/notices/credit-cards/frequently-asked-questions.html"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2026/04/Momentum_Infinite_Plus_Chip_E_RGB.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
     }
   ],
   "removeCards": [],
