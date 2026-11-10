@@ -1005,6 +1005,332 @@
       ],
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
+    },
+    {
+      "id": "rbc-avion-visa-infinite-can",
+      "name": "RBC Avion Visa Infinite CAN",
+      "issuer": "RBC",
+      "market": "CAN",
+      "annualFeeMinor": 12000,
+      "feeNote": "Current annual fee: C$120.",
+      "colorHex": "266BC1",
+      "secondaryHex": "132D5F",
+      "artworkAsset": "Card-rbc-avion-visa-infinite-can",
+      "programIDs": [
+        "rbc-avion-can"
+      ],
+      "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 RBC product-page audit: benefits and partner offers checked; pre-existing insurance dollar limits retained pending certificate-level revalidation. Welcome offers excluded as recurring benefits. All partner discounts subject to current eligibility and program terms.",
+      "benefits": [
+        {
+          "id": "travel-flexibility",
+          "title": "Avion travel redemption",
+          "detail": "Redeem Avion points for eligible travel under current RBC Avion rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit"
+        },
+        {
+          "id": "issuer-complimentary-concierge",
+          "title": "Complimentary Concierge",
+          "detail": "Visa Infinite Concierge, 24/7: help with travel bookings, restaurant recommendations and reservations, event tickets and gift finding. You pay for anything bought for you.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-transfer-to-airline-partners",
+          "title": "Transfer to airline partners",
+          "detail": "Move Avion points to British Airways Avios, Cathay Asia Miles and WestJet (1:1) or American Airlines AAdvantage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "priority": 50
+        },
+        {
+          "id": "pot-doordash-dashpass-for-12-months",
+          "title": "DoorDash DashPass for 12 months",
+          "detail": "Complimentary 12-month DoorDash DashPass subscription for eligible Canadian cardmembers after activation with the card; offer eligibility, qualifying-order terms, renewal and geography restrictions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://help.doordash.com/en-us/consumers/article/dashpass-for-rbc-cardmembers",
+          "priority": 51
+        },
+        {
+          "id": "pot-petro-canada-savings",
+          "title": "Petro-Canada savings",
+          "detail": "Link your RBC card with Petro-Points to save 3 cents per litre, earn 20% more Petro-Points and 20% more Avion points on eligible Petro-Canada purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "priority": 52
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "First 15 days of each out-of-province trip if under 65; first 3 days if 65 or older.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Up to $5,000.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Up to $25,000.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Up to $250 per day per person, $500 per occurrence (missed connection, denied boarding or delayed departure).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-infinite-avion/rbc-visa-infinite-avion-certificate-of-insurance.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed & lost baggage insurance",
+          "detail": "Delayed baggage: up to $500 per occurrence for emergency purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-infinite-avion/rbc-visa-infinite-avion-certificate-of-insurance.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Up to $2,500 per burglary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-infinite-avion/rbc-visa-infinite-avion-certificate-of-insurance.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Rental cars with an MSRP up to $65,000.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Up to $500,000 for accidental death or dismemberment.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Up to $1,500 per claim (depreciated value, less deductible).",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-infinite-avion/rbc-visa-infinite-avion-certificate-of-insurance.pdf",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers loss or damage within 90 days of purchase, up to $50,000 a year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Doubles the original manufacturer’s warranty.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "issuer-triangle-rewards",
+          "title": "Triangle Rewards linked-card offer",
+          "detail": "Link your RBC card with Triangle Rewards, scan your Triangle Rewards card and pay with your linked RBC card to earn 3x Canadian Tire Money at eligible Triangle Rewards retailers, including Canadian Tire, Sport Chek and Mark's.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-rexall-be-well",
+          "title": "Rexall Be Well linked loyalty",
+          "detail": "Link the RBC card to a Be Well account to earn 50 Be Well points per C$1 on eligible purchases at Rexall.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-visa-infinite-luxury-hotels",
+          "title": "Visa Infinite Luxury Hotel Collection",
+          "detail": "Eligible stays booked through Visa Infinite Luxury Hotel Collection may receive hotel privileges such as breakfast, room upgrades and participating-property offers, subject to hotel and booking terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-visa-infinite-travel-dining",
+          "title": "Visa Infinite travel and dining offers",
+          "detail": "Access participating Visa Infinite dining and wine-country experiences, plus eligible Park'N Fly, Viator and VIA Rail offers. Offer eligibility and discounts vary.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-gigsky-data",
+          "title": "GigSky mobile data benefit",
+          "detail": "Visa Infinite cardholders can receive a complimentary 1 GB / 15-day GigSky plan and 20% off additional plans on eligible eSIM-compatible devices, subject to current offer conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-fixed-points-travel",
+          "title": "Avion fixed-points flight redemption",
+          "detail": "Avion cardholders may redeem through RBC's fixed-points Air Travel Redemption Schedule on eligible routes, subject to maximum base ticket price and payment of taxes, surcharges, fees or excess fare.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "issuer-avion-nonexpiry",
+          "title": "Avion points do not expire",
+          "detail": "Avion points do not expire while the program account remains eligible under RBC's terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+          "kind": "benefit",
+          "priority": 90
+        },
+        {
+          "id": "doordash-dashpass-value",
+          "title": "DoorDash DashPass — 12-month value",
+          "detail": "Approximate subscription value of the complimentary 12-month DashPass benefit at C$9.99/month, rounded to C$120 for tracking. Activation required; this is a benefit value, not a statement credit.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": true,
+          "sourceURL": "https://help.doordash.com/en-us/consumers/article/dashpass-for-rbc-cardmembers",
+          "kind": "credit",
+          "priority": 20
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "rbc-avion-can",
+          "label": "Avion points",
+          "detail": "All other eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html"
+        },
+        {
+          "id": "travel",
+          "categories": [
+            "flightsDirect",
+            "hotelsDirect",
+            "carRentals",
+            "transit"
+          ],
+          "rate": 1.25,
+          "rewardKind": "points",
+          "programID": "rbc-avion-can",
+          "label": "Avion points",
+          "detail": "Eligible travel-related purchases as defined by RBC.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/",
+      "artworkSearchTerms": "RBC Avion Visa Infinite",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "foreignTransactionFeePercent": 2.5,
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2020/11/RBC-Avion.png",
+      "benefitSourceURLs": [
+        "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+        "https://princeoftravel.com/credit-cards/rbc-avion-visa-infinite/"
+      ],
+      "earningDataComplete": true
     }
   ],
   "removeCards": [],
