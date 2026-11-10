@@ -463,6 +463,264 @@
         "https://princeoftravel.com/credit-cards/rbc-cash-back-preferred-world-elite-mastercard/"
       ],
       "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2021/01/MCP_en.png"
+    },
+    {
+      "id": "rbc-avion-visa-platinum-can",
+      "name": "RBC Avion Visa Platinum CAN",
+      "issuer": "RBC",
+      "market": "CAN",
+      "annualFeeMinor": 12000,
+      "feeNote": "Official standard C$120 annual fee; C$50 for supplementary card.",
+      "colorHex": "266BC1",
+      "secondaryHex": "132D5F",
+      "artworkAsset": "Card-rbc-avion-visa-platinum-can",
+      "programIDs": [
+        "rbc-avion-can"
+      ],
+      "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "2026-11-04 issuer product-page review: 1x earning, fixed-points flights, non-expiry, transfer partners and RBC offers confirmed. Certificate-level insurance maximums retained as existing catalog snapshots and still require independent verification.",
+      "accountType": "personal",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true,
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "points",
+          "programID": "rbc-avion-can",
+          "label": "Avion points",
+          "detail": "1 Avion point per C$1 of eligible purchases, including travel.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html"
+        }
+      ],
+      "benefits": [
+        {
+          "id": "pot-transfer-to-airline-partners",
+          "title": "Transfer to airline partners",
+          "detail": "Transfer eligible Avion points to British Airways Avios, Cathay Asia Miles and other airline partners at program-published ratios. Transfers depend on current partner terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "ins-trip-cancellation",
+          "title": "Trip cancellation insurance",
+          "detail": "Trip cancellation protection applies to eligible covered reasons and purchases, subject to the certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-trip-interruption",
+          "title": "Trip interruption insurance",
+          "detail": "Trip interruption protection applies to eligible covered reasons and purchases, subject to the certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Eligible delays and expenses may be covered subject to policy conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed baggage insurance",
+          "detail": "Eligible delayed baggage expenses may be covered subject to policy conditions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-hotel-burglary",
+          "title": "Hotel/motel burglary insurance",
+          "detail": "Eligible property loss due to a covered hotel or motel burglary may be insured.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Eligible rental car loss or damage may be insured subject to vehicle and rental limits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-travel-accident",
+          "title": "Travel accident insurance",
+          "detail": "Eligible travel accident coverage subject to the current certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card purchases may be covered against qualifying loss or damage.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Eligible purchases may qualify for an extended manufacturer's warranty subject to policy terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-fixed-point-flights",
+          "title": "Avion fixed-points flight chart",
+          "detail": "Redeem Avion points on eligible flights using RBC's Air Travel Redemption Schedule; taxes, fees, maximum ticket price, and route rules apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-points-nonexpiry",
+          "title": "Avion points do not expire",
+          "detail": "Avion points do not expire subject to applicable account and program terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-petro-canada",
+          "title": "Petro-Canada linked-card savings",
+          "detail": "Link Petro-Points to save 3 cents per litre and earn 20% more Petro-Points on eligible purchases.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-triangle-rewards",
+          "title": "Triangle Rewards linked-card offer",
+          "detail": "Earn 3x Canadian Tire Money at eligible participating stores after linking RBC and Triangle Rewards and scanning the Triangle Rewards card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-rexall-be-well",
+          "title": "Rexall Be Well points",
+          "detail": "Link RBC and Be Well to earn 50 Be Well points per eligible C$1 at Rexall.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-doordash-dashpass",
+          "title": "DoorDash DashPass offer",
+          "detail": "Complimentary 12-month DoorDash DashPass subscription for eligible Canadian cardmembers after activation with the card; offer eligibility, qualifying-order terms, renewal and geography restrictions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://help.doordash.com/en-us/consumers/article/dashpass-for-rbc-cardmembers",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-flexible-redemption",
+          "title": "Flexible travel and merchandise redemption",
+          "detail": "Use points for eligible airline, hotel and car-rental bookings, gift cards, merchandise and RBC financial rewards under published redemption rules.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-mobile-device-insurance",
+          "title": "Mobile device insurance",
+          "detail": "RBC lists mobile-device insurance among this card's protections; consult the current coverage certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "doordash-dashpass-value",
+          "title": "DoorDash DashPass — 12-month value",
+          "detail": "Approximate subscription value of the complimentary 12-month DashPass benefit at C$9.99/month, rounded to C$120 for tracking. Activation required; this is a benefit value, not a statement credit.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": true,
+          "sourceURL": "https://help.doordash.com/en-us/consumers/article/dashpass-for-rbc-cardmembers",
+          "kind": "credit",
+          "priority": 20
+        }
+      ],
+      "artworkPageURL": "https://princeoftravel.com/credit-cards/rbc-avion-visa-platinum/",
+      "artworkSearchTerms": "RBC Avion Visa Platinum",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "benefitSourceURLs": [
+        "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html",
+        "https://princeoftravel.com/credit-cards/rbc-avion-visa-platinum/"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2021/09/gcp_platinumavion_en_sm2x.png"
     }
   ],
   "removeCards": [],
