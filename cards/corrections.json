@@ -3,7 +3,7 @@
   "version": 1,
   "updated": "2026-11-10",
   "catalogVersion": "1.8.0",
-  "note": "StackJet 1.5 remote fixes. Official RBC Business Cash Back Mastercard artwork added.",
+  "note": "StackJet 1.5 remote card fixes: official RBC Business Cash Back artwork; DoorDash benefit corrections in progress.",
   "cards": [
     {
       "id": "rbc-business-cash-back-mastercard-can",
@@ -74,6 +74,158 @@
         "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/business-cash-back-mastercard.html"
       ],
       "artworkURL": "https://www.rbcroyalbank.com/business/credit-cards/_assets-custom/images/cards/business-cashback-card.png",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true
+    },
+    {
+      "id": "rbc-cash-back-mastercard-can",
+      "name": "RBC Cash Back Mastercard CAN",
+      "issuer": "RBC",
+      "market": "CAN",
+      "annualFeeMinor": 0,
+      "feeNote": "Fee from comparison-site catalog, not a confirmed issuer agreement; verify your current statement. ",
+      "colorHex": "266BC1",
+      "secondaryHex": "132D5F",
+      "artworkAsset": "Card-rbc-cash-back-mastercard-can",
+      "programIDs": [
+        "rbc-cash-can"
+      ],
+      "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-cashback-mastercard.html",
+      "checkedOn": "2026-11-01",
+      "coverageNote": "Earning structure checked against issuer-published Canadian product/program information. Welcome bonuses are excluded from Best Card rankings. Merchant coding, account-specific terms and issuer changes can affect eligibility.",
+      "benefits": [
+        {
+          "id": "pot-petro-canada-savings",
+          "title": "Petro-Canada savings",
+          "detail": "Link the card to Petro-Points to save 3¢/L and earn 20% more Petro-Points.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-cash-back-mastercard/",
+          "priority": 50
+        },
+        {
+          "id": "pot-3x-canadian-tire-money",
+          "title": "3x Canadian Tire Money",
+          "detail": "Link the card to Triangle Rewards to earn 3x Canadian Tire Money at Canadian Tire stores.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-cash-back-mastercard/",
+          "priority": 51
+        },
+        {
+          "id": "pot-rexall-be-well-points",
+          "title": "Rexall Be Well points",
+          "detail": "Earn 50 Be Well points per $1 at Rexall when you link the card.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-cash-back-mastercard/",
+          "priority": 52
+        },
+        {
+          "id": "pot-doordash-dashpass-for-6-months",
+          "title": "DoorDash DashPass for 6 months",
+          "detail": "Complimentary 3-month DoorDash DashPass subscription for eligible Canadian cardmembers after activation with the card; offer eligibility, qualifying-order terms, renewal and geography restrictions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://help.doordash.com/en-us/consumers/article/dashpass-for-rbc-cardmembers",
+          "priority": 53
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Covers eligible purchases for 90 days.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-cash-back-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Doubles the manufacturer’s warranty, up to 1 extra year.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://princeoftravel.com/credit-cards/rbc-cash-back-mastercard/",
+          "kind": "protection",
+          "priority": 210
+        },
+        {
+          "id": "doordash-dashpass-value",
+          "title": "DoorDash DashPass — 3-month value",
+          "detail": "Approximate subscription value of the complimentary 3-month DashPass benefit at C$9.99/month, rounded to C$30 for tracking. Activation required; this is a benefit value, not a statement credit.",
+          "capMinor": 3000,
+          "reset": "oneTime",
+          "enrollmentRequired": true,
+          "sourceURL": "https://help.doordash.com/en-us/consumers/article/dashpass-for-rbc-cardmembers",
+          "kind": "credit",
+          "priority": 20
+        }
+      ],
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 0.5,
+          "rewardKind": "cashback",
+          "programID": "rbc-cash-can",
+          "label": "cash back",
+          "detail": "Eligible purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/all-credit-cards.html"
+        },
+        {
+          "id": "grocery",
+          "categories": [
+            "groceries"
+          ],
+          "rate": 2,
+          "rewardKind": "cashback",
+          "programID": "rbc-cash-can",
+          "label": "cash back",
+          "detail": "Unlimited eligible groceries.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/all-credit-cards.html"
+        },
+        {
+          "id": "gas-transit",
+          "categories": [
+            "gas",
+            "evCharging",
+            "transit"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "rbc-cash-can",
+          "label": "cash back",
+          "detail": "Eligible gas, EV charging, transit and rideshare purchases.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/all-credit-cards.html"
+        }
+      ],
+      "accountType": "personal",
+      "artworkPageURL": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-cashback-mastercard.html",
+      "artworkSearchTerms": "RBC Cash Back Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "benefitSourceURLs": [
+        "https://www.rbcroyalbank.com/credit-cards/all-credit-cards.html",
+        "https://princeoftravel.com/credit-cards/rbc-cash-back-mastercard/"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2022/06/MC1_en.png",
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
     }
