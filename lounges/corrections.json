@@ -7855,6 +7855,78 @@
         "https://images.ctfassets.net/687qsr16btly/2wcwZP3QjIqlDkAT527c1H/c17b0ffe5492b507a1b8e6a2cd0c7cef/image_7.jpg",
         "https://images.ctfassets.net/687qsr16btly/1GHJ1vWMeRFKpVs1r2L60G/cf1c39ba6573370bd7b0c6df6ac8e760/image_8.jpg"
       ]
+    },
+    {
+      "airport": "ATL",
+      "provider": "Priority Pass",
+      "name": "XpresSpa — Concourse A",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/WuufSEOGvDS91y6v7WHsA/3e92143ac52fc83b1a2da2fec95997a4/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "ATL",
+      "provider": "Priority Pass",
+      "name": "XpresSpa — Concourse C",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/WuufSEOGvDS91y6v7WHsA/3e92143ac52fc83b1a2da2fec95997a4/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "ATL",
+      "provider": "Priority Pass",
+      "name": "XpresSpa — Concourse E",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/WuufSEOGvDS91y6v7WHsA/3e92143ac52fc83b1a2da2fec95997a4/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "DFW",
+      "provider": "Priority Pass",
+      "name": "XpresSpa — Terminal A",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/WuufSEOGvDS91y6v7WHsA/3e92143ac52fc83b1a2da2fec95997a4/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "PHL",
+      "provider": "Priority Pass",
+      "name": "XpresSpa — Terminal B",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/WuufSEOGvDS91y6v7WHsA/3e92143ac52fc83b1a2da2fec95997a4/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "SLC",
+      "provider": "Priority Pass",
+      "name": "XpresSpa — Concourse A",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/WuufSEOGvDS91y6v7WHsA/3e92143ac52fc83b1a2da2fec95997a4/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "ATL",
+      "provider": "Priority Pass",
+      "name": "The Chiroport — Concourse A",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1YBO4D3RquvWFhZOjwvbSv/871d2b8780f49a99517e1caae7732f4c/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "DFW",
+      "provider": "Priority Pass",
+      "name": "The Chiroport — Terminal A",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1YBO4D3RquvWFhZOjwvbSv/871d2b8780f49a99517e1caae7732f4c/main_image.jpg"
+      ]
+    },
+    {
+      "airport": "HOU",
+      "provider": "Priority Pass",
+      "name": "The Chiroport",
+      "photoURLs": [
+        "https://images.ctfassets.net/687qsr16btly/1YBO4D3RquvWFhZOjwvbSv/871d2b8780f49a99517e1caae7732f4c/main_image.jpg"
+      ]
     }
   ],
   "add": [
