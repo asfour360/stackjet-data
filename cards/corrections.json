@@ -228,6 +228,241 @@
       "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2022/06/MC1_en.png",
       "foreignTransactionFeePercent": 2.5,
       "earningDataComplete": true
+    },
+    {
+      "id": "rbc-cash-back-preferred-world-elite-mastercard-can",
+      "name": "RBC Cash Back Preferred World Elite Mastercard CAN",
+      "issuer": "RBC",
+      "market": "CAN",
+      "annualFeeMinor": 12000,
+      "feeNote": "Standard C$120 annual fee from October 1, 2026; additional card C$50. RBC VIP banking rebate may apply.",
+      "colorHex": "266BC1",
+      "secondaryHex": "132D5F",
+      "artworkAsset": "Card-rbc-cash-back-preferred-world-elite-mastercard-can",
+      "programIDs": [
+        "rbc-cash-can"
+      ],
+      "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html",
+      "checkedOn": "2026-11-04",
+      "coverageNote": "Issuer page reviewed 2026-11-04: fee and uncapped earning structure effective October 1, 2026. New redemption minimum applies December 2, 2026, not yet active as of review date. Insurance certificate limits not independently rechecked.",
+      "accountType": "personal",
+      "catalogLevel": "partial",
+      "availability": "confirm-with-issuer",
+      "foreignTransactionFeePercent": 2.5,
+      "earningDataComplete": true,
+      "statuses": [],
+      "earningRules": [
+        {
+          "id": "base",
+          "categories": [
+            "everything"
+          ],
+          "rate": 1,
+          "rewardKind": "cashback",
+          "programID": "rbc-cash-can",
+          "label": "cash back",
+          "detail": "All eligible other purchases; unlimited from October 1, 2026.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html"
+        },
+        {
+          "id": "accelerated",
+          "categories": [
+            "groceries",
+            "dining",
+            "foodDelivery",
+            "gas",
+            "evCharging",
+            "transit",
+            "streaming",
+            "digitalGaming"
+          ],
+          "rate": 3,
+          "rewardKind": "cashback",
+          "programID": "rbc-cash-can",
+          "label": "cash back",
+          "detail": "Unlimited eligible grocery, restaurant/takeout, gas, EV charging, transit/rideshare, streaming and digital gaming purchases posted on or after October 1, 2026; qualifying MCC required.",
+          "countries": [],
+          "capReset": "none",
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html"
+        }
+      ],
+      "benefits": [
+        {
+          "id": "mastercard-travel-pass",
+          "title": "Mastercard Travel Pass (DragonPass)",
+          "detail": "Access participating DragonPass lounges with paid visits; no free visit entitlement has been confirmed.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-doordash-dashpass-for-12-months",
+          "title": "DoorDash DashPass offer",
+          "detail": "Complimentary 12-month DoorDash DashPass subscription for eligible Canadian cardmembers after activation with the card; offer eligibility, qualifying-order terms, renewal and geography restrictions apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": true,
+          "sourceURL": "https://help.doordash.com/en-us/consumers/article/dashpass-for-rbc-cardmembers",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-petro-canada-savings",
+          "title": "Petro-Canada savings",
+          "detail": "Link the card with Petro-Points to save 3 cents per litre on eligible fuel and earn 20% more Petro-Points.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-3x-canadian-tire-money",
+          "title": "Triangle Rewards linked-card bonus",
+          "detail": "Link RBC and Triangle Rewards to earn 3x Canadian Tire Money on eligible purchases at participating Triangle stores.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "pot-rexall-be-well-points",
+          "title": "Rexall Be Well points",
+          "detail": "Link the RBC card with Be Well to earn 50 points per eligible C$1 at Rexall.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "ins-emergency-medical",
+          "title": "Emergency medical insurance",
+          "detail": "Out-of-province/country coverage on trips departing on or after October 1, 2026: first 10 days if younger than 65, or first 3 days if age 65 or older. Consult the certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-flight-delay",
+          "title": "Flight delay insurance",
+          "detail": "Includes covered flight delays, subject to the current certificate's waiting periods, limits and exclusions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-baggage",
+          "title": "Delayed and lost baggage insurance",
+          "detail": "Includes eligible delayed baggage expenses subject to insurance certificate terms.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-rental-car",
+          "title": "Rental car collision/loss damage insurance",
+          "detail": "Eligible rental car collision/loss damage coverage; rental duration and vehicle limits apply.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbc.com/cardtravelcoverage/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-mobile-device",
+          "title": "Mobile device insurance",
+          "detail": "Coverage for an eligible device purchased under applicable payment conditions, subject to certificate limits and exclusions.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-purchase-protection",
+          "title": "Purchase protection",
+          "detail": "Eligible card purchases protected against qualifying accidental damage or theft, subject to certificate limits.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbc.com/cardtravelcoverage/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "ins-extended-warranty",
+          "title": "Extended warranty",
+          "detail": "Additional eligible manufacturer's warranty coverage, subject to the current certificate.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbc.com/cardtravelcoverage/",
+          "kind": "protection",
+          "priority": 100
+        },
+        {
+          "id": "issuer-unlimited-cashback",
+          "title": "Unlimited cash-back earnings",
+          "detail": "The card's previous annual cash-back spending cap was removed October 1, 2026. Earn rates depend on eligible MCC and transaction posting date.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "issuer-cashback-redemption-change",
+          "title": "Cash-back redemption change effective December 2, 2026",
+          "detail": "Until December 1, 2026, phone redemptions require C$25 minimum. From December 2, 2026, RBC says online, mobile and phone cash-back redemptions will have a C$1 minimum. This is a future-dated benefit as of this audit.",
+          "capMinor": null,
+          "reset": "none",
+          "enrollmentRequired": false,
+          "sourceURL": "https://www.rbcroyalbank.com/credit-cards/cardholders/cash-back-updates.html",
+          "kind": "benefit",
+          "priority": 100
+        },
+        {
+          "id": "doordash-dashpass-value",
+          "title": "DoorDash DashPass — 12-month value",
+          "detail": "Approximate subscription value of the complimentary 12-month DashPass benefit at C$9.99/month, rounded to C$120 for tracking. Activation required; this is a benefit value, not a statement credit.",
+          "capMinor": 12000,
+          "reset": "oneTime",
+          "enrollmentRequired": true,
+          "sourceURL": "https://help.doordash.com/en-us/consumers/article/dashpass-for-rbc-cardmembers",
+          "kind": "credit",
+          "priority": 20
+        }
+      ],
+      "artworkPageURL": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html",
+      "artworkSearchTerms": "RBC Cash Back Preferred World Elite Mastercard",
+      "reviewURL": "https://princeoftravel.com/credit-cards/",
+      "benefitSourceURLs": [
+        "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html",
+        "https://princeoftravel.com/credit-cards/rbc-cash-back-preferred-world-elite-mastercard/"
+      ],
+      "artworkURL": "https://kqphqqvkrdovtyhdapud.supabase.co/storage/v1/object/public/media/2021/01/MCP_en.png"
     }
   ],
   "removeCards": [],
