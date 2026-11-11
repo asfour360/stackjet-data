@@ -6,7 +6,7 @@ StackJet downloads [`lounges/corrections.json`](lounges/corrections.json) at mos
 
 ## `lounges/corrections.json`
 
-The tables below only describe the format, and the airport codes in them are placeholders. The file itself is the only thing the app reads, and right now it's empty: no lounge is changed.
+The tables below only describe the format, and the airport codes in them are placeholders. The file itself is the only thing the app reads. The current feed contains 1 removal, 753 changes, 3 additions, 47 airport replacements and 27 ratings updates.
 
 | Key | What it does |
 |---|---|
@@ -21,7 +21,7 @@ Rules the app checks: 3-letter uppercase airport codes, a known network name, HT
 
 ## `cards/corrections.json`
 
-Right now this file is empty: no card is changed.
+The current feed contains targeted card corrections. It is tied to the catalog version named below so a stale correction never overwrites a newer built-in card.
 
 StackJet downloads this at most once a day (or straight away with Settings › Check for updates) and applies it right away, on top of the card list built into the app.
 
@@ -29,7 +29,7 @@ StackJet downloads this at most once a day (or straight away with Settings › C
 |---|---|
 | `format`, `version` | Always `"stackjet-card-corrections"` and `1`. |
 | `updated` | Date of the last change, `yyyy-MM-dd`. |
-| `catalogVersion` | The app's built-in card list version this file was written for (`1.7.71` in StackJet 1.3 (3)). An app whose built-in list is newer ignores the whole file, so an old fix never undoes a newer app update. |
+| `catalogVersion` | The app's built-in card list version this file was written for (`1.8.3` for the current StackJet 1.5 correction set). An app whose built-in list is newer ignores the whole file, so an old fix never undoes a newer app update. |
 | `cards` | Whole card entries, in the same format as the app's built-in card list. One with an existing `id` replaces that card (fee, benefits, earn rates…); a new `id` adds a card. Keep benefit `id`s the same so people's tracked credits carry over. |
 | `removeCards` | Card `id`s to take out of the card list. Anyone who already has the card in their wallet keeps it. |
 | `programs` | Rewards programs, replaced or added by `id`. |
@@ -39,7 +39,7 @@ Rules the app checks: the right format, every card's rewards programs known, no 
 
 ## `app/data.json`
 
-Right now this file is empty: nothing is changed. Fixes for StackJet's smaller tables (from StackJet 1.3 (3)). The app downloads it at most once a day (or with Settings › Check for updates) and uses it from the next time it starts. Every section is optional and stands alone: a missing or empty section, or one with a bad entry, leaves that table exactly as built into the app.
+The current feed includes populated app and status data. Fixes for StackJet's smaller tables (from StackJet 1.3 (3)). The app downloads it at most once a day (or with Settings › Check for updates) and uses it from the next time it starts. Every section is optional and stands alone: a missing or empty section, or one with a bad entry, leaves that table exactly as built into the app.
 
 | Section | What it does |
 |---|---|
