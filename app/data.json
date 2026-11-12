@@ -1,8 +1,8 @@
 {
   "format": "stackjet-app-data",
   "version": 1,
-  "updated": "2026-11-07",
-  "note": "Every section is optional; an empty or missing section leaves that table as built into the app. statusTiers: WestJet, plus Porter, British Airways, Iberia, Aer Lingus and Cathay tiers (2026-11-03). Atmos Rewards four tier names added (2026-11-04). Breeze Rewards tier names added; first-year Breeze Easy Visa status remains conditional (2026-11-04); ALL Accor tiers (2026-11-06).",
+  "updated": "2026-11-12",
+  "note": "Every section is optional; an empty or missing section leaves that table as built into the app. statusTiers: WestJet, plus Porter, British Airways, Iberia, Aer Lingus and Cathay tiers (2026-11-03). Atmos Rewards four tier names added (2026-11-04). Breeze Rewards tier names added; first-year Breeze Easy Visa status remains conditional (2026-11-04); ALL Accor tiers (2026-11-06). Amex Platinum (Canada) ALL Accor Gold grant, verified on the Amex Canada card page (2026-11-12).",
   "transferPartners": {
     "citi-us": [
       {
@@ -1346,7 +1346,13 @@
           "program": "hilton",
           "rank": 2,
           "tier": "Hilton Honors Gold",
-          "note": "Enroll in the Canadian Amex account. ALL Accor Gold is announced for later in 2026 and is not live, so it is not used."
+          "note": "Enroll in the Canadian Amex account."
+        },
+        {
+          "program": "accor",
+          "rank": 2,
+          "tier": "ALL Accor Gold",
+          "note": "Enroll in the Canadian Amex account. Listed under Hotel Status Benefits on americanexpress.com/en-ca/charge-cards/the-platinum-card (checked 2026-11-12). No status match out of this yet."
         },
         {
           "program": "marriott",
