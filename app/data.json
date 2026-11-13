@@ -1,8 +1,8 @@
 {
   "format": "stackjet-app-data",
   "version": 1,
-  "updated": "2026-11-12",
-  "note": "Every section is optional; an empty or missing section leaves that table as built into the app. statusTiers: WestJet, plus Porter, British Airways, Iberia, Aer Lingus and Cathay tiers (2026-11-03). Atmos Rewards four tier names added (2026-11-04). Breeze Rewards tier names added; first-year Breeze Easy Visa status remains conditional (2026-11-04); ALL Accor tiers (2026-11-06). Amex Platinum (Canada) ALL Accor Gold grant, verified on the Amex Canada card page (2026-11-12).",
+  "updated": "2026-11-13",
+  "note": "Every section is optional; an empty or missing section leaves that table as built into the app. statusTiers: WestJet, plus Porter, British Airways, Iberia, Aer Lingus and Cathay tiers (2026-11-03). Atmos Rewards four tier names added (2026-11-04). Breeze Rewards tier names added; first-year Breeze Easy Visa status remains conditional (2026-11-04); ALL Accor tiers (2026-11-06). Amex Platinum (Canada) ALL Accor Gold grant, verified on the Amex Canada card page (2026-11-12). tripPhotos: 12 destination country photos, CC0/public domain from Wikimedia Commons, credits in stackjet-photos countries/CREDITS.md (2026-11-13).",
   "transferPartners": {
     "citi-us": [
       {
@@ -2267,5 +2267,19 @@
   },
   "tripTints": {
     "default": "27405A"
+  },
+  "tripPhotos": {
+    "US": "https://asfour360.github.io/stackjet-photos/countries/us.jpg",
+    "CA": "https://asfour360.github.io/stackjet-photos/countries/ca.jpg",
+    "MX": "https://asfour360.github.io/stackjet-photos/countries/mx.jpg",
+    "GB": "https://asfour360.github.io/stackjet-photos/countries/gb.jpg",
+    "FR": "https://asfour360.github.io/stackjet-photos/countries/fr.jpg",
+    "IT": "https://asfour360.github.io/stackjet-photos/countries/it.jpg",
+    "ES": "https://asfour360.github.io/stackjet-photos/countries/es.jpg",
+    "PT": "https://asfour360.github.io/stackjet-photos/countries/pt.jpg",
+    "DE": "https://asfour360.github.io/stackjet-photos/countries/de.jpg",
+    "NL": "https://asfour360.github.io/stackjet-photos/countries/nl.jpg",
+    "JP": "https://asfour360.github.io/stackjet-photos/countries/jp.jpg",
+    "AE": "https://asfour360.github.io/stackjet-photos/countries/ae.jpg"
   }
 }
