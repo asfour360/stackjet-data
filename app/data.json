@@ -2264,5 +2264,8 @@
   },
   "statusMatchPrograms": {
     "wyndham": false
+  },
+  "tripTints": {
+    "default": "27405A"
   }
 }
