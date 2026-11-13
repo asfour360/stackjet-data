@@ -2281,5 +2281,17 @@
     "NL": "https://asfour360.github.io/stackjet-photos/countries/nl.jpg",
     "JP": "https://asfour360.github.io/stackjet-photos/countries/jp.jpg",
     "AE": "https://asfour360.github.io/stackjet-photos/countries/ae.jpg"
+  },
+  "tripPhotosTall": {
+    "US": "https://asfour360.github.io/stackjet-photos/countries/us-tall.jpg",
+    "CA": "https://asfour360.github.io/stackjet-photos/countries/ca-tall.jpg",
+    "GB": "https://asfour360.github.io/stackjet-photos/countries/gb-tall.jpg",
+    "FR": "https://asfour360.github.io/stackjet-photos/countries/fr-tall.jpg",
+    "ES": "https://asfour360.github.io/stackjet-photos/countries/es-tall.jpg",
+    "PT": "https://asfour360.github.io/stackjet-photos/countries/pt-tall.jpg",
+    "DE": "https://asfour360.github.io/stackjet-photos/countries/de-tall.jpg",
+    "NL": "https://asfour360.github.io/stackjet-photos/countries/nl-tall.jpg",
+    "JP": "https://asfour360.github.io/stackjet-photos/countries/jp-tall.jpg",
+    "AE": "https://asfour360.github.io/stackjet-photos/countries/ae-tall.jpg"
   }
 }
