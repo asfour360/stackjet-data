@@ -1,13 +1,23 @@
 {
   "format": "stackjet-lounge-corrections",
   "version": 1,
-  "updated": "2026-11-10",
-  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes. Alaska Lounge and The Plumeria Lounge: hours, location, facilities, access rules and descriptions from alaskaair.com (checked 2026-11-07). United lounges rebuilt (2026-11-07): every United Club, United Club Fly, United Polaris lounge and the Heathrow arrivals lounge given complete hours, location, facilities, access rules and description from united.com (club and lounge locations page for all 33 airports, lounge access page, United Club terms). Supersedes the earlier United fixes field by field. No renames, no photo changes. Escape Lounges photos: location-specific photos from each lounge's own escapelounges.com page (a.storyblok.com assets) for 19 US Escape Lounges and the SMF Terminal A Priority Pass record; replaces bundled storyblok URLs that now return 403. Alaska Lounge and The Plumeria Lounge photos: location-specific images from Alaska Airlines newsroom posts about each lounge (news.alaskaair.com) and Hawaiian Airlines' Plumeria Lounge page (checked 2026-11-07). SEA C Concourse: no verified photo found. United lounge photos (2026-11-07): official location-specific photos from United (media.united.com newsroom image library, united.mediaroom.com and PR Newswire releases) for 11 lounges; every other United lounge set to no photo so the shared representative image is no longer used. Photos for 10 networks now load from StackJet's own copies at asfour360.github.io/stackjet-photos; original sources are in that repo's manifests. IAH (2026-11-09): United Club Terminal B North (opened October 22, 2026, United's largest club) given its mezzanine location near Gate B11 and its amenities: two full-service bars, two buffet stations, outdoor terrace, 11 phone rooms and Wi-Fi from United's October 21, 2026 release; Moonshot Bar, barista counter, family area and wellness room from AFAR (October 26, 2026). Hours (5:30 a.m. – 9:00 p.m.) unchanged; united.com could not be read to re-check them. No club renamed, removed or added. IAD (2026-11-09): new United Club in Concourse E added (opens November 10, 2026, across from Gates E14 and E16; 5:30 a.m. – 10:00 p.m. daily; nearly 40,000 sq ft, 600+ seats, bar, two buffet stations, eight phone rooms) from United's November 9, 2026 release on united.mediaroom.com, with its official photo (StackJet copy; source in stackjet-photos manifests). The Concourse C and D clubs stay: United describes the new club as adding space, not replacing one. EWR (2026-11-09): United Polaris Lounge (Terminal C, between Gates C102 and C120) lists its larger table-service dining room (opened June 2025 in the former Classified restaurant space, nearly 60 seats, à la carte; the lounge is now over 30,000 sq ft), from United's statement as reported in the press; United's original 2018 release (united.mediaroom.com) for location. Three more official photos (bar, buffet, apron view) from United's EWR Polaris gallery on united.mediaroom.com; United has published no official photo of the new dining room, so the existing official photos stay. Hours and access unchanged; united.com could not be read to re-check them. Polaris and DEN photos (2026-11-09): the EWR window/apron photo is now the cover for every United Polaris lounge (an EWR photo; each lounge's own photos follow it), and the DEN Sky Club's duplicate photo 4 (same image as photo 1) is removed. Lounge photos (2026-11-09): 138 lounges, mostly Priority Pass, now show each picture once, with repeated or re-cropped copies and the two generic stock images (a phone in a café and a coffee cup) dropped wherever a lounge has photos of its own. Five more lounges (TSN First Class Lounge No.3, DEN Capital One Lounge, BOS Chase Sapphire Lounge, LAS Centurion Lounge and its Sidecar listing, and IAD Air France - KLM Lounge) each drop one photo that was a zoomed or re-cropped copy of another photo already shown. Wellness venue photo fix (2026-11-10): XpresSpa entries use official Priority Pass XpresSpa imagery instead of unrelated lounge/card art; MSP Chiroport uses its exact Priority Pass venue photo.",
+  "updated": "2026-11-13",
+  "note": "Alaska Lounge locations and member-access partner refreshed against official sources on 2026-11-05. SFO Priority Pass listing clarified with its surcharge and entry conditions. SFO Priority Pass lounges checked against Priority Pass's SFO listing on 2026-11-06: Virgin Atlantic Clubhouse hours (09:00-12:00 and 17:00-22:30), The Club SFO 2.5-hour entry window, Air India Maharajah Lounge details, Alaska Lounge photos and capacity note; hours pinned so the live reader's free-text hours don't override them. Admirals Club: at the 28 airports whose built-in Admirals Club list the app keeps next to aa.com's own listing (LAX, DFW, ORD, CLT…), each club showed twice (aa.com's name and the built-in name, e.g. LAX Terminal 4); the Admirals Club list at those airports is pinned to the built-in, source-audited clubs until StackJet 1.3 (4) fixes the merge. Escape Lounges (2026-11-06): the 14 other U.S. Escape Lounges (BDL, CVG at its new room near Gate B12, CMH, GSP, MSP, XNA, OAK, PDX, PVD, RNO, SMF Terminal B, SJU, SYR, TUL) added with location and hours from the October 2026 U.S. Escape Lounges list (Upgraded Points), checked against Priority Pass's listings; PHX Terminal 3 given its hours and location (it linked to an Alaska Airlines page and had no hours). Cards now grant Escape Lounge access through cards/corrections.json. Air Canada (2026-11-06): Vancouver's domestic Maple Leaf Lounge (Pier C) shown as closed for renovation since October 14, 2026 (reopening early 2028; the two domestic Air Canada Cafés are the alternative); Ottawa lounge notes its renovation closure (July 6, 2026, reopening announced for November 2026); Toronto international lounge notes the Signature Suite expansion closure and that no card admits to a Signature Suite; Québec City Air Canada Café shown once under its Priority Pass name (same room, also a Priority Pass lounge). Air Canada photos (2026-11-06): official photos added for the LaGuardia and St. John's Maple Leaf Lounges (Air Canada media galleries), Ottawa (Ottawa Airport, pre-renovation) and the Air Canada Cafés at Toronto Pearson, Billy Bishop, Montréal (domestic and U.S.), Québec City and both Vancouver cafés (aircanada.com, Air Canada newsroom; Québec City also Priority Pass's photos of the same room, resized under the app's 10 MB limit). Toronto Pearson café access text clarified: cardholders get in in any cabin (it is not a business-class-only lounge). Air Canada list rows (2026-11-06): every Maple Leaf Lounge and Air Canada Café row showed its location twice (StackJet 1.3 (3) prints the location in both lines of the row); each row's second line is now blank (empty description), so the location shows once. Escape Lounges (2026-11-07): all 20 U.S. Escape Lounges set from each lounge's own escapelounges.com page (name, location, hours, facilities, day-pass prices, Priority Pass, Amex Platinum and Delta Reserve access), as one list per airport so a lounge read from the Amex directory under another name isn't shown twice. CVG moved to a new room near Gate B12. Priority Pass listings: CVG location, XNA weekday hours, both SMF Escape rooms (they shared one name) and BNE hours/facilities updated. American Airlines lounges (2026-11-07): hours, closures, facilities and access re-checked against aa.com club pages, the Flagship Lounge page and the Flagship First Dining page. Hours fixed at AUS, BNA, GIG, GRU, HNL, LHR (Admirals Club), MEX, TPA, YYZ; EZE shown as temporarily closed; MEX renovation note; Flagship Lounge facilities and access (Single Visit Pass) updated; Flagship First Dining added at DFW and MIA (LAX is temporarily closed). Sourcing notes removed from DEN, EZE, GIG, GRU and HNL descriptions. These are change/add entries, so they also apply on top of the pinned Admirals Club replaceAirports lists. United lounges (2026-11-07): AUS West Concourse club shown as temporarily closed (mold remediation, July 2026); Guam hours from November 9, 2026; London Heathrow hours; Tokyo Narita location; MSP closure text; Houston Terminal B North club (opened October 22, 2026) details; Houston Club Fly location and food; Denver club facilities. Checked against United's newsroom and airport-operator pages (united.com's own lounge pages could not be read). No United club renamed, removed or added; photos untouched. Alaska Lounge network (2026-11-07): locations and hours of all 7 Alaska Lounges re-checked against alaskaair.com location-and-hours (all match). Access text replaced with alaskaair.com policies-and-rules and day-pass terms: $70 Single-Entry pass, Atmos Summit card Day Passes, First Class 2,000-mile rule, Club 49, oneworld/Atmos status, Admirals Club and Citi / AAdvantage Executive access; the misleading 'co-branded card alone' line removed. Plumeria Lounge (HNL): internal sourcing note removed from its access text, card renamed to Atmos Summit. No photo changes. Alaska Lounge and The Plumeria Lounge: hours, location, facilities, access rules and descriptions from alaskaair.com (checked 2026-11-07). United lounges rebuilt (2026-11-07): every United Club, United Club Fly, United Polaris lounge and the Heathrow arrivals lounge given complete hours, location, facilities, access rules and description from united.com (club and lounge locations page for all 33 airports, lounge access page, United Club terms). Supersedes the earlier United fixes field by field. No renames, no photo changes. Escape Lounges photos: location-specific photos from each lounge's own escapelounges.com page (a.storyblok.com assets) for 19 US Escape Lounges and the SMF Terminal A Priority Pass record; replaces bundled storyblok URLs that now return 403. Alaska Lounge and The Plumeria Lounge photos: location-specific images from Alaska Airlines newsroom posts about each lounge (news.alaskaair.com) and Hawaiian Airlines' Plumeria Lounge page (checked 2026-11-07). SEA C Concourse: no verified photo found. United lounge photos (2026-11-07): official location-specific photos from United (media.united.com newsroom image library, united.mediaroom.com and PR Newswire releases) for 11 lounges; every other United lounge set to no photo so the shared representative image is no longer used. Photos for 10 networks now load from StackJet's own copies at asfour360.github.io/stackjet-photos; original sources are in that repo's manifests. IAH (2026-11-09): United Club Terminal B North (opened October 22, 2026, United's largest club) given its mezzanine location near Gate B11 and its amenities: two full-service bars, two buffet stations, outdoor terrace, 11 phone rooms and Wi-Fi from United's October 21, 2026 release; Moonshot Bar, barista counter, family area and wellness room from AFAR (October 26, 2026). Hours (5:30 a.m. – 9:00 p.m.) unchanged; united.com could not be read to re-check them. No club renamed, removed or added. IAD (2026-11-09): new United Club in Concourse E added (opens November 10, 2026, across from Gates E14 and E16; 5:30 a.m. – 10:00 p.m. daily; nearly 40,000 sq ft, 600+ seats, bar, two buffet stations, eight phone rooms) from United's November 9, 2026 release on united.mediaroom.com, with its official photo (StackJet copy; source in stackjet-photos manifests). The Concourse C and D clubs stay: United describes the new club as adding space, not replacing one. EWR (2026-11-09): United Polaris Lounge (Terminal C, between Gates C102 and C120) lists its larger table-service dining room (opened June 2025 in the former Classified restaurant space, nearly 60 seats, à la carte; the lounge is now over 30,000 sq ft), from United's statement as reported in the press; United's original 2018 release (united.mediaroom.com) for location. Three more official photos (bar, buffet, apron view) from United's EWR Polaris gallery on united.mediaroom.com; United has published no official photo of the new dining room, so the existing official photos stay. Hours and access unchanged; united.com could not be read to re-check them. Polaris and DEN photos (2026-11-09): the EWR window/apron photo is now the cover for every United Polaris lounge (an EWR photo; each lounge's own photos follow it), and the DEN Sky Club's duplicate photo 4 (same image as photo 1) is removed. Lounge photos (2026-11-09): 138 lounges, mostly Priority Pass, now show each picture once, with repeated or re-cropped copies and the two generic stock images (a phone in a café and a coffee cup) dropped wherever a lounge has photos of its own. Five more lounges (TSN First Class Lounge No.3, DEN Capital One Lounge, BOS Chase Sapphire Lounge, LAS Centurion Lounge and its Sidecar listing, and IAD Air France - KLM Lounge) each drop one photo that was a zoomed or re-cropped copy of another photo already shown. Wellness venue photo fix (2026-11-10): XpresSpa entries use official Priority Pass XpresSpa imagery instead of unrelated lounge/card art; MSP Chiroport uses its exact Priority Pass venue photo. Asia and Europe Priority Pass audit (2026-11-13): hours refreshed for CRK Plaza Premium Lounge, DVO PAGSS Premium Lounge 2 and PPS PAGSS Lounge; HND Airport Lounge South renamed Lounge Us (Terminal 2, North Pier, near Gate 53); KUL Kepler Club rest/sleep listings removed (lounges only); added CTS Cafe Sky Library and 13 European lounges at AAL, BLL, ARN, GVA and ZRH, all checked against their Priority Pass pages.",
   "remove": [
     {
       "airport": "SFO",
       "provider": "Priority Pass",
       "name": "Alaska Lounge - Additional Fee Applies"
+    },
+    {
+      "airport": "KUL",
+      "provider": "Priority Pass",
+      "name": "Kepler Club (KLIA Terminal 1)"
+    },
+    {
+      "airport": "KUL",
+      "provider": "Priority Pass",
+      "name": "Kepler Club (KLIA Terminal 1 (Satellite))"
     }
   ],
   "change": [
@@ -7927,6 +7937,40 @@
       "photoURLs": [
         "https://images.ctfassets.net/687qsr16btly/1YBO4D3RquvWFhZOjwvbSv/871d2b8780f49a99517e1caae7732f4c/main_image.jpg"
       ]
+    },
+    {
+      "airport": "CRK",
+      "provider": "Priority Pass",
+      "name": "Plaza Premium Lounge",
+      "hours": [
+        "Daily: 04:30 - 23:00"
+      ]
+    },
+    {
+      "airport": "DVO",
+      "provider": "Priority Pass",
+      "name": "PAGSS Premium Lounge — 2",
+      "hours": [
+        "Daily: 03:30 - 07:00, 15:00 - 20:00"
+      ]
+    },
+    {
+      "airport": "PPS",
+      "provider": "Priority Pass",
+      "name": "PAGSS Lounge",
+      "hours": [
+        "Daily: 08:00 - 19:00"
+      ]
+    },
+    {
+      "airport": "HND",
+      "provider": "Priority Pass",
+      "name": "AIRPORT LOUNGE SOUTH",
+      "newName": "Lounge Us",
+      "terminal": "Terminal 2",
+      "location": "North Pier, 2nd floor, near Gate 53",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/japan/haneda/hnd13-lounge-us",
+      "description": "Lounge Us at HND (formerly Airport Lounge South). Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer."
     }
   ],
   "add": [
@@ -8010,6 +8054,352 @@
       "photoURLs": [
         "https://asfour360.github.io/stackjet-photos/united/iad/united-club-concourse-e-1.jpg"
       ]
+    },
+    {
+      "airportCode": "CTS",
+      "provider": "Priority Pass",
+      "name": "Cafe Sky Library",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/japan/sapporo-new-chitose/cts3-cafe-sky-library",
+      "description": "Cafe Sky Library at CTS. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "International Terminal",
+      "location": "Landside, before security; 4th floor, beside the international-flight immigration gate area",
+      "hours": [
+        "Daily: 11:00 - 20:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Digital card accepted",
+        "Disabled access"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Last entry at 18:00.",
+        "One set meal, soft drinks and one alcoholic drink per adult are included; further drinks are charged.",
+        "Same-day departing boarding pass required. Children must be with an adult. No smoking or vaping.",
+        "Max stay: 2 hours",
+        "Max 2 guests per cardholder"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "AAL",
+      "provider": "Priority Pass",
+      "name": "Aalborg Airport Lounge",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/denmark/aalborg/aal-aalborg-airport-lounge",
+      "description": "Aalborg Airport Lounge at AAL. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Main Terminal",
+      "location": "Airside, after security and passport control; past the Duty Free, follow signs to Level 1",
+      "hours": [
+        "Mon: 04:55 - 20:25",
+        "Tue: 05:00 - 20:40",
+        "Wed: 05:00 - 20:40",
+        "Thu: 05:00 - 20:40",
+        "Fri: 05:00 - 21:10",
+        "Sat: 05:00 - 20:35",
+        "Sun: 05:00 - 21:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Digital card accepted",
+        "Disabled access",
+        "Flight information"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Children under 2 admitted free. No smoking or vaping."
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "BLL",
+      "provider": "Priority Pass",
+      "name": "King Amlet Lounge",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/denmark/billund/bll-king-amlet-lounge",
+      "description": "King Amlet Lounge at BLL. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Main Terminal",
+      "location": "Airside; past the Duty Free shop turn right and go up one floor, the lounge is on the right",
+      "hours": [
+        "Mon: 04:30 - 22:00",
+        "Tue: 04:30 - 21:15",
+        "Wed: 04:30 - 22:00",
+        "Thu: 04:30 - 19:30",
+        "Fri: 04:30 - 22:00",
+        "Sat: 04:30 - 19:30",
+        "Sun: 04:30 - 21:30"
+      ],
+      "amenities": [],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Children under 2 admitted free. Complimentary alcoholic drinks limited to three per adult. Separate smoking area.",
+        "Max stay: 3 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "ARN",
+      "provider": "Priority Pass",
+      "name": "Aspire Lounge (Schengen)",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/sweden/stockholm-arlanda/arn10-aspire-lounge-schengen",
+      "description": "Aspire Lounge (Schengen) at ARN. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Terminal 5",
+      "location": "Airside, Schengen zone; 1st floor, E Pier, near Gate E1",
+      "hours": [
+        "Daily: 04:30 - 20:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Children's play area",
+        "Cold buffet"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Entry from 3 hours before scheduled departure. Smart casual dress. Children under 2 admitted free. No smoking or vaping.",
+        "Max stay: 3 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "ARN",
+      "provider": "Priority Pass",
+      "name": "Aspire Lounge (non-Schengen)",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/sweden/stockholm-arlanda/arn9-aspire-lounge-non-schengen",
+      "description": "Aspire Lounge (non-Schengen) at ARN. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Terminal 5",
+      "location": "Airside, non-Schengen zone after passport control; 1st floor, near F Pier",
+      "hours": [
+        "Daily: 06:00 - 22:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Cold buffet",
+        "Digital card accepted"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Entry from 3 hours before scheduled departure. Smart casual dress. Children under 2 admitted free. No smoking or vaping."
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "ARN",
+      "provider": "Priority Pass",
+      "name": "Pearl Lounge T5",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/sweden/stockholm-arlanda/arn4-pearl-lounge-t5",
+      "description": "Pearl Lounge T5 at ARN. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Terminal 5",
+      "location": "Airside, Gate Area C, above Gate C37; also reachable from Gate Areas D, E and F (allow 10 to 30 minutes' walk)",
+      "hours": [
+        "Daily: 06:00 - 20:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Digital card accepted",
+        "Disabled access",
+        "Flight information"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Children under 3 admitted free (cardholders' and registered guests' own children only). Hours may change. No smoking or vaping.",
+        "Max stay: 2 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "ARN",
+      "provider": "Priority Pass",
+      "name": "Pearl Lounge T2",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/sweden/stockholm-arlanda/arn2-pearl-lounge",
+      "description": "Pearl Lounge T2 at ARN. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Terminal 2",
+      "location": "Airside, after security and the Duty Free, before passport control; up the first (green) staircase",
+      "hours": [
+        "Daily: 06:00 - 20:30"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Digital card accepted",
+        "Disabled access",
+        "Flight information"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Smart casual dress, no shorts. Children under 3 admitted free (cardholders' and registered guests' own children only). Spirits served from 11:00. No smoking or vaping.",
+        "Max stay: 3 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "GVA",
+      "provider": "Priority Pass",
+      "name": "Crystal Lounge by Aspire",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/switzerland/geneva/gva2-crystal-lounge-by-aspire",
+      "description": "Crystal Lounge by Aspire at GVA. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "East Wing Building",
+      "location": "Airside, above Gates C53 and C54; only for non-Schengen flights from the C gates",
+      "hours": [
+        "Daily: 07:00 - 18:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Digital card accepted",
+        "Disabled access",
+        "Flight information"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Non-Schengen departures from C gates only. Smart casual dress. Children under 2 admitted free.",
+        "Max stay: 3 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "GVA",
+      "provider": "Priority Pass",
+      "name": "Marhaba Lounge (East Wing Building)",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/switzerland/geneva/gva3-marhaba-lounge",
+      "description": "Marhaba Lounge at GVA. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "East Wing Building",
+      "location": "Airside; after security head towards Gate C54 and go up to the 1st floor; only for non-Schengen flights from the C gates",
+      "hours": [
+        "Mon: 06:30 - 20:30",
+        "Tue: 07:45 - 20:30",
+        "Wed: 06:30 - 20:30",
+        "Thu: 07:45 - 20:30",
+        "Fri: 06:30 - 20:30",
+        "Sat: 07:45 - 20:30",
+        "Sun: 07:45 - 20:30"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Day beds",
+        "Digital card accepted",
+        "Disabled access"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Non-Schengen departures from C gates only. Children under 2 admitted free. Quiet area.",
+        "Max stay: 3 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "GVA",
+      "provider": "Priority Pass",
+      "name": "Horizon Lounge",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/switzerland/geneva/gva-horizon-lounge",
+      "description": "Horizon Lounge at GVA. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Terminal 1",
+      "location": "Airside, Mezzanine level; stairs on the right-hand side of the Transit Area",
+      "hours": [
+        "Daily: 06:00 - 20:30"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Digital card accepted",
+        "Disabled access",
+        "Flight information"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Access may be restricted when the lounge is full. Children under 2 admitted free.",
+        "Max stay: 3 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "GVA",
+      "provider": "Priority Pass",
+      "name": "Marhaba Lounge (Terminal 1)",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/switzerland/geneva/gvajet-marhaba-lounge",
+      "description": "Marhaba Lounge at GVA. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Terminal 1",
+      "location": "Airside, Mezzanine level; after X-ray control turn left, take the escalator up, then turn right, lounge on the left",
+      "hours": [
+        "Daily: 09:00 - 18:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Digital card accepted",
+        "Disabled access",
+        "Flight information"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Children under 2 admitted free, up to two children per family. Separate prayer room.",
+        "Max stay: 3 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "ZRH",
+      "provider": "Priority Pass",
+      "name": "Marhaba Lounge",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/switzerland/zurich/zur-marhaba-lounge",
+      "description": "Marhaba Lounge at ZRH. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Main Terminal",
+      "location": "Airside Center; after security at Check-in 1 or 2 turn left towards the B gates, then up to the 2nd floor and follow the lounge signs",
+      "hours": [
+        "Daily: 05:15 - 20:00"
+      ],
+      "amenities": [
+        "Air conditioning",
+        "Alcoholic drinks (Standard)",
+        "Digital card accepted",
+        "Disabled access",
+        "Flight information"
+      ],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Children are not admitted. Free Wi-Fi limited to 4 hours. No smoking or vaping.",
+        "Max stay: 4 hours"
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "ZRH",
+      "provider": "Priority Pass",
+      "name": "Aspire Lounge — Gates E",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/switzerland/zurich/zrh1-aspire-lounge",
+      "description": "Aspire Lounge at ZRH. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Main Terminal",
+      "location": "Airside, Gates E; after security control go up from the 2nd-floor departures level to the 3rd floor, above Gate E52",
+      "hours": [
+        "Daily: 06:00 - 21:00"
+      ],
+      "amenities": [],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Non-Schengen flights only. Access may be restricted when the lounge is full. Dress code applies. Children under 6 admitted free. Separate smoking room."
+      ],
+      "photoURLs": []
+    },
+    {
+      "airportCode": "ZRH",
+      "provider": "Priority Pass",
+      "name": "Aspire Lounge — Airside Center",
+      "officialURL": "https://www.prioritypass.com/en-GB/lounges/switzerland/zurich/zrh4-aspire-lounge",
+      "description": "Aspire Lounge at ZRH. Listed in the official Priority Pass airport directory; check current admission requirements with the membership issuer.",
+      "terminal": "Main Terminal",
+      "location": "Airside Center, 3rd floor; after security at Check-in 1 or 2 turn left towards the B gates and follow the lounge signs",
+      "hours": [
+        "Daily: 05:15 - 21:00"
+      ],
+      "amenities": [],
+      "restrictions": [
+        "Priority Pass entitlement and issuer-specific exclusions apply; same-day boarding pass and guest charges may be required.",
+        "Not accessible to transit passengers. Children under 2 admitted free."
+      ],
+      "photoURLs": []
     }
   ],
   "replaceAirports": {
